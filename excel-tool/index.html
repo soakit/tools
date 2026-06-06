@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel 数据转换工具</title>
+    <!-- 引入 SheetJS 用于解析和生成 Excel 文件 -->
+    <script src="https://cdn.staticfile.net/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        :root {
+            --primary: #4F46E5;
+            --primary-hover: #4338CA;
+            --bg: #F9FAFB;
+            --card-bg: #FFFFFF;
+            --text-main: #111827;
+            --text-muted: #6B7280;
+            --border: #E5E7EB;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg);
+            color: var(--text-main);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            max-width: 480px;
+            width: 100%;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-top: 0;
+            margin-bottom: 12px;
+        }
+
+        p.subtitle {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin-bottom: 32px;
+            line-height: 1.6;
+        }
+
+        .upload-area {
+            border: 2px dashed var(--border);
+            border-radius: 12px;
+            padding: 40px 20px;
+            margin-bottom: 24px;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            position: relative;
+            background-color: #F8FAFC;
+        }
+
+        .upload-area:hover {
+            border-color: var(--primary);
+            background-color: #EEF2FF;
+        }
+
+        .upload-area input[type="file"] {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        .upload-icon {
+            font-size: 40px;
+            color: var(--primary);
+            margin-bottom: 16px;
+        }
+
+        .file-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--primary);
+            word-break: break-all;
+            margin-top: 10px;
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 14px 24px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.2s;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-hover);
+        }
+
+        .btn:disabled {
+            background-color: #D1D5DB;
+            cursor: not-allowed;
+        }
+        
+        .toast {
+            position: fixed;
+            top: 24px;
+            right: 24px;
+            background: #10B981;
+            color: white;
+            padding: 14px 24px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            font-weight: 500;
+            opacity: 0;
+            transform: translateY(-20px);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            pointer-events: none;
+            z-index: 50;
+        }
+        
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Excel 列转换工具</h1>
+        <p class="subtitle">选择您的 Excel 文件（如 devId.xlsx，支持多选）。<br/>工具会自动提取第一列数据，并将其等分成 8 列，<br/>新文件的表头将自动设置为 1~8。</p>
+
+        <div class="upload-area" id="dropArea">
+            <div class="upload-icon">📊</div>
+            <div id="uploadText">点击此处或拖拽多个 .xlsx 文件到这里</div>
+            <div class="file-name" id="fileNameDisplay" style="display: none;"></div>
+            <input type="file" id="fileInput" accept=".xlsx, .xls, .csv" multiple />
+        </div>
+
+        <button id="processBtn" class="btn" disabled>处理并导出</button>
+    </div>
+
+    <div class="toast" id="toast">处理成功！文件正在下载...</div>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const fileNameDisplay = document.getElementById('fileNameDisplay');
+        const uploadText = document.getElementById('uploadText');
+        const processBtn = document.getElementById('processBtn');
+        const toast = document.getElementById('toast');
+
+        // 文件选择监听，更新 UI
+        fileInput.addEventListener('change', function() {
+            if (this.files && this.files.length > 0) {
+                if (this.files.length > 1) {
+                    fileNameDisplay.textContent = `已选择: ${this.files.length} 个文件`;
+                } else {
+                    fileNameDisplay.textContent = `已选择: ${this.files[0].name}`;
+                }
+                uploadText.style.display = 'none';
+                fileNameDisplay.style.display = 'block';
+                processBtn.disabled = false;
+            } else {
+                uploadText.style.display = 'block';
+                fileNameDisplay.style.display = 'none';
+                processBtn.disabled = true;
+            }
+        });
+
+        // 提示框方法
+        function showToast(message, isError = false) {
+            toast.textContent = message;
+            toast.style.background = isError ? '#EF4444' : '#10B981';
+            toast.classList.add('show');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3500);
+        }
+
+        // 处理及导出逻辑
+        processBtn.addEventListener('click', async () => {
+            if (fileInput.files.length === 0) return;
+
+            processBtn.disabled = true;
+            processBtn.textContent = '处理中...';
+
+            let successCount = 0;
+            let errorCount = 0;
+
+            for (let i = 0; i < fileInput.files.length; i++) {
+                const file = fileInput.files[i];
+                try {
+                    await processSingleFile(file);
+                    successCount++;
+                } catch (error) {
+                    console.error(`处理 ${file.name} 失败:`, error);
+                    errorCount++;
+                }
+            }
+
+            processBtn.disabled = false;
+            processBtn.textContent = '处理并导出';
+
+            if (errorCount > 0) {
+                showToast(`处理完成：${successCount} 成功，${errorCount} 失败！`, errorCount === fileInput.files.length);
+            } else {
+                showToast(`处理成功！已导出 ${successCount} 个文件...`);
+            }
+        });
+
+        function processSingleFile(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+
+                reader.onload = function(e) {
+                    try {
+                        const data = new Uint8Array(e.target.result);
+                        // 读取 Excel 数据
+                        const workbook = XLSX.read(data, {type: 'array'});
+                        
+                        // 获取第一个工作表
+                        const firstSheetName = workbook.SheetNames[0];
+                        const worksheet = workbook.Sheets[firstSheetName];
+                        
+                        // 将工作表转换为二维数组格式
+                        const jsonData = XLSX.utils.sheet_to_json(worksheet, {header: 1});
+                        
+                        // 1. 提取第一列的数据
+                        const firstColumnData = [];
+                        for (let i = 0; i < jsonData.length; i++) {
+                            const row = jsonData[i];
+                            // 取第一列的内容（排除空行及空单元格）
+                            if (row && row.length > 0 && row[0] !== undefined && row[0] !== null && row[0] !== '') {
+                                firstColumnData.push(row[0]);
+                            }
+                        }
+                        
+                        if (firstColumnData.length === 0) {
+                            return reject(new Error('第一列没有找到任何有效数据！'));
+                        }
+
+                        // 2. 准备新数据
+                        const newData = [];
+                        
+                        // 导出要求1：表头为 1~8
+                        newData.push([1, 2, 3, 4, 5, 6, 7, 8]);
+                        
+                        // 导出要求2：把第一列的数据，平均分成8列，不够按顺序排即可
+                        for (let i = 0; i < firstColumnData.length; i += 8) {
+                            newData.push(firstColumnData.slice(i, i + 8));
+                        }
+                        
+                        // 创建新的工作簿和工作表
+                        const newWorksheet = XLSX.utils.aoa_to_sheet(newData);
+                        const newWorkbook = XLSX.utils.book_new();
+                        XLSX.utils.book_append_sheet(newWorkbook, newWorksheet, "导出结果");
+                        
+                        // 构造新的文件名
+                        let newName = "已处理_" + file.name;
+                        if (!newName.endsWith('.xlsx')) {
+                            newName += '.xlsx'; // 如果原文件是 .xls 等，统一存为 .xlsx
+                        }
+                        
+                        // 导出文件
+                        XLSX.writeFile(newWorkbook, newName);
+                        
+                        // 稍微延迟一下 resolve，避免浏览器拦截多个下载
+                        setTimeout(() => resolve(), 500);
+                    } catch (error) {
+                        reject(error);
+                    }
+                };
+
+                reader.onerror = function() {
+                    reject(new Error('读取文件失败！'));
+                };
+
+                reader.readAsArrayBuffer(file);
+            });
+        }
+    </script>
+</body>
+</html>
