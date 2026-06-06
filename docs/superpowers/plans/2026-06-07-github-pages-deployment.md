@@ -1,0 +1,383 @@
+# GitHub Pages Auto-Deployment Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** Automatically deploy the repository to GitHub Pages on every push to the `main` branch, and set up a beautiful landing page linking to the sub-projects.
+
+**Architecture:** A root `index.html` page links to the two tools (`math-cube3d` and `excel-tool`). A GitHub Actions workflow (`deploy.yml`) runs on push to the `main` branch, building and deploying the static workspace directly to GitHub Pages.
+
+**Tech Stack:** HTML5, Vanilla CSS, GitHub Actions
+
+---
+
+### Task 1: Create the Root Navigation Portal
+
+Create a modern, dark-themed, glassmorphic landing page at the repository root that links to both sub-folders.
+
+**Files:**
+- Create: `d:\workspace\tools\index.html`
+
+- [ ] **Step 1: Write root index.html**
+  Create the landing page with Outfit font and premium animations.
+
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>工具箱 | Tools Portal</title>
+  <!-- Google Fonts Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-gradient: linear-gradient(135deg, #0f0c20 0%, #15102a 50%, #06020f 100%);
+      --card-bg: rgba(255, 255, 255, 0.03);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --text-primary: #f3f4f6;
+      --text-secondary: #9ca3af;
+      --accent-color-1: #818cf8;
+      --accent-color-2: #34d399;
+      --font-title: 'Outfit', sans-serif;
+      --font-body: 'Inter', sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--bg-gradient);
+      color: var(--text-primary);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Background neon glow spots */
+    body::before, body::after {
+      content: '';
+      position: absolute;
+      width: 400px;
+      height: 400px;
+      border-radius: 50%;
+      filter: blur(150px);
+      z-index: 0;
+      opacity: 0.15;
+      pointer-events: none;
+    }
+    body::before {
+      background: var(--accent-color-1);
+      top: 10%;
+      left: 15%;
+    }
+    body::after {
+      background: var(--accent-color-2);
+      bottom: 10%;
+      right: 15%;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 1000px;
+      width: 100%;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header {
+      margin-bottom: 60px;
+    }
+
+    h1 {
+      font-family: var(--font-title);
+      font-size: 3.5rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      margin-bottom: 16px;
+      background: linear-gradient(to right, #ffffff, #93c5fd, #a5b4fc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      font-size: 1.125rem;
+      color: var(--text-secondary);
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 40px 30px;
+      text-decoration: none;
+      color: inherit;
+      text-align: left;
+      transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0) 100%);
+      opacity: 0;
+      transition: opacity 0.4s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-8px);
+      border-color: rgba(255, 255, 255, 0.2);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 
+                  0 0 50px rgba(129, 140, 248, 0.1);
+    }
+
+    .card:hover::before {
+      opacity: 1;
+    }
+
+    .card-icon {
+      width: 60px;
+      height: 60px;
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.75rem;
+      margin-bottom: 28px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      transition: all 0.3s ease;
+    }
+
+    .card.cube3d:hover .card-icon {
+      background: rgba(129, 140, 248, 0.15);
+      border-color: var(--accent-color-1);
+      box-shadow: 0 0 20px rgba(129, 140, 248, 0.2);
+    }
+
+    .card.excel:hover .card-icon {
+      background: rgba(52, 211, 153, 0.15);
+      border-color: var(--accent-color-2);
+      box-shadow: 0 0 20px rgba(52, 211, 153, 0.2);
+    }
+
+    h2 {
+      font-family: var(--font-title);
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: #ffffff;
+      transition: color 0.3s ease;
+    }
+
+    .card.cube3d:hover h2 {
+      color: var(--accent-color-1);
+    }
+
+    .card.excel:hover h2 {
+      color: var(--accent-color-2);
+    }
+
+    p {
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin-bottom: 24px;
+      flex-grow: 1;
+    }
+
+    .learn-more {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: var(--text-primary);
+      transition: gap 0.3s ease;
+    }
+
+    .card:hover .learn-more {
+      gap: 12px;
+    }
+
+    .card.cube3d .learn-more {
+      color: var(--accent-color-1);
+    }
+
+    .card.excel .learn-more {
+      color: var(--accent-color-2);
+    }
+
+    .arrow {
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover .arrow {
+      transform: translateX(4px);
+    }
+
+    footer {
+      margin-top: 80px;
+      font-size: 0.85rem;
+      color: rgba(255, 255, 255, 0.3);
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      padding-top: 24px;
+      width: 100%;
+      text-align: center;
+    }
+
+    @media (max-width: 640px) {
+      h1 {
+        font-size: 2.5rem;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>工具箱 / Tools</h1>
+      <p class="subtitle">精品小工具集合。包含 3D 教学演示和高效的 Excel 数据转换工具，持续更新中。</p>
+    </header>
+    <div class="grid">
+      <!-- Card 1: Math Cube3D -->
+      <a href="./math-cube3d/index.html" class="card cube3d">
+        <div class="card-icon">🧊</div>
+        <h2>正方体折叠与展开教学软件</h2>
+        <p>直观演示正方体的展开和折叠 3D 动画，支持 11 种不同的展开网格，以及互动式的闯关练习，让空间思维教学更简单。</p>
+        <span class="learn-more">
+          立即体验 <span class="arrow">→</span>
+        </span>
+      </a>
+
+      <!-- Card 2: Excel Tool -->
+      <a href="./excel-tool/index.html" class="card excel">
+        <div class="card-icon">📊</div>
+        <h2>Excel 列数据转换工具</h2>
+        <p>高效处理表格数据。支持一键上传多个 Excel 文件，提取首列数据并等分成 8 列，自动编号表头并快速导出下载。</p>
+        <span class="learn-more">
+          立即使用 <span class="arrow">→</span>
+        </span>
+      </a>
+    </div>
+    <footer>
+      <p style="margin-bottom: 0;">&copy; 2026 soakit. Powered by GitHub Pages.</p>
+    </footer>
+  </div>
+</body>
+</html>
+```
+
+- [ ] **Step 2: Commit**
+
+```bash
+git add index.html
+git commit -m "feat: add root navigation portal landing page"
+```
+
+---
+
+### Task 2: Create the GitHub Actions Workflow
+
+Create the YAML workflow file under `.github/workflows/deploy.yml` that will build and package the repo files and deploy to GitHub Pages.
+
+**Files:**
+- Create: `d:\workspace\tools\.github\workflows\deploy.yml`
+
+- [ ] **Step 1: Write the workflow config**
+  Write the following content to `.github/workflows/deploy.yml`:
+
+```yaml
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+```
+
+- [ ] **Step 2: Commit**
+
+```bash
+git add .github/workflows/deploy.yml
+git commit -m "ci: add github actions deployment workflow for github pages"
+```
+
+---
+
+### Task 3: Push to Remote to Trigger Deployment
+
+Push changes to the remote `main` branch to trigger the workflow.
+
+**Files:**
+- None (deployment trigger)
+
+- [ ] **Step 1: Push commits to remote main branch**
+
+Run: `git push origin main`
+Expected: Push succeeds and prints update logs.
