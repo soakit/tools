@@ -1,0 +1,99 @@
+/* 3D 视口容器 */
+.cube-viewport {
+  width: 100%;
+  height: 350px;
+  perspective: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at center, #ffffff 0%, #f1f3f7 100%);
+  border-radius: 12px;
+  box-shadow: inset 0 2px 8px rgba(0,0,0,0.02);
+  overflow: hidden;
+  position: relative;
+  user-select: none;
+}
+
+/* 3D 旋转底盘 */
+.cube-container {
+  width: 60px;
+  height: 60px;
+  transform-style: preserve-3d;
+  transform: rotateX(-30deg) rotateY(45deg);
+  position: relative;
+  transition: transform 0.1s ease-out;
+}
+
+/* 正方体单个面片的基本样式 */
+.face {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+  transform-style: preserve-3d;
+  backface-visibility: visible;
+  transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 0 1px rgba(0,0,0,0.3);
+}
+
+/* 正方体面片的内部装饰样式，包括微立体阴影、圆角 */
+.face-inner {
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  border: 2px solid rgba(255,255,255,0.7);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* 铰链关节定位与原点偏移，并应用 CSS 变量 --fold-angle */
+.face.joint-left {
+  left: -60px;
+  top: 0;
+  transform-origin: right center;
+  transform: rotateY(calc(var(--fold-angle, 0) * 1deg));
+}
+.face.joint-right {
+  left: 60px;
+  top: 0;
+  transform-origin: left center;
+  transform: rotateY(calc(var(--fold-angle, 0) * -1deg));
+}
+.face.joint-top {
+  left: 0;
+  top: -60px;
+  transform-origin: bottom center;
+  transform: rotateX(calc(var(--fold-angle, 0) * -1deg));
+}
+.face.joint-bottom {
+  left: 0;
+  top: 60px;
+  transform-origin: top center;
+  transform: rotateX(calc(var(--fold-angle, 0) * 1deg));
+}
+
+/* 面片背景颜色配置 (马卡龙温和色系) */
+.face[data-id="1"] .face-inner { background-color: #6ba4e8; }
+.face[data-id="2"] .face-inner { background-color: #fca34d; }
+.face[data-id="3"] .face-inner { background-color: #fbbf24; } /* 根节点固定淡黄 */
+.face[data-id="4"] .face-inner { background-color: #6bcfb4; }
+.face[data-id="5"] .face-inner { background-color: #a78bfa; }
+.face[data-id="6"] .face-inner { background-color: #f472b6; }
+
+/* 高亮选中态，用于“找对面”和“反馈” */
+.face.highlighted .face-inner {
+  animation: flash 1s infinite alternate;
+  border: 3px solid #ff4757;
+  box-shadow: 0 0 15px rgba(255,71,87,0.8);
+}
+@keyframes flash {
+  from { opacity: 0.6; }
+  to { opacity: 1; }
+}

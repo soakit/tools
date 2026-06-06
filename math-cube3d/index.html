@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>正方体折叠与展开教学软件</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/cube3d.css">
+</head>
+<body>
+  <div id="app">
+    <div class="header">
+      <h1>正方体折叠与展开教学软件</h1>
+    </div>
+    <div class="main-container">
+      <!-- 3D 舞台 -->
+      <div class="stage-area">
+        <div class="cube-viewport">
+          <div class="cube-container" id="cubeContainer"></div>
+        </div>
+        <div class="stage-controls">
+          <button id="btnPlay">播放</button>
+          <input type="range" id="foldSlider" min="0" max="90" value="0">
+          <button id="btnResetView">重置视角</button>
+        </div>
+      </div>
+      <!-- 右侧控制区 -->
+      <div class="control-area">
+        <div class="tabs">
+          <div class="tab-btn active" data-tab="demo">教学演示</div>
+          <div class="tab-btn" data-tab="quiz">闯关练习</div>
+        </div>
+        <div class="tab-content" id="tabDemo"></div>
+        <div class="tab-content hidden" id="tabQuiz"></div>
+      </div>
+    </div>
+  </div>
+  <script src="js/nets-data.js"></script>
+  <script src="js/cube3d.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
