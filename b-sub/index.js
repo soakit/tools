@@ -22,6 +22,21 @@ function parseBvid(input) {
 }
 
 async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, folderPath, aid, extraId = '') {
+  // Format names
+  const paddedIndex = String(partIndex).padStart(3, '0');
+  const safeTitle = cleanFilename(partTitle);
+  const idSuffix = extraId ? ` - [ID_${extraId}]` : ` - [CID_${cid}]`;
+  const baseName = `${paddedIndex}${idSuffix} - ${safeTitle}`;
+  
+  const jsonPath = path.join(folderPath, `${baseName}.json`);
+  const srtPath = path.join(folderPath, `${baseName}.srt`);
+  
+  // Skip if already exists
+  if (fs.existsSync(jsonPath) && fs.existsSync(srtPath)) {
+    console.log(`[P${partIndex}] Skip (already downloaded): ${baseName}`);
+    return 'skipped';
+  }
+
   const attempts = 3;
   let subtitles = [];
   let selected = null;
@@ -38,7 +53,7 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
       subtitles = await fetchSubtitleList(bvid, cid, cookie, aid);
       if (!subtitles || subtitles.length === 0) {
         console.log(`[P${partIndex}] No CC/AI subtitles found for CID: ${cid}.`);
-        return false;
+        return 'failed';
       }
       
       selected = subtitles.find(s => s.lan === 'zh-CN') ||
@@ -51,7 +66,7 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
     } catch (err) {
       if (attempt === attempts) {
         console.error(`[P${partIndex}] Error downloading CID ${cid}:`, err.message);
-        return false;
+        return 'failed';
       }
       console.log(`[P${partIndex}] Attempt ${attempt} failed: ${err.message}. Retrying...`);
       await sleep(5000);
@@ -60,7 +75,7 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
 
   if (!selected || !selected.subtitle_url) {
     console.error(`[P${partIndex}] Error downloading CID ${cid}: Subtitle URL is empty (possibly rate-limited by Bilibili).`);
-    return false;
+    return 'failed';
   }
 
   try {
@@ -69,26 +84,16 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
     // Download the raw BCC json
     const bccJson = await downloadBccJson(selected.subtitle_url);
     
-    // Format names
-    const paddedIndex = String(partIndex).padStart(3, '0');
-    const safeTitle = cleanFilename(partTitle);
-    const idSuffix = extraId ? ` - [ID_${extraId}]` : ` - [CID_${cid}]`;
-    const baseName = `${paddedIndex}${idSuffix} - ${safeTitle}`;
-    
-    // Save original BCC
-    const jsonPath = path.join(folderPath, `${baseName}.json`);
+    // Save files
     fs.writeFileSync(jsonPath, JSON.stringify(bccJson, null, 2), 'utf8');
-    
-    // Save converted SRT
     const srtContent = bccToSrt(bccJson);
-    const srtPath = path.join(folderPath, `${baseName}.srt`);
     fs.writeFileSync(srtPath, srtContent, 'utf8');
     
     console.log(`[P${partIndex}] Downloaded and converted: ${baseName}`);
-    return true;
+    return 'downloaded';
   } catch (err) {
     console.error(`[P${partIndex}] Error saving files for CID ${cid}:`, err.message);
-    return false;
+    return 'failed';
   }
 }
 
@@ -164,18 +169,22 @@ async function main() {
           for (let p = 0; p < epData.pages.length; p++) {
             const page = epData.pages[p];
             const partTitle = epData.pages.length > 1 ? `${item.title} - ${page.part}` : item.title;
-            const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, partTitle, page.cid, folderPath, epData.aid, item.id);
-            if (ok) successCount++;
-            await sleep(delayMs);
+            const status = await downloadSingleVideoSubtitles(item.bvid, partIndex, partTitle, page.cid, folderPath, epData.aid, item.id);
+            if (status !== 'failed') successCount++;
+            if (status === 'downloaded') {
+              const actualDelay = delayMs + Math.floor(Math.random() * 2000);
+              await sleep(actualDelay);
+            }
           }
         } catch (epErr) {
           console.error(`Failed to fetch episode ${item.bvid} data:`, epErr.message);
         }
       } else {
-        const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, item.title, item.cid, folderPath, videoData.aid);
-        if (ok) successCount++;
-        if (i < videosToDownload.length - 1) {
-          await sleep(delayMs);
+        const status = await downloadSingleVideoSubtitles(item.bvid, partIndex, item.title, item.cid, folderPath, videoData.aid);
+        if (status !== 'failed') successCount++;
+        if (status === 'downloaded' && i < videosToDownload.length - 1) {
+          const actualDelay = delayMs + Math.floor(Math.random() * 2000);
+          await sleep(actualDelay);
         }
       }
     }
