@@ -21,10 +21,10 @@ function parseBvid(input) {
   return match ? match[0] : null;
 }
 
-async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, folderPath) {
+async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, folderPath, aid) {
   try {
     console.log(`[P${partIndex}] Fetching subtitles list for ${bvid} (CID: ${cid})...`);
-    const subtitles = await fetchSubtitleList(bvid, cid, cookie);
+    const subtitles = await fetchSubtitleList(bvid, cid, cookie, aid);
     if (!subtitles || subtitles.length === 0) {
       console.log(`[P${partIndex}] No CC/AI subtitles found for CID: ${cid}.`);
       return false;
@@ -133,7 +133,7 @@ async function main() {
           for (let p = 0; p < epData.pages.length; p++) {
             const page = epData.pages[p];
             const partTitle = epData.pages.length > 1 ? `${item.title} - ${page.part}` : item.title;
-            const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, partTitle, page.cid, folderPath);
+            const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, partTitle, page.cid, folderPath, epData.aid);
             if (ok) successCount++;
             await sleep(delayMs);
           }
@@ -141,7 +141,7 @@ async function main() {
           console.error(`Failed to fetch episode ${item.bvid} data:`, epErr.message);
         }
       } else {
-        const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, item.title, item.cid, folderPath);
+        const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, item.title, item.cid, folderPath, videoData.aid);
         if (ok) successCount++;
         if (i < videosToDownload.length - 1) {
           await sleep(delayMs);

@@ -24,8 +24,11 @@ async function fetchVideoInfo(bvid, cookie) {
   return data.data;
 }
 
-async function fetchSubtitleList(bvid, cid, cookie) {
-  const url = `https://api.bilibili.com/x/player/v2?bvid=${bvid}&cid=${cid}`;
+async function fetchSubtitleList(bvid, cid, cookie, aid = '') {
+  let url = `https://api.bilibili.com/x/player/v2?bvid=${bvid}&cid=${cid}`;
+  if (aid) {
+    url += `&aid=${aid}`;
+  }
   const res = await fetch(url, { headers: getHeaders(cookie) });
   if (!res.ok) {
     throw new Error(`Failed to fetch player info, HTTP status: ${res.status}`);
@@ -38,6 +41,9 @@ async function fetchSubtitleList(bvid, cid, cookie) {
 }
 
 async function downloadBccJson(url) {
+  if (!url) {
+    throw new Error('Subtitle URL is empty');
+  }
   const fullUrl = url.startsWith('http') ? url : `https:${url}`;
   const res = await fetch(fullUrl);
   if (!res.ok) {
