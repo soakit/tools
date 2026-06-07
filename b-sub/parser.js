@@ -25,7 +25,7 @@ async function fetchVideoInfo(bvid, cookie) {
 }
 
 async function fetchSubtitleList(bvid, cid, cookie, aid = '') {
-  let url = `https://api.bilibili.com/x/player/v2?bvid=${bvid}&cid=${cid}`;
+  let url = `https://api.bilibili.com/x/player/wbi/v2?bvid=${bvid}&cid=${cid}`;
   if (aid) {
     url += `&aid=${aid}`;
   }
