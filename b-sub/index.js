@@ -72,7 +72,7 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
     // Format names
     const paddedIndex = String(partIndex).padStart(3, '0');
     const safeTitle = cleanFilename(partTitle);
-    const idSuffix = extraId ? ` - [ID_${extraId}]` : '';
+    const idSuffix = extraId ? ` - [ID_${extraId}]` : ` - [CID_${cid}]`;
     const baseName = `${paddedIndex}${idSuffix} - ${safeTitle}`;
     
     // Save original BCC
