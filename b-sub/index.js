@@ -21,7 +21,7 @@ function parseBvid(input) {
   return match ? match[0] : null;
 }
 
-async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, folderPath, aid) {
+async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, folderPath, aid, extraId = '') {
   try {
     console.log(`[P${partIndex}] Fetching subtitles list for ${bvid} (CID: ${cid})...`);
     const subtitles = await fetchSubtitleList(bvid, cid, cookie, aid);
@@ -43,7 +43,8 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
     // Format names
     const paddedIndex = String(partIndex).padStart(3, '0');
     const safeTitle = cleanFilename(partTitle);
-    const baseName = `${paddedIndex} - ${safeTitle}`;
+    const idSuffix = extraId ? ` - [ID_${extraId}]` : '';
+    const baseName = `${paddedIndex}${idSuffix} - ${safeTitle}`;
     
     // Save original BCC
     const jsonPath = path.join(folderPath, `${baseName}.json`);
@@ -97,7 +98,8 @@ async function main() {
             bvid: episode.bvid,
             title: episode.title,
             cid: episode.cid,
-            aid: episode.aid
+            aid: episode.aid,
+            id: episode.id || episode.ep_id || ''
           });
         });
       });
@@ -133,7 +135,7 @@ async function main() {
           for (let p = 0; p < epData.pages.length; p++) {
             const page = epData.pages[p];
             const partTitle = epData.pages.length > 1 ? `${item.title} - ${page.part}` : item.title;
-            const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, partTitle, page.cid, folderPath, epData.aid);
+            const ok = await downloadSingleVideoSubtitles(item.bvid, partIndex, partTitle, page.cid, folderPath, epData.aid, item.id);
             if (ok) successCount++;
             await sleep(delayMs);
           }
@@ -150,6 +152,43 @@ async function main() {
     }
     
     console.log(`\nFinished! Successfully downloaded ${successCount} subtitle file sets.`);
+    
+    // 3. Post-download verification / spot-check
+    if (successCount > 0) {
+      console.log('\n======================================');
+      console.log('      POST-DOWNLOAD SPOT-CHECK        ');
+      console.log('======================================');
+      try {
+        const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.srt'));
+        if (files.length > 0) {
+          // Select up to 3 files to spot-check (first, middle, last)
+          const indices = new Set([0, Math.floor(files.length / 2), files.length - 1]);
+          const selectedFiles = Array.from(indices).map(idx => files[idx]).filter(Boolean);
+          
+          for (const file of selectedFiles) {
+            const filePath = path.join(folderPath, file);
+            const content = fs.readFileSync(filePath, 'utf8');
+            // Parse first subtitle line
+            const lines = content.split('\n').map(l => l.trim()).filter(Boolean);
+            let firstSubText = '(Empty subtitle)';
+            for (let j = 0; j < lines.length; j++) {
+              if (lines[j].includes('-->')) {
+                if (lines[j + 1]) {
+                  firstSubText = lines[j + 1];
+                  break;
+                }
+              }
+            }
+            console.log(`[Spot-Check] File: ${file}`);
+            console.log(`             First Line: "${firstSubText}"`);
+            console.log('--------------------------------------');
+          }
+          console.log('Please verify if the subtitle content matches the episodes above.');
+        }
+      } catch (checkErr) {
+        console.error('Failed to run spot-check:', checkErr.message);
+      }
+    }
   } catch (err) {
     console.error('Execution failed:', err.message);
     process.exit(1);
