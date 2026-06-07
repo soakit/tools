@@ -1,0 +1,13 @@
+{
+  "name": "b-sub",
+  "version": "1.0.0",
+  "description": "Bilibili Subtitle Downloader CLI",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test utils.test.js parser.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
