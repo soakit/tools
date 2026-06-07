@@ -22,19 +22,48 @@ function parseBvid(input) {
 }
 
 async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, folderPath, aid, extraId = '') {
-  try {
-    console.log(`[P${partIndex}] Fetching subtitles list for ${bvid} (CID: ${cid})...`);
-    const subtitles = await fetchSubtitleList(bvid, cid, cookie, aid);
-    if (!subtitles || subtitles.length === 0) {
-      console.log(`[P${partIndex}] No CC/AI subtitles found for CID: ${cid}.`);
-      return false;
+  const attempts = 3;
+  let subtitles = [];
+  let selected = null;
+  
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    try {
+      if (attempt > 1) {
+        console.log(`[P${partIndex}] Empty subtitle URL or request failed. Retrying (attempt ${attempt}/${attempts}) after 5s delay...`);
+        await sleep(5000);
+      } else {
+        console.log(`[P${partIndex}] Fetching subtitles list for ${bvid} (CID: ${cid})...`);
+      }
+      
+      subtitles = await fetchSubtitleList(bvid, cid, cookie, aid);
+      if (!subtitles || subtitles.length === 0) {
+        console.log(`[P${partIndex}] No CC/AI subtitles found for CID: ${cid}.`);
+        return false;
+      }
+      
+      selected = subtitles.find(s => s.lan === 'zh-CN') ||
+                 subtitles.find(s => s.lan.startsWith('zh')) ||
+                 subtitles[0];
+                 
+      if (selected && selected.subtitle_url) {
+        break; // Found valid URL
+      }
+    } catch (err) {
+      if (attempt === attempts) {
+        console.error(`[P${partIndex}] Error downloading CID ${cid}:`, err.message);
+        return false;
+      }
+      console.log(`[P${partIndex}] Attempt ${attempt} failed: ${err.message}. Retrying...`);
+      await sleep(5000);
     }
-    
-    // Choose the first subtitle track (prefer zh-CN, then zh, then any)
-    let selected = subtitles.find(s => s.lan === 'zh-CN') ||
-                   subtitles.find(s => s.lan.startsWith('zh')) ||
-                   subtitles[0];
-                   
+  }
+
+  if (!selected || !selected.subtitle_url) {
+    console.error(`[P${partIndex}] Error downloading CID ${cid}: Subtitle URL is empty (possibly rate-limited by Bilibili).`);
+    return false;
+  }
+
+  try {
     console.log(`[P${partIndex}] Found subtitle: ${selected.lan_doc} (${selected.lan})`);
     
     // Download the raw BCC json
@@ -58,7 +87,7 @@ async function downloadSingleVideoSubtitles(bvid, partIndex, partTitle, cid, fol
     console.log(`[P${partIndex}] Downloaded and converted: ${baseName}`);
     return true;
   } catch (err) {
-    console.error(`[P${partIndex}] Error downloading CID ${cid}:`, err.message);
+    console.error(`[P${partIndex}] Error saving files for CID ${cid}:`, err.message);
     return false;
   }
 }
