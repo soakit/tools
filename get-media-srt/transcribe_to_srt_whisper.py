@@ -1,7 +1,29 @@
 # -*- coding: utf-8 -*-
-"""Video/audio to SRT subtitles via faster-whisper."""
+"""Video/audio to SRT subtitles via faster-whisper.
+
+Anti-hallucination notes
+------------------------
+Whisper is notorious for "repetition loops" on silent / background-music
+regions, e.g. emitting the same ad line ("请不吝点赞 订阅 ...") dozens of
+times. This script defends against that on two layers:
+
+1. Decoder-level (transcribe kwargs):
+   - condition_on_previous_text=False -> do NOT feed the previous output back
+     into the decoder (the #1 cause of repetition loops).
+   - hallucination_silence_threshold=2 -> skip silent periods longer than 2s
+     where hallucinations are born.
+   - no_speech_threshold=0.6 -> drop low-probability speech.
+   - word_timestamps=True -> required by the silence filter.
+   - vad_parameters tuned for speech.
+
+2. Output-level (dedup_segments): a post-pass drops any segment whose
+   normalised text repeats too many times in a rolling window, so even if the
+   model still loops, the SRT stays clean.
+"""
 import os
+import re
 import sys
+import unicodedata
 from pathlib import Path
 
 # Hugging Face mirror (useful in China) - MUST be set before importing faster_whisper
@@ -18,13 +40,57 @@ def format_timestamp(seconds):
     return f"{hours:02d}:{minutes:02d}:{secs:02d},{millis:03d}"
 
 
+def _norm_text(s):
+    """Normalise text for fair repetition comparison.
+
+    Strips CJK & ASCII punctuation and whitespace, NFKC-normalises, and
+    lowercases, so "请不吝点赞，订阅" and "请不吝点赞 订阅" compare equal.
+    """
+    if not s:
+        return ""
+    s = unicodedata.normalize("NFKC", s)
+    s = re.sub(r"[\W_]+", "", s, flags=re.UNICODE)
+    return s.lower()
+
+
+def dedup_segments(segments, max_repeats=2, window=8):
+    """Drop hallucination-style repeated segments, keep legit content.
+
+    A segment is dropped only when its normalised text has already been kept
+    at least `max_repeats` times within the last `window` kept segments.
+    Genuine repetition (someone saying the same word twice) is preserved.
+    Empty / whitespace-only segments are always dropped.
+    """
+    kept = []
+    recent = []
+
+    for seg in segments:
+        raw = (getattr(seg, "text", "") or "").strip()
+        if not raw:
+            continue
+        key = _norm_text(raw)
+        if not key:
+            continue
+
+        repeats = sum(1 for h in recent[-window:] if h == key)
+        if repeats >= max_repeats:
+            continue
+
+        kept.append(seg)
+        recent.append(key)
+
+    return kept
+
+
 def write_srt(segments, output_path):
+    cleaned = dedup_segments(segments)
     with open(output_path, "w", encoding="utf-8") as f:
-        for i, segment in enumerate(segments, start=1):
+        for i, segment in enumerate(cleaned, start=1):
             start = format_timestamp(segment.start)
             end = format_timestamp(segment.end)
             text = segment.text.strip()
             f.write(f"{i}\n{start} --> {end}\n{text}\n\n")
+    return len(cleaned)
 
 
 def get_device_and_compute_type():
@@ -70,17 +136,28 @@ def transcribe_one(model, input_path):
     output_path = input_path.with_suffix(".srt")
     print(f"Transcribing: {input_path}", flush=True)
     try:
+        vad_parameters = dict(
+            threshold=0.5,
+            min_silence_duration_ms=500,
+            speech_pad_ms=200,
+            min_speech_duration_ms=250,
+        )
         segments, info = model.transcribe(
             str(input_path),
             language="zh",
             beam_size=5,
             vad_filter=True,
+            condition_on_previous_text=False,
+            no_speech_threshold=0.6,
+            hallucination_silence_threshold=2.0,
+            word_timestamps=True,
+            vad_parameters=vad_parameters,
         )
         segment_list = list(segments)
-        write_srt(segment_list, output_path)
+        n_written = write_srt(segment_list, output_path)
         print(f"Language: {info.language} (prob={info.language_probability:.2f})", flush=True)
         print(f"Duration: {info.duration:.1f}s", flush=True)
-        print(f"Segments: {len(segment_list)}", flush=True)
+        print(f"Segments: {len(segment_list)} (kept {n_written} after dedup)", flush=True)
         print(f"Saved: {output_path}", flush=True)
         return True
     except Exception as e:
