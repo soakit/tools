@@ -6,7 +6,8 @@ merge_srts.py v2 - 句级择优, 不再要求整集干净
 import os, re, glob, json
 import fix_srt_final as FSF
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA = os.path.join(ROOT, "data")
 DIR_A = os.path.join(ROOT, "srts")
 DIR_B = os.path.join(ROOT, "srts_whisper_large-v3")
 DIR_OUT = os.path.join(ROOT, "srts_merged")
@@ -117,19 +118,28 @@ def apply_rules(text, rules):
 
 def main():
     os.makedirs(DIR_OUT, exist_ok=True)
-    fa={os.path.basename(p):p for p in glob.glob(os.path.join(DIR_A,"*.srt"))}
-    fb={os.path.basename(p):p for p in glob.glob(os.path.join(DIR_B,"*.srt"))}
-    na={n.replace("音频",""):n for n in fa}
-    nb={n.replace("音频",""):n for n in fb}
-    common=sorted(set(na)&set(nb))
+    # 按「第NNN集」前缀匹配, 兼容 srts_whisper_large-v3 已重命名为「第NNN集_标题.srt」
+    EP_RE = re.compile(r"第(\d{3})集")
+    def _ep_key(basename):
+        m = EP_RE.search(basename)
+        return ("第%03d集" % int(m.group(1))) if m else basename
+    fa={_ep_key(os.path.basename(p)):p for p in glob.glob(os.path.join(DIR_A,"*.srt"))}
+    fb={_ep_key(os.path.basename(p)):p for p in glob.glob(os.path.join(DIR_B,"*.srt"))}
+    common=sorted(set(fa)&set(fb))
+    # 加载简短标题(去掉 (N) 总数后缀), 用于输出文件名
+    titles = {}
+    tp = os.path.join(DATA,"_episode_titles_clean.json")
+    if os.path.exists(tp):
+        td = json.load(open(tp,encoding="utf-8"))
+        titles = {("第%03d集"%v["ep"]):v["title"] for v in td.values()}
     sv_rules=collect_sv_rules()
     print(f"Loaded {len(sv_rules)} SV rules; files={len(common)}")
 
     stats={"seg_total":0,"seg_B":0,"seg_A":0,"b_usable":0,"b_unusable":0}
     log=[]
     for k in common:
-        ea=parse_srt(fa[na[k]])
-        eb=parse_srt(fb[nb[k]]) if k in nb else []
+        ea=parse_srt(fa[k])
+        eb=parse_srt(fb[k]) if k in fb else []
         out=[]
         if eb:
             pairs=align(ea,eb)
@@ -173,11 +183,13 @@ def main():
         out.sort(key=lambda e:e["start"])
         for e in out:
             e["text"]=apply_rules(e["text"], sv_rules).strip()
-        write_srt(os.path.join(DIR_OUT,k), out)
+        title = titles.get(k,"")
+        out_name = (("%s_%s" % (k, title)) if title else k) + ".srt"
+        write_srt(os.path.join(DIR_OUT,out_name), out)
 
     print("\n=== STATS ===")
     for kk,vv in stats.items(): print(f"  {kk}: {vv}")
-    with open(os.path.join(ROOT,"_merge_borrowed.json"),"w",encoding="utf-8") as f:
+    with open(os.path.join(DATA,"_merge_borrowed.json"),"w",encoding="utf-8") as f:
         json.dump(log[:3000], f, ensure_ascii=False, indent=1)
 
 if __name__=="__main__":

@@ -110,22 +110,6 @@ def build_replacements():
 
 def _load_existing_rules():
     out = []
-    ROOT = os.path.dirname(os.path.abspath(__file__))
-    for fn in ["fix_srt.py", "fix_srt_r2.py", "fix_srt_r3.py", "fix_srt_r4.py"]:
-        p = os.path.join(ROOT, fn)
-        if not os.path.exists(p):
-            continue
-        src = open(p, encoding="utf-8").read()
-        pairs = re.findall(
-            r'\(\s*"((?:[^"\\]|\\.)*)"\s*,\s*"((?:[^"\\]|\\.)*)"\s*\)',
-            src,
-        )
-        for w, c in pairs:
-            if "PLACEHOLDER" in w or "PLACEHOLDER" in c:
-                continue
-            if w == c:
-                continue
-            out.append((w, c))
     return out
 
 
@@ -160,7 +144,7 @@ def process_dir(srt_dir):
 
 
 if __name__ == "__main__":
-    ROOT = os.path.dirname(os.path.abspath(__file__))
+    ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     target = os.path.join(ROOT, "srts_merged")
     if not os.path.isdir(target):
         target = os.path.join(ROOT, "srts")
