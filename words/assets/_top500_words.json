@@ -1,0 +1,7517 @@
+[
+  {
+    "word": "be",
+    "definition": "v. 是; 成为",
+    "rank": 2,
+    "coca_paraphrase": "v. 是；有，存在；做，成为；发生  aux. 用来表示某人或某物即主语本身，用来表示某人或某物属于某一群体或有某种性质",
+    "coca_meanings": [
+      "v. 是",
+      "v. 有，存在",
+      "v. 做，成为",
+      "v. 发生",
+      "aux. 用来表示某人或某物即主语本身，用来表示某人或某物属于某一群体或有某种性质"
+    ]
+  },
+  {
+    "word": "say (said, said)",
+    "definition": "v. 说, 讲",
+    "rank": 19,
+    "coca_paraphrase": "vi. 说， 讲；表明，宣称；假设；约莫  vt. 表明；念；说明；比方说  n. 发言权；说话；要说的话；发言权",
+    "coca_meanings": [
+      "vi. 说， 讲",
+      "vi. 表明，宣称",
+      "vi. 假设",
+      "vi. 约莫",
+      "vt. 表明",
+      "vt. 念",
+      "vt. 说明",
+      "vt. 比方说",
+      "n. 发言权",
+      "n. 说话",
+      "n. 要说的话",
+      "n. 发言权"
+    ]
+  },
+  {
+    "word": "not",
+    "definition": "adv. 不, 没",
+    "rank": 28,
+    "coca_paraphrase": "adv. 不",
+    "coca_meanings": [
+      "adv. 不"
+    ]
+  },
+  {
+    "word": "or",
+    "definition": "conj. 或; 就是; 否则",
+    "rank": 32,
+    "coca_paraphrase": "conj. 或，或者；还是；不然，否则；左右  prep. <古、诗>在…之前，比…更早",
+    "coca_meanings": [
+      "conj. 或，或者",
+      "conj. 还是",
+      "conj. 不然，否则",
+      "conj. 左右",
+      "prep. <古、诗>在…之前，比…更早"
+    ]
+  },
+  {
+    "word": "as",
+    "definition": "adv. & conj. 像…一样; 如同; 因为 prep. 作为,",
+    "rank": 33,
+    "coca_paraphrase": "adv. 同样地，一样地；例如  prep. 作为，以…的身份；如同  conj. 像，像…一样；由于；同时，当…时；尽管  n. 阿斯（古罗马重量单位，约373克）",
+    "coca_meanings": [
+      "adv. 同样地，一样地",
+      "adv. 例如",
+      "prep. 作为，以…的身份",
+      "prep. 如同",
+      "conj. 像，像…一样",
+      "conj. 由于",
+      "conj. 同时，当…时",
+      "conj. 尽管",
+      "n. 阿斯（古罗马重量单位，约373克）"
+    ]
+  },
+  {
+    "word": "go (went, gone)",
+    "definition": "v. 离去, 走, 进行, 变成, 求助于",
+    "rank": 35,
+    "coca_paraphrase": "vi. 走；离开；去做；进行  vt. 变得；发出…声音；成为；处于…状态  n. 轮到的顺序；精力；干劲；尝试",
+    "coca_meanings": [
+      "vi. 走",
+      "vi. 离开",
+      "vi. 去做",
+      "vi. 进行",
+      "vt. 变得",
+      "vt. 发出…声音",
+      "vt. 成为",
+      "vt. 处于…状态",
+      "n. 轮到的顺序",
+      "n. 精力",
+      "n. 干劲",
+      "n. 尝试"
+    ]
+  },
+  {
+    "word": "their",
+    "definition": "pron. 他(或她、它)们的",
+    "rank": 36,
+    "coca_paraphrase": "pron. 他（她，它）们的；在提及性别不详的人时，用以代替 him 或 her",
+    "coca_meanings": [
+      "pron. 他（她，它）们的",
+      "pron. 在提及性别不详的人时，用以代替 him 或 her"
+    ]
+  },
+  {
+    "word": "can (could) modal",
+    "definition": "v. 可能; 可以；can't = can not 不能",
+    "rank": 37,
+    "coca_paraphrase": "aux. 能；能够；可以；可能  vt. 将…装入密封罐中保存  n. 罐头；（用金属或塑料制作的）容器；（马口铁或其他金属制作的）食品罐头",
+    "coca_meanings": [
+      "aux. 能",
+      "aux. 能够",
+      "aux. 可以",
+      "aux. 可能",
+      "vt. 将…装入密封罐中保存",
+      "n. 罐头",
+      "n. （用金属或塑料制作的）容器",
+      "n. （马口铁或其他金属制作的）食品罐头"
+    ]
+  },
+  {
+    "word": "if",
+    "definition": "conj. 如果, 假使; 是否",
+    "rank": 40,
+    "coca_paraphrase": "conj. 如果，倘若；即使；〈口〉是否；假设  n. 条件，设想",
+    "coca_meanings": [
+      "conj. 如果，倘若",
+      "conj. 即使",
+      "conj. 〈口〉是否",
+      "conj. 假设",
+      "n. 条件，设想"
+    ]
+  },
+  {
+    "word": "will (would)",
+    "definition": "modal v.将要, 会; 愿",
+    "rank": 41,
+    "coca_paraphrase": "aux. 将，将要；愿意；会，打算；大概  v. (will 的过去式，用于转述)将",
+    "coca_meanings": [
+      "aux. 将，将要",
+      "aux. 愿意",
+      "aux. 会，打算",
+      "aux. 大概",
+      "v. (will 的过去式，用于转述)将"
+    ]
+  },
+  {
+    "word": "would",
+    "definition": "modal v.将; 愿; 总是",
+    "rank": 41,
+    "coca_paraphrase": "aux. 将，将要；愿意；会，打算；大概  v. (will 的过去式，用于转述)将",
+    "coca_meanings": [
+      "aux. 将，将要",
+      "aux. 愿意",
+      "aux. 会，打算",
+      "aux. 大概",
+      "v. (will 的过去式，用于转述)将"
+    ]
+  },
+  {
+    "word": "all",
+    "definition": "adv. 全部地 adj. 全（部）整 pron. 全部; 全体人员",
+    "rank": 43,
+    "coca_paraphrase": "adj. 全部的；一切的；各种的；极度的，尽量的  pron. 全部；一切；每个人，每件东西；全部情况  adv. 全部地；完全地；每个；非常  n. 全体",
+    "coca_meanings": [
+      "adj. 全部的",
+      "adj. 一切的",
+      "adj. 各种的",
+      "adj. 极度的，尽量的",
+      "pron. 全部",
+      "pron. 一切",
+      "pron. 每个人，每件东西",
+      "pron. 全部情况",
+      "adv. 全部地",
+      "adv. 完全地",
+      "adv. 每个",
+      "adv. 非常",
+      "n. 全体"
+    ]
+  },
+  {
+    "word": "make",
+    "definition": "n. 样式; 制造",
+    "rank": 45,
+    "coca_paraphrase": "vt. 做，制造；生产，制定；使成为；使产生  vi. 开始；尝试；行进；增大  n. 制造；生产量；性格；形状，样式",
+    "coca_meanings": [
+      "vt. 做，制造",
+      "vt. 生产，制定",
+      "vt. 使成为",
+      "vt. 使产生",
+      "vi. 开始",
+      "vi. 尝试",
+      "vi. 行进",
+      "vi. 增大",
+      "n. 制造",
+      "n. 生产量",
+      "n. 性格",
+      "n. 形状，样式"
+    ]
+  },
+  {
+    "word": "make(made, made)",
+    "definition": "v. 制造, 做; 使得，成为",
+    "rank": 45,
+    "coca_paraphrase": "vt. 做，制造；生产，制定；使成为；使产生  vi. 开始；尝试；行进；增大  n. 制造；生产量；性格；形状，样式",
+    "coca_meanings": [
+      "vt. 做，制造",
+      "vt. 生产，制定",
+      "vt. 使成为",
+      "vt. 使产生",
+      "vi. 开始",
+      "vi. 尝试",
+      "vi. 行进",
+      "vi. 增大",
+      "n. 制造",
+      "n. 生产量",
+      "n. 性格",
+      "n. 形状，样式"
+    ]
+  },
+  {
+    "word": "know(knew, known)",
+    "definition": "v. 知道, 了解; 认识; 懂得",
+    "rank": 47,
+    "coca_paraphrase": "v. 知道；了解；认识；确信  n. 知情",
+    "coca_meanings": [
+      "v. 知道",
+      "v. 了解",
+      "v. 认识",
+      "v. 确信",
+      "n. 知情"
+    ]
+  },
+  {
+    "word": "year",
+    "definition": "n. 年",
+    "rank": 54,
+    "coca_paraphrase": "n. 年；年纪；一年的期间；某年级的学生",
+    "coca_meanings": [
+      "n. 年",
+      "n. 年纪",
+      "n. 一年的期间",
+      "n. 某年级的学生"
+    ]
+  },
+  {
+    "word": "so",
+    "definition": "adv. 如此, 这么; 非常 conj. 因此, 所以",
+    "rank": 55,
+    "coca_paraphrase": "adv. 这样；很；（表示程度）这么；同样  conj. （表示因果关系）因此；（表示目的）为了；（引出下文）；（认为某事无关紧要，尤用于反驳他人的指责时）（口语）  pron. 如此；这样；大约；左右  adj. 真的；事实如此的；如此的；整齐的",
+    "coca_meanings": [
+      "adv. 这样",
+      "adv. 很",
+      "adv. （表示程度）这么",
+      "adv. 同样",
+      "conj. （表示因果关系）因此",
+      "conj. （表示目的）为了",
+      "conj. （引出下文）",
+      "conj. （认为某事无关紧要，尤用于反驳他人的指责时）（口语）",
+      "pron. 如此",
+      "pron. 这样",
+      "pron. 大约",
+      "pron. 左右",
+      "adj. 真的",
+      "adj. 事实如此的",
+      "adj. 如此的",
+      "adj. 整齐的"
+    ]
+  },
+  {
+    "word": "think (thought, thought)",
+    "definition": "v. 想; 认为; 考虑",
+    "rank": 56,
+    "coca_paraphrase": "vt. 想；思索；以为；看待  vi. 思辩；考虑；构想；回忆  adj. 深思的；供思考的  n. 想；想法",
+    "coca_meanings": [
+      "vt. 想",
+      "vt. 思索",
+      "vt. 以为",
+      "vt. 看待",
+      "vi. 思辩",
+      "vi. 考虑",
+      "vi. 构想",
+      "vi. 回忆",
+      "adj. 深思的",
+      "adj. 供思考的",
+      "n. 想",
+      "n. 想法"
+    ]
+  },
+  {
+    "word": "when",
+    "definition": "conj.就在那个时候, 在...的时候 adv.什么时候, ...的时候",
+    "rank": 57,
+    "coca_paraphrase": "adv. 什么时候；（用于时间的表达方式之后）在那时；其时；当时  conj. 在…时；既然；如果  pron. 什么时候；那时  n. 时间，时候；日期；场合",
+    "coca_meanings": [
+      "adv. 什么时候",
+      "adv. （用于时间的表达方式之后）在那时",
+      "adv. 其时",
+      "adv. 当时",
+      "conj. 在…时",
+      "conj. 既然",
+      "conj. 如果",
+      "pron. 什么时候",
+      "pron. 那时",
+      "n. 时间，时候",
+      "n. 日期",
+      "n. 场合"
+    ]
+  },
+  {
+    "word": "which",
+    "definition": "pron.哪一个 adj.哪一个",
+    "rank": 58,
+    "coca_paraphrase": "pron. 哪一个；哪一些；哪个；那，指前面提到的事物  adj. 哪一个；哪一些",
+    "coca_meanings": [
+      "pron. 哪一个",
+      "pron. 哪一些",
+      "pron. 哪个",
+      "pron. 那，指前面提到的事物",
+      "adj. 哪一个",
+      "adj. 哪一些"
+    ]
+  },
+  {
+    "word": "them",
+    "definition": "pron. 他/她/它们",
+    "rank": 59,
+    "coca_paraphrase": "pron. 他们；她们；它们",
+    "coca_meanings": [
+      "pron. 他们",
+      "pron. 她们",
+      "pron. 它们"
+    ]
+  },
+  {
+    "word": "people",
+    "definition": "n. 人, 人们; 人民",
+    "rank": 62,
+    "coca_paraphrase": "n. 人，人类；居民；人民；种族  vt. 居住于，布满；使住满人，在…殖民；把动物放养在",
+    "coca_meanings": [
+      "n. 人，人类",
+      "n. 居民",
+      "n. 人民",
+      "n. 种族",
+      "vt. 居住于，布满",
+      "vt. 使住满人，在…殖民",
+      "vt. 把动物放养在"
+    ]
+  },
+  {
+    "word": "take (took, taken)",
+    "definition": "v. 拿, 拿走, 取, 抓, 占领; 服用; 乘坐; 花费",
+    "rank": 63,
+    "coca_paraphrase": "vt. 拿，取；采取；接受（礼物等）；耗费（时间等）  vi. 拿；获得  n. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+    "coca_meanings": [
+      "vt. 拿，取",
+      "vt. 采取",
+      "vt. 接受（礼物等）",
+      "vt. 耗费（时间等）",
+      "vi. 拿",
+      "vi. 获得",
+      "n. 捕获量",
+      "n. 看法",
+      "n. 利益，盈益",
+      "n. （入场券的）售得金额"
+    ]
+  },
+  {
+    "word": "into",
+    "definition": "prep. 到…里; 向内; 变成",
+    "rank": 65,
+    "coca_paraphrase": "prep. （表示方向）进入…中；（表示所属）输入；（表示状态）进入…状态；（表示时间）持续到",
+    "coca_meanings": [
+      "prep. （表示方向）进入…中",
+      "prep. （表示所属）输入",
+      "prep. （表示状态）进入…状态",
+      "prep. （表示时间）持续到"
+    ]
+  },
+  {
+    "word": "just",
+    "definition": "adj. 公正的 adv. 刚才; 恰好; 不过; 仅",
+    "rank": 66,
+    "coca_paraphrase": "adv. 刚才；仅仅，只是；正好；刚要  adj. 公正的，合理的；恰当的；合法的；正确的",
+    "coca_meanings": [
+      "adv. 刚才",
+      "adv. 仅仅，只是",
+      "adv. 正好",
+      "adv. 刚要",
+      "adj. 公正的，合理的",
+      "adj. 恰当的",
+      "adj. 合法的",
+      "adj. 正确的"
+    ]
+  },
+  {
+    "word": "him",
+    "definition": "pron. 他",
+    "rank": 68,
+    "coca_paraphrase": "pron. (he的宾格)他",
+    "coca_meanings": [
+      "pron. (he的宾格)他"
+    ]
+  },
+  {
+    "word": "could",
+    "definition": "modal v.（can的过去式）可以, 可能；行",
+    "rank": 71,
+    "coca_paraphrase": "aux. “can”的过去式；能够，打算；用于假设语气的条件句；用于虚拟语气的结论句",
+    "coca_meanings": [
+      "aux. “can”的过去式",
+      "aux. 能够，打算",
+      "aux. 用于假设语气的条件句",
+      "aux. 用于虚拟语气的结论句"
+    ]
+  },
+  {
+    "word": "than",
+    "definition": "conj. 比",
+    "rank": 73,
+    "coca_paraphrase": "conj. 比（用于比较级）；宁愿…而不愿；除…以外；一…就  prep. 超过；比",
+    "coca_meanings": [
+      "conj. 比（用于比较级）",
+      "conj. 宁愿…而不愿",
+      "conj. 除…以外",
+      "conj. 一…就",
+      "prep. 超过",
+      "prep. 比"
+    ]
+  },
+  {
+    "word": "other",
+    "definition": "pron. 别人, 别的东西 adj. 别的, 另外的",
+    "rank": 75,
+    "coca_paraphrase": "adj. 别的；其他的；（两个中的）另一个；其余的  pron. 其他的；（指两个人或事物中的第二个）那个；（指一组中其余的人或事物）其余的；（指与说话人所在位置等相反的方向或地点）另一边",
+    "coca_meanings": [
+      "adj. 别的",
+      "adj. 其他的",
+      "adj. （两个中的）另一个",
+      "adj. 其余的",
+      "pron. 其他的",
+      "pron. （指两个人或事物中的第二个）那个",
+      "pron. （指一组中其余的人或事物）其余的",
+      "pron. （指与说话人所在位置等相反的方向或地点）另一边"
+    ]
+  },
+  {
+    "word": "then",
+    "definition": "adv. adv.当时, 在那时, 那么, 因而, 然后, 于是",
+    "rank": 77,
+    "coca_paraphrase": "adv. 那时；然后；那么；话说回来  adj. 当时的；那时的",
+    "coca_meanings": [
+      "adv. 那时",
+      "adv. 然后",
+      "adv. 那么",
+      "adv. 话说回来",
+      "adj. 当时的",
+      "adj. 那时的"
+    ]
+  },
+  {
+    "word": "its",
+    "definition": "pron. 它的",
+    "rank": 78,
+    "coca_paraphrase": "pron. (it的所有格形式)它的；厥",
+    "coca_meanings": [
+      "pron. (it的所有格形式)它的",
+      "pron. 厥"
+    ]
+  },
+  {
+    "word": "many (more, most)",
+    "definition": "pron. 许多人（或物）adj. 许多的",
+    "rank": 81,
+    "coca_paraphrase": "adv. 更，更多；达到或处于更大的范围或程度；此外，更加  adj. 更多的；(many)的比较级；附加的，额外的  pron. 更多的或附加的人或事物  n. 更多；附加，添加",
+    "coca_meanings": [
+      "adv. 更，更多",
+      "adv. 达到或处于更大的范围或程度",
+      "adv. 此外，更加",
+      "adj. 更多的",
+      "adj. (many)的比较级",
+      "adj. 附加的，额外的",
+      "pron. 更多的或附加的人或事物",
+      "n. 更多",
+      "n. 附加，添加"
+    ]
+  },
+  {
+    "word": "more",
+    "definition": "adj. 另外的; adv.再; 另外; 更 n. 更多的量; morning n. 早晨, 上午",
+    "rank": 81,
+    "coca_paraphrase": "adv. 更，更多；达到或处于更大的范围或程度；此外，更加  adj. 更多的；(many)的比较级；附加的，额外的  pron. 更多的或附加的人或事物  n. 更多；附加，添加",
+    "coca_meanings": [
+      "adv. 更，更多",
+      "adv. 达到或处于更大的范围或程度",
+      "adv. 此外，更加",
+      "adj. 更多的",
+      "adj. (many)的比较级",
+      "adj. 附加的，额外的",
+      "pron. 更多的或附加的人或事物",
+      "n. 更多",
+      "n. 附加，添加"
+    ]
+  },
+  {
+    "word": "these",
+    "definition": "adj. & pron. 这些",
+    "rank": 82,
+    "coca_paraphrase": "adj. 这些的  pron. 这些",
+    "coca_meanings": [
+      "adj. 这些的",
+      "pron. 这些"
+    ]
+  },
+  {
+    "word": "want",
+    "definition": "v. 想要, 希望, 需要 n.需要; 缺乏",
+    "rank": 83,
+    "coca_paraphrase": "v. 想要；希望；打算；需要…在场  n. 需要的东西；缺少；贫穷",
+    "coca_meanings": [
+      "v. 想要",
+      "v. 希望",
+      "v. 打算",
+      "v. 需要…在场",
+      "n. 需要的东西",
+      "n. 缺少",
+      "n. 贫穷"
+    ]
+  },
+  {
+    "word": "way",
+    "definition": "n.路; 路线; 方向",
+    "rank": 84,
+    "coca_paraphrase": "n. 道路；方法；方向；某方面  adv. 远远地，大大地",
+    "coca_meanings": [
+      "n. 道路",
+      "n. 方法",
+      "n. 方向",
+      "n. 某方面",
+      "adv. 远远地，大大地"
+    ]
+  },
+  {
+    "word": "look",
+    "definition": "n. 看, 瞧 v. 看, 观看，看起来",
+    "rank": 85,
+    "coca_paraphrase": "vt.&vi. 看，瞧  vi. 注意；面向；寻找；看起来好像  n. 看；（尤指吸引人的）相貌；眼神；样子  int. （插话或唤起注意）喂，听我说",
+    "coca_meanings": [
+      "vt.&vi. 看，瞧",
+      "vi. 注意",
+      "vi. 面向",
+      "vi. 寻找",
+      "vi. 看起来好像",
+      "n. 看",
+      "n. （尤指吸引人的）相貌",
+      "n. 眼神",
+      "n. 样子",
+      "int. （插话或唤起注意）喂，听我说"
+    ]
+  },
+  {
+    "word": "because",
+    "definition": "conj. 因为",
+    "rank": 89,
+    "coca_paraphrase": "conj. 因为",
+    "coca_meanings": [
+      "conj. 因为"
+    ]
+  },
+  {
+    "word": "use",
+    "definition": "v. 使用, 利用, 耗费 n.使用, 用途, 使用价值",
+    "rank": 92,
+    "coca_paraphrase": "n. 使用；使用权；功能",
+    "coca_meanings": [
+      "n. 使用",
+      "n. 使用权",
+      "n. 功能"
+    ]
+  },
+  {
+    "word": "man (men)",
+    "definition": "n. 男人; 人类",
+    "rank": 94,
+    "coca_paraphrase": "n. 男人；人类；男子汉；雇工  vt. 使振作；操纵；给…配置人员；在…就位  int. （表示惊讶、气愤等）嘿，天哪",
+    "coca_meanings": [
+      "n. 男人",
+      "n. 人类",
+      "n. 男子汉",
+      "n. 雇工",
+      "vt. 使振作",
+      "vt. 操纵",
+      "vt. 给…配置人员",
+      "vt. 在…就位",
+      "int. （表示惊讶、气愤等）嘿，天哪"
+    ]
+  },
+  {
+    "word": "here",
+    "definition": "adv. 这里, 在这里; 向这里",
+    "rank": 96,
+    "coca_paraphrase": "adv. 在这里；这时；在这一点上；（给某人东西或指出某物时说）  n. 这里  int. 喂；嗨",
+    "coca_meanings": [
+      "adv. 在这里",
+      "adv. 这时",
+      "adv. 在这一点上",
+      "adv. （给某人东西或指出某物时说）",
+      "n. 这里",
+      "int. 喂",
+      "int. 嗨"
+    ]
+  },
+  {
+    "word": "thing",
+    "definition": "n. 东西; 物品, 用品; 事情, 事件",
+    "rank": 97,
+    "coca_paraphrase": "n. 事件，形势；东西，事物；家伙；事业",
+    "coca_meanings": [
+      "n. 事件，形势",
+      "n. 东西，事物",
+      "n. 家伙",
+      "n. 事业"
+    ]
+  },
+  {
+    "word": "give (gave, given)",
+    "definition": "v. 给; 递给; 付出",
+    "rank": 98,
+    "coca_paraphrase": "vt.&vi. 给予；赠送；作出  vt. 供给；产生；举办；（为购买某物或做某事而）支付  vi. （物体）塌下；让步  n. 伸展性，弹性",
+    "coca_meanings": [
+      "vt.&vi. 给予",
+      "vt.&vi. 赠送",
+      "vt.&vi. 作出",
+      "vt. 供给",
+      "vt. 产生",
+      "vt. 举办",
+      "vt. （为购买某物或做某事而）支付",
+      "vi. （物体）塌下",
+      "vi. 让步",
+      "n. 伸展性，弹性"
+    ]
+  },
+  {
+    "word": "only",
+    "definition": "adj. 惟一的, 仅有的 adv. 仅仅, 只, 才",
+    "rank": 101,
+    "coca_paraphrase": "adj. 唯一的；仅有的；最好的，最适当的  adv. 只，仅仅；结果却，不料  conj. 但是，可是；要不是",
+    "coca_meanings": [
+      "adj. 唯一的",
+      "adj. 仅有的",
+      "adj. 最好的，最适当的",
+      "adv. 只，仅仅",
+      "adv. 结果却，不料",
+      "conj. 但是，可是",
+      "conj. 要不是"
+    ]
+  },
+  {
+    "word": "those",
+    "definition": "adj.& pron. 那些",
+    "rank": 102,
+    "coca_paraphrase": "adj.&pron. that的复数  adj. 那些的，那  n. 那，那个( that的名词复数)；（指较远的人或事物）那；（指已提到过或已知的人或事物）那；（特指）那",
+    "coca_meanings": [
+      "adj.&pron. that的复数",
+      "adj. 那些的，那",
+      "n. 那，那个( that的名词复数)",
+      "n. （指较远的人或事物）那",
+      "n. （指已提到过或已知的人或事物）那",
+      "n. （特指）那"
+    ]
+  },
+  {
+    "word": "tell (told, told)",
+    "definition": "v. 告诉; 讲述; 吩咐; 断定, 知道",
+    "rank": 103,
+    "coca_paraphrase": "vt. 告诉，说；辨别；吩咐；讲述  vt.&vi. 分辨，辨别；告诉，吩咐；泄漏；保证  vi. 泄密，告发；（颜色、声音等）显示；识别",
+    "coca_meanings": [
+      "vt. 告诉，说",
+      "vt. 辨别",
+      "vt. 吩咐",
+      "vt. 讲述",
+      "vt.&vi. 分辨，辨别",
+      "vt.&vi. 告诉，吩咐",
+      "vt.&vi. 泄漏",
+      "vt.&vi. 保证",
+      "vi. 泄密，告发",
+      "vi. （颜色、声音等）显示",
+      "vi. 识别"
+    ]
+  },
+  {
+    "word": "even",
+    "definition": "adv. 甚至, 连（…都）; 更",
+    "rank": 107,
+    "coca_paraphrase": "adv. 甚至；更加；即使；恰巧在…时候  adj. 公平的；平坦的；偶数的；平均的  vt. 使平坦；使相等  vi. 变平；成为相等",
+    "coca_meanings": [
+      "adv. 甚至",
+      "adv. 更加",
+      "adv. 即使",
+      "adv. 恰巧在…时候",
+      "adj. 公平的",
+      "adj. 平坦的",
+      "adj. 偶数的",
+      "adj. 平均的",
+      "vt. 使平坦",
+      "vt. 使相等",
+      "vi. 变平",
+      "vi. 成为相等"
+    ]
+  },
+  {
+    "word": "back",
+    "definition": "adv. 回（原处）; 向后 adj. 后面的 n. 后部; 背",
+    "rank": 108,
+    "coca_paraphrase": "n. 背，背部；背面，反面；后面，后部；（椅子等的）靠背  vt. 使后退；支持；加背书于；下赌注于  vi. 后退；倒退  adj. 背部的；后面的；以前的；拖欠的  adv. 以前；向后地",
+    "coca_meanings": [
+      "n. 背，背部",
+      "n. 背面，反面",
+      "n. 后面，后部",
+      "n. （椅子等的）靠背",
+      "vt. 使后退",
+      "vt. 支持",
+      "vt. 加背书于",
+      "vt. 下赌注于",
+      "vi. 后退",
+      "vi. 倒退",
+      "adj. 背部的",
+      "adj. 后面的",
+      "adj. 以前的",
+      "adj. 拖欠的",
+      "adv. 以前",
+      "adv. 向后地"
+    ]
+  },
+  {
+    "word": "any",
+    "definition": "pron.（无论）哪一个;（用于疑问句、否定句）一些;",
+    "rank": 109,
+    "coca_paraphrase": "adj. 任何的；一点，一些；普通的；任何，随便哪一个  pron. 任何；无论哪个；若干  adv. 稍微，少许；什么，一些，一点",
+    "coca_meanings": [
+      "adj. 任何的",
+      "adj. 一点，一些",
+      "adj. 普通的",
+      "adj. 任何，随便哪一个",
+      "pron. 任何",
+      "pron. 无论哪个",
+      "pron. 若干",
+      "adv. 稍微，少许",
+      "adv. 什么，一些，一点"
+    ]
+  },
+  {
+    "word": "good (better, best)",
+    "definition": "adj.优良的, 上等的, 好心的, 有益的",
+    "rank": 110,
+    "coca_paraphrase": "adj. 好的；优秀的；有益的；漂亮的，健全的  n. 好处，利益；善良；善行；好人  adv. 同well",
+    "coca_meanings": [
+      "adj. 好的",
+      "adj. 优秀的",
+      "adj. 有益的",
+      "adj. 漂亮的，健全的",
+      "n. 好处，利益",
+      "n. 善良",
+      "n. 善行",
+      "n. 好人",
+      "adv. 同well"
+    ]
+  },
+  {
+    "word": "woman",
+    "definition": "n.妇女, 女人, 女性",
+    "rank": 111,
+    "coca_paraphrase": "n. 女人，妇女；成年女子；女拥人或女下属；女人本能",
+    "coca_meanings": [
+      "n. 女人，妇女",
+      "n. 成年女子",
+      "n. 女拥人或女下属",
+      "n. 女人本能"
+    ]
+  },
+  {
+    "word": "through",
+    "definition": "prep. 穿（通）过; 从始至终 adv. 穿（通）过; 自始至终, 全部",
+    "rank": 112,
+    "coca_paraphrase": "prep. 通过，穿过；经由；透过；凭借  adv. 从头到尾；彻底；自始至终  adj. （电话）接通；通话完毕；有洞的；直达的",
+    "coca_meanings": [
+      "prep. 通过，穿过",
+      "prep. 经由",
+      "prep. 透过",
+      "prep. 凭借",
+      "adv. 从头到尾",
+      "adv. 彻底",
+      "adv. 自始至终",
+      "adj. （电话）接通",
+      "adj. 通话完毕",
+      "adj. 有洞的",
+      "adj. 直达的"
+    ]
+  },
+  {
+    "word": "life (lives)",
+    "definition": "n. 生命; 生活",
+    "rank": 114,
+    "coca_paraphrase": "n. 生活，生计；生命，性命；一生，寿命；人生，尘世",
+    "coca_meanings": [
+      "n. 生活，生计",
+      "n. 生命，性命",
+      "n. 一生，寿命",
+      "n. 人生，尘世"
+    ]
+  },
+  {
+    "word": "work",
+    "definition": "n.工作; 职业 v. 工作",
+    "rank": 117,
+    "coca_paraphrase": "vt.&vi. 使工作；使运作；操作；使产生效果  n. 工作，操作；著作；工厂；行为，事业  vt. 使工作；操作；经营；使缓慢前进",
+    "coca_meanings": [
+      "vt.&vi. 使工作",
+      "vt.&vi. 使运作",
+      "vt.&vi. 操作",
+      "vt.&vi. 使产生效果",
+      "n. 工作，操作",
+      "n. 著作",
+      "n. 工厂",
+      "n. 行为，事业",
+      "vt. 使工作",
+      "vt. 操作",
+      "vt. 经营",
+      "vt. 使缓慢前进"
+    ]
+  },
+  {
+    "word": "down",
+    "definition": "prep. 沿着, 沿…而下 adv. 向下",
+    "rank": 118,
+    "coca_paraphrase": "adv. （坐、倒、躺）下；向下；（表示范围或顺序的限度）下至  prep. （从高处）向下；（表示位置）在…的下方；（表示方向）沿着…向下；（表示时间）自…以来  adj. 向下的；沮丧的；计算机或计算机系统停机；（以…）落后于对手的  n. （鸟的）绒羽；绒毛；软毛；汗毛  vt. 放下；（尤指大口或快速地）喝下；使摔倒；击落（敌机等）",
+    "coca_meanings": [
+      "adv. （坐、倒、躺）下",
+      "adv. 向下",
+      "adv. （表示范围或顺序的限度）下至",
+      "prep. （从高处）向下",
+      "prep. （表示位置）在…的下方",
+      "prep. （表示方向）沿着…向下",
+      "prep. （表示时间）自…以来",
+      "adj. 向下的",
+      "adj. 沮丧的",
+      "adj. 计算机或计算机系统停机",
+      "adj. （以…）落后于对手的",
+      "n. （鸟的）绒羽",
+      "n. 绒毛",
+      "n. 软毛",
+      "n. 汗毛",
+      "vt. 放下",
+      "vt. （尤指大口或快速地）喝下",
+      "vt. 使摔倒",
+      "vt. 击落（敌机等）"
+    ]
+  },
+  {
+    "word": "may",
+    "definition": "modal v. 可以; 也许, 可能",
+    "rank": 119,
+    "coca_paraphrase": "aux. 可以；也许；会；但愿",
+    "coca_meanings": [
+      "aux. 可以",
+      "aux. 也许",
+      "aux. 会",
+      "aux. 但愿"
+    ]
+  },
+  {
+    "word": "after",
+    "definition": "adv. 后来 prep. 在…之后;  conj. 在…以后",
+    "rank": 120,
+    "coca_paraphrase": "prep. …后的；（表示时间）在…以后；（表示位置、顺序）在…后面  conj. 在…以后  adv. 以后，继后  adj. 后来的，以后的",
+    "coca_meanings": [
+      "prep. …后的",
+      "prep. （表示时间）在…以后",
+      "prep. （表示位置、顺序）在…后面",
+      "conj. 在…以后",
+      "adv. 以后，继后",
+      "adj. 后来的，以后的"
+    ]
+  },
+  {
+    "word": "shall (should) modal",
+    "definition": "v. 将要, 会",
+    "rank": 121,
+    "coca_paraphrase": "",
+    "coca_meanings": []
+  },
+  {
+    "word": "should",
+    "definition": "v. mod. 应当, 应该, 将要; 会",
+    "rank": 121,
+    "coca_paraphrase": "",
+    "coca_meanings": []
+  },
+  {
+    "word": "call",
+    "definition": "n. 喊, 叫; 电话, 通话 v. 称呼; 呼唤; 喊, 叫",
+    "rank": 122,
+    "coca_paraphrase": "v. 呼唤，喊叫；召唤，叫来，召集；下令，命令；打电话给  n. 喊叫，大声喊；电话联络；必要，理由；要求",
+    "coca_meanings": [
+      "v. 呼唤，喊叫",
+      "v. 召唤，叫来，召集",
+      "v. 下令，命令",
+      "v. 打电话给",
+      "n. 喊叫，大声喊",
+      "n. 电话联络",
+      "n. 必要，理由",
+      "n. 要求"
+    ]
+  },
+  {
+    "word": "over",
+    "definition": "prep. 在…上方; 越过; 遍及 adv. 翻倒; 越过;",
+    "rank": 124,
+    "coca_paraphrase": "prep. （表示方向）越过；（部份或全部覆盖）在…上面；由于；（表示论及）关于  adv. 结束；再；（倒）下；从一边至另一边  adj. 过去的；外面的；在上的；上级的  n. 额外；剩余；剩余（或多余）的量；剩余物  vt. 走过，跳过",
+    "coca_meanings": [
+      "prep. （表示方向）越过",
+      "prep. （部份或全部覆盖）在…上面",
+      "prep. 由于",
+      "prep. （表示论及）关于",
+      "adv. 结束",
+      "adv. 再",
+      "adv. （倒）下",
+      "adv. 从一边至另一边",
+      "adj. 过去的",
+      "adj. 外面的",
+      "adj. 在上的",
+      "adj. 上级的",
+      "n. 额外",
+      "n. 剩余",
+      "n. 剩余（或多余）的量",
+      "n. 剩余物",
+      "vt. 走过，跳过"
+    ]
+  },
+  {
+    "word": "still",
+    "definition": "adj. 不动的, 平静的 adv. .还, 仍, 更, 还要, 尽管如此, 依然",
+    "rank": 126,
+    "coca_paraphrase": "adv. 仍，仍然；更，还要；静静地；〈诗〉常，不断地  adj. 不动的，静止的；不狂暴的，温柔的；没有活力的，死气沉沉的  n. 平静，寂静；剧照；静止摄影；蒸馏器  vt.&vi. （使某物）平静下来，安静；〈古〉烧（酒），蒸馏  conj. 但是；然而",
+    "coca_meanings": [
+      "adv. 仍，仍然",
+      "adv. 更，还要",
+      "adv. 静静地",
+      "adv. 〈诗〉常，不断地",
+      "adj. 不动的，静止的",
+      "adj. 不狂暴的，温柔的",
+      "adj. 没有活力的，死气沉沉的",
+      "n. 平静，寂静",
+      "n. 剧照",
+      "n. 静止摄影",
+      "n. 蒸馏器",
+      "vt.&vi. （使某物）平静下来，安静",
+      "vt.&vi. 〈古〉烧（酒），蒸馏",
+      "conj. 但是",
+      "conj. 然而"
+    ]
+  },
+  {
+    "word": "try",
+    "definition": "v. 试, 试图, 努力",
+    "rank": 127,
+    "coca_paraphrase": "vt.&vi. 试图，努力；实验；审判；考验  n. 尝试，实验",
+    "coca_meanings": [
+      "vt.&vi. 试图，努力",
+      "vt.&vi. 实验",
+      "vt.&vi. 审判",
+      "vt.&vi. 考验",
+      "n. 尝试，实验"
+    ]
+  },
+  {
+    "word": "last",
+    "definition": "adj. 最近的; 最后的 v. 持续",
+    "rank": 130,
+    "coca_paraphrase": "n. 末尾；最后；上个；鞋楦（做鞋的模型）  vt. 经受住；到…之后；够用；足够维持（尤指某段时间）  adj. 最近的；最后的；最不可能的；惟一剩下的  vi. 持续  adv. 上一次，最近一次；最后",
+    "coca_meanings": [
+      "n. 末尾",
+      "n. 最后",
+      "n. 上个",
+      "n. 鞋楦（做鞋的模型）",
+      "vt. 经受住",
+      "vt. 到…之后",
+      "vt. 够用",
+      "vt. 足够维持（尤指某段时间）",
+      "adj. 最近的",
+      "adj. 最后的",
+      "adj. 最不可能的",
+      "adj. 惟一剩下的",
+      "vi. 持续",
+      "adv. 上一次，最近一次",
+      "adv. 最后"
+    ]
+  },
+  {
+    "word": "ask",
+    "definition": "v. 问, 询问; 要求; 邀请",
+    "rank": 131,
+    "coca_paraphrase": "vt.&vi. 问，询问；需要；要求，请求；邀请  vt. 邀请；请求允许；要价；询问  vi. 请，邀请；询问；要求",
+    "coca_meanings": [
+      "vt.&vi. 问，询问",
+      "vt.&vi. 需要",
+      "vt.&vi. 要求，请求",
+      "vt.&vi. 邀请",
+      "vt. 邀请",
+      "vt. 请求允许",
+      "vt. 要价",
+      "vt. 询问",
+      "vi. 请，邀请",
+      "vi. 询问",
+      "vi. 要求"
+    ]
+  },
+  {
+    "word": "need",
+    "definition": "n. 需要, 需求 modal v. 需要, 必须",
+    "rank": 132,
+    "coca_paraphrase": "vt. 需要；必须  aux. 必须；不得不  n. 需要；需要的东西；责任；贫穷  vi. （表示应该或不得不做）有必要",
+    "coca_meanings": [
+      "vt. 需要",
+      "vt. 必须",
+      "aux. 必须",
+      "aux. 不得不",
+      "n. 需要",
+      "n. 需要的东西",
+      "n. 责任",
+      "n. 贫穷",
+      "vi. （表示应该或不得不做）有必要"
+    ]
+  },
+  {
+    "word": "feel (felt, felt)",
+    "definition": "v.& link 感觉, 觉得; 摸, 触",
+    "rank": 134,
+    "coca_paraphrase": "vt. 感觉；认为；触摸；试探  vt.&vi. 感觉，觉得；认为，以为；触摸  n. 感觉；触摸；感受；触觉  vi. 觉得；摸索",
+    "coca_meanings": [
+      "vt. 感觉",
+      "vt. 认为",
+      "vt. 触摸",
+      "vt. 试探",
+      "vt.&vi. 感觉，觉得",
+      "vt.&vi. 认为，以为",
+      "vt.&vi. 触摸",
+      "n. 感觉",
+      "n. 触摸",
+      "n. 感受",
+      "n. 触觉",
+      "vi. 觉得",
+      "vi. 摸索"
+    ]
+  },
+  {
+    "word": "state",
+    "definition": "n. 状态; 情形; 国家, 州",
+    "rank": 137,
+    "coca_paraphrase": "n. 国家；州；状况，情况；资格  vt. 规定；陈述，声明  adj. 国家的；国务的，公务的；正式的",
+    "coca_meanings": [
+      "n. 国家",
+      "n. 州",
+      "n. 状况，情况",
+      "n. 资格",
+      "vt. 规定",
+      "vt. 陈述，声明",
+      "adj. 国家的",
+      "adj. 国务的，公务的",
+      "adj. 正式的"
+    ]
+  },
+  {
+    "word": "never",
+    "definition": "adv. 决不, 从来没有",
+    "rank": 138,
+    "coca_paraphrase": "adv. 从不，从来没有；一点也不，决不；<口>不会…吧，没有；不曾",
+    "coca_meanings": [
+      "adv. 从不，从来没有",
+      "adv. 一点也不，决不",
+      "adv. <口>不会…吧，没有",
+      "adv. 不曾"
+    ]
+  },
+  {
+    "word": "become (became, become)",
+    "definition": "v. 变得; 成为",
+    "rank": 139,
+    "coca_paraphrase": "vi. 变为，成为；变得；变成  vt. 适合，适宜；相称，相当；变成；发生",
+    "coca_meanings": [
+      "vi. 变为，成为",
+      "vi. 变得",
+      "vi. 变成",
+      "vt. 适合，适宜",
+      "vt. 相称，相当",
+      "vt. 变成",
+      "vt. 发生"
+    ]
+  },
+  {
+    "word": "between",
+    "definition": "prep. 在（两者）之间; 在…中间",
+    "rank": 140,
+    "coca_paraphrase": "prep. 在…之间；私下，暗中；在…中任择其一；来往于…之间  adv. 当中，中间",
+    "coca_meanings": [
+      "prep. 在…之间",
+      "prep. 私下，暗中",
+      "prep. 在…中任择其一",
+      "prep. 来往于…之间",
+      "adv. 当中，中间"
+    ]
+  },
+  {
+    "word": "high",
+    "definition": "adj. 高的 adv. 高地",
+    "rank": 141,
+    "coca_paraphrase": "adj. 高的；高尚的，崇高的；高音调的；高级的，高等的  adv. （程度等）高地；高价地；奢侈地  n. 高处，高位",
+    "coca_meanings": [
+      "adj. 高的",
+      "adj. 高尚的，崇高的",
+      "adj. 高音调的",
+      "adj. 高级的，高等的",
+      "adv. （程度等）高地",
+      "adv. 高价地",
+      "adv. 奢侈地",
+      "n. 高处，高位"
+    ]
+  },
+  {
+    "word": "really",
+    "definition": "adv. 真正地; 到底; 确实",
+    "rank": 142,
+    "coca_paraphrase": "adv. 真，真正；实在，果真；实际上；事实上",
+    "coca_meanings": [
+      "adv. 真，真正",
+      "adv. 实在，果真",
+      "adv. 实际上",
+      "adv. 事实上"
+    ]
+  },
+  {
+    "word": "something",
+    "definition": "pron. 某事; 某物",
+    "rank": 143,
+    "coca_paraphrase": "pron. 某物，某事  n. （表示不确切的描述或数量）大致，左右  adv. 非常；有点；大约",
+    "coca_meanings": [
+      "pron. 某物，某事",
+      "n. （表示不确切的描述或数量）大致，左右",
+      "adv. 非常",
+      "adv. 有点",
+      "adv. 大约"
+    ]
+  },
+  {
+    "word": "another",
+    "definition": "adj. 再一; 另一; 别的; 不同的 pron. 另一个",
+    "rank": 145,
+    "coca_paraphrase": "adj. 又一个；再一个；另一的；其他一种  pron. 另一个，别个；再一个",
+    "coca_meanings": [
+      "adj. 又一个",
+      "adj. 再一个",
+      "adj. 另一的",
+      "adj. 其他一种",
+      "pron. 另一个，别个",
+      "pron. 再一个"
+    ]
+  },
+  {
+    "word": "own",
+    "definition": "adj. 自己的 v. 拥有, 所有",
+    "rank": 148,
+    "coca_paraphrase": "n. 自己的事物；自己人  vt. 拥有；承认  vi. 承认  adj. 自己的；特有的",
+    "coca_meanings": [
+      "n. 自己的事物",
+      "n. 自己人",
+      "vt. 拥有",
+      "vt. 承认",
+      "vi. 承认",
+      "adj. 自己的",
+      "adj. 特有的"
+    ]
+  },
+  {
+    "word": "leave (left, left)",
+    "definition": "v. 离开; 把…留下, 剩下",
+    "rank": 150,
+    "coca_paraphrase": "vt. 离开；遗弃；忘了带；交托  vt.&vi. 离去；出发；舍弃  n. 准假；假期；辞别；许可",
+    "coca_meanings": [
+      "vt. 离开",
+      "vt. 遗弃",
+      "vt. 忘了带",
+      "vt. 交托",
+      "vt.&vi. 离去",
+      "vt.&vi. 出发",
+      "vt.&vi. 舍弃",
+      "n. 准假",
+      "n. 假期",
+      "n. 辞别",
+      "n. 许可"
+    ]
+  },
+  {
+    "word": "put (put, put)",
+    "definition": "v. 放, 摆",
+    "rank": 151,
+    "coca_paraphrase": "vt. 放；表达；给予（重视、信任、价值等）；使处于（某种状态）  vt.&vi. 使感觉到；使受到…的影响  vi. 说；猛推；将…送往；使与…连接  adj. 固定的；不动的",
+    "coca_meanings": [
+      "vt. 放",
+      "vt. 表达",
+      "vt. 给予（重视、信任、价值等）",
+      "vt. 使处于（某种状态）",
+      "vt.&vi. 使感觉到",
+      "vt.&vi. 使受到…的影响",
+      "vi. 说",
+      "vi. 猛推",
+      "vi. 将…送往",
+      "vi. 使与…连接",
+      "adj. 固定的",
+      "adj. 不动的"
+    ]
+  },
+  {
+    "word": "old",
+    "definition": "adj. 老的, 旧的",
+    "rank": 152,
+    "coca_paraphrase": "adj. 老的；古老的；以前的；（用于指称被替代的东西）原来的  n. 古时",
+    "coca_meanings": [
+      "adj. 老的",
+      "adj. 古老的",
+      "adj. 以前的",
+      "adj. （用于指称被替代的东西）原来的",
+      "n. 古时"
+    ]
+  },
+  {
+    "word": "while",
+    "definition": "conj.当…的时候; 而n.一会儿, 时间",
+    "rank": 153,
+    "coca_paraphrase": "conj. 在…期间；与…同时；虽然；而  n. （一段）时间  vt. 消磨，打发（时间）；（愉快而懒散地）度过（时间）（常与 away 连用）",
+    "coca_meanings": [
+      "conj. 在…期间",
+      "conj. 与…同时",
+      "conj. 虽然",
+      "conj. 而",
+      "n. （一段）时间",
+      "vt. 消磨，打发（时间）",
+      "vt. （愉快而懒散地）度过（时间）（常与 away 连用）"
+    ]
+  },
+  {
+    "word": "mean(meant,meant)",
+    "definition": "v. 意思是; 打算",
+    "rank": 154,
+    "coca_paraphrase": "v. 表示…的意思；意思是；打算；产生…结果  adj. 吝啬的；刻薄的；破旧的；残忍的  n. 平均数；中间；几何平均；等比中数",
+    "coca_meanings": [
+      "v. 表示…的意思",
+      "v. 意思是",
+      "v. 打算",
+      "v. 产生…结果",
+      "adj. 吝啬的",
+      "adj. 刻薄的",
+      "adj. 破旧的",
+      "adj. 残忍的",
+      "n. 平均数",
+      "n. 中间",
+      "n. 几何平均",
+      "n. 等比中数"
+    ]
+  },
+  {
+    "word": "keep (kept, kept)",
+    "definition": "v. 保持;  继续不断 v. 培育, 饲养",
+    "rank": 156,
+    "coca_paraphrase": "vt. 保持；保留；遵守；阻止  vi. （食品）保持新；保持健康  n. 保持，保养；供养，抚养；生活，生计；饲料；牧草",
+    "coca_meanings": [
+      "vt. 保持",
+      "vt. 保留",
+      "vt. 遵守",
+      "vt. 阻止",
+      "vi. （食品）保持新",
+      "vi. 保持健康",
+      "n. 保持，保养",
+      "n. 供养，抚养",
+      "n. 生活，生计",
+      "n. 饲料；牧草"
+    ]
+  },
+  {
+    "word": "why",
+    "definition": "adv.为什么int.哎呀!什么?",
+    "rank": 158,
+    "coca_paraphrase": "adv. （用于问句）为什么；为何；（反问，表示不必）何必；（说明理由）为什么  int. 呵唷，哎呀，嗨  n. 理由；原因；说明；难解的问题",
+    "coca_meanings": [
+      "adv. （用于问句）为什么",
+      "adv. 为何",
+      "adv. （反问，表示不必）何必",
+      "adv. （说明理由）为什么",
+      "int. 呵唷，哎呀，嗨",
+      "n. 理由",
+      "n. 原因",
+      "n. 说明",
+      "n. 难解的问题"
+    ]
+  },
+  {
+    "word": "let (let, let)",
+    "definition": "v. 让",
+    "rank": 159,
+    "coca_paraphrase": "",
+    "coca_meanings": []
+  },
+  {
+    "word": "same",
+    "definition": "n. 同样的事 adj. 同样的, 同一的",
+    "rank": 161,
+    "coca_paraphrase": "adj. 同一的；相同的，同样的  pron. 同一事物；同样的人；（和…）同样的事物；（数目、颜色、大小、质量等）相同  adv. 同样，类似",
+    "coca_meanings": [
+      "adj. 同一的",
+      "adj. 相同的，同样的",
+      "pron. 同一事物",
+      "pron. 同样的人",
+      "pron. （和…）同样的事物",
+      "pron. （数目、颜色、大小、质量等）相同",
+      "adv. 同样，类似"
+    ]
+  },
+  {
+    "word": "group",
+    "definition": "n. 组, 群",
+    "rank": 163,
+    "coca_paraphrase": "n. 组，团体；群，批；（雕塑等的）群像；（英美的）空军大队  vt.&vi. 使成群，集合  vt. 分类，归类",
+    "coca_meanings": [
+      "n. 组，团体",
+      "n. 群，批",
+      "n. （雕塑等的）群像",
+      "n. （英美的）空军大队",
+      "vt.&vi. 使成群，集合",
+      "vt. 分类，归类"
+    ]
+  },
+  {
+    "word": "begin(began, begun)",
+    "definition": "v. 开始, 着手",
+    "rank": 164,
+    "coca_paraphrase": "vt.&vi. 开始；着手；创始；创办  vi. （从…）开始；起始；起初是；开始讲话",
+    "coca_meanings": [
+      "vt.&vi. 开始",
+      "vt.&vi. 着手",
+      "vt.&vi. 创始",
+      "vt.&vi. 创办",
+      "vi. （从…）开始",
+      "vi. 起始",
+      "vi. 起初是",
+      "vi. 开始讲话"
+    ]
+  },
+  {
+    "word": "seem",
+    "definition": "v. 似乎, 好像",
+    "rank": 165,
+    "coca_paraphrase": "v. 好像，仿佛；似乎；装作；看来好像",
+    "coca_meanings": [
+      "v. 好像，仿佛",
+      "v. 似乎",
+      "v. 装作",
+      "v. 看来好像"
+    ]
+  },
+  {
+    "word": "country",
+    "definition": "n. 国家; 农村, 乡下",
+    "rank": 166,
+    "coca_paraphrase": "n. 国家；国民；乡下；地区",
+    "coca_meanings": [
+      "n. 国家",
+      "n. 国民",
+      "n. 乡下",
+      "n. 地区"
+    ]
+  },
+  {
+    "word": "turn",
+    "definition": "v. 旋转, 翻转, 转变, 转弯 n. 轮流, 顺序",
+    "rank": 170,
+    "coca_paraphrase": "vt.&vi. 使转动；旋转；使改变方向；使不适  vt. 使变酸；使变换；使变为  n. 翻转；（路线或方向的）改变；机会",
+    "coca_meanings": [
+      "vt.&vi. 使转动",
+      "vt.&vi. 旋转",
+      "vt.&vi. 使改变方向",
+      "vt.&vi. 使不适",
+      "vt. 使变酸",
+      "vt. 使变换",
+      "vt. 使变为",
+      "n. 翻转",
+      "n. （路线或方向的）改变",
+      "n. 机会"
+    ]
+  },
+  {
+    "word": "every",
+    "definition": "adj. 每一,  每个的",
+    "rank": 172,
+    "coca_paraphrase": "det. 每个；每；所有可能的；充足的",
+    "coca_meanings": [
+      "det. 每个",
+      "det. 每",
+      "det. 所有可能的",
+      "det. 充足的"
+    ]
+  },
+  {
+    "word": "start",
+    "definition": "v. 开始, 着手; 出发, 惊起 n.开始, 惊起,",
+    "rank": 173,
+    "coca_paraphrase": "n. 开始；动身；开动；起点  vt.&vi. 出发，启程  vt. 起动；提出（问题）；开办；使开始  vi. 起始；突然出现；突然跳起；突然涌出",
+    "coca_meanings": [
+      "n. 开始",
+      "n. 动身",
+      "n. 开动",
+      "n. 起点",
+      "vt.&vi. 出发，启程",
+      "vt. 起动",
+      "vt. 提出（问题）",
+      "vt. 开办",
+      "vt. 使开始",
+      "vi. 起始",
+      "vi. 突然出现",
+      "vi. 突然跳起",
+      "vi. 突然涌出"
+    ]
+  },
+  {
+    "word": "hand",
+    "definition": "n. 手; 指针 v. 递; 给; 交付; 交上",
+    "rank": 174,
+    "coca_paraphrase": "n. 手；协助，帮助；（工具等的）把，柄；掌管  vt. 传递，交给；搀扶；支持",
+    "coca_meanings": [
+      "n. 手",
+      "n. 协助，帮助",
+      "n. （工具等的）把，柄",
+      "n. 掌管",
+      "vt. 传递，交给",
+      "vt. 搀扶",
+      "vt. 支持"
+    ]
+  },
+  {
+    "word": "might",
+    "definition": "modal v. (may的过去式)可能, 也许, 或许",
+    "rank": 175,
+    "coca_paraphrase": "aux. 表示可能；表示许可；表示询问情况  n. 力气；力量；威力；权力  v. 可以；应该",
+    "coca_meanings": [
+      "aux. 表示可能",
+      "aux. 表示许可",
+      "aux. 表示询问情况",
+      "n. 力气",
+      "n. 力量",
+      "n. 威力",
+      "n. 权力",
+      "v. 可以",
+      "v. 应该"
+    ]
+  },
+  {
+    "word": "American",
+    "definition": "adj. 美洲的；美国人的 n. 美国人; 美洲人",
+    "rank": 176,
+    "coca_paraphrase": "n. 美国人，美洲人；美国英语  adj. 美国的，美洲的；地道美国式的",
+    "coca_meanings": [
+      "n. 美国人，美洲人",
+      "n. 美国英语",
+      "adj. 美国的，美洲的",
+      "adj. 地道美国式的"
+    ]
+  },
+  {
+    "word": "part",
+    "definition": "n. 部分; 成分; 角色;零件 adj.部分的 v. 分离;",
+    "rank": 178,
+    "coca_paraphrase": "n. 部分；零件；参加；地区  vt. 使分裂；拆移；使分开  vi. 分开；分离；分岔  adv. 不完全地，部分地  adj. 不完全的，部分的",
+    "coca_meanings": [
+      "n. 部分",
+      "n. 零件",
+      "n. 参加",
+      "n. 地区",
+      "vt. 使分裂",
+      "vt. 拆移",
+      "vt. 使分开",
+      "vi. 分开",
+      "vi. 分离",
+      "vi. 分岔",
+      "adv. 不完全地，部分地",
+      "adj. 不完全的，部分的"
+    ]
+  },
+  {
+    "word": "against",
+    "definition": "prep. 对着, 反对",
+    "rank": 180,
+    "coca_paraphrase": "prep. 反对；对…不利；紧靠；以防",
+    "coca_meanings": [
+      "prep. 反对",
+      "prep. 对…不利",
+      "prep. 紧靠",
+      "prep. 以防"
+    ]
+  },
+  {
+    "word": "place",
+    "definition": "n. 地方, 处所 v. 放置, 安置, 安排",
+    "rank": 181,
+    "coca_paraphrase": "n. 位；地方；职位；座位  vt. 放置；获名次；投资；评价  vi. 得名次；名列前茅",
+    "coca_meanings": [
+      "n. 位",
+      "n. 地方",
+      "n. 职位",
+      "n. 座位",
+      "vt. 放置",
+      "vt. 获名次",
+      "vt. 投资",
+      "vt. 评价",
+      "vi. 得名次",
+      "vi. 名列前茅"
+    ]
+  },
+  {
+    "word": "such",
+    "definition": "adv. 那么 pron. 这样的人(们)或物 adj.这样的, 那样的",
+    "rank": 183,
+    "coca_paraphrase": "adj. 这样的；如此的；这么大的；非常的",
+    "coca_meanings": [
+      "adj. 这样的",
+      "adj. 如此的",
+      "adj. 这么大的",
+      "adj. 非常的"
+    ]
+  },
+  {
+    "word": "few",
+    "definition": "pron. 不多; 少数 adj. 不多的; 少数的",
+    "rank": 185,
+    "coca_paraphrase": "adj. 很少的；很少；（与复数名词和复数动词连用）有些；几乎没有的  pron. 很少；有些（人、事物、地方）；（与复数动词连用）少数人；不和…一般多  n. 很少数",
+    "coca_meanings": [
+      "adj. 很少的",
+      "adj. 很少",
+      "adj. （与复数名词和复数动词连用）有些",
+      "adj. 几乎没有的",
+      "pron. 很少",
+      "pron. 有些（人、事物、地方）",
+      "pron. （与复数动词连用）少数人",
+      "pron. 不和…一般多",
+      "n. 很少数"
+    ]
+  },
+  {
+    "word": "case",
+    "definition": "n.情况; 病例; 案件；箱; 盒",
+    "rank": 186,
+    "coca_paraphrase": "n. （实）例，事例；情况，状况；诉讼（事件），案件，判例；容器（箱，盒）  vt. 把…装入箱（或盒等）内；加盖于；包围，围住",
+    "coca_meanings": [
+      "n. （实）例，事例",
+      "n. 情况，状况",
+      "n. 诉讼（事件），案件，判例",
+      "n. 容器（箱，盒）",
+      "vt. 把…装入箱（或盒等）内",
+      "vt. 加盖于",
+      "vt. 包围，围住"
+    ]
+  },
+  {
+    "word": "week",
+    "definition": "n.星期, 周",
+    "rank": 188,
+    "coca_paraphrase": "n. 一星期，周；工作周（一个星期中的工作时间）",
+    "coca_meanings": [
+      "n. 一星期，周",
+      "n. 工作周（一个星期中的工作时间）"
+    ]
+  },
+  {
+    "word": "company",
+    "definition": "n. 公司",
+    "rank": 189,
+    "coca_paraphrase": "n. 公司，商号；作伴，伴侣，客人；连队，中队；（社交）集会，聚会",
+    "coca_meanings": [
+      "n. 公司，商号",
+      "n. 作伴，伴侣，客人",
+      "n. 连队，中队",
+      "n. （社交）集会，聚会"
+    ]
+  },
+  {
+    "word": "system",
+    "definition": "n. 体系; 系统",
+    "rank": 191,
+    "coca_paraphrase": "n. 体系，系统；制度；身体；方法",
+    "coca_meanings": [
+      "n. 体系，系统",
+      "n. 制度",
+      "n. 身体",
+      "n. 方法"
+    ]
+  },
+  {
+    "word": "each",
+    "definition": "adj. 各自的, 每个的, 每一 pron. 每人, 每个, 每件",
+    "rank": 192,
+    "coca_paraphrase": "adj. 每；各自的  pron. 每个；各自",
+    "coca_meanings": [
+      "adj. 每",
+      "adj. 各自的",
+      "pron. 每个",
+      "pron. 各自"
+    ]
+  },
+  {
+    "word": "right",
+    "definition": "n. 权利, 右边 adj. 对, 正确的; 右边的 adv. 正确地, 恰恰",
+    "rank": 193,
+    "coca_paraphrase": "adv. 立刻，马上；向右，右边；恰当地；一直  adj. 右方的；正确的；合适的；好的，正常的  n. 正确，正当；右边；权利；右手  vt. 纠正；扶直，使正；整理；补偿  vi. （船舶等）复正，恢复平稳",
+    "coca_meanings": [
+      "adv. 立刻，马上",
+      "adv. 向右，右边",
+      "adv. 恰当地",
+      "adv. 一直",
+      "adj. 右方的",
+      "adj. 正确的",
+      "adj. 合适的",
+      "adj. 好的，正常的",
+      "n. 正确，正当",
+      "n. 右边",
+      "n. 权利",
+      "n. 右手",
+      "vt. 纠正",
+      "vt. 扶直，使正",
+      "vt. 整理",
+      "vt. 补偿",
+      "vi. （船舶等）复正，恢复平稳"
+    ]
+  },
+  {
+    "word": "programme (program)",
+    "definition": "n. 节目, 程序, 纲要, 计划",
+    "rank": 194,
+    "coca_paraphrase": "n. 程序；节目，节目单；计划，安排",
+    "coca_meanings": [
+      "n. 程序",
+      "n. 节目，节目单",
+      "n. 计划，安排"
+    ]
+  },
+  {
+    "word": "question",
+    "definition": "v. 询问 n. 问题",
+    "rank": 197,
+    "coca_paraphrase": "n. 问题；疑问；怀疑；议题  vt. 问（某人）问题",
+    "coca_meanings": [
+      "n. 问题",
+      "n. 疑问",
+      "n. 怀疑",
+      "n. 议题",
+      "vt. 问（某人）问题"
+    ]
+  },
+  {
+    "word": "during",
+    "definition": "prep. 在…期间",
+    "rank": 198,
+    "coca_paraphrase": "prep. 在…的时候；在…期间，当…之时；其间",
+    "coca_meanings": [
+      "prep. 在…的时候",
+      "prep. 在…期间，当…之时",
+      "prep. 其间"
+    ]
+  },
+  {
+    "word": "play",
+    "definition": "v. 玩; 打（球）; 游戏; 播放 n. 玩耍, 戏剧",
+    "rank": 200,
+    "coca_paraphrase": "n. 比赛；游戏；戏剧；赌博  vt.&vi. 玩；演奏；演出；参加比赛  vt. 扮演；担任，充当…的角色；演出；装扮  vi. 玩耍，游戏",
+    "coca_meanings": [
+      "n. 比赛",
+      "n. 游戏",
+      "n. 戏剧",
+      "n. 赌博",
+      "vt.&vi. 玩",
+      "vt.&vi. 演奏",
+      "vt.&vi. 演出",
+      "vt.&vi. 参加比赛",
+      "vt. 扮演",
+      "vt. 担任，充当…的角色",
+      "vt. 演出",
+      "vt. 装扮",
+      "vi. 玩耍，游戏"
+    ]
+  },
+  {
+    "word": "government",
+    "definition": "n. 政府",
+    "rank": 201,
+    "coca_paraphrase": "n. 政府；政体；治理的形式；管辖，治理",
+    "coca_meanings": [
+      "n. 政府",
+      "n. 政体",
+      "n. 治理的形式",
+      "n. 管辖，治理"
+    ]
+  },
+  {
+    "word": "number",
+    "definition": "n. 数, 数字, 号码; 数量",
+    "rank": 204,
+    "coca_paraphrase": "n. 数字；数量；号码；编号  v. 标号；总计；把…算作",
+    "coca_meanings": [
+      "n. 数字",
+      "n. 数量",
+      "n. 号码",
+      "n. 编号",
+      "v. 标号",
+      "v. 总计",
+      "v. 把…算作"
+    ]
+  },
+  {
+    "word": "off",
+    "definition": "prep. 离开,  adv. 离开;（电、自来水）停了, 中断",
+    "rank": 205,
+    "coca_paraphrase": "prep. 从…落下；离开；从…去掉；下班  adv. 离开；距，离；被取消；下班  adj. 不新鲜的；不能接受；不礼貌  n. 起跑  v. 杀死",
+    "coca_meanings": [
+      "prep. 从…落下",
+      "prep. 离开",
+      "prep. 从…去掉",
+      "prep. 下班",
+      "adv. 离开",
+      "adv. 距，离",
+      "adv. 被取消",
+      "adv. 下班",
+      "adj. 不新鲜的",
+      "adj. 不能接受",
+      "adj. 不礼貌",
+      "n. 起跑",
+      "v. 杀死"
+    ]
+  },
+  {
+    "word": "always",
+    "definition": "adv. 总是; 一直; 永远",
+    "rank": 206,
+    "coca_paraphrase": "adv. 总是，老是；永远，始终；常常；不断地",
+    "coca_meanings": [
+      "adv. 总是，老是",
+      "adv. 永远，始终",
+      "adv. 常常",
+      "adv. 不断地"
+    ]
+  },
+  {
+    "word": "move",
+    "definition": "v. 移动, 搬动, 搬家",
+    "rank": 207,
+    "coca_paraphrase": "vt.&vi. 移动，搬动  vi. 搬家；行动；进展；（机器等）开动  vt. 提议；使感动；摇动；变化  n. 改变；迁移",
+    "coca_meanings": [
+      "vt.&vi. 移动，搬动",
+      "vi. 搬家",
+      "vi. 行动",
+      "vi. 进展",
+      "vi. （机器等）开动",
+      "vt. 提议",
+      "vt. 使感动",
+      "vt. 摇动",
+      "vt. 变化",
+      "n. 改变",
+      "n. 迁移"
+    ]
+  },
+  {
+    "word": "live",
+    "definition": "v. 生活; 居住; 活着 adj., 活着的; 现场直播的",
+    "rank": 210,
+    "coca_paraphrase": "vi. 生存；居住；生活，过活；在生活中得到享受  vt. 经历；度过",
+    "coca_meanings": [
+      "vi. 生存",
+      "vi. 居住",
+      "vi. 生活，过活",
+      "vi. 在生活中得到享受",
+      "vt. 经历",
+      "vt. 度过"
+    ]
+  },
+  {
+    "word": "Mr. (mister)",
+    "definition": "n. 先生",
+    "rank": 211,
+    "coca_paraphrase": "abbr. Mister 先生；Master 少爷；Mother 母亲；molecular radius 分子半径",
+    "coca_meanings": [
+      "abbr. Mister 先生",
+      "abbr. Master 少爷",
+      "abbr. Mother 母亲",
+      "abbr. molecular radius 分子半径"
+    ]
+  },
+  {
+    "word": "point",
+    "definition": "v. 指, 指向, 表明 n. 点, 分数, 要点, 意义",
+    "rank": 212,
+    "coca_paraphrase": "n. 点；要点；得分；标点  vt. （意思上）指向；削尖；加标点于；指路  vi. 表明；指向",
+    "coca_meanings": [
+      "n. 点",
+      "n. 要点",
+      "n. 得分",
+      "n. 标点",
+      "vt. （意思上）指向",
+      "vt. 削尖",
+      "vt. 加标点于",
+      "vt. 指路",
+      "vi. 表明",
+      "vi. 指向"
+    ]
+  },
+  {
+    "word": "believe",
+    "definition": "v. 相信, 认为",
+    "rank": 213,
+    "coca_paraphrase": "v. 信任；料想；笃信宗教  vt. 相信；以为，认为；对…信以为真；信任",
+    "coca_meanings": [
+      "v. 信任",
+      "v. 料想",
+      "v. 笃信宗教",
+      "vt. 相信",
+      "vt. 以为，认为",
+      "vt. 对…信以为真",
+      "vt. 信任"
+    ]
+  },
+  {
+    "word": "hold (held, held)",
+    "definition": "v. 拿; 抱; 握住; 举行; 进行",
+    "rank": 214,
+    "coca_paraphrase": "vt. 拿住，握住；保留，保存；扣留，拘押；容纳  vi. 拿住，握住；同意，赞成；保持不变；有效  n. 握住；保留；控制",
+    "coca_meanings": [
+      "vt. 拿住，握住",
+      "vt. 保留，保存",
+      "vt. 扣留，拘押",
+      "vt. 容纳",
+      "vi. 拿住，握住",
+      "vi. 同意，赞成",
+      "vi. 保持不变",
+      "vi. 有效",
+      "n. 握住",
+      "n. 保留",
+      "n. 控制"
+    ]
+  },
+  {
+    "word": "happen",
+    "definition": "v.（偶然）发生; 碰巧",
+    "rank": 217,
+    "coca_paraphrase": "vi. 发生；碰巧；出现；偶然遇到",
+    "coca_meanings": [
+      "vi. 发生",
+      "vi. 碰巧",
+      "vi. 出现",
+      "vi. 偶然遇到"
+    ]
+  },
+  {
+    "word": "next",
+    "definition": "adj. 紧挨着的, v. 随后, 下一步 n. 下一个人（东西）",
+    "rank": 218,
+    "coca_paraphrase": "adj. 紧接在后的；次于的；贴近的；紧邻的  adv. 接下去；然后；居后地；依次的  n. 下一位；下一个  prep. 靠近；居于…之后；在…的隔壁",
+    "coca_meanings": [
+      "adj. 紧接在后的",
+      "adj. 次于的",
+      "adj. 贴近的",
+      "adj. 紧邻的",
+      "adv. 接下去",
+      "adv. 然后",
+      "adv. 居后地",
+      "adv. 依次的",
+      "n. 下一位",
+      "n. 下一个",
+      "prep. 靠近",
+      "prep. 居于…之后",
+      "prep. 在…的隔壁"
+    ]
+  },
+  {
+    "word": "without",
+    "definition": "prep.无, 没有, 不",
+    "rank": 219,
+    "coca_paraphrase": "adv. 在外部；户外；缺少；没有或不显示某事物  prep. 没有，缺乏；在外面  conj. 除非，如果不",
+    "coca_meanings": [
+      "adv. 在外部",
+      "adv. 户外",
+      "adv. 缺少",
+      "adv. 没有或不显示某事物",
+      "prep. 没有，缺乏",
+      "prep. 在外面",
+      "conj. 除非，如果不"
+    ]
+  },
+  {
+    "word": "before",
+    "definition": "prep. 在…以前; adv. 以前 conj. 在…之前",
+    "rank": 220,
+    "coca_paraphrase": "prep. 在…之前；先于，优于；当着…的面；与其…  conj. 在…之前；在…以前；比…早些；与其…  adv. 先前，从前；在前，在前方",
+    "coca_meanings": [
+      "prep. 在…之前",
+      "prep. 先于，优于",
+      "prep. 当着…的面",
+      "prep. 与其…",
+      "conj. 在…之前",
+      "conj. 在…以前",
+      "conj. 比…早些",
+      "conj. 与其…",
+      "adv. 先前，从前",
+      "adv. 在前，在前方"
+    ]
+  },
+  {
+    "word": "large",
+    "definition": "adj. 大的; 巨大的",
+    "rank": 221,
+    "coca_paraphrase": "adv. 大大地；夸大地；详细地；顺风地  adj. 大的；大规模的；大型号的；广泛的  v. 玩个痛快；（尤指跳舞和饮酒）作乐",
+    "coca_meanings": [
+      "adv. 大大地",
+      "adv. 夸大地",
+      "adv. 详细地",
+      "adv. 顺风地",
+      "adj. 大的",
+      "adj. 大规模的",
+      "adj. 大型号的",
+      "adj. 广泛的",
+      "v. 玩个痛快",
+      "v. （尤指跳舞和饮酒）作乐"
+    ]
+  },
+  {
+    "word": "must",
+    "definition": "modal v. 必须, 应当; 必定是",
+    "rank": 224,
+    "coca_paraphrase": "aux. 必须；必然要；（做出逻辑推断）；（表示坚持）  n. 必须做的事，必不可少的事物；葡萄汁；霉臭；麝香  vt.&vi. （表示必要或很重要）必须；（提出建议）应该；得；（表示很可能或符合逻辑）一定  adj. 不可或缺的；狂暴的",
+    "coca_meanings": [
+      "aux. 必须",
+      "aux. 必然要",
+      "aux. （做出逻辑推断）",
+      "aux. （表示坚持）",
+      "n. 必须做的事，必不可少的事物",
+      "n. 葡萄汁",
+      "n. 霉臭",
+      "n. 麝香",
+      "vt.&vi. （表示必要或很重要）必须",
+      "vt.&vi. （提出建议）应该",
+      "vt.&vi. 得",
+      "vt.&vi. （表示很可能或符合逻辑）一定",
+      "adj. 不可或缺的",
+      "adj. 狂暴的"
+    ]
+  },
+  {
+    "word": "home",
+    "definition": "n. 家 adv. 到家; 回家",
+    "rank": 225,
+    "coca_paraphrase": "n. 家；家庭；家庭生活；终点  adj. 家庭的；家用的；本地的；本部的  adv. 在家；在家乡；深深地；深入地  vi. 回家；有家；朝向；自动导航  vt. 把…送回家；送…回家；给…提供住处；使有安身之处",
+    "coca_meanings": [
+      "n. 家",
+      "n. 家庭",
+      "n. 家庭生活",
+      "n. 终点",
+      "adj. 家庭的",
+      "adj. 家用的",
+      "adj. 本地的",
+      "adj. 本部的",
+      "adv. 在家",
+      "adv. 在家乡",
+      "adv. 深深地",
+      "adv. 深入地",
+      "vi. 回家",
+      "vi. 有家",
+      "vi. 朝向",
+      "vi. 自动导航",
+      "vt. 把…送回家",
+      "vt. 送…回家",
+      "vt. 给…提供住处",
+      "vt. 使有安身之处"
+    ]
+  },
+  {
+    "word": "under",
+    "definition": "adv.在下 prep. .在...之下, 在...之内, 在...领导下, 低于",
+    "rank": 226,
+    "coca_paraphrase": "prep. 在…下面，在表面之下；在…的假定表面或掩饰下；少于，小于；在…情况下  adv. 在下面；少于；在水下；在昏迷中  adj. 较低的，下面的",
+    "coca_meanings": [
+      "prep. 在…下面，在表面之下",
+      "prep. 在…的假定表面或掩饰下",
+      "prep. 少于，小于",
+      "prep. 在…情况下",
+      "adv. 在下面",
+      "adv. 少于",
+      "adv. 在水下",
+      "adv. 在昏迷中",
+      "adj. 较低的，下面的"
+    ]
+  },
+  {
+    "word": "water",
+    "definition": "n.水 v.使湿, 灌溉, 喷淋",
+    "rank": 227,
+    "coca_paraphrase": "n. 水；雨水；海水；海域  v. 给…浇水；供以水；加水稀释；流泪",
+    "coca_meanings": [
+      "n. 水",
+      "n. 雨水",
+      "n. 海水",
+      "n. 海域",
+      "v. 给…浇水",
+      "v. 供以水",
+      "v. 加水稀释",
+      "v. 流泪"
+    ]
+  },
+  {
+    "word": "area",
+    "definition": "n. 面积; 区域; 范围, 领域",
+    "rank": 231,
+    "coca_paraphrase": "n. 地区；区域，范围；面积，平地；领域",
+    "coca_meanings": [
+      "n. 地区",
+      "n. 区域，范围",
+      "n. 面积，平地",
+      "n. 领域"
+    ]
+  },
+  {
+    "word": "national",
+    "definition": "adj. 国家的, 全国性的, 民族的",
+    "rank": 232,
+    "coca_paraphrase": "adj. 国家的；国有的；国民的；民族主义的",
+    "coca_meanings": [
+      "adj. 国家的",
+      "adj. 国有的",
+      "adj. 国民的",
+      "adj. 民族主义的"
+    ]
+  },
+  {
+    "word": "money",
+    "definition": "n. 钱; 货币",
+    "rank": 233,
+    "coca_paraphrase": "n. 钱；财富；薪水；款项",
+    "coca_meanings": [
+      "n. 钱",
+      "n. 财富",
+      "n. 薪水",
+      "n. 款项"
+    ]
+  },
+  {
+    "word": "story",
+    "definition": "n. 故事, 小说",
+    "rank": 234,
+    "coca_paraphrase": "n. 故事，传说；历史，沿革；内情；传记  vt. 用历史故事画装饰；讲…的故事；把…作为故事讲述  vi. 说谎",
+    "coca_meanings": [
+      "n. 故事，传说",
+      "n. 历史，沿革",
+      "n. 内情",
+      "n. 传记",
+      "vt. 用历史故事画装饰",
+      "vt. 讲…的故事",
+      "vt. 把…作为故事讲述",
+      "vi. 说谎"
+    ]
+  },
+  {
+    "word": "young",
+    "definition": "adj. 年轻的",
+    "rank": 235,
+    "coca_paraphrase": "adj. 年幼的；有朝气的；年轻人的；青年的  n. 年轻人；幼小的动物，崽",
+    "coca_meanings": [
+      "adj. 年幼的",
+      "adj. 有朝气的",
+      "adj. 年轻人的",
+      "adj. 青年的",
+      "n. 年轻人",
+      "n. 幼小的动物，崽"
+    ]
+  },
+  {
+    "word": "fact",
+    "definition": "n. 事实, 现实",
+    "rank": 236,
+    "coca_paraphrase": "n. 事实，实情；实际；真相，证据；犯罪行为",
+    "coca_meanings": [
+      "n. 事实，实情",
+      "n. 实际",
+      "n. 真相，证据",
+      "n. 犯罪行为"
+    ]
+  },
+  {
+    "word": "month",
+    "definition": "n. 月, 月份",
+    "rank": 237,
+    "coca_paraphrase": "n. 月，月份；一个月的时间",
+    "coca_meanings": [
+      "n. 月，月份",
+      "n. 一个月的时间"
+    ]
+  },
+  {
+    "word": "lot",
+    "definition": "n. 一堆, 许多；.签, 抽签",
+    "rank": 239,
+    "coca_paraphrase": "n. 份额；许多；命运；阄  adv. （与形容词和副词连用）很，非常；（与动词连用）非常  pron. 大量，许多  vt. 分组，把…划分（常与out连用）；把（土地）划分成块  vi. 抽签，拈阄",
+    "coca_meanings": [
+      "n. 份额",
+      "n. 许多",
+      "n. 命运",
+      "n. 阄",
+      "adv. （与形容词和副词连用）很，非常",
+      "adv. （与动词连用）非常",
+      "pron. 大量，许多",
+      "vt. 分组，把…划分（常与out连用）",
+      "vt. 把（土地）划分成块",
+      "vi. 抽签，拈阄"
+    ]
+  },
+  {
+    "word": "book",
+    "definition": "n. 书; 本子 v. 预定（房间、车票等）",
+    "rank": 242,
+    "coca_paraphrase": "n. 书；卷；课本；账簿  vt.&vi. 预订  vt. 登记；（向旅馆、饭店、戏院等）预约；立案（控告某人）；订立演出契约  adj. 书的；账簿上的；得之（或来自）书本的；按照（或依据）书本的",
+    "coca_meanings": [
+      "n. 书",
+      "n. 卷",
+      "n. 课本",
+      "n. 账簿",
+      "vt.&vi. 预订",
+      "vt. 登记",
+      "vt. （向旅馆、饭店、戏院等）预约",
+      "vt. 立案（控告某人）",
+      "vt. 订立演出契约",
+      "adj. 书的",
+      "adj. 账簿上的",
+      "adj. 得之（或来自）书本的",
+      "adj. 按照（或依据）书本的"
+    ]
+  },
+  {
+    "word": "job",
+    "definition": "n. 工作",
+    "rank": 244,
+    "coca_paraphrase": "n. （一件）工作；职责；职业；（作为一个单元处理的）作业  vt. 承包；代客买卖  vi. 做零工；作包工；打杂",
+    "coca_meanings": [
+      "n. （一件）工作",
+      "n. 职责",
+      "n. 职业",
+      "n. （作为一个单元处理的）作业",
+      "vt. 承包",
+      "vt. 代客买卖",
+      "vi. 做零工",
+      "vi. 作包工",
+      "vi. 打杂"
+    ]
+  },
+  {
+    "word": "word",
+    "definition": "n.词; 话; 消息; 语言",
+    "rank": 245,
+    "coca_paraphrase": "n. 单词；话语；诺言；消息  vt. 措辞，用词；用言语表达  vi. 讲话",
+    "coca_meanings": [
+      "n. 单词",
+      "n. 话语",
+      "n. 诺言",
+      "n. 消息",
+      "vt. 措辞，用词",
+      "vt. 用言语表达",
+      "vi. 讲话"
+    ]
+  },
+  {
+    "word": "though",
+    "definition": "conj. 虽然, 可是",
+    "rank": 246,
+    "coca_paraphrase": "conj. 虽然，尽管；即使；纵然  adv. 可是，但是；不过；然而；话虽这样说  prep. 但",
+    "coca_meanings": [
+      "conj. 虽然，尽管",
+      "conj. 即使",
+      "conj. 纵然",
+      "adv. 可是，但是",
+      "adv. 不过",
+      "adv. 然而",
+      "adv. 话虽这样说",
+      "prep. 但"
+    ]
+  },
+  {
+    "word": "business",
+    "definition": "n. 商业；生意; 事情, 职责;",
+    "rank": 247,
+    "coca_paraphrase": "n. 商业，交易；生意；事务，业务；职业，行业",
+    "coca_meanings": [
+      "n. 商业，交易",
+      "n. 生意",
+      "n. 事务，业务",
+      "n. 职业，行业"
+    ]
+  },
+  {
+    "word": "side",
+    "definition": "n. 边, 旁边, 面, 侧面",
+    "rank": 249,
+    "coca_paraphrase": "n. 面，边；方面；侧面；旁边  adj. 侧面的；旁边的；次要的，枝节的；副的  vi. 支持，同意；偏袒；附和；站在…一边",
+    "coca_meanings": [
+      "n. 面，边",
+      "n. 方面",
+      "n. 侧面",
+      "n. 旁边",
+      "adj. 侧面的",
+      "adj. 旁边的",
+      "adj. 次要的，枝节的",
+      "adj. 副的",
+      "vi. 支持，同意",
+      "vi. 偏袒",
+      "vi. 附和",
+      "vi. 站在…一边"
+    ]
+  },
+  {
+    "word": "kind",
+    "definition": "n. 种; 类",
+    "rank": 250,
+    "coca_paraphrase": "n. 〈古〉方式，方法；本质，天性；同类；某类  adj. 仁慈的，体贴的；友善的，好心的；温和；宽宏大量的",
+    "coca_meanings": [
+      "n. 〈古〉方式，方法",
+      "n. 本质，天性",
+      "n. 同类",
+      "n. 某类",
+      "adj. 仁慈的，体贴的",
+      "adj. 友善的，好心的",
+      "adj. 温和",
+      "adj. 宽宏大量的"
+    ]
+  },
+  {
+    "word": "kind",
+    "definition": "adj. 仁慈的, 和蔼的, 亲切的",
+    "rank": 250,
+    "coca_paraphrase": "n. 〈古〉方式，方法；本质，天性；同类；某类  adj. 仁慈的，体贴的；友善的，好心的；温和；宽宏大量的",
+    "coca_meanings": [
+      "n. 〈古〉方式，方法",
+      "n. 本质，天性",
+      "n. 同类",
+      "n. 某类",
+      "adj. 仁慈的，体贴的",
+      "adj. 友善的，好心的",
+      "adj. 温和",
+      "adj. 宽宏大量的"
+    ]
+  },
+  {
+    "word": "far (farther/ further; farthest/ furthest)",
+    "definition": "adj.& adv. 远的;",
+    "rank": 253,
+    "coca_paraphrase": "adv. 久远地；（问到或谈及距离时说）有多远；到很远距离；到很大程度  adj. 远的；遥远的；（某方向的）最远的；远端的  n. 远方",
+    "coca_meanings": [
+      "adv. 久远地",
+      "adv. （问到或谈及距离时说）有多远",
+      "adv. 到很远距离",
+      "adv. 到很大程度",
+      "adj. 远的",
+      "adj. 遥远的",
+      "adj. （某方向的）最远的",
+      "adj. 远端的",
+      "n. 远方"
+    ]
+  },
+  {
+    "word": "both",
+    "definition": "adj. 两; 双 pron. 两者; 双方",
+    "rank": 256,
+    "coca_paraphrase": "adj. 二者，两者都  pron. 二者  adv. 二者，二者都  conj. 不仅…而且…，…和…都",
+    "coca_meanings": [
+      "adj. 二者，两者都",
+      "pron. 二者",
+      "adv. 二者，二者都",
+      "conj. 不仅…而且…，…和…都"
+    ]
+  },
+  {
+    "word": "little (less, least)",
+    "definition": "adj. 小的, 少的",
+    "rank": 257,
+    "coca_paraphrase": "adj. 小的；琐碎的；娇小的；幼小的  adv. 不多，略微；少许，一点；短时间地  n. （表示否定）微少；没有多少；短时间  det. （数量上）微少的，少到几乎没有的；（a little）少量的，一些",
+    "coca_meanings": [
+      "adj. 小的",
+      "adj. 琐碎的",
+      "adj. 娇小的",
+      "adj. 幼小的",
+      "adv. 不多，略微",
+      "adv. 少许，一点",
+      "adv. 短时间地",
+      "n. （表示否定）微少",
+      "n. 没有多少",
+      "n. 短时间",
+      "det. （数量上）微少的，少到几乎没有的",
+      "det. （a little）少量的，一些"
+    ]
+  },
+  {
+    "word": "house",
+    "definition": "n. 房子; 住宅",
+    "rank": 258,
+    "coca_paraphrase": "n. 房屋；全家人；（从事某种生意的）公司；（英国）下议院  v. 给…提供住房；收藏；安置",
+    "coca_meanings": [
+      "n. 房屋",
+      "n. 全家人",
+      "n. （从事某种生意的）公司",
+      "n. （英国）下议院",
+      "v. 给…提供住房",
+      "v. 收藏",
+      "v. 安置"
+    ]
+  },
+  {
+    "word": "since",
+    "definition": "adv. 从那时以来 conj. 从…以来, 由于 prep. 从…以来",
+    "rank": 261,
+    "coca_paraphrase": "prep. 从…以来；自从…之后；自从  adv. 以后，此后；后来；（距今几年）以前；（从那时候起几年）以前  conj. 自从…以来；自从…的时候起；既然；因为",
+    "coca_meanings": [
+      "prep. 从…以来",
+      "prep. 自从…之后",
+      "prep. 自从",
+      "adv. 以后，此后",
+      "adv. 后来",
+      "adv. （距今几年）以前",
+      "adv. （从那时候起几年）以前",
+      "conj. 自从…以来",
+      "conj. 自从…的时候起",
+      "conj. 既然",
+      "conj. 因为"
+    ]
+  },
+  {
+    "word": "provide",
+    "definition": "v. 提供",
+    "rank": 263,
+    "coca_paraphrase": "vt.&vi. 提供，供给，供应  vt. 规定；提供(+for)；装备；预备  vi. 抚养，赡养(+for)；做准备；预约(for 或 against)",
+    "coca_meanings": [
+      "vt.&vi. 提供，供给，供应",
+      "vt. 规定",
+      "vt. 提供(+for)",
+      "vt. 装备",
+      "vt. 预备",
+      "vi. 抚养，赡养(+for)",
+      "vi. 做准备",
+      "vi. 预约(for 或 against)"
+    ]
+  },
+  {
+    "word": "service",
+    "definition": "n. 服务, 服役",
+    "rank": 264,
+    "coca_paraphrase": "n. 服务，服侍；服务业；维修服务；服役  vt. 检修，维修；向…提供服务；保养；满足需要  adj. 服务性的；耐用的；服现役的",
+    "coca_meanings": [
+      "n. 服务，服侍",
+      "n. 服务业",
+      "n. 维修服务",
+      "n. 服役",
+      "vt. 检修，维修",
+      "vt. 向…提供服务",
+      "vt. 保养",
+      "vt. 满足需要",
+      "adj. 服务性的",
+      "adj. 耐用的",
+      "adj. 服现役的"
+    ]
+  },
+  {
+    "word": "around",
+    "definition": "adv. 在周围; 在附近 prep. 在…周围; 大约",
+    "rank": 265,
+    "coca_paraphrase": "adv. 大约；旋转；到处，四处；在周围  prep. 围绕；在附近；前后，左右；在…周围",
+    "coca_meanings": [
+      "adv. 大约",
+      "adv. 旋转",
+      "adv. 到处，四处",
+      "adv. 在周围",
+      "prep. 围绕",
+      "prep. 在附近",
+      "prep. 前后，左右",
+      "prep. 在…周围"
+    ]
+  },
+  {
+    "word": "friend",
+    "definition": "n. 朋友",
+    "rank": 266,
+    "coca_paraphrase": "n. 朋友，友人；资助者；助手；近亲  v. <诗>与…为友",
+    "coca_meanings": [
+      "n. 朋友，友人",
+      "n. 资助者",
+      "n. 助手",
+      "n. 近亲",
+      "v. <诗>与…为友"
+    ]
+  },
+  {
+    "word": "important",
+    "definition": "adj. 重要的",
+    "rank": 267,
+    "coca_paraphrase": "adj. 重要的；权威的；有势力的；有地位的",
+    "coca_meanings": [
+      "adj. 重要的",
+      "adj. 权威的",
+      "adj. 有势力的",
+      "adj. 有地位的"
+    ]
+  },
+  {
+    "word": "away",
+    "definition": "adv. 离开; 远离",
+    "rank": 270,
+    "coca_paraphrase": "adv. 离开，远离；在远处；消失  adj. 不在的；遥远的；客场比赛",
+    "coca_meanings": [
+      "adv. 离开，远离",
+      "adv. 在远处",
+      "adv. 消失",
+      "adj. 不在的",
+      "adj. 遥远的",
+      "adj. 客场比赛"
+    ]
+  },
+  {
+    "word": "until",
+    "definition": "prep.到...为止, 在...以前 conj.到...为止, 在...以前, 直到...才",
+    "rank": 271,
+    "coca_paraphrase": "prep. 到…为止；在…以前  conj. 到…为止，在…以前；直到…才",
+    "coca_meanings": [
+      "prep. 到…为止",
+      "prep. 在…以前",
+      "conj. 到…为止，在…以前",
+      "conj. 直到…才"
+    ]
+  },
+  {
+    "word": "power",
+    "definition": "n. 力, 动力, 电力",
+    "rank": 272,
+    "coca_paraphrase": "vt. 运转；用发动机发动；使…有力量  vi. 靠动力行进；快速行进  adj. 权力的；机械能的，电动的；用电力（或动力）发动的",
+    "coca_meanings": [
+      "vt. 运转",
+      "vt. 用发动机发动",
+      "vt. 使…有力量",
+      "vi. 靠动力行进",
+      "vi. 快速行进",
+      "adj. 权力的",
+      "adj. 机械能的，电动的",
+      "adj. 用电力（或动力）发动的"
+    ]
+  },
+  {
+    "word": "hour",
+    "definition": "n. 小时",
+    "rank": 273,
+    "coca_paraphrase": "n. 小时，钟头；时间，时刻；固定时间；课时",
+    "coca_meanings": [
+      "n. 小时，钟头",
+      "n. 时间，时刻",
+      "n. 固定时间",
+      "n. 课时"
+    ]
+  },
+  {
+    "word": "game",
+    "definition": "n. 游戏; 运动; 比赛",
+    "rank": 274,
+    "coca_paraphrase": "n. 游戏，运动；比赛，竞赛；诡计；猎物  adj. 受伤的，瘸的；对…有兴趣的；雄赳赳的；关于野味的  v. 打赌，赌输赢；赌输",
+    "coca_meanings": [
+      "n. 游戏，运动",
+      "n. 比赛，竞赛",
+      "n. 诡计",
+      "n. 猎物",
+      "adj. 受伤的，瘸的",
+      "adj. 对…有兴趣的",
+      "adj. 雄赳赳的",
+      "adj. 关于野味的",
+      "v. 打赌，赌输赢",
+      "v. 赌输"
+    ]
+  },
+  {
+    "word": "often",
+    "definition": "adv. 经常, 常常",
+    "rank": 275,
+    "coca_paraphrase": "adv. 常常；经常；时常；再三",
+    "coca_meanings": [
+      "adv. 常常",
+      "adv. 经常",
+      "adv. 时常",
+      "adv. 再三"
+    ]
+  },
+  {
+    "word": "yet",
+    "definition": "adv. 尚, 还, 仍然; 然而, 但是",
+    "rank": 276,
+    "coca_paraphrase": "adv. 但是；还；已经；又，再  conj. 然而，但是",
+    "coca_meanings": [
+      "adv. 但是",
+      "adv. 还",
+      "adv. 已经",
+      "adv. 又，再",
+      "conj. 然而，但是"
+    ]
+  },
+  {
+    "word": "line",
+    "definition": "n. 绳索, 线, 排, 行 v. 画线于, 成行；排队",
+    "rank": 277,
+    "coca_paraphrase": "n. 线条；排；行列；界线  vt. 排队；用线标出；沿…排列成行；给…安衬里  vi. 形成一层；排队；击出平直球",
+    "coca_meanings": [
+      "n. 线条",
+      "n. 排",
+      "n. 行列",
+      "n. 界线",
+      "vt. 排队",
+      "vt. 用线标出",
+      "vt. 沿…排列成行",
+      "vt. 给…安衬里",
+      "vi. 形成一层",
+      "vi. 排队",
+      "vi. 击出平直球"
+    ]
+  },
+  {
+    "word": "political",
+    "definition": "adj. 政治的",
+    "rank": 278,
+    "coca_paraphrase": "adj. 政治的；政党的；对政治有兴趣的",
+    "coca_meanings": [
+      "adj. 政治的",
+      "adj. 政党的",
+      "adj. 对政治有兴趣的"
+    ]
+  },
+  {
+    "word": "end",
+    "definition": "n. 末尾; 终点; 结束 v. 结束, 终止",
+    "rank": 279,
+    "coca_paraphrase": "n. <正>结果；端；终止；最后部分  vt.&vi. 结束，终止",
+    "coca_meanings": [
+      "n. <正>结果",
+      "n. 端",
+      "n. 终止",
+      "n. 最后部分",
+      "vt.&vi. 结束，终止"
+    ]
+  },
+  {
+    "word": "among",
+    "definition": "prep. 在…中间; …之一",
+    "rank": 280,
+    "coca_paraphrase": "prep. （表示牵涉）经过；（表示位置）处在…中；（表示范围）在…之内；（表示所属）为…所特有",
+    "coca_meanings": [
+      "prep. （表示牵涉）经过",
+      "prep. （表示位置）处在…中",
+      "prep. （表示范围）在…之内",
+      "prep. （表示所属）为…所特有"
+    ]
+  },
+  {
+    "word": "ever",
+    "definition": "adv. 曾经, 永远, 不断地, 在任何时候, 究竟",
+    "rank": 281,
+    "coca_paraphrase": "adv. 永远；曾经，这以前；究竟，到底；可能",
+    "coca_meanings": [
+      "adv. 永远",
+      "adv. 曾经，这以前",
+      "adv. 究竟，到底",
+      "adv. 可能"
+    ]
+  },
+  {
+    "word": "stand (stood, stood)",
+    "definition": "v. 站立; 坐落; 经受 n. 停止, 立场, 看台, 台",
+    "rank": 282,
+    "coca_paraphrase": "n. 台，看台；立场；停止；抵抗  vi. 站立，起立；竖直放置；保持看法；停滞  vt. 使站立；忍受；抵御；承担责任  vt.&vi. 站立，（使）直立，站着",
+    "coca_meanings": [
+      "n. 台，看台",
+      "n. 立场",
+      "n. 停止",
+      "n. 抵抗",
+      "vi. 站立，起立",
+      "vi. 竖直放置",
+      "vi. 保持看法",
+      "vi. 停滞",
+      "vt. 使站立",
+      "vt. 忍受",
+      "vt. 抵御",
+      "vt. 承担责任",
+      "vt.&vi. 站立，（使）直立，站着"
+    ]
+  },
+  {
+    "word": "lose (lost, lost)",
+    "definition": "v. 失去, 丢失",
+    "rank": 284,
+    "coca_paraphrase": "vt. 失去；错过；遗失；耽搁  vi. 损失；输掉；走慢；降低价值",
+    "coca_meanings": [
+      "vt. 失去",
+      "vt. 错过",
+      "vt. 遗失",
+      "vt. 耽搁",
+      "vi. 损失",
+      "vi. 输掉",
+      "vi. 走慢",
+      "vi. 降低价值"
+    ]
+  },
+  {
+    "word": "however",
+    "definition": "adv. 可是 conj. 然而, 无论如何；不论什么程度",
+    "rank": 285,
+    "coca_paraphrase": "adv. 不管到什么程度；无论如何；然而；可是  conj. 不管怎样",
+    "coca_meanings": [
+      "adv. 不管到什么程度",
+      "adv. 无论如何",
+      "adv. 然而",
+      "adv. 可是",
+      "conj. 不管怎样"
+    ]
+  },
+  {
+    "word": "member",
+    "definition": "n. 成员, 会员",
+    "rank": 286,
+    "coca_paraphrase": "n. 成员；分子；身体部位（尤指胳膊或腿）；构件，部件",
+    "coca_meanings": [
+      "n. 成员",
+      "n. 分子",
+      "n. 身体部位（尤指胳膊或腿）",
+      "n. 构件，部件"
+    ]
+  },
+  {
+    "word": "pay (paid, paid)",
+    "definition": "v. 付钱,  给…报酬 n. 工资",
+    "rank": 287,
+    "coca_paraphrase": "vt.&vi. 付款；偿还；补偿；（对…）有利  vt. 给予；支付  n. 工资；薪水；报答  adj. 收费的；需付费的",
+    "coca_meanings": [
+      "vt.&vi. 付款",
+      "vt.&vi. 偿还",
+      "vt.&vi. 补偿",
+      "vt.&vi. （对…）有利",
+      "vt. 给予",
+      "vt. 支付",
+      "n. 工资",
+      "n. 薪水",
+      "n. 报答",
+      "adj. 收费的",
+      "adj. 需付费的"
+    ]
+  },
+  {
+    "word": "law",
+    "definition": "n. 法律",
+    "rank": 288,
+    "coca_paraphrase": "n. 法；法学；规律；法制  vt. 控告；对…起诉",
+    "coca_meanings": [
+      "n. 法",
+      "n. 法学",
+      "n. 规律",
+      "n. 法制",
+      "vt. 控告",
+      "vt. 对…起诉"
+    ]
+  },
+  {
+    "word": "car",
+    "definition": "n. 汽车, 小卧车",
+    "rank": 290,
+    "coca_paraphrase": "n. 汽车；车厢；轿车",
+    "coca_meanings": [
+      "n. 汽车",
+      "n. 车厢",
+      "n. 轿车"
+    ]
+  },
+  {
+    "word": "city",
+    "definition": "n. 市, 城市, 都市",
+    "rank": 291,
+    "coca_paraphrase": "n. 城市；全市居民；（由国王或女王授予特权，通常有大教堂的）特许市；（由政府授予特权的）特权市",
+    "coca_meanings": [
+      "n. 城市",
+      "n. 全市居民",
+      "n. （由国王或女王授予特权，通常有大教堂的）特许市",
+      "n. （由政府授予特权的）特权市"
+    ]
+  },
+  {
+    "word": "almost",
+    "definition": "adv. 几乎, 差不多",
+    "rank": 292,
+    "coca_paraphrase": "adv. 几乎，差不多；将近；快要；近乎",
+    "coca_meanings": [
+      "adv. 几乎，差不多",
+      "adv. 将近",
+      "adv. 快要",
+      "adv. 近乎"
+    ]
+  },
+  {
+    "word": "include",
+    "definition": "v. 包含, 包括",
+    "rank": 293,
+    "coca_paraphrase": "vt. 包括；包含；计入；包住",
+    "coca_meanings": [
+      "vt. 包括",
+      "vt. 包含",
+      "vt. 计入",
+      "vt. 包住"
+    ]
+  },
+  {
+    "word": "continue",
+    "definition": "v.  继续",
+    "rank": 294,
+    "coca_paraphrase": "vi. 持续；逗留；维持原状  vt. 延期；使延伸；使持续；继续说",
+    "coca_meanings": [
+      "vi. 持续",
+      "vi. 逗留",
+      "vi. 维持原状",
+      "vt. 延期",
+      "vt. 使延伸",
+      "vt. 使持续",
+      "vt. 继续说"
+    ]
+  },
+  {
+    "word": "set",
+    "definition": "n. 装备, 设备 v. 设置（布景, 背景）",
+    "rank": 295,
+    "coca_paraphrase": "vt. 放置，安置；使处于某种状况；设置；摆放餐具  vi. 落山；出发；凝结  n. 一套，一副；集合；布景；电视机  adj. 固定的；位于…的；顽固的；安排好的",
+    "coca_meanings": [
+      "vt. 放置，安置",
+      "vt. 使处于某种状况",
+      "vt. 设置",
+      "vt. 摆放餐具",
+      "vi. 落山",
+      "vi. 出发",
+      "vi. 凝结",
+      "n. 一套，一副",
+      "n. 集合",
+      "n. 布景",
+      "n. 电视机",
+      "adj. 固定的",
+      "adj. 位于…的",
+      "adj. 顽固的",
+      "adj. 安排好的"
+    ]
+  },
+  {
+    "word": "set (set, set)",
+    "definition": "v. 放, 置, 调整；安排 n.一套, 一副",
+    "rank": 295,
+    "coca_paraphrase": "vt. 放置，安置；使处于某种状况；设置；摆放餐具  vi. 落山；出发；凝结  n. 一套，一副；集合；布景；电视机  adj. 固定的；位于…的；顽固的；安排好的",
+    "coca_meanings": [
+      "vt. 放置，安置",
+      "vt. 使处于某种状况",
+      "vt. 设置",
+      "vt. 摆放餐具",
+      "vi. 落山",
+      "vi. 出发",
+      "vi. 凝结",
+      "n. 一套，一副",
+      "n. 集合",
+      "n. 布景",
+      "n. 电视机",
+      "adj. 固定的",
+      "adj. 位于…的",
+      "adj. 顽固的",
+      "adj. 安排好的"
+    ]
+  },
+  {
+    "word": "least",
+    "definition": "n. 最少, 最少量",
+    "rank": 303,
+    "coca_paraphrase": "adj. 最小的；最少的（ little的最高级）；最不重要的，地位最低的  adv. 最少，最小  n. 最小；最少量",
+    "coca_meanings": [
+      "adj. 最小的",
+      "adj. 最少的（ little的最高级）",
+      "adj. 最不重要的，地位最低的",
+      "adv. 最少，最小",
+      "n. 最小",
+      "n. 最少量"
+    ]
+  },
+  {
+    "word": "president",
+    "definition": "n. 总统; 主席",
+    "rank": 304,
+    "coca_paraphrase": "n. 校长；总统；总裁；董事长",
+    "coca_meanings": [
+      "n. 校长",
+      "n. 总统",
+      "n. 总裁",
+      "n. 董事长"
+    ]
+  },
+  {
+    "word": "learn (learnt, learnt; -ed -ed)",
+    "definition": "v. 学, 学习, 学会",
+    "rank": 305,
+    "coca_paraphrase": "vt.&vi. 学习，学会；习得；得知；记住  vt. 记住；学习；得知；认识到  vi. 学习；获知",
+    "coca_meanings": [
+      "vt.&vi. 学习，学会",
+      "vt.&vi. 习得",
+      "vt.&vi. 得知",
+      "vt.&vi. 记住",
+      "vt. 记住",
+      "vt. 学习",
+      "vt. 得知",
+      "vt. 认识到",
+      "vi. 学习",
+      "vi. 获知"
+    ]
+  },
+  {
+    "word": "real",
+    "definition": "adj. 真实的, 确实的",
+    "rank": 306,
+    "coca_paraphrase": "adj. 真的；真实的，现实的；事实上的；真诚的  adv. 真正，实在；确实地  n. 实在，现实；实数",
+    "coca_meanings": [
+      "adj. 真的",
+      "adj. 真实的，现实的",
+      "adj. 事实上的",
+      "adj. 真诚的",
+      "adv. 真正，实在",
+      "adv. 确实地",
+      "n. 实在，现实",
+      "n. 实数"
+    ]
+  },
+  {
+    "word": "change",
+    "definition": "n. 零钱; 找头, 变化 v. 改变, 变化; 更换; 兑换",
+    "rank": 307,
+    "coca_paraphrase": "vt. 改变，变更；交换，替换；兑换；换衣服（床单）  vi. 改变，转变；交换，互换；换衣，更衣  n. 变化，改变；交换，交替；零钱，找头；代替物",
+    "coca_meanings": [
+      "vt. 改变，变更",
+      "vt. 交换，替换",
+      "vt. 兑换",
+      "vt. 换衣服（床单）",
+      "vi. 改变，转变",
+      "vi. 交换，互换",
+      "vi. 换衣，更衣",
+      "n. 变化，改变",
+      "n. 交换，交替",
+      "n. 零钱，找头",
+      "n. 代替物"
+    ]
+  },
+  {
+    "word": "team",
+    "definition": "n. 队, 组",
+    "rank": 308,
+    "coca_paraphrase": "n. 队，组；团队；工作组；（野鸭等）群，同胎仔  vi. 协同工作；合作；把（牛马等）联套在车上",
+    "coca_meanings": [
+      "n. 队，组",
+      "n. 团队",
+      "n. 工作组",
+      "n. （野鸭等）群，同胎仔",
+      "vi. 协同工作",
+      "vi. 合作",
+      "vi. 把（牛马等）联套在车上"
+    ]
+  },
+  {
+    "word": "minute",
+    "definition": "n. 分钟; 一会儿, 瞬间",
+    "rank": 309,
+    "coca_paraphrase": "n. 分，分钟；瞬间，片刻；备忘录；会议记录  vt. 把…记录在案；为…测定时间",
+    "coca_meanings": [
+      "n. 分，分钟",
+      "n. 瞬间，片刻",
+      "n. 备忘录",
+      "n. 会议记录",
+      "vt. 把…记录在案",
+      "vt. 为…测定时间"
+    ]
+  },
+  {
+    "word": "several",
+    "definition": "adj. 几个, 数个, 若干",
+    "rank": 311,
+    "coca_paraphrase": "adj. 几个的；专有的；各自的；分别的  pron. 几个，数个；一些",
+    "coca_meanings": [
+      "adj. 几个的",
+      "adj. 专有的",
+      "adj. 各自的",
+      "adj. 分别的",
+      "pron. 几个，数个",
+      "pron. 一些"
+    ]
+  },
+  {
+    "word": "idea",
+    "definition": "n. 主意, 意见, 打算, 想法",
+    "rank": 312,
+    "coca_paraphrase": "n. 主意，想法",
+    "coca_meanings": [
+      "n. 主意，想法"
+    ]
+  },
+  {
+    "word": "kid",
+    "definition": "n. 小孩",
+    "rank": 313,
+    "coca_paraphrase": "n. <口>小孩；小山羊，小山羊皮制品  vt.&vi. 欺骗，戏弄，取笑  adj. 较年幼的；小山羊皮制的",
+    "coca_meanings": [
+      "n. <口>小孩",
+      "n. 小山羊，小山羊皮制品",
+      "vt.&vi. 欺骗，戏弄，取笑",
+      "adj. 较年幼的",
+      "adj. 小山羊皮制的"
+    ]
+  },
+  {
+    "word": "body",
+    "definition": "n. 身体",
+    "rank": 314,
+    "coca_paraphrase": "n. 身体；尸体；团体；物体  vt. 赋予形体",
+    "coca_meanings": [
+      "n. 身体",
+      "n. 尸体",
+      "n. 团体",
+      "n. 物体",
+      "vt. 赋予形体"
+    ]
+  },
+  {
+    "word": "information",
+    "definition": "n. 信息",
+    "rank": 315,
+    "coca_paraphrase": "n. 信息，数据；通知；消息；知识",
+    "coca_meanings": [
+      "n. 信息，数据",
+      "n. 通知",
+      "n. 消息",
+      "n. 知识"
+    ]
+  },
+  {
+    "word": "nothing",
+    "definition": "n. 没有东西, 没有什么 adv. 一点也不; 并不",
+    "rank": 316,
+    "coca_paraphrase": "pron. 没有东西；没有事情；无关紧要的东西；毫无趣味的事  adv. 毫不；决不",
+    "coca_meanings": [
+      "pron. 没有东西",
+      "pron. 没有事情",
+      "pron. 无关紧要的东西",
+      "pron. 毫无趣味的事",
+      "adv. 毫不",
+      "adv. 决不"
+    ]
+  },
+  {
+    "word": "ago",
+    "definition": "adv. 以前",
+    "rank": 317,
+    "coca_paraphrase": "adv. 以前；过去的；之前",
+    "coca_meanings": [
+      "adv. 以前",
+      "adv. 过去的",
+      "adv. 之前"
+    ]
+  },
+  {
+    "word": "lead (led, led)",
+    "definition": "v. 领导, 带领 n. 铅",
+    "rank": 319,
+    "coca_paraphrase": "vt. 领导；引导；指挥  vi. 领导；导致；用水砣测深  n. 铅；领导；榜样；枪弹  adj. 领头的；最重要的；领先的",
+    "coca_meanings": [
+      "vt. 领导",
+      "vt. 引导",
+      "vt. 指挥",
+      "vi. 领导",
+      "vi. 导致",
+      "vi. 用水砣测深",
+      "n. 铅",
+      "n. 领导",
+      "n. 榜样",
+      "n. 枪弹",
+      "adj. 领头的",
+      "adj. 最重要的",
+      "adj. 领先的"
+    ]
+  },
+  {
+    "word": "social",
+    "definition": "adj. 社会的; 社交的",
+    "rank": 320,
+    "coca_paraphrase": "adj. 社会的，社会上的；交际的，社交的；群居的；合群的  n. 联谊会，联欢会；社交聚会",
+    "coca_meanings": [
+      "adj. 社会的，社会上的",
+      "adj. 交际的，社交的",
+      "adj. 群居的",
+      "adj. 合群的",
+      "n. 联谊会，联欢会",
+      "n. 社交聚会"
+    ]
+  },
+  {
+    "word": "understand (understood, understood)",
+    "definition": "v. 懂得; 明白; 理解",
+    "rank": 321,
+    "coca_paraphrase": "vt.&vi. 懂，理解  vt. 了解；默认；听说；领会",
+    "coca_meanings": [
+      "vt.&vi. 懂，理解",
+      "vt. 了解",
+      "vt. 默认",
+      "vt. 听说",
+      "vt. 领会"
+    ]
+  },
+  {
+    "word": "whether",
+    "definition": "conj.是否",
+    "rank": 322,
+    "coca_paraphrase": "pron. 其中的哪一个  n. 可能的选择",
+    "coca_meanings": [
+      "pron. 其中的哪一个",
+      "n. 可能的选择"
+    ]
+  },
+  {
+    "word": "watch",
+    "definition": "v. 看, 注视, 监视 n. 手表, 注视, 注意, 守护, 监视",
+    "rank": 324,
+    "coca_paraphrase": "vt. 注视，注意；看守，监视；守候（机会等）；密切注意  n. 表；值夜，值班；看守，监视；值班人员  vi. 观看；注视；守候；看守",
+    "coca_meanings": [
+      "vt. 注视，注意",
+      "vt. 看守，监视",
+      "vt. 守候（机会等）",
+      "vt. 密切注意",
+      "n. 表",
+      "n. 值夜，值班",
+      "n. 看守，监视",
+      "n. 值班人员",
+      "vi. 观看",
+      "vi. 注视",
+      "vi. 守候",
+      "vi. 看守"
+    ]
+  },
+  {
+    "word": "follow",
+    "definition": "v. 跟随; 仿效; 跟得上",
+    "rank": 326,
+    "coca_paraphrase": "vt.&vi. 跟随，接着  vt. 继承；（按时间、顺序等）接着；从事；采用  vi. 理解；发生兴趣；由此产生；跟着人（或物）去（或来）  n. 追随，跟随",
+    "coca_meanings": [
+      "vt.&vi. 跟随，接着",
+      "vt. 继承",
+      "vt. （按时间、顺序等）接着",
+      "vt. 从事",
+      "vt. 采用",
+      "vi. 理解",
+      "vi. 发生兴趣",
+      "vi. 由此产生",
+      "vi. 跟着人（或物）去（或来）",
+      "n. 追随，跟随"
+    ]
+  },
+  {
+    "word": "parent",
+    "definition": "n. 父母或者母亲, 双亲",
+    "rank": 328,
+    "coca_paraphrase": "n. 父亲（或母亲）；先辈；根源，起源；保护者",
+    "coca_meanings": [
+      "n. 父亲（或母亲）",
+      "n. 先辈",
+      "n. 根源，起源",
+      "n. 保护者"
+    ]
+  },
+  {
+    "word": "stop",
+    "definition": "v. 停, 停止, 阻止 n. 停;（停车）站",
+    "rank": 330,
+    "coca_paraphrase": "vi. 停止；中断；逗留；（使）停止工作  vt. 塞住；堵塞；阻挠；止付  n. 停止；（管风琴的）音栓；停车站；（管风琴的）音管",
+    "coca_meanings": [
+      "vi. 停止",
+      "vi. 中断",
+      "vi. 逗留",
+      "vi. （使）停止工作",
+      "vt. 塞住",
+      "vt. 堵塞",
+      "vt. 阻挠",
+      "vt. 止付",
+      "n. 停止",
+      "n. （管风琴的）音栓",
+      "n. 停车站",
+      "n. （管风琴的）音管"
+    ]
+  },
+  {
+    "word": "anything",
+    "definition": "pron. 什么事（物）; 任何事（物）",
+    "rank": 332,
+    "coca_paraphrase": "pron. 任何东西；（用于否定句、疑问句中以及 if 或 whether 和 prevent、ban、avoid 等动词后，代替 something）任何东西；重要东西；重要事物",
+    "coca_meanings": [
+      "pron. 任何东西",
+      "pron. （用于否定句、疑问句中以及 if 或 whether 和 prevent、ban、avoid 等动词后，代替 something）任何东西",
+      "pron. 重要东西",
+      "pron. 重要事物"
+    ]
+  },
+  {
+    "word": "create",
+    "definition": "v. 创造; 造成",
+    "rank": 333,
+    "coca_paraphrase": "vt. 创造，创作；产生；封爵，把…封为（贵族）",
+    "coca_meanings": [
+      "vt. 创造，创作",
+      "vt. 产生",
+      "vt. 封爵，把…封为（贵族）"
+    ]
+  },
+  {
+    "word": "public",
+    "definition": "adj. 公共的, 公众的 n. 公众",
+    "rank": 334,
+    "coca_paraphrase": "adj. 公众的，公共的；公开的；政府的；人人知道的，知名的  n. 大众；社会；公共场所；（文学家等的）爱读者",
+    "coca_meanings": [
+      "adj. 公众的，公共的",
+      "adj. 公开的",
+      "adj. 政府的",
+      "adj. 人人知道的，知名的",
+      "n. 大众",
+      "n. 社会",
+      "n. 公共场所",
+      "n. （文学家等的）爱读者"
+    ]
+  },
+  {
+    "word": "already",
+    "definition": "adv. 已经",
+    "rank": 335,
+    "coca_paraphrase": "adv. 早已，已经；先前",
+    "coca_meanings": [
+      "adv. 早已，已经",
+      "adv. 先前"
+    ]
+  },
+  {
+    "word": "speak (spoke, spoken)",
+    "definition": "v. 说, 讲; 谈话; 发言",
+    "rank": 336,
+    "coca_paraphrase": "vt.&vi. 讲，谈；演说；从某种观点来说",
+    "coca_meanings": [
+      "vt.&vi. 讲，谈",
+      "vt.&vi. 演说",
+      "vt.&vi. 从某种观点来说"
+    ]
+  },
+  {
+    "word": "level",
+    "definition": "n. 水平线, 水平",
+    "rank": 339,
+    "coca_paraphrase": "n. 水平，水准；水平线，水平面；水平仪  adj. 水平的；同高度的；平均的；平稳的  vt. 使同等；对准；弄平  vi. 拉平；（用枪等）瞄准（与 at 连用）；变得平坦；将（话、批评等）对准目标  vi. 瞄准；拉平；变得平坦",
+    "coca_meanings": [
+      "n. 水平，水准",
+      "n. 水平线，水平面",
+      "n. 水平仪",
+      "adj. 水平的",
+      "adj. 同高度的",
+      "adj. 平均的",
+      "adj. 平稳的",
+      "vt. 使同等",
+      "vt. 对准",
+      "vt. 弄平",
+      "vi. 拉平",
+      "vi. （用枪等）瞄准（与 at 连用）",
+      "vi. 变得平坦",
+      "vi. 将（话、批评等）对准目标",
+      "vi. 瞄准",
+      "vi. 拉平",
+      "vi. 变得平坦"
+    ]
+  },
+  {
+    "word": "allow",
+    "definition": "v. 允许, 准许",
+    "rank": 340,
+    "coca_paraphrase": "vt. 允许；承认；给予；准许（做某事）  vi. 容许；考虑",
+    "coca_meanings": [
+      "vt. 允许",
+      "vt. 承认",
+      "vt. 给予",
+      "vt. 准许（做某事）",
+      "vi. 容许",
+      "vi. 考虑"
+    ]
+  },
+  {
+    "word": "add",
+    "definition": "v.  添加, 增加",
+    "rank": 341,
+    "coca_paraphrase": "vt. 增加；补充；附带说明；把…包括在内  vi. 增加；做加法；累积而成；扩大  n. 加法，加法运算；（一篇报道的）补充部分",
+    "coca_meanings": [
+      "vt. 增加",
+      "vt. 补充",
+      "vt. 附带说明",
+      "vt. 把…包括在内",
+      "vi. 增加",
+      "vi. 做加法",
+      "vi. 累积而成",
+      "vi. 扩大",
+      "n. 加法，加法运算",
+      "n. （一篇报道的）补充部分"
+    ]
+  },
+  {
+    "word": "spend (spent, spent)",
+    "definition": "v. 度过; 花费（钱、时间等）",
+    "rank": 343,
+    "coca_paraphrase": "vt.&vi. 用钱，花钱  vt. 花费；消耗；花（时间）；度过  n. （为某目的或某段时间内的）花销，花费，开销",
+    "coca_meanings": [
+      "vt.&vi. 用钱，花钱",
+      "vt. 花费",
+      "vt. 消耗",
+      "vt. 花（时间）",
+      "vt. 度过",
+      "n. （为某目的或某段时间内的）花销，花费，开销"
+    ]
+  },
+  {
+    "word": "door",
+    "definition": "n. 门",
+    "rank": 344,
+    "coca_paraphrase": "n. 门，户；出入口",
+    "coca_meanings": [
+      "n. 门，户",
+      "n. 出入口"
+    ]
+  },
+  {
+    "word": "health",
+    "definition": "n. 健康, 卫生",
+    "rank": 345,
+    "coca_paraphrase": "n. 健康状况；卫生；保健；昌盛，兴旺",
+    "coca_meanings": [
+      "n. 健康状况",
+      "n. 卫生",
+      "n. 保健",
+      "n. 昌盛，兴旺"
+    ]
+  },
+  {
+    "word": "person",
+    "definition": "n. 人",
+    "rank": 346,
+    "coca_paraphrase": "n. 人；（语法）人称；身体；容貌",
+    "coca_meanings": [
+      "n. 人",
+      "n. （语法）人称",
+      "n. 身体",
+      "n. 容貌"
+    ]
+  },
+  {
+    "word": "art",
+    "definition": "n. 艺术, 美术",
+    "rank": 347,
+    "coca_paraphrase": "n. 艺术；艺术作品；（需要技术、工艺的）行业；文艺（包括绘画、雕塑、建筑、音乐、舞蹈、戏剧、文学等）  vi. thou art 即 you are,对一人讲话时用  adj. 艺术的；（为）艺术家的；艺术品的；具有艺术性的",
+    "coca_meanings": [
+      "n. 艺术",
+      "n. 艺术作品",
+      "n. （需要技术、工艺的）行业",
+      "n. 文艺（包括绘画、雕塑、建筑、音乐、舞蹈、戏剧、文学等）",
+      "vi. thou art 即 you are,对一人讲话时用",
+      "adj. 艺术的",
+      "adj. （为）艺术家的",
+      "adj. 艺术品的",
+      "adj. 具有艺术性的"
+    ]
+  },
+  {
+    "word": "sure",
+    "definition": "adj. 确信, 肯定 adv. (口语)的确, 一定, 当然",
+    "rank": 348,
+    "coca_paraphrase": "adj. 确信的，确实的；有把握的；无疑的；一定的  adv. 当然；确实地；无疑地",
+    "coca_meanings": [
+      "adj. 确信的，确实的",
+      "adj. 有把握的",
+      "adj. 无疑的",
+      "adj. 一定的",
+      "adv. 当然",
+      "adv. 确实地",
+      "adv. 无疑地"
+    ]
+  },
+  {
+    "word": "war",
+    "definition": "n.战争",
+    "rank": 350,
+    "coca_paraphrase": "n. 战争；战争期间；斗争；论战  vi. 进行战斗，作战；同…处于交战状态",
+    "coca_meanings": [
+      "n. 战争",
+      "n. 战争期间",
+      "n. 斗争",
+      "n. 论战",
+      "vi. 进行战斗，作战",
+      "vi. 同…处于交战状态"
+    ]
+  },
+  {
+    "word": "history",
+    "definition": "n. 历史, 历史学",
+    "rank": 351,
+    "coca_paraphrase": "n. 历史，历史学；发展史；履历，经历；（某地的）沿革",
+    "coca_meanings": [
+      "n. 历史，历史学",
+      "n. 发展史",
+      "n. 履历，经历",
+      "n. （某地的）沿革"
+    ]
+  },
+  {
+    "word": "party",
+    "definition": "n. 聚会, 晚会; 党派",
+    "rank": 352,
+    "coca_paraphrase": "n. 社交聚会；党，党派；当事人；同类，伙伴  v. 为…举行社交聚会；为…请客；参加社交聚会  adj. 政党的，党派的；社交的，聚会的；共有的，共同的",
+    "coca_meanings": [
+      "n. 社交聚会",
+      "n. 党，党派",
+      "n. 当事人",
+      "n. 同类，伙伴",
+      "v. 为…举行社交聚会",
+      "v. 为…请客",
+      "v. 参加社交聚会",
+      "adj. 政党的，党派的",
+      "adj. 社交的，聚会的",
+      "adj. 共有的，共同的"
+    ]
+  },
+  {
+    "word": "within",
+    "definition": "prep.在…里面",
+    "rank": 353,
+    "coca_paraphrase": "adv. 在内，在里面；在屋内；在心中，心里是  prep. 不超过，在…的范围内；在…能达到的地方；在…内，在…里面  n. 内部，里面",
+    "coca_meanings": [
+      "adv. 在内，在里面",
+      "adv. 在屋内",
+      "adv. 在心中，心里是",
+      "prep. 不超过，在…的范围内",
+      "prep. 在…能达到的地方",
+      "prep. 在…内，在…里面",
+      "n. 内部，里面"
+    ]
+  },
+  {
+    "word": "grow (grew, grown)",
+    "definition": "v. 生长; 发育; 种植; 变成",
+    "rank": 354,
+    "coca_paraphrase": "vt. 种植；扩大；扩展；增加  vi. 生长；渐渐变得；逐渐开始  vt.&vi. （使）留长，蓄长",
+    "coca_meanings": [
+      "vt. 种植",
+      "vt. 扩大",
+      "vt. 扩展",
+      "vt. 增加",
+      "vi. 生长",
+      "vi. 渐渐变得",
+      "vi. 逐渐开始",
+      "vt.&vi. （使）留长，蓄长"
+    ]
+  },
+  {
+    "word": "result",
+    "definition": "n. 结果, 效果 v. 起因, 由于, 以...为结果, 导致",
+    "rank": 355,
+    "coca_paraphrase": "n. 结果；（尤指足球比赛的）胜利  vi. 发生，产生；归结为，导致；后果，终结",
+    "coca_meanings": [
+      "n. 结果",
+      "n. （尤指足球比赛的）胜利",
+      "vi. 发生，产生",
+      "vi. 归结为，导致",
+      "vi. 后果，终结"
+    ]
+  },
+  {
+    "word": "open",
+    "definition": "adj. 开着的, 开口的 v. 开, 打开",
+    "rank": 356,
+    "coca_paraphrase": "adj. 敞开的，开着的；公开的，公共的；坦率的；有议论余地的  vt.&vi. （打）开；开始；睁开；启动  n. 户外，野外；空旷；公开  vi. 使打开；展示，显现  vt. 张开；开放；开张营业；为（建筑物）揭幕",
+    "coca_meanings": [
+      "adj. 敞开的，开着的",
+      "adj. 公开的，公共的",
+      "adj. 坦率的",
+      "adj. 有议论余地的",
+      "vt.&vi. （打）开",
+      "vt.&vi. 开始",
+      "vt.&vi. 睁开",
+      "vt.&vi. 启动",
+      "n. 户外，野外",
+      "n. 空旷",
+      "n. 公开",
+      "vi. 使打开",
+      "vi. 展示，显现",
+      "vt. 张开",
+      "vt. 开放",
+      "vt. 开张营业",
+      "vt. 为（建筑物）揭幕"
+    ]
+  },
+  {
+    "word": "reason",
+    "definition": "v. 推论, 评理; 劝说 n. 理由, 原因",
+    "rank": 360,
+    "coca_paraphrase": "n. 理由；原因；理性；理智  vt.&vi. 推理，思考；争辩；辩论；向…解释",
+    "coca_meanings": [
+      "n. 理由",
+      "n. 原因",
+      "n. 理性",
+      "n. 理智",
+      "vt.&vi. 推理，思考",
+      "vt.&vi. 争辩",
+      "vt.&vi. 辩论",
+      "vt.&vi. 向…解释"
+    ]
+  },
+  {
+    "word": "low",
+    "definition": "adj.& adv. 低; 矮",
+    "rank": 361,
+    "coca_paraphrase": "adj. 低的，矮小的；楼下的，低洼的；沮丧的；下贱的  adv. 低声地；谦卑地；底下地  n. 低点；低水平；牛的叫声  vi. （牛）哞哞叫",
+    "coca_meanings": [
+      "adj. 低的，矮小的",
+      "adj. 楼下的，低洼的",
+      "adj. 沮丧的",
+      "adj. 下贱的",
+      "adv. 低声地",
+      "adv. 谦卑地",
+      "adv. 底下地",
+      "n. 低点",
+      "n. 低水平",
+      "n. 牛的叫声",
+      "vi. （牛）哞哞叫"
+    ]
+  },
+  {
+    "word": "win (won, won)",
+    "definition": "v. 获胜, 赢 v. 赢得",
+    "rank": 362,
+    "coca_paraphrase": "vt.&vi. （在…中）获胜，赢；战胜（对手）  vt. （通过努力等）赢得；说服；达到（目的、要求等）；获得…  n. （体育比赛中）胜利，赢  vi. 顺利到达，成功",
+    "coca_meanings": [
+      "vt.&vi. （在…中）获胜，赢",
+      "vt.&vi. 战胜（对手）",
+      "vt. （通过努力等）赢得",
+      "vt. 说服",
+      "vt. 达到（目的、要求等）",
+      "vt. 获得…",
+      "n. （体育比赛中）胜利，赢",
+      "vi. 顺利到达，成功"
+    ]
+  },
+  {
+    "word": "research",
+    "definition": "n. 研究, 调查",
+    "rank": 363,
+    "coca_paraphrase": "n. 研究，追究；探讨，探测；调查；探索  vi. 做研究；探究；（从市场调研中）得出所预测的结果  vt. 从事…的研究，为…而做研究",
+    "coca_meanings": [
+      "n. 研究，追究",
+      "n. 探讨，探测",
+      "n. 调查",
+      "n. 探索",
+      "vi. 做研究",
+      "vi. 探究",
+      "vi. （从市场调研中）得出所预测的结果",
+      "vt. 从事…的研究，为…而做研究"
+    ]
+  },
+  {
+    "word": "early",
+    "definition": "adj. 早的 adv. 早地",
+    "rank": 366,
+    "coca_paraphrase": "adj. 早的；早期的；早日的；（果实等）早熟的  adv. 早；在初期；先前；提早",
+    "coca_meanings": [
+      "adj. 早的",
+      "adj. 早期的",
+      "adj. 早日的",
+      "adj. （果实等）早熟的",
+      "adv. 早",
+      "adv. 在初期",
+      "adv. 先前",
+      "adv. 提早"
+    ]
+  },
+  {
+    "word": "moment",
+    "definition": "n. 片刻, 瞬间",
+    "rank": 369,
+    "coca_paraphrase": "n. 瞬间，片刻；时刻；重要，紧要",
+    "coca_meanings": [
+      "n. 瞬间，片刻",
+      "n. 时刻",
+      "n. 重要，紧要"
+    ]
+  },
+  {
+    "word": "himself",
+    "definition": "pron. 他自己",
+    "rank": 370,
+    "coca_paraphrase": "pron. （反身代词）他自己；（用以加强语气）他亲自，他本人",
+    "coca_meanings": [
+      "pron. （反身代词）他自己",
+      "pron. （用以加强语气）他亲自，他本人"
+    ]
+  },
+  {
+    "word": "air",
+    "definition": "n. 空气; 大气",
+    "rank": 371,
+    "coca_paraphrase": "n. 天空；气氛；空运；（简单易记的）曲调  vt.&vi. 晾晒；烘干；播送；广播  vt. 使房间通风， 透气",
+    "coca_meanings": [
+      "n. 天空",
+      "n. 气氛",
+      "n. 空运",
+      "n. （简单易记的）曲调",
+      "vt.&vi. 晾晒",
+      "vt.&vi. 烘干",
+      "vt.&vi. 播送",
+      "vt.&vi. 广播",
+      "vt. 使房间通风， 透气"
+    ]
+  },
+  {
+    "word": "teacher",
+    "definition": "n. 教师, 教员",
+    "rank": 372,
+    "coca_paraphrase": "n. 教师，教员，老师，先生",
+    "coca_meanings": [
+      "n. 教师，教员，老师，先生"
+    ]
+  },
+  {
+    "word": "force",
+    "definition": "v. 强迫, 迫使",
+    "rank": 373,
+    "coca_paraphrase": "n. 力；武力；（社会）势力；魄力  vt. 强迫；强行；促使，推动；强奸",
+    "coca_meanings": [
+      "n. 力",
+      "n. 武力",
+      "n. （社会）势力",
+      "n. 魄力",
+      "vt. 强迫",
+      "vt. 强行",
+      "vt. 促使，推动",
+      "vt. 强奸"
+    ]
+  },
+  {
+    "word": "offer",
+    "definition": "n. 出价, 提议v. 提供; 建议; 表示愿意",
+    "rank": 374,
+    "coca_paraphrase": "vt. 提供，给予；提出，提议；出价，开价；表示愿意  vi. 提议；企图，想要；供奉  n. 提议；出价，开价；试图；求婚",
+    "coca_meanings": [
+      "vt. 提供，给予",
+      "vt. 提出，提议",
+      "vt. 出价，开价",
+      "vt. 表示愿意",
+      "vi. 提议",
+      "vi. 企图，想要",
+      "vi. 供奉",
+      "n. 提议",
+      "n. 出价，开价",
+      "n. 试图",
+      "n. 求婚"
+    ]
+  },
+  {
+    "word": "enough",
+    "definition": "n. 足够; 充足 adj.充分的 adv. 足够地; 充分地",
+    "rank": 375,
+    "coca_paraphrase": "adv. 足够地，充足地；十分地  adj. 充足的；足够的  n. 充分，足够；满足  int. 够了",
+    "coca_meanings": [
+      "adv. 足够地，充足地",
+      "adv. 十分地",
+      "adj. 充足的",
+      "adj. 足够的",
+      "n. 充分，足够",
+      "n. 满足",
+      "int. 够了"
+    ]
+  },
+  {
+    "word": "education",
+    "definition": "n. 教育",
+    "rank": 377,
+    "coca_paraphrase": "n. 教育；教育学；培养；训练",
+    "coca_meanings": [
+      "n. 教育",
+      "n. 教育学",
+      "n. 培养",
+      "n. 训练"
+    ]
+  },
+  {
+    "word": "across",
+    "definition": "prep. 横过, 穿过",
+    "rank": 378,
+    "coca_paraphrase": "prep. 穿过；横穿，横过；与…交叉；在…对面  adv. 横过，越过；在对面；交叉；斜对面",
+    "coca_meanings": [
+      "prep. 穿过",
+      "prep. 横穿，横过",
+      "prep. 与…交叉",
+      "prep. 在…对面",
+      "adv. 横过，越过",
+      "adv. 在对面",
+      "adv. 交叉",
+      "adv. 斜对面"
+    ]
+  },
+  {
+    "word": "although",
+    "definition": "conj. 虽然, 尽管",
+    "rank": 379,
+    "coca_paraphrase": "conj. 尽管；虽然；但是；然而",
+    "coca_meanings": [
+      "conj. 尽管",
+      "conj. 虽然",
+      "conj. 但是",
+      "conj. 然而"
+    ]
+  },
+  {
+    "word": "remember",
+    "definition": "v. 记得, 想起",
+    "rank": 380,
+    "coca_paraphrase": "vt.&vi. 记得；牢记  vt. 记着；纪念；回想起",
+    "coca_meanings": [
+      "vt.&vi. 记得",
+      "vt.&vi. 牢记",
+      "vt. 记着",
+      "vt. 纪念",
+      "vt. 回想起"
+    ]
+  },
+  {
+    "word": "foot (feet)",
+    "definition": "n.脚; 底部; 英尺",
+    "rank": 381,
+    "coca_paraphrase": "n. 脚；底部；英尺(=12 英寸或 30。48 厘米)；脚步  vt. 走，踏  vt.&vi. 结算，总计，共计",
+    "coca_meanings": [
+      "n. 脚",
+      "n. 底部",
+      "n. 英尺(=12 英寸或 30。48 厘米)",
+      "n. 脚步",
+      "vt. 走，踏",
+      "vt.&vi. 结算，总计，共计"
+    ]
+  },
+  {
+    "word": "second",
+    "definition": "n. 秒",
+    "rank": 382,
+    "coca_paraphrase": "n. 秒；瞬间；次货；第二份食物  adj. 第二的；次要的；居第二位的；另外的  adv. 第二；其次；以第二位  vt. 支持；临时调派；附议；赞成提案",
+    "coca_meanings": [
+      "n. 秒",
+      "n. 瞬间",
+      "n. 次货",
+      "n. 第二份食物",
+      "adj. 第二的",
+      "adj. 次要的",
+      "adj. 居第二位的",
+      "adj. 另外的",
+      "adv. 第二",
+      "adv. 其次",
+      "adv. 以第二位",
+      "vt. 支持",
+      "vt. 临时调派",
+      "vt. 附议",
+      "vt. 赞成提案"
+    ]
+  },
+  {
+    "word": "maybe",
+    "definition": "adv. 可能, 大概, 也许",
+    "rank": 384,
+    "coca_paraphrase": "adv. 也许；可能；大概  n. 不确定性",
+    "coca_meanings": [
+      "adv. 也许",
+      "adv. 可能",
+      "adv. 大概",
+      "n. 不确定性"
+    ]
+  },
+  {
+    "word": "toward(s)",
+    "definition": "prep. 向, 朝, 对于",
+    "rank": 385,
+    "coca_paraphrase": "prep. 对于；向；为了；接近  adj. 即将来到的；进行中的",
+    "coca_meanings": [
+      "prep. 对于",
+      "prep. 向",
+      "prep. 为了",
+      "prep. 接近",
+      "adj. 即将来到的",
+      "adj. 进行中的"
+    ]
+  },
+  {
+    "word": "able",
+    "definition": "adj. 能够; 有能力的",
+    "rank": 386,
+    "coca_paraphrase": "adj. 能够的；有能力的；有才干的；干练的",
+    "coca_meanings": [
+      "adj. 能够的",
+      "adj. 有能力的",
+      "adj. 有才干的",
+      "adj. 干练的"
+    ]
+  },
+  {
+    "word": "age",
+    "definition": "n. 年龄; 时代",
+    "rank": 387,
+    "coca_paraphrase": "n. 年龄；时代；老年；年龄段  vt.&vi. （使）长大；使显老；使变老；使苍老",
+    "coca_meanings": [
+      "n. 年龄",
+      "n. 时代",
+      "n. 老年",
+      "n. 年龄段",
+      "vt.&vi. （使）长大",
+      "vt.&vi. 使显老",
+      "vt.&vi. 使变老",
+      "vt.&vi. 使苍老"
+    ]
+  },
+  {
+    "word": "policy",
+    "definition": "n. 政策, 方针",
+    "rank": 389,
+    "coca_paraphrase": "n. 政策；策略；保险单；策略性",
+    "coca_meanings": [
+      "n. 政策",
+      "n. 策略",
+      "n. 保险单",
+      "n. 策略性"
+    ]
+  },
+  {
+    "word": "everything",
+    "definition": "pron. 每件事, 事事",
+    "rank": 390,
+    "coca_paraphrase": "pron. 每件事物；最重要的东西；（有关的）一切；万事",
+    "coca_meanings": [
+      "pron. 每件事物",
+      "pron. 最重要的东西",
+      "pron. （有关的）一切",
+      "pron. 万事"
+    ]
+  },
+  {
+    "word": "process",
+    "definition": "n. 过程, 作用, 方法, 程序, 步骤,",
+    "rank": 392,
+    "coca_paraphrase": "n. 过程；工序；做事方法；工艺流程  vt. 加工；处理；审阅；审核  vi. 列队行进  adj. 经过特殊加工（或处理）的",
+    "coca_meanings": [
+      "n. 过程",
+      "n. 工序",
+      "n. 做事方法",
+      "n. 工艺流程",
+      "vt. 加工",
+      "vt. 处理",
+      "vt. 审阅",
+      "vt. 审核",
+      "vi. 列队行进",
+      "adj. 经过特殊加工（或处理）的"
+    ]
+  },
+  {
+    "word": "consider",
+    "definition": "v. 考虑, 照顾, 认为",
+    "rank": 395,
+    "coca_paraphrase": "vt.&vi. 考虑；把（某人，某事）看作…，认为（某人，某事）如何；考虑，细想  vt. 考虑；认为；看重；以为  vi. 仔细考虑；深思",
+    "coca_meanings": [
+      "vt.&vi. 考虑",
+      "vt.&vi. 把（某人，某事）看作…，认为（某人，某事）如何",
+      "vt.&vi. 考虑，细想",
+      "vt. 考虑",
+      "vt. 认为",
+      "vt. 看重",
+      "vt. 以为",
+      "vi. 仔细考虑",
+      "vi. 深思"
+    ]
+  },
+  {
+    "word": "appear",
+    "definition": "v. 出现",
+    "rank": 396,
+    "coca_paraphrase": "vi. 出现，显现；出庭，出场；演出；发表",
+    "coca_meanings": [
+      "vi. 出现，显现",
+      "vi. 出庭，出场",
+      "vi. 演出",
+      "vi. 发表"
+    ]
+  },
+  {
+    "word": "buy (bought, bought)",
+    "definition": "v. 买",
+    "rank": 398,
+    "coca_paraphrase": "vt.&vi. 购买，购得  n. 交易，买卖；便宜货  vt. 够支付；买通；收买；贿赂",
+    "coca_meanings": [
+      "vt.&vi. 购买，购得",
+      "n. 交易，买卖",
+      "n. 便宜货",
+      "vt. 够支付",
+      "vt. 买通",
+      "vt. 收买",
+      "vt. 贿赂"
+    ]
+  },
+  {
+    "word": "probably",
+    "definition": "adv. 很可能, 大概",
+    "rank": 399,
+    "coca_paraphrase": "adv. 大概；或许；很可能；备不住",
+    "coca_meanings": [
+      "adv. 大概",
+      "adv. 或许",
+      "adv. 很可能",
+      "adv. 备不住"
+    ]
+  },
+  {
+    "word": "human",
+    "definition": "adj.人的, 人类的, 人性的 n. 人, 人类",
+    "rank": 400,
+    "coca_paraphrase": "n. 人，人类  adj. 人的；有人性的；显示人类特有弱点的；人本性的",
+    "coca_meanings": [
+      "n. 人，人类",
+      "adj. 人的",
+      "adj. 有人性的",
+      "adj. 显示人类特有弱点的",
+      "adj. 人本性的"
+    ]
+  },
+  {
+    "word": "wait",
+    "definition": "v.等, 等候",
+    "rank": 401,
+    "coca_paraphrase": "vt.&vi. 等候；等待；（尤指长期地）希望；盼望  vi. 准备妥；在手边；可得到；可使用  vt. 推迟，搁置，延缓",
+    "coca_meanings": [
+      "vt.&vi. 等候",
+      "vt.&vi. 等待",
+      "vt.&vi. （尤指长期地）希望",
+      "vt.&vi. 盼望",
+      "vi. 准备妥",
+      "vi. 在手边",
+      "vi. 可得到",
+      "vi. 可使用",
+      "vt. 推迟，搁置，延缓"
+    ]
+  },
+  {
+    "word": "serve",
+    "definition": "v. 招待, 服务",
+    "rank": 402,
+    "coca_paraphrase": "vt.&vi. （为…）服务；任（职）；提供；端上  vt. 招待；（为…）工作；对…有用；向…供应  vi. 适合；服役；供职  n. 网球等发球；发球权；所发的球",
+    "coca_meanings": [
+      "vt.&vi. （为…）服务",
+      "vt.&vi. 任（职）",
+      "vt.&vi. 提供",
+      "vt.&vi. 端上",
+      "vt. 招待",
+      "vt. （为…）工作",
+      "vt. 对…有用",
+      "vt. 向…供应",
+      "vi. 适合",
+      "vi. 服役",
+      "vi. 供职",
+      "n. 网球等发球",
+      "n. 发球权",
+      "n. 所发的球"
+    ]
+  },
+  {
+    "word": "market",
+    "definition": "n. 市场, 集市",
+    "rank": 403,
+    "coca_paraphrase": "n. 交易；市集；需求；交易情况，行情  vt. 在市场上出售某物；推销  vi. <美>去市场买东西",
+    "coca_meanings": [
+      "n. 交易",
+      "n. 市集",
+      "n. 需求",
+      "n. 交易情况，行情",
+      "vt. 在市场上出售某物",
+      "vt. 推销",
+      "vi. <美>去市场买东西"
+    ]
+  },
+  {
+    "word": "die",
+    "definition": "v. 死",
+    "rank": 404,
+    "coca_paraphrase": "vt.&vi. 死亡，熄灭；凋零，枯萎；渴望，盼望  n. 钢型，硬模；骰子",
+    "coca_meanings": [
+      "vt.&vi. 死亡，熄灭",
+      "vt.&vi. 凋零，枯萎",
+      "vt.&vi. 渴望，盼望",
+      "n. 钢型，硬模",
+      "n. 骰子"
+    ]
+  },
+  {
+    "word": "send (sent, sent)",
+    "definition": "v. 打发, 派遣; 送, 邮寄",
+    "rank": 405,
+    "coca_paraphrase": "vt. 送；使作出（某种反应）；派遣；使进入（某状态）  vt.&vi. 用无线电波发送，发出信息  vi. 派遣，发出，派人",
+    "coca_meanings": [
+      "vt. 送",
+      "vt. 使作出（某种反应）",
+      "vt. 派遣",
+      "vt. 使进入（某状态）",
+      "vt.&vi. 用无线电波发送，发出信息",
+      "vi. 派遣，发出，派人"
+    ]
+  },
+  {
+    "word": "expect",
+    "definition": "v. 预料; 盼望; 认为",
+    "rank": 406,
+    "coca_paraphrase": "vt. 期望；预料；要求；认为（某事）会发生  vi. 预期；期待；怀胎；怀孕",
+    "coca_meanings": [
+      "vt. 期望",
+      "vt. 预料",
+      "vt. 要求",
+      "vt. 认为（某事）会发生",
+      "vi. 预期",
+      "vi. 期待",
+      "vi. 怀胎",
+      "vi. 怀孕"
+    ]
+  },
+  {
+    "word": "sense",
+    "definition": "n. 感觉, 意识",
+    "rank": 408,
+    "coca_paraphrase": "n. 感觉，官能；意识，观念；理性；识别力  vt. 感到；理解，领会；检测出",
+    "coca_meanings": [
+      "n. 感觉，官能",
+      "n. 意识，观念",
+      "n. 理性",
+      "n. 识别力",
+      "vt. 感到",
+      "vt. 理解，领会",
+      "vt. 检测出"
+    ]
+  },
+  {
+    "word": "build (built, built)",
+    "definition": "v. 建筑; 造",
+    "rank": 409,
+    "coca_paraphrase": "vt. 建造，构筑；建立；开发；为…建立基础  vi. 建造，营造；扩大，扩展；发展，达到  n. 体格，构造；〈俚〉优美的体型，肉体美",
+    "coca_meanings": [
+      "vt. 建造，构筑",
+      "vt. 建立",
+      "vt. 开发",
+      "vt. 为…建立基础",
+      "vi. 建造，营造",
+      "vi. 扩大，扩展",
+      "vi. 发展，达到",
+      "n. 体格，构造",
+      "n. 〈俚〉优美的体型，肉体美"
+    ]
+  },
+  {
+    "word": "stay",
+    "definition": "n. 停留, 逗留 v. 停留, 逗留, 呆，保持",
+    "rank": 410,
+    "coca_paraphrase": "vt.&vi. 停留；停止；坚持；抑制  vi. 继续处于某种状态  n. 逗留；延期；倚靠；忍耐",
+    "coca_meanings": [
+      "vt.&vi. 停留",
+      "vt.&vi. 停止",
+      "vt.&vi. 坚持",
+      "vt.&vi. 抑制",
+      "vi. 继续处于某种状态",
+      "n. 逗留",
+      "n. 延期",
+      "n. 倚靠",
+      "n. 忍耐"
+    ]
+  },
+  {
+    "word": "fall (fell, fallen)",
+    "definition": "v. 落下, 降落; 倒",
+    "rank": 411,
+    "coca_paraphrase": "v. 落下；跌倒；减少；沦陷  n. 落下；瀑布；秋天；减少",
+    "coca_meanings": [
+      "v. 落下",
+      "v. 跌倒",
+      "v. 减少",
+      "v. 沦陷",
+      "n. 落下",
+      "n. 瀑布",
+      "n. 秋天",
+      "n. 减少"
+    ]
+  },
+  {
+    "word": "fall = autumn",
+    "definition": "n.（美）秋季",
+    "rank": 411,
+    "coca_paraphrase": "v. 落下；跌倒；减少；沦陷  n. 落下；瀑布；秋天；减少",
+    "coca_meanings": [
+      "v. 落下",
+      "v. 跌倒",
+      "v. 减少",
+      "v. 沦陷",
+      "n. 落下",
+      "n. 瀑布",
+      "n. 秋天",
+      "n. 减少"
+    ]
+  },
+  {
+    "word": "oh",
+    "definition": "int. 哦！啊！",
+    "rank": 412,
+    "coca_paraphrase": "int. （表示恐惧、惊讶、疑虑等）噢；啊；哎呀；冠于人名前，起呼语作用",
+    "coca_meanings": [
+      "int. （表示恐惧、惊讶、疑虑等）噢",
+      "int. 啊",
+      "int. 哎呀",
+      "int. 冠于人名前，起呼语作用"
+    ]
+  },
+  {
+    "word": "nation",
+    "definition": "n. 民族, 国家",
+    "rank": 413,
+    "coca_paraphrase": "n. 国家；民族；国民；政府",
+    "coca_meanings": [
+      "n. 国家",
+      "n. 民族",
+      "n. 国民",
+      "n. 政府"
+    ]
+  },
+  {
+    "word": "plan",
+    "definition": "n.& v. 计划, 打算",
+    "rank": 414,
+    "coca_paraphrase": "n. 计划；打算；平面图；示意图  vt.&vi. 计划，打算，设计",
+    "coca_meanings": [
+      "n. 计划",
+      "n. 打算",
+      "n. 平面图",
+      "n. 示意图",
+      "vt.&vi. 计划，打算，设计"
+    ]
+  },
+  {
+    "word": "college",
+    "definition": "n. 学院; 专科学校",
+    "rank": 416,
+    "coca_paraphrase": "n. 大学；（英国）学院；学会；（尤指必须交费的）中学",
+    "coca_meanings": [
+      "n. 大学",
+      "n. （英国）学院",
+      "n. 学会",
+      "n. （尤指必须交费的）中学"
+    ]
+  },
+  {
+    "word": "interest",
+    "definition": "n. 兴趣, 趣味; 利息 v. 引起...的注意",
+    "rank": 417,
+    "coca_paraphrase": "n. 兴趣，爱好；利害关系，利益；利息；趣味，感兴趣的事  vt. 使产生兴趣；使参与，使加入；引起…的意愿；使产生关系",
+    "coca_meanings": [
+      "n. 兴趣，爱好",
+      "n. 利害关系，利益",
+      "n. 利息",
+      "n. 趣味，感兴趣的事",
+      "vt. 使产生兴趣",
+      "vt. 使参与，使加入",
+      "vt. 引起…的意愿",
+      "vt. 使产生关系"
+    ]
+  },
+  {
+    "word": "death",
+    "definition": "n. 死",
+    "rank": 418,
+    "coca_paraphrase": "n. 死亡；（某种）死法，死亡方式；病危；死神",
+    "coca_meanings": [
+      "n. 死亡",
+      "n. （某种）死法，死亡方式",
+      "n. 病危",
+      "n. 死神"
+    ]
+  },
+  {
+    "word": "course",
+    "definition": "n. 过程; 经过; 课程",
+    "rank": 419,
+    "coca_paraphrase": "n. 课程；航线；行动方向；一道菜  vt. 快速地流动；奔流；跑过；追逐  vi. 沿…（方向）前进；指引航线；快跑；迅速移动",
+    "coca_meanings": [
+      "n. 课程",
+      "n. 航线",
+      "n. 行动方向",
+      "n. 一道菜",
+      "vt. 快速地流动",
+      "vt. 奔流",
+      "vt. 跑过",
+      "vt. 追逐",
+      "vi. 沿…（方向）前进",
+      "vi. 指引航线",
+      "vi. 快跑",
+      "vi. 迅速移动"
+    ]
+  },
+  {
+    "word": "someone",
+    "definition": "pron. 某一个人",
+    "rank": 420,
+    "coca_paraphrase": "pron. 某人，有人  n. 某个人",
+    "coca_meanings": [
+      "pron. 某人，有人",
+      "n. 某个人"
+    ]
+  },
+  {
+    "word": "experience",
+    "definition": "n. 经验; 经历",
+    "rank": 421,
+    "coca_paraphrase": "n. 经验，体验；经历，阅历  vt. 亲身参与，亲身经历；感受；发现",
+    "coca_meanings": [
+      "n. 经验，体验",
+      "n. 经历，阅历",
+      "vt. 亲身参与，亲身经历",
+      "vt. 感受",
+      "vt. 发现"
+    ]
+  },
+  {
+    "word": "behind",
+    "definition": "prep.在…后面 adv. 在后面; 向后",
+    "rank": 422,
+    "coca_paraphrase": "prep. （表示位置）在…的后面；支持；（表示顺序）在身后；（表示比较）落后于  adv. 在后面；向后；在后面较远处；（落）在后面  n. 〈口〉屁股",
+    "coca_meanings": [
+      "prep. （表示位置）在…的后面",
+      "prep. 支持",
+      "prep. （表示顺序）在身后",
+      "prep. （表示比较）落后于",
+      "adv. 在后面",
+      "adv. 向后",
+      "adv. 在后面较远处",
+      "adv. （落）在后面",
+      "n. 〈口〉屁股"
+    ]
+  },
+  {
+    "word": "reach",
+    "definition": "v. 到达, 伸手；够到， 延伸 n. 伸手可及之距离, 范围",
+    "rank": 423,
+    "coca_paraphrase": "v. 到达，走到；够…，抓…；完成  n. 手脚能够到的范围；范围，区域；影响的范围，管辖的范围",
+    "coca_meanings": [
+      "v. 到达，走到",
+      "v. 够…，抓…",
+      "v. 完成",
+      "n. 手脚能够到的范围",
+      "n. 范围，区域",
+      "n. 影响的范围，管辖的范围"
+    ]
+  },
+  {
+    "word": "local",
+    "definition": "adj. 当地的; 地方的",
+    "rank": 424,
+    "coca_paraphrase": "adj. 地方的；当地的，本地的；局部的；褊狭的  n. 慢车；本地居民（律师、教士、医生）；住处附近的当地酒店；本地新闻",
+    "coca_meanings": [
+      "adj. 地方的",
+      "adj. 当地的，本地的",
+      "adj. 局部的",
+      "adj. 褊狭的",
+      "n. 慢车",
+      "n. 本地居民（律师、教士、医生）",
+      "n. 住处附近的当地酒店",
+      "n. 本地新闻"
+    ]
+  },
+  {
+    "word": "kill",
+    "definition": "v. 杀死, 弄死",
+    "rank": 425,
+    "coca_paraphrase": "vt.&vi. 杀死…  n. 杀死；猎；被捕杀的动物；猎物  adj. 致命的",
+    "coca_meanings": [
+      "vt.&vi. 杀死…",
+      "n. 杀死",
+      "n. 猎",
+      "n. 被捕杀的动物",
+      "n. 猎物",
+      "adj. 致命的"
+    ]
+  },
+  {
+    "word": "remain",
+    "definition": "v. 余下, 留下; 保持, 仍是",
+    "rank": 427,
+    "coca_paraphrase": "n. 剩余物，残骸；残余；遗迹；遗体  vi. 留下；保持；留待；依然  v. 搁置；剩余，剩下；逗留；终属，归于",
+    "coca_meanings": [
+      "n. 剩余物，残骸",
+      "n. 残余",
+      "n. 遗迹",
+      "n. 遗体",
+      "vi. 留下",
+      "vi. 保持",
+      "vi. 留待",
+      "vi. 依然",
+      "v. 搁置",
+      "v. 剩余，剩下",
+      "v. 逗留",
+      "v. 终属，归于"
+    ]
+  },
+  {
+    "word": "effect",
+    "definition": "n. 效果; 作用",
+    "rank": 428,
+    "coca_paraphrase": "n. 影响；效果；印象；所有物  vt. 使发生；引起；产生（效果）",
+    "coca_meanings": [
+      "n. 影响",
+      "n. 效果",
+      "n. 印象",
+      "n. 所有物",
+      "vt. 使发生",
+      "vt. 引起",
+      "vt. 产生（效果）"
+    ]
+  },
+  {
+    "word": "suggest",
+    "definition": "v. 建议, 提议",
+    "rank": 431,
+    "coca_paraphrase": "vt. 建议，提议；暗示；使想起；启示",
+    "coca_meanings": [
+      "vt. 建议，提议",
+      "vt. 暗示",
+      "vt. 使想起",
+      "vt. 启示"
+    ]
+  },
+  {
+    "word": "class",
+    "definition": "n.（学校里的）班; 年级; 课",
+    "rank": 432,
+    "coca_paraphrase": "n. 班；等级；阶级；种类  vt. 把…归入某等级，把…看作（或分类、归类）；把…编入某一班级  adj. 很好的，优秀的，出色的  vi. 属于…类（或等级），被列为某类（或某级）",
+    "coca_meanings": [
+      "n. 班",
+      "n. 等级",
+      "n. 阶级",
+      "n. 种类",
+      "vt. 把…归入某等级，把…看作（或分类、归类）",
+      "vt. 把…编入某一班级",
+      "adj. 很好的，优秀的，出色的",
+      "vi. 属于…类（或等级），被列为某类（或某级）"
+    ]
+  },
+  {
+    "word": "control",
+    "definition": "v. & n. 控制",
+    "rank": 433,
+    "coca_paraphrase": "vt. 控制；管理；限制；支配  n. 支配权；操纵者；（对国家、地区、机构等的）管理权；（键盘上的）控制键",
+    "coca_meanings": [
+      "vt. 控制",
+      "vt. 管理",
+      "vt. 限制",
+      "vt. 支配",
+      "n. 支配权",
+      "n. 操纵者",
+      "n. （对国家、地区、机构等的）管理权",
+      "n. （键盘上的）控制键"
+    ]
+  },
+  {
+    "word": "raise",
+    "definition": "v.  使升高; 饲养",
+    "rank": 434,
+    "coca_paraphrase": "v. 提升；增加；养育；筹集  n. 提升；增加；高处；举起",
+    "coca_meanings": [
+      "v. 提升",
+      "v. 增加",
+      "v. 养育",
+      "v. 筹集",
+      "n. 提升",
+      "n. 增加",
+      "n. 高处",
+      "n. 举起"
+    ]
+  },
+  {
+    "word": "care",
+    "definition": "n. 照料, 保护; 小心  v. 介意…, 在乎; 关心",
+    "rank": 435,
+    "coca_paraphrase": "v. 关心；担心；照顾；喜爱  n. 照顾；小心；忧虑",
+    "coca_meanings": [
+      "v. 关心",
+      "v. 担心",
+      "v. 照顾",
+      "v. 喜爱",
+      "n. 照顾",
+      "n. 小心",
+      "n. 忧虑"
+    ]
+  },
+  {
+    "word": "perhaps",
+    "definition": "adv. 可能, 或许",
+    "rank": 436,
+    "coca_paraphrase": "adv. 或许；（表示不确定）也许；（用于粗略的估计）或许；（表示勉强同意或其实不赞成）也许  n. 假定；猜想；未定之事",
+    "coca_meanings": [
+      "adv. 或许",
+      "adv. （表示不确定）也许",
+      "adv. （用于粗略的估计）或许",
+      "adv. （表示勉强同意或其实不赞成）也许",
+      "n. 假定",
+      "n. 猜想",
+      "n. 未定之事"
+    ]
+  },
+  {
+    "word": "late",
+    "definition": "adj. 晚的, 迟的 adv. 晚地, 迟地",
+    "rank": 438,
+    "coca_paraphrase": "adj. 晚的，迟到的；时间不早的；已故的；原来的，之前的；临近终了的  adv. 晚，迟；后期地；最近地",
+    "coca_meanings": [
+      "adj. 晚的，迟到的",
+      "adj. 时间不早的",
+      "adj. 已故的",
+      "adj. 原来的，之前的",
+      "adj. 临近终了的",
+      "adv. 晚，迟",
+      "adv. 后期地",
+      "adv. 最近地"
+    ]
+  },
+  {
+    "word": "hard",
+    "definition": "adv. 努力地; 使劲; 猛烈地 adj.硬的;艰难的",
+    "rank": 439,
+    "coca_paraphrase": "adj. 困难的；硬的；有力的；努力的  adv. 努力地；猛力地；严重地；沉重地  n. 英〉硬海滩，登陆处",
+    "coca_meanings": [
+      "adj. 困难的",
+      "adj. 硬的",
+      "adj. 有力的",
+      "adj. 努力的",
+      "adv. 努力地",
+      "adv. 猛力地",
+      "adv. 严重地",
+      "adv. 沉重地",
+      "n. 英〉硬海滩，登陆处"
+    ]
+  },
+  {
+    "word": "field",
+    "definition": "n. 田地; 牧场; 场地",
+    "rank": 440,
+    "coca_paraphrase": "n. 田；（作某种用途的）场地；（学习或研究的）领域；运动场  adj. 实地的  vt. 保护；把（农作物等）晒在场上",
+    "coca_meanings": [
+      "n. 田",
+      "n. （作某种用途的）场地",
+      "n. （学习或研究的）领域",
+      "n. 运动场",
+      "adj. 实地的",
+      "vt. 保护",
+      "vt. 把（农作物等）晒在场上"
+    ]
+  },
+  {
+    "word": "else",
+    "definition": "adv. 别的, 其它的",
+    "rank": 441,
+    "coca_paraphrase": "adv. 其他；否则；另外  adj. 别的；其他的",
+    "coca_meanings": [
+      "adv. 其他",
+      "adv. 否则",
+      "adv. 另外",
+      "adj. 别的",
+      "adj. 其他的"
+    ]
+  },
+  {
+    "word": "pass",
+    "definition": "v. 传, 递; 经过; 通过",
+    "rank": 442,
+    "coca_paraphrase": "vt.&vi. 走过；通过；批准；度过  vt. 传球；及格；发生；不要  n. 通道；通行证；关口；越过",
+    "coca_meanings": [
+      "vt.&vi. 走过",
+      "vt.&vi. 通过",
+      "vt.&vi. 批准",
+      "vt.&vi. 度过",
+      "vt. 传球",
+      "vt. 及格",
+      "vt. 发生",
+      "vt. 不要",
+      "n. 通道",
+      "n. 通行证",
+      "n. 关口",
+      "n. 越过"
+    ]
+  },
+  {
+    "word": "former",
+    "definition": "adj. 以前的, 从前的;（两者之中的）前者",
+    "rank": 443,
+    "coca_paraphrase": "adj. 以前的，从前的；在前的；前任的  n. 模型，样板；构成者，创造者；起形成作用的人",
+    "coca_meanings": [
+      "adj. 以前的，从前的",
+      "adj. 在前的",
+      "adj. 前任的",
+      "n. 模型，样板",
+      "n. 构成者，创造者",
+      "n. 起形成作用的人"
+    ]
+  },
+  {
+    "word": "sell (sold, sold)",
+    "definition": "v. 卖, 售",
+    "rank": 444,
+    "coca_paraphrase": "vt.&vi. 卖，售；使好卖；使接受，使赞成；销售  vt. 经销；推销；出卖；欺骗  n. 销售；欺骗；失望；推销术  vi. 卖；出售；受欢迎；有销路",
+    "coca_meanings": [
+      "vt.&vi. 卖，售",
+      "vt.&vi. 使好卖",
+      "vt.&vi. 使接受，使赞成",
+      "vt.&vi. 销售",
+      "vt. 经销",
+      "vt. 推销",
+      "vt. 出卖",
+      "vt. 欺骗",
+      "n. 销售",
+      "n. 欺骗",
+      "n. 失望",
+      "n. 推销术",
+      "vi. 卖",
+      "vi. 出售",
+      "vi. 受欢迎",
+      "vi. 有销路"
+    ]
+  },
+  {
+    "word": "major",
+    "definition": "adj. 较大的; 主要的",
+    "rank": 445,
+    "coca_paraphrase": "adj. 主要的；重要的；大调的；主修的（课程）  n. 主修科目；大调；陆军少校；成年的  vi. <美>主修，专攻",
+    "coca_meanings": [
+      "adj. 主要的",
+      "adj. 重要的",
+      "adj. 大调的",
+      "adj. 主修的（课程）",
+      "n. 主修科目",
+      "n. 大调",
+      "n. 陆军少校",
+      "n. 成年的",
+      "vi. <美>主修，专攻"
+    ]
+  },
+  {
+    "word": "sometimes",
+    "definition": "adv. 有时",
+    "rank": 446,
+    "coca_paraphrase": "adv. 有时，间或；时而",
+    "coca_meanings": [
+      "adv. 有时，间或",
+      "adv. 时而"
+    ]
+  },
+  {
+    "word": "require",
+    "definition": "v. 需求; 要求",
+    "rank": 447,
+    "coca_paraphrase": "vt. 要求；需要；想要；命令  vi. 要求，规定",
+    "coca_meanings": [
+      "vt. 要求",
+      "vt. 需要",
+      "vt. 想要",
+      "vt. 命令",
+      "vi. 要求，规定"
+    ]
+  },
+  {
+    "word": "development",
+    "definition": "n. 发展, 发育, 开发",
+    "rank": 449,
+    "coca_paraphrase": "n. 发展，进化；被发展的状态；新生事物，新产品；开发区",
+    "coca_meanings": [
+      "n. 发展，进化",
+      "n. 被发展的状态",
+      "n. 新生事物，新产品",
+      "n. 开发区"
+    ]
+  },
+  {
+    "word": "themselves",
+    "definition": "pron. 他/她/它们自己",
+    "rank": 450,
+    "coca_paraphrase": "pron.[\"他[她，它]们自己\",\"他们亲自\",\"“himself”的复数\",\"“herself”的复数\"]",
+    "coca_meanings": [
+      "pron.他[她，它]们自己"
+    ]
+  },
+  {
+    "word": "report",
+    "definition": "n.& v. 报道, 报告",
+    "rank": 451,
+    "coca_paraphrase": "n. 报告；成绩报告单；传闻；流言蜚语  vt.&vi. 报道；公布；宣告  vt. 告发，举报；使报到",
+    "coca_meanings": [
+      "n. 报告",
+      "n. 成绩报告单",
+      "n. 传闻",
+      "n. 流言蜚语",
+      "vt.&vi. 报道",
+      "vt.&vi. 公布",
+      "vt.&vi. 宣告",
+      "vt. 告发，举报",
+      "vt. 使报到"
+    ]
+  },
+  {
+    "word": "role",
+    "definition": "n. 角色",
+    "rank": 452,
+    "coca_paraphrase": "n. 作用；地位；角色",
+    "coca_meanings": [
+      "n. 作用",
+      "n. 地位",
+      "n. 角色"
+    ]
+  },
+  {
+    "word": "effort",
+    "definition": "n. 努力, 艰难的尝试",
+    "rank": 455,
+    "coca_paraphrase": "n. 努力，尝试；工作；成就；杰作",
+    "coca_meanings": [
+      "n. 努力，尝试",
+      "n. 工作",
+      "n. 成就",
+      "n. 杰作"
+    ]
+  },
+  {
+    "word": "decide",
+    "definition": "v. 决定; 下决心",
+    "rank": 457,
+    "coca_paraphrase": "vt. 决定；决心；解决；裁决  vi. 决定；下决心",
+    "coca_meanings": [
+      "vt. 决定",
+      "vt. 决心",
+      "vt. 解决",
+      "vt. 裁决",
+      "vi. 决定",
+      "vi. 下决心"
+    ]
+  },
+  {
+    "word": "rate",
+    "definition": "n. 比率, 速度, 等级, 价格",
+    "rank": 458,
+    "coca_paraphrase": "n. 速度；比率；等级；（利息等的）费率  vt. 估价；值得；责骂；定级  vt.&vi. 认为，把…算作  vi. 被评价；被认为；被列入；申斥",
+    "coca_meanings": [
+      "n. 速度",
+      "n. 比率",
+      "n. 等级",
+      "n. （利息等的）费率",
+      "vt. 估价",
+      "vt. 值得",
+      "vt. 责骂",
+      "vt. 定级",
+      "vt.&vi. 认为，把…算作",
+      "vi. 被评价",
+      "vi. 被认为",
+      "vi. 被列入",
+      "vi. 申斥"
+    ]
+  },
+  {
+    "word": "strong",
+    "definition": "adj. 强(壮)的; 坚固的; 强烈的; 坚强的",
+    "rank": 459,
+    "coca_paraphrase": "adj. 强的；坚强的；强烈的；强壮的  adv. 强劲地；猛烈地；大大地；坚强地",
+    "coca_meanings": [
+      "adj. 强的",
+      "adj. 坚强的",
+      "adj. 强烈的",
+      "adj. 强壮的",
+      "adv. 强劲地",
+      "adv. 猛烈地",
+      "adv. 大大地",
+      "adv. 坚强地"
+    ]
+  },
+  {
+    "word": "possible",
+    "definition": "adj. 可能的",
+    "rank": 460,
+    "coca_paraphrase": "adj. 可能的；可接受的；合理的，可以允许的；不坏的  n. 可能性，潜在性；可能的人物，可能有的事；最高分",
+    "coca_meanings": [
+      "adj. 可能的",
+      "adj. 可接受的",
+      "adj. 合理的，可以允许的",
+      "adj. 不坏的",
+      "n. 可能性，潜在性",
+      "n. 可能的人物，可能有的事",
+      "n. 最高分"
+    ]
+  },
+  {
+    "word": "heart",
+    "definition": "n. 心; 心脏",
+    "rank": 461,
+    "coca_paraphrase": "n. 心，心脏；感情；要点；胸部  vt. 鼓励；激励  vi. 结心",
+    "coca_meanings": [
+      "n. 心，心脏",
+      "n. 感情",
+      "n. 要点",
+      "n. 胸部",
+      "vt. 鼓励",
+      "vt. 激励",
+      "vi. 结心"
+    ]
+  },
+  {
+    "word": "drug",
+    "definition": "n. 药; 毒品",
+    "rank": 462,
+    "coca_paraphrase": "n. 药物；药剂；麻醉药；毒品  vt. （在食物或饮料中）投放麻醉药，下麻醉药；掺麻醉药于；使服麻醉药；使服毒品  vi. 使服麻醉药，用药麻醉，使服兴奋剂",
+    "coca_meanings": [
+      "n. 药物",
+      "n. 药剂",
+      "n. 麻醉药",
+      "n. 毒品",
+      "vt. （在食物或饮料中）投放麻醉药，下麻醉药",
+      "vt. 掺麻醉药于",
+      "vt. 使服麻醉药",
+      "vt. 使服毒品",
+      "vi. 使服麻醉药，用药麻醉，使服兴奋剂"
+    ]
+  },
+  {
+    "word": "leader",
+    "definition": "n. 领袖, 领导人",
+    "rank": 464,
+    "coca_paraphrase": "n. 领袖，领导者；负责人；指挥者；领唱者",
+    "coca_meanings": [
+      "n. 领袖，领导者",
+      "n. 负责人",
+      "n. 指挥者",
+      "n. 领唱者"
+    ]
+  },
+  {
+    "word": "light",
+    "definition": "n. 光, 光亮; 灯 v.  照亮；点燃 adj. 明亮的; 轻的; 浅色的",
+    "rank": 465,
+    "coca_paraphrase": "n. 光；发光体；电灯；点火器  adj. 轻的；明亮的；浅色的；少量的  v. 点燃；照亮；用光指引  adv. 轻地，轻装地",
+    "coca_meanings": [
+      "n. 光",
+      "n. 发光体",
+      "n. 电灯",
+      "n. 点火器",
+      "adj. 轻的",
+      "adj. 明亮的",
+      "adj. 浅色的",
+      "adj. 少量的",
+      "v. 点燃",
+      "v. 照亮",
+      "v. 用光指引",
+      "adv. 轻地，轻装地"
+    ]
+  },
+  {
+    "word": "voice",
+    "definition": "n. 说话声; 语态",
+    "rank": 466,
+    "coca_paraphrase": "n. 嗓音；（动词的）语态；呼声，发言权；歌唱才能  vt. 发音；表达，说出；给（一部乐曲）配上声部；给（如管风琴音管）整声",
+    "coca_meanings": [
+      "n. 嗓音",
+      "n. （动词的）语态",
+      "n. 呼声，发言权",
+      "n. 歌唱才能",
+      "vt. 发音",
+      "vt. 表达，说出",
+      "vt. 给（一部乐曲）配上声部",
+      "vt. 给（如管风琴音管）整声"
+    ]
+  },
+  {
+    "word": "wife",
+    "definition": "n.妻子",
+    "rank": 467,
+    "coca_paraphrase": "n. 妻子，太太；夫人，老婆；已婚妇女",
+    "coca_meanings": [
+      "n. 妻子，太太",
+      "n. 夫人，老婆",
+      "n. 已婚妇女"
+    ]
+  },
+  {
+    "word": "whole",
+    "definition": "adj.完整的 n.全部",
+    "rank": 468,
+    "coca_paraphrase": "adj. 全部的，所有的；完整的  n. 整体，整个；全部",
+    "coca_meanings": [
+      "adj. 全部的，所有的",
+      "adj. 完整的",
+      "n. 整体，整个",
+      "n. 全部"
+    ]
+  },
+  {
+    "word": "police",
+    "definition": "n. 警察, 警务人员",
+    "rank": 469,
+    "coca_paraphrase": "n. 警察部门；警方；警察；治安  vt. （警察、军队等）巡查；维护治安；（委员会等）监督；管制  adj. 警察的；有关警察的",
+    "coca_meanings": [
+      "n. 警察部门",
+      "n. 警方",
+      "n. 警察",
+      "n. 治安",
+      "vt. （警察、军队等）巡查",
+      "vt. 维护治安",
+      "vt. （委员会等）监督",
+      "vt. 管制",
+      "adj. 警察的",
+      "adj. 有关警察的"
+    ]
+  },
+  {
+    "word": "mind",
+    "definition": "n. 思想, 想法 v. 介意, 关心",
+    "rank": 470,
+    "coca_paraphrase": "n. 心，精神，心力，知，智力，智慧；心胸，头脑，人；愿望，目的，意向，意志，决心，见解，意见；记忆，记性，记忆力，回想  vi. 介意；注意  vt. 专心于；介意；愿意做；照顾",
+    "coca_meanings": [
+      "n. 心，精神，心力，知，智力，智慧",
+      "n. 心胸，头脑，人",
+      "n. 愿望，目的，意向，意志，决心，见解，意见",
+      "n. 记忆，记性，记忆力，回想",
+      "vi. 介意",
+      "vi. 注意",
+      "vt. 专心于",
+      "vt. 介意",
+      "vt. 愿意做",
+      "vt. 照顾"
+    ]
+  },
+  {
+    "word": "pull",
+    "definition": "v. 拉, 拖 n. 拉, 拖，拉力, 引力",
+    "rank": 472,
+    "coca_paraphrase": "vt.&vi. 拉；扯；拉过来；划（船）  vt. 赢得；吸引异性；取消；（耍手腕）得逞  n. 拖；爬；影响力",
+    "coca_meanings": [
+      "vt.&vi. 拉",
+      "vt.&vi. 扯",
+      "vt.&vi. 拉过来",
+      "vt.&vi. 划（船）",
+      "vt. 赢得",
+      "vt. 吸引异性",
+      "vt. 取消",
+      "vt. （耍手腕）得逞",
+      "n. 拖",
+      "n. 爬",
+      "n. 影响力"
+    ]
+  },
+  {
+    "word": "return",
+    "definition": "v. 归还",
+    "rank": 473,
+    "coca_paraphrase": "v. 回转，返回；复发，又来；送还；言归正传  n. 归来，返乡；来回，汇成；赢利；统计表",
+    "coca_meanings": [
+      "v. 回转，返回",
+      "v. 复发，又来",
+      "v. 送还",
+      "v. 言归正传",
+      "n. 归来，返乡",
+      "n. 来回，汇成",
+      "n. 赢利",
+      "n. 统计表"
+    ]
+  },
+  {
+    "word": "price",
+    "definition": "n. 价格, 价钱",
+    "rank": 476,
+    "coca_paraphrase": "n. 价格，价钱；代价；价值；赏金  vt. 标价；定价；问…的价格；给…定价",
+    "coca_meanings": [
+      "n. 价格，价钱",
+      "n. 代价",
+      "n. 价值",
+      "n. 赏金",
+      "vt. 标价",
+      "vt. 定价",
+      "vt. 问…的价格",
+      "vt. 给…定价"
+    ]
+  },
+  {
+    "word": "decision",
+    "definition": "n. 决定; 决心",
+    "rank": 480,
+    "coca_paraphrase": "n. 决定；果断；决议；（法院的）判决",
+    "coca_meanings": [
+      "n. 决定",
+      "n. 果断",
+      "n. 决议",
+      "n. （法院的）判决"
+    ]
+  },
+  {
+    "word": "explain",
+    "definition": "v. 解释, 说明",
+    "rank": 481,
+    "coca_paraphrase": "vt.&vi. 讲解，解释  vt. 说明…的原因，辩解  vi. 说明，解释，辩解",
+    "coca_meanings": [
+      "vt.&vi. 讲解，解释",
+      "vt. 说明…的原因，辩解",
+      "vi. 说明，解释，辩解"
+    ]
+  },
+  {
+    "word": "son",
+    "definition": "n. 儿子",
+    "rank": 482,
+    "coca_paraphrase": "n. 儿子；孩子；男性后裔；圣子（耶稣基督）",
+    "coca_meanings": [
+      "n. 儿子",
+      "n. 孩子",
+      "n. 男性后裔",
+      "n. 圣子（耶稣基督）"
+    ]
+  },
+  {
+    "word": "hope",
+    "definition": "n.& v. 希望",
+    "rank": 483,
+    "coca_paraphrase": "n. 希望，期望；希望的东西；被寄予希望的人或事物、情况；抱有希望的理由  vt.&vi. 希望，期望  vi. 希望，盼望，期待",
+    "coca_meanings": [
+      "n. 希望，期望",
+      "n. 希望的东西",
+      "n. 被寄予希望的人或事物、情况",
+      "n. 抱有希望的理由",
+      "vt.&vi. 希望，期望",
+      "vi. 希望，盼望，期待"
+    ]
+  },
+  {
+    "word": "develop",
+    "definition": "v. 发展; 开发",
+    "rank": 485,
+    "coca_paraphrase": "vi. 发展；生长；形成；发达  vt. 发展；开发；研制；冲洗（胶片）",
+    "coca_meanings": [
+      "vi. 发展",
+      "vi. 生长",
+      "vi. 形成",
+      "vi. 发达",
+      "vt. 发展",
+      "vt. 开发",
+      "vt. 研制",
+      "vt. 冲洗（胶片）"
+    ]
+  },
+  {
+    "word": "view",
+    "definition": "n. 看法, 见解; 风景, 景色 v. 观察, 观看",
+    "rank": 486,
+    "coca_paraphrase": "n. 看法；风景；视域  vt. 看；看待",
+    "coca_meanings": [
+      "n. 看法",
+      "n. 风景",
+      "n. 视域",
+      "vt. 看",
+      "vt. 看待"
+    ]
+  },
+  {
+    "word": "relationship",
+    "definition": "n. 关系",
+    "rank": 487,
+    "coca_paraphrase": "n. 关系；联系；浪漫关系；血缘关系",
+    "coca_meanings": [
+      "n. 关系",
+      "n. 联系",
+      "n. 浪漫关系",
+      "n. 血缘关系"
+    ]
+  },
+  {
+    "word": "carry",
+    "definition": "v. 拿, 搬, 带, 提, 抬, 背, 抱, 运等",
+    "rank": 488,
+    "coca_paraphrase": "vt. 支撑；携带；输送；运载  vt.&vi. 运送；搬运；具有  vi. （文学、戏剧等）对读者；扔（或踢）到…距离；（马等）具有某种姿势；传得很远  n. （枪炮、火箭等的）射程；运输，运送",
+    "coca_meanings": [
+      "vt. 支撑",
+      "vt. 携带",
+      "vt. 输送",
+      "vt. 运载",
+      "vt.&vi. 运送",
+      "vt.&vi. 搬运",
+      "vt.&vi. 具有",
+      "vi. （文学、戏剧等）对读者",
+      "vi. 扔（或踢）到…距离",
+      "vi. （马等）具有某种姿势",
+      "vi. 传得很远",
+      "n. （枪炮、火箭等的）射程",
+      "n. 运输，运送"
+    ]
+  },
+  {
+    "word": "town",
+    "definition": "n. 城镇, 城",
+    "rank": 489,
+    "coca_paraphrase": "n. 城镇，市镇；小村庄；城镇居民；商业中心",
+    "coca_meanings": [
+      "n. 城镇，市镇",
+      "n. 小村庄",
+      "n. 城镇居民",
+      "n. 商业中心"
+    ]
+  },
+  {
+    "word": "road",
+    "definition": "n. 路, 道路",
+    "rank": 490,
+    "coca_paraphrase": "n. 路；通路；途径；方法  vt. 在…设置路障；（狗）沿臭迹追逐（猎物）；（狗）闻着臭迹追",
+    "coca_meanings": [
+      "n. 路",
+      "n. 通路",
+      "n. 途径",
+      "n. 方法",
+      "vt. 在…设置路障",
+      "vt. （狗）沿臭迹追逐（猎物）",
+      "vt. （狗）闻着臭迹追"
+    ]
+  },
+  {
+    "word": "drive(drove, driven)",
+    "definition": "v. 驾驶, 开（车）; 驱赶",
+    "rank": 491,
+    "coca_paraphrase": "v. 驾驶；开车；驱动；迫使  n. 驱车旅行；驱动力；车道；驱动器",
+    "coca_meanings": [
+      "v. 驾驶",
+      "v. 开车",
+      "v. 驱动",
+      "v. 迫使",
+      "n. 驱车旅行",
+      "n. 驱动力",
+      "n. 车道",
+      "n. 驱动器"
+    ]
+  },
+  {
+    "word": "arm",
+    "definition": "n. 手臂，胳膊, 武器 v. 以…装备, 武装起来",
+    "rank": 492,
+    "coca_paraphrase": "n. 臂；武器  vi. 准备（斗争），准备行动（against）  vt. 装备（防御工事）；准备（攻击或迎击）；配备；防护",
+    "coca_meanings": [
+      "n. 臂",
+      "n. 武器",
+      "vi. 准备（斗争），准备行动（against）",
+      "vt. 装备（防御工事）",
+      "vt. 准备（攻击或迎击）",
+      "vt. 配备",
+      "vt. 防护"
+    ]
+  },
+  {
+    "word": "true",
+    "definition": "adj. 真的, 真实的; 忠诚的",
+    "rank": 493,
+    "coca_paraphrase": "adj. 真正的；真实的；忠实的；正确的  n. 真理，真实；正，准，精确  vt. 摆正；决定（某物）的位置以使其平衡、平稳或水平",
+    "coca_meanings": [
+      "adj. 真正的",
+      "adj. 真实的",
+      "adj. 忠实的",
+      "adj. 正确的",
+      "n. 真理，真实",
+      "n. 正，准，精确",
+      "vt. 摆正",
+      "vt. 决定（某物）的位置以使其平衡、平稳或水平"
+    ]
+  },
+  {
+    "word": "federal",
+    "definition": "adj. 中央的; 联邦的",
+    "rank": 494,
+    "coca_paraphrase": "adj. 联邦（制）的；同盟的  n. 联邦主义者；同盟盟友",
+    "coca_meanings": [
+      "adj. 联邦（制）的",
+      "adj. 同盟的",
+      "n. 联邦主义者",
+      "n. 同盟盟友"
+    ]
+  },
+  {
+    "word": "break",
+    "definition": "n. 间隙",
+    "rank": 495,
+    "coca_paraphrase": "vt. （使）破；打破（纪录）；（常指好天气）突变；开始  vi. （嗓音）突变；突破；破晓；（价格）突然下跌  n. 破裂；中间休息；间断；短假",
+    "coca_meanings": [
+      "vt. （使）破",
+      "vt. 打破（纪录）",
+      "vt. （常指好天气）突变",
+      "vt. 开始",
+      "vi. （嗓音）突变",
+      "vi. 突破",
+      "vi. 破晓",
+      "vi. （价格）突然下跌",
+      "n. 破裂",
+      "n. 中间休息",
+      "n. 间断",
+      "n. 短假"
+    ]
+  },
+  {
+    "word": "break (broke, broken)",
+    "definition": "v. 打破（断, 碎）; 损坏, 撕开",
+    "rank": 495,
+    "coca_paraphrase": "vt. （使）破；打破（纪录）；（常指好天气）突变；开始  vi. （嗓音）突变；突破；破晓；（价格）突然下跌  n. 破裂；中间休息；间断；短假",
+    "coca_meanings": [
+      "vt. （使）破",
+      "vt. 打破（纪录）",
+      "vt. （常指好天气）突变",
+      "vt. 开始",
+      "vi. （嗓音）突变",
+      "vi. 突破",
+      "vi. 破晓",
+      "vi. （价格）突然下跌",
+      "n. 破裂",
+      "n. 中间休息",
+      "n. 间断",
+      "n. 短假"
+    ]
+  },
+  {
+    "word": "difference",
+    "definition": "n. 不同",
+    "rank": 497,
+    "coca_paraphrase": "n. 差别，差异  vt. 辨别，区分",
+    "coca_meanings": [
+      "n. 差别，差异",
+      "vt. 辨别，区分"
+    ]
+  },
+  {
+    "word": "thank",
+    "definition": "v. 感谢, 致谢, 道谢 n.（复）感谢, 谢意",
+    "rank": 498,
+    "coca_paraphrase": "vt. 谢谢，感谢；责怪，把…归于  n. 感谢，谢谢，道谢的话",
+    "coca_meanings": [
+      "vt. 谢谢，感谢",
+      "vt. 责怪，把…归于",
+      "n. 感谢，谢谢，道谢的话"
+    ]
+  },
+  {
+    "word": "receive",
+    "definition": "v. 收到, 得到",
+    "rank": 499,
+    "coca_paraphrase": "vt.&vi. 收到；接到；接纳；接待  vt. 接收；受理；欢迎；承受  vi. 接到，获得；接见，欢迎",
+    "coca_meanings": [
+      "vt.&vi. 收到",
+      "vt.&vi. 接到",
+      "vt.&vi. 接纳",
+      "vt.&vi. 接待",
+      "vt. 接收",
+      "vt. 受理",
+      "vt. 欢迎",
+      "vt. 承受",
+      "vi. 接到，获得",
+      "vi. 接见，欢迎"
+    ]
+  },
+  {
+    "word": "value",
+    "definition": "n. 价值, 益处",
+    "rank": 500,
+    "coca_paraphrase": "n. 价值，价格；意义，涵义；重要性；（邮票的）面值  vt. 评价；重视，看重；估价，给…定价",
+    "coca_meanings": [
+      "n. 价值，价格",
+      "n. 意义，涵义",
+      "n. 重要性",
+      "n. （邮票的）面值",
+      "vt. 评价",
+      "vt. 重视，看重",
+      "vt. 估价，给…定价"
+    ]
+  },
+  {
+    "word": "international",
+    "definition": "adj. 国际的",
+    "rank": 501,
+    "coca_paraphrase": "adj. 国际的；两国（或以上）国家的；超越国界的；国际关系的  n. 国际组织；国际体育比赛；外国居留者；国际股票",
+    "coca_meanings": [
+      "adj. 国际的",
+      "adj. 两国（或以上）国家的",
+      "adj. 超越国界的",
+      "adj. 国际关系的",
+      "n. 国际组织",
+      "n. 国际体育比赛",
+      "n. 外国居留者",
+      "n. 国际股票"
+    ]
+  },
+  {
+    "word": "building",
+    "definition": "n. 建筑物; 房屋; 大楼",
+    "rank": 502,
+    "coca_paraphrase": "n. 建筑物；楼房；房屋；建筑（艺术或行业）  v. build的现在分词",
+    "coca_meanings": [
+      "n. 建筑物",
+      "n. 楼房",
+      "n. 房屋",
+      "n. 建筑（艺术或行业）",
+      "v. build的现在分词"
+    ]
+  },
+  {
+    "word": "action",
+    "definition": "n. 行动",
+    "rank": 503,
+    "coca_paraphrase": "n. 行动，活动；功能，作用；手段",
+    "coca_meanings": [
+      "n. 行动，活动",
+      "n. 功能，作用",
+      "n. 手段"
+    ]
+  },
+  {
+    "word": "full",
+    "definition": "adj. 满的, 充满的; 完全的",
+    "rank": 504,
+    "coca_paraphrase": "adj. 满的，装满的；完全的，完整的；丰富的；详尽的  adv. 极其，十分；充分地，完全地；整整；直接地  n. 充分，完全；全部；完整；极盛时  v. 把衣服缝得宽大；把裙子缝出皱褶",
+    "coca_meanings": [
+      "adj. 满的，装满的",
+      "adj. 完全的，完整的",
+      "adj. 丰富的",
+      "adj. 详尽的",
+      "adv. 极其，十分",
+      "adv. 充分地，完全地",
+      "adv. 整整",
+      "adv. 直接地",
+      "n. 充分，完全",
+      "n. 全部",
+      "n. 完整",
+      "n. 极盛时",
+      "v. 把衣服缝得宽大",
+      "v. 把裙子缝出皱褶"
+    ]
+  },
+  {
+    "word": "model",
+    "definition": "n. 模型, 原形; 范例; 模范",
+    "rank": 505,
+    "coca_paraphrase": "n. 模型；模特儿；模式；典型  vt.&vi. 做模特儿  vt. 模仿；制作模型，塑造；将…做成模型  adj. 典型的，模范的",
+    "coca_meanings": [
+      "n. 模型",
+      "n. 模特儿",
+      "n. 模式",
+      "n. 典型",
+      "vt.&vi. 做模特儿",
+      "vt. 模仿",
+      "vt. 制作模型，塑造",
+      "vt. 将…做成模型",
+      "adj. 典型的，模范的"
+    ]
+  },
+  {
+    "word": "season",
+    "definition": "n. 季; 季节",
+    "rank": 507,
+    "coca_paraphrase": "n. 季节，季；时期；活动期，时令；暂时  vt. 使适应，使适用；调味  vt.&vi. 使变干燥",
+    "coca_meanings": [
+      "n. 季节，季",
+      "n. 时期",
+      "n. 活动期，时令",
+      "n. 暂时",
+      "vt. 使适应，使适用",
+      "vt. 调味",
+      "vt.&vi. 使变干燥"
+    ]
+  },
+  {
+    "word": "society",
+    "definition": "n. 社会",
+    "rank": 508,
+    "coca_paraphrase": "n. 社会；上流社会；社团；社群  adj. 上流社会的，社交界的",
+    "coca_meanings": [
+      "n. 社会",
+      "n. 上流社会",
+      "n. 社团",
+      "n. 社群",
+      "adj. 上流社会的，社交界的"
+    ]
+  },
+  {
+    "word": "tax",
+    "definition": "n. 税, 税款",
+    "rank": 510,
+    "coca_paraphrase": "vt. 使负重担；消耗精力；向…征税；责备，谴责  n. 税，税额；负担",
+    "coca_meanings": [
+      "vt. 使负重担",
+      "vt. 消耗精力",
+      "vt. 向…征税",
+      "vt. 责备，谴责",
+      "n. 税，税额",
+      "n. 负担"
+    ]
+  },
+  {
+    "word": "director",
+    "definition": "n. 主任, 主管, 导演",
+    "rank": 511,
+    "coca_paraphrase": "n. 主管，主任；董事，理事；负责人，监督者；导演",
+    "coca_meanings": [
+      "n. 主管，主任",
+      "n. 董事，理事",
+      "n. 负责人，监督者",
+      "n. 导演"
+    ]
+  },
+  {
+    "word": "position",
+    "definition": "n. 位置",
+    "rank": 513,
+    "coca_paraphrase": "n. 位置，方位；地位，职位；态度；状态  vt. 安置；把…放在适当位置；给…定位；驻扎军队",
+    "coca_meanings": [
+      "n. 位置，方位",
+      "n. 地位，职位",
+      "n. 态度",
+      "n. 状态",
+      "vt. 安置",
+      "vt. 把…放在适当位置",
+      "vt. 给…定位",
+      "vt. 驻扎军队"
+    ]
+  },
+  {
+    "word": "agree",
+    "definition": "v. 同意; 应允",
+    "rank": 515,
+    "coca_paraphrase": "vt.&vi. 同意，赞同  vt. 同意，承认；使和谐一致；认为正确无误",
+    "coca_meanings": [
+      "vt.&vi. 同意，赞同",
+      "vt. 同意，承认",
+      "vt. 使和谐一致",
+      "vt. 认为正确无误"
+    ]
+  },
+  {
+    "word": "especially",
+    "definition": "adv. 特别, 尤其",
+    "rank": 516,
+    "coca_paraphrase": "adv. 尤其地；主要地，格外地；显著地；异常地",
+    "coca_meanings": [
+      "adv. 尤其地",
+      "adv. 主要地，格外地",
+      "adv. 显著地",
+      "adv. 异常地"
+    ]
+  },
+  {
+    "word": "record",
+    "definition": "n. 记录; 唱片",
+    "rank": 517,
+    "coca_paraphrase": "n. 记录，记载；档案，履历；唱片；最高纪录",
+    "coca_meanings": [
+      "n. 记录，记载",
+      "n. 档案，履历",
+      "n. 唱片",
+      "n. 最高纪录"
+    ]
+  },
+  {
+    "word": "record",
+    "definition": "v. 录制, 记录 n. 纪录, 唱片",
+    "rank": 517,
+    "coca_paraphrase": "n. 记录，记载；档案，履历；唱片；最高纪录",
+    "coca_meanings": [
+      "n. 记录，记载",
+      "n. 档案，履历",
+      "n. 唱片",
+      "n. 最高纪录"
+    ]
+  },
+  {
+    "word": "pick",
+    "definition": "v. 拾起, 采集; 挑选",
+    "rank": 518,
+    "coca_paraphrase": "vt.&vi. 挑选，挑拣；挖，采，摘，剔，扒；挑剔  n. 选择；收获；精华",
+    "coca_meanings": [
+      "vt.&vi. 挑选，挑拣",
+      "vt.&vi. 挖，采，摘，剔，扒",
+      "vt.&vi. 挑剔",
+      "n. 选择",
+      "n. 收获",
+      "n. 精华"
+    ]
+  },
+  {
+    "word": "paper",
+    "definition": "n. 纸; 报纸",
+    "rank": 520,
+    "coca_paraphrase": "n. 纸；文件；论文；文章  vt.&vi. 贴纸  vt. 包装，用纸覆盖；贴壁纸；提供纸张  vi. 贴糊墙纸；发交通违章传票  adj. 纸制的；似纸的；有名无实的",
+    "coca_meanings": [
+      "n. 纸",
+      "n. 文件",
+      "n. 论文",
+      "n. 文章",
+      "vt.&vi. 贴纸",
+      "vt. 包装，用纸覆盖",
+      "vt. 贴壁纸",
+      "vt. 提供纸张",
+      "vi. 贴糊墙纸",
+      "vi. 发交通违章传票",
+      "adj. 纸制的",
+      "adj. 似纸的",
+      "adj. 有名无实的"
+    ]
+  },
+  {
+    "word": "special",
+    "definition": "adj. 特别的, 专门的",
+    "rank": 521,
+    "coca_paraphrase": "adj. 特殊的；专门的；专用的；重要的  n. 专车；特价；特刊；特约稿",
+    "coca_meanings": [
+      "adj. 特殊的",
+      "adj. 专门的",
+      "adj. 专用的",
+      "adj. 重要的",
+      "n. 专车",
+      "n. 特价",
+      "n. 特刊",
+      "n. 特约稿"
+    ]
+  },
+  {
+    "word": "space",
+    "definition": "n. 空间",
+    "rank": 522,
+    "coca_paraphrase": "n. 空间，太空；空白，间隔；空隙；片刻  vt. 把…分隔开，留间隔于…之间  vi. 以一定间隔排列",
+    "coca_meanings": [
+      "n. 空间，太空",
+      "n. 空白，间隔",
+      "n. 空隙",
+      "n. 片刻",
+      "vt. 把…分隔开，留间隔于…之间",
+      "vi. 以一定间隔排列"
+    ]
+  },
+  {
+    "word": "ground",
+    "definition": "n. 地面",
+    "rank": 523,
+    "coca_paraphrase": "n. 地面，土地；基础；范围；阵地，战场  vi. 搁浅，停飞；着陆  vt. 把…放在地上；在…的基础树立上；交给…基本知识；使…受初步训练  v. grind的过去式和过去分词",
+    "coca_meanings": [
+      "n. 地面，土地",
+      "n. 基础",
+      "n. 范围",
+      "n. 阵地，战场",
+      "vi. 搁浅，停飞",
+      "vi. 着陆",
+      "vt. 把…放在地上",
+      "vt. 在…的基础树立上",
+      "vt. 交给…基本知识",
+      "vt. 使…受初步训练",
+      "v. grind的过去式和过去分词"
+    ]
+  },
+  {
+    "word": "form",
+    "definition": "n. 表格; 形式",
+    "rank": 524,
+    "coca_paraphrase": "n. 形状，形式；外形；方式；表格  vt. 形成；构成；组织；塑造  vi. 形成，产生；排队，整队",
+    "coca_meanings": [
+      "n. 形状，形式",
+      "n. 外形",
+      "n. 方式",
+      "n. 表格",
+      "vt. 形成",
+      "vt. 构成",
+      "vt. 组织",
+      "vt. 塑造",
+      "vi. 形成，产生",
+      "vi. 排队，整队"
+    ]
+  },
+  {
+    "word": "support",
+    "definition": "v. & n. 支持, 赞助",
+    "rank": 525,
+    "coca_paraphrase": "vt. 支持；帮助；支撑；维持  n. 支撑；支持者",
+    "coca_meanings": [
+      "vt. 支持",
+      "vt. 帮助",
+      "vt. 支撑",
+      "vt. 维持",
+      "n. 支撑",
+      "n. 支持者"
+    ]
+  },
+  {
+    "word": "event",
+    "definition": "n.事件, 大事",
+    "rank": 526,
+    "coca_paraphrase": "n. 事件，大事；活动，经历；结果；运动项目",
+    "coca_meanings": [
+      "n. 事件，大事",
+      "n. 活动，经历",
+      "n. 结果",
+      "n. 运动项目"
+    ]
+  },
+  {
+    "word": "official",
+    "definition": "n. 官员, 公务员 adj.官方的, 正式的",
+    "rank": 527,
+    "coca_paraphrase": "n. 行政官员；公务员  adj. 官方的，法定的；公职的，公务的；官气十足；正式的",
+    "coca_meanings": [
+      "n. 行政官员",
+      "n. 公务员",
+      "adj. 官方的，法定的",
+      "adj. 公职的，公务的",
+      "adj. 官气十足",
+      "adj. 正式的"
+    ]
+  },
+  {
+    "word": "matter",
+    "definition": "n. 事件, 问题, 物质 v. 要紧, 有重大关系",
+    "rank": 529,
+    "coca_paraphrase": "n. 事件；（讨论、考虑等的）问题；重要性；物质  vi. 要紧，重要；化脓；有重大影响；有重要性",
+    "coca_meanings": [
+      "n. 事件",
+      "n. （讨论、考虑等的）问题",
+      "n. 重要性",
+      "n. 物质",
+      "vi. 要紧，重要",
+      "vi. 化脓",
+      "vi. 有重大影响",
+      "vi. 有重要性"
+    ]
+  },
+  {
+    "word": "everyone",
+    "definition": "pron. 每人, 人人",
+    "rank": 530,
+    "coca_paraphrase": "pron. 每人，人人",
+    "coca_meanings": [
+      "pron. 每人，人人"
+    ]
+  },
+  {
+    "word": "centre (center )",
+    "definition": "n. 中心, 中央",
+    "rank": 531,
+    "coca_paraphrase": "n. 中心；（球队的） 中锋；中心区；中枢  adj. 中央的，位于正中的；（在）中心的  vt. 集中；使聚集在一点；定中心；居中  vi. 居中，有中心，被置于中心",
+    "coca_meanings": [
+      "n. 中心",
+      "n. （球队的） 中锋",
+      "n. 中心区",
+      "n. 中枢",
+      "adj. 中央的，位于正中的",
+      "adj. （在）中心的",
+      "vt. 集中",
+      "vt. 使聚集在一点",
+      "vt. 定中心",
+      "vt. 居中",
+      "vi. 居中，有中心，被置于中心"
+    ]
+  },
+  {
+    "word": "couple",
+    "definition": "n. 夫妇, 一对",
+    "rank": 532,
+    "coca_paraphrase": "n. 对，双；配偶，夫妻；<口>几个，两三个  vt.&vi. 连在一起，连接；成双，结婚；性交，交配",
+    "coca_meanings": [
+      "n. 对，双",
+      "n. 配偶，夫妻",
+      "n. <口>几个，两三个",
+      "vt.&vi. 连在一起，连接",
+      "vt.&vi. 成双，结婚",
+      "vt.&vi. 性交，交配"
+    ]
+  },
+  {
+    "word": "project",
+    "definition": "n. 工程",
+    "rank": 535,
+    "coca_paraphrase": "vt. 放映；计划；发射；展现，使突出  vi. 伸出，突出",
+    "coca_meanings": [
+      "vt. 放映",
+      "vt. 计划",
+      "vt. 发射",
+      "vt. 展现，使突出",
+      "vi. 伸出，突出"
+    ]
+  },
+  {
+    "word": "hit (hit, hit)",
+    "definition": "n. 打击, 打, 碰撞, (演出等)成功 v. 打, 撞, 击中",
+    "rank": 536,
+    "coca_paraphrase": "vt.&vi. 打，打击；碰撞  vt. 击（球）；（在精神上）打击（某人）；猜中；迎合  n. 打，打击；碰撞；（演出等）成功；批评，讽刺  vi. （风暴、疾病等）袭击；抨击；（偶然）碰上；（突然）想到（与 on, upon 连用）",
+    "coca_meanings": [
+      "vt.&vi. 打，打击",
+      "vt.&vi. 碰撞",
+      "vt. 击（球）",
+      "vt. （在精神上）打击（某人）",
+      "vt. 猜中",
+      "vt. 迎合",
+      "n. 打，打击",
+      "n. 碰撞",
+      "n. （演出等）成功",
+      "n. 批评，讽刺",
+      "vi. （风暴、疾病等）袭击",
+      "vi. 抨击",
+      "vi. （偶然）碰上",
+      "vi. （突然）想到（与 on, upon 连用）"
+    ]
+  },
+  {
+    "word": "base",
+    "definition": "n. 根据地,  基地; v.（与on, upon连用）根据；基于",
+    "rank": 537,
+    "coca_paraphrase": "n. 基础；基地；根据；基数（如十进制的10 和二进制的2）  vt. 基于；把…建立在；把…放在或设在（基地）；把…置于底座（或基座）上  adj. 卑鄙的；低级的；贱的，劣的；庶生的",
+    "coca_meanings": [
+      "n. 基础",
+      "n. 基地",
+      "n. 根据",
+      "n. 基数（如十进制的10 和二进制的2）",
+      "vt. 基于",
+      "vt. 把…建立在",
+      "vt. 把…放在或设在（基地）",
+      "vt. 把…置于底座（或基座）上",
+      "adj. 卑鄙的",
+      "adj. 低级的",
+      "adj. 贱的，劣的",
+      "adj. 庶生的"
+    ]
+  },
+  {
+    "word": "activity",
+    "definition": "n. 活动",
+    "rank": 538,
+    "coca_paraphrase": "n. 活动；活跃，敏捷；活动力；教育活动",
+    "coca_meanings": [
+      "n. 活动",
+      "n. 活跃，敏捷",
+      "n. 活动力",
+      "n. 教育活动"
+    ]
+  },
+  {
+    "word": "star",
+    "definition": "n. 星, 恒星",
+    "rank": 539,
+    "coca_paraphrase": "n. 星；星状物；星级；明星  v. 主演；（在文字等旁）标星号",
+    "coca_meanings": [
+      "n. 星",
+      "n. 星状物",
+      "n. 星级",
+      "n. 明星",
+      "v. 主演",
+      "v. （在文字等旁）标星号"
+    ]
+  },
+  {
+    "word": "table",
+    "definition": "n. 桌子, 表格",
+    "rank": 540,
+    "coca_paraphrase": "n. 表，目录；桌子；手术台，工作台，游戏台；平地层  vt. 制表；搁置；嵌合；搁置  adj. 桌子的",
+    "coca_meanings": [
+      "n. 表，目录",
+      "n. 桌子",
+      "n. 手术台，工作台，游戏台",
+      "n. 平地层",
+      "vt. 制表",
+      "vt. 搁置",
+      "vt. 嵌合",
+      "vt. 搁置",
+      "adj. 桌子的"
+    ]
+  },
+  {
+    "word": "court",
+    "definition": "n. 法庭; 法院",
+    "rank": 542,
+    "coca_paraphrase": "n. 法院，法庭；院子，天井；宫廷；网球场  vt. 招致；设法获得；向…献殷勤；追求  vi. 求爱，求婚；寻求",
+    "coca_meanings": [
+      "n. 法院，法庭",
+      "n. 院子，天井",
+      "n. 宫廷",
+      "n. 网球场",
+      "vt. 招致",
+      "vt. 设法获得",
+      "vt. 向…献殷勤",
+      "vt. 追求",
+      "vi. 求爱，求婚",
+      "vi. 寻求"
+    ]
+  },
+  {
+    "word": "produce",
+    "definition": "v. 生产; 制造",
+    "rank": 543,
+    "coca_paraphrase": "vt.&vi. 生产；产生；制作；创作  vt. 制造；出示；引起  n. 产品；产量；产额；结果",
+    "coca_meanings": [
+      "vt.&vi. 生产",
+      "vt.&vi. 产生",
+      "vt.&vi. 制作",
+      "vt.&vi. 创作",
+      "vt. 制造",
+      "vt. 出示",
+      "vt. 引起",
+      "n. 产品",
+      "n. 产量",
+      "n. 产额",
+      "n. 结果"
+    ]
+  },
+  {
+    "word": "teach(taught, taught)",
+    "definition": "v. 教书, 教",
+    "rank": 546,
+    "coca_paraphrase": "vt. 教；教导，训练；教授  vi. 教书",
+    "coca_meanings": [
+      "vt. 教",
+      "vt. 教导，训练",
+      "vt. 教授",
+      "vi. 教书"
+    ]
+  },
+  {
+    "word": "oil",
+    "definition": "n. 油, 石油",
+    "rank": 547,
+    "coca_paraphrase": "n. 油；石油；油画；燃油  vt. 给…加油  vi. 化成油",
+    "coca_meanings": [
+      "n. 油",
+      "n. 石油",
+      "n. 油画",
+      "n. 燃油",
+      "vt. 给…加油",
+      "vi. 化成油"
+    ]
+  },
+  {
+    "word": "half",
+    "definition": "adj.& n. 半, 一半",
+    "rank": 548,
+    "coca_paraphrase": "adj. 一半的，半个的  n. 半；一半；（啤酒等饮料的）半品脱；（比赛、音乐会等的）半场  adv. 一半；部份地",
+    "coca_meanings": [
+      "adj. 一半的，半个的",
+      "n. 半",
+      "n. 一半",
+      "n. （啤酒等饮料的）半品脱",
+      "n. （比赛、音乐会等的）半场",
+      "adv. 一半",
+      "adv. 部份地"
+    ]
+  },
+  {
+    "word": "situation",
+    "definition": "n. 形势, 情况",
+    "rank": 549,
+    "coca_paraphrase": "n. （人的）情况；局面，形势，处境；位置",
+    "coca_meanings": [
+      "n. （人的）情况",
+      "n. 局面，形势，处境",
+      "n. 位置"
+    ]
+  },
+  {
+    "word": "easy",
+    "definition": "adj. 容易的, 不费力的",
+    "rank": 550,
+    "coca_paraphrase": "adj. 容易的；舒适的；宽裕的；从容的  adv. 容易地；不费力地；悠闲地；缓慢地  vi. 停止划桨（常用作命令）  vt. 向（水手或划手）发出停划命令",
+    "coca_meanings": [
+      "adj. 容易的",
+      "adj. 舒适的",
+      "adj. 宽裕的",
+      "adj. 从容的",
+      "adv. 容易地",
+      "adv. 不费力地",
+      "adv. 悠闲地",
+      "adv. 缓慢地",
+      "vi. 停止划桨（常用作命令）",
+      "vt. 向（水手或划手）发出停划命令"
+    ]
+  },
+  {
+    "word": "cost (cost, cost)",
+    "definition": "v. 值（多少钱）; 花费 n. 成本；费用",
+    "rank": 551,
+    "coca_paraphrase": "n. 价钱，代价；花费，费用；牺牲  vi. 价钱为，花费；估计成本  vt. 付出代价；估价；使丧失；使付出努力",
+    "coca_meanings": [
+      "n. 价钱，代价",
+      "n. 花费，费用",
+      "n. 牺牲",
+      "vi. 价钱为，花费",
+      "vi. 估计成本",
+      "vt. 付出代价",
+      "vt. 估价",
+      "vt. 使丧失",
+      "vt. 使付出努力"
+    ]
+  },
+  {
+    "word": "industry",
+    "definition": "n. 工业, 产业",
+    "rank": 552,
+    "coca_paraphrase": "n. 工业；产业（经济词汇）；工业界；勤劳",
+    "coca_meanings": [
+      "n. 工业",
+      "n. 产业（经济词汇）",
+      "n. 工业界",
+      "n. 勤劳"
+    ]
+  },
+  {
+    "word": "figure",
+    "definition": "n. 数字; 图形; 身型; 人物 v. 演算；认为; 判断",
+    "rank": 553,
+    "coca_paraphrase": "n. 数字；算术；人物；身材  vi. 计算；出现；扮演角色  vt. 计算在内；估计；推测；认为",
+    "coca_meanings": [
+      "n. 数字",
+      "n. 算术",
+      "n. 人物",
+      "n. 身材",
+      "vi. 计算",
+      "vi. 出现",
+      "vi. 扮演角色",
+      "vt. 计算在内",
+      "vt. 估计",
+      "vt. 推测",
+      "vt. 认为"
+    ]
+  },
+  {
+    "word": "street",
+    "definition": "n. 街, 街道",
+    "rank": 555,
+    "coca_paraphrase": "n. 大街，街道",
+    "coca_meanings": [
+      "n. 大街，街道"
+    ]
+  },
+  {
+    "word": "itself",
+    "definition": "pron. 它自己",
+    "rank": 557,
+    "coca_paraphrase": "pron. (it的反身形式)；它自己，它本身；自身，本身",
+    "coca_meanings": [
+      "pron. (it的反身形式)",
+      "pron. 它自己，它本身",
+      "pron. 自身，本身"
+    ]
+  },
+  {
+    "word": "phone = telephone",
+    "definition": "v. 打电话 n. 电话, 电话机",
+    "rank": 558,
+    "coca_paraphrase": "n. 电话；听筒；（发声或使用声音的）工具；说某种语言的  vt.&vi. 打电话（给某人）",
+    "coca_meanings": [
+      "n. 电话",
+      "n. 听筒",
+      "n. （发声或使用声音的）工具",
+      "n. 说某种语言的",
+      "vt.&vi. 打电话（给某人）"
+    ]
+  },
+  {
+    "word": "either",
+    "definition": "adj.任一的  pron. (两方中的) 任一 conj.或者, 也",
+    "rank": 559,
+    "coca_paraphrase": "pron. （两者之中）任何一个  adj. （两者中）任一的；非此即彼的，两者择一的  adv. （否定句中）也",
+    "coca_meanings": [
+      "pron. （两者之中）任何一个",
+      "adj. （两者中）任一的",
+      "adj. 非此即彼的，两者择一的",
+      "adv. （否定句中）也"
+    ]
+  },
+  {
+    "word": "data",
+    "definition": "n. 资料, 数据",
+    "rank": 560,
+    "coca_paraphrase": "n. 资料，材料；datum的复数",
+    "coca_meanings": [
+      "n. 资料，材料",
+      "n. datum的复数"
+    ]
+  },
+  {
+    "word": "cover",
+    "definition": "n. 盖子; 罩 v. 覆盖,包含, 报道",
+    "rank": 561,
+    "coca_paraphrase": "v. 遮盖；掩蔽；涉及；洒上  n. 覆盖物；避难所；掩护；封面",
+    "coca_meanings": [
+      "v. 遮盖",
+      "v. 掩蔽",
+      "v. 涉及",
+      "v. 洒上",
+      "n. 覆盖物",
+      "n. 避难所",
+      "n. 掩护",
+      "n. 封面"
+    ]
+  },
+  {
+    "word": "quite",
+    "definition": "adv. 完全, 十分",
+    "rank": 562,
+    "coca_paraphrase": "adv. 相当，很；非常；确实如此",
+    "coca_meanings": [
+      "adv. 相当，很",
+      "adv. 非常",
+      "adv. 确实如此"
+    ]
+  },
+  {
+    "word": "clear",
+    "definition": "adj. 清晰的; 明亮的; 清楚的 v.扫除, 清除, 晴",
+    "rank": 564,
+    "coca_paraphrase": "adj. 清楚的，明白的；清晰的，明亮的；清澈的；明确的  adv. 完全地；清晰地；整整  vi. 变明朗；变清澈  vt. 扫除，除去；消除（嫌疑）；使清楚；使干净  n. 空隙，空间",
+    "coca_meanings": [
+      "adj. 清楚的，明白的",
+      "adj. 清晰的，明亮的",
+      "adj. 清澈的",
+      "adj. 明确的",
+      "adv. 完全地",
+      "adv. 清晰地",
+      "adv. 整整",
+      "vi. 变明朗",
+      "vi. 变清澈",
+      "vt. 扫除，除去",
+      "vt. 消除（嫌疑）",
+      "vt. 使清楚",
+      "vt. 使干净",
+      "n. 空隙，空间"
+    ]
+  },
+  {
+    "word": "practice",
+    "definition": "n. 练习",
+    "rank": 565,
+    "coca_paraphrase": "n. 练习；实践；（医生或律师的）业务；惯例  vi. 实行；惯常地进行；练习；实习  vt. 实行，实践；执业；练习；惯常地进行",
+    "coca_meanings": [
+      "n. 练习",
+      "n. 实践",
+      "n. （医生或律师的）业务",
+      "n. 惯例",
+      "vi. 实行",
+      "vi. 惯常地进行",
+      "vi. 练习",
+      "vi. 实习",
+      "vt. 实行，实践",
+      "vt. 执业",
+      "vt. 练习",
+      "vt. 惯常地进行"
+    ]
+  },
+  {
+    "word": "practise (practice)",
+    "definition": "v. 练习, 实践",
+    "rank": 565,
+    "coca_paraphrase": "n. 练习；实践；（医生或律师的）业务；惯例  vi. 实行；惯常地进行；练习；实习  vt. 实行，实践；执业；练习；惯常地进行",
+    "coca_meanings": [
+      "n. 练习",
+      "n. 实践",
+      "n. （医生或律师的）业务",
+      "n. 惯例",
+      "vi. 实行",
+      "vi. 惯常地进行",
+      "vi. 练习",
+      "vi. 实习",
+      "vt. 实行，实践",
+      "vt. 执业",
+      "vt. 练习",
+      "vt. 惯常地进行"
+    ]
+  },
+  {
+    "word": "piece",
+    "definition": "n. 一块（片, 张, 件…）",
+    "rank": 566,
+    "coca_paraphrase": "n. 块，片，段；部分，部件；文章，音乐作品  vt. 修补；连接，接上",
+    "coca_meanings": [
+      "n. 块，片，段",
+      "n. 部分，部件",
+      "n. 文章，音乐作品",
+      "vt. 修补",
+      "vt. 连接，接上"
+    ]
+  },
+  {
+    "word": "land",
+    "definition": "n. 陆地; 土地 v. 登陆; 降落",
+    "rank": 567,
+    "coca_paraphrase": "n. 陆地；国家；地产；土地  vt.&vi. （使）登岸；降临；使陷于（困境）；使不得不应付  vt. 自船上卸下；获得；捕到；钓到（鱼）  vi. 跳落，跌落，被抛落（地面）",
+    "coca_meanings": [
+      "n. 陆地",
+      "n. 国家",
+      "n. 地产",
+      "n. 土地",
+      "vt.&vi. （使）登岸",
+      "vt.&vi. 降临",
+      "vt.&vi. 使陷于（困境）",
+      "vt.&vi. 使不得不应付",
+      "vt. 自船上卸下",
+      "vt. 获得",
+      "vt. 捕到",
+      "vt. 钓到（鱼）",
+      "vi. 跳落，跌落，被抛落（地面）"
+    ]
+  },
+  {
+    "word": "recent",
+    "definition": "adj. 近来的, 最近的",
+    "rank": 568,
+    "coca_paraphrase": "adj. 最近的；新近的；近代的",
+    "coca_meanings": [
+      "adj. 最近的",
+      "adj. 新近的",
+      "adj. 近代的"
+    ]
+  },
+  {
+    "word": "describe",
+    "definition": "v. 描写, 叙述",
+    "rank": 569,
+    "coca_paraphrase": "vt. 描写，形容；叙述；描绘，作图；（行星等）周转",
+    "coca_meanings": [
+      "vt. 描写，形容",
+      "vt. 叙述",
+      "vt. 描绘，作图",
+      "vt. （行星等）周转"
+    ]
+  },
+  {
+    "word": "product",
+    "definition": "n. 产品, 产物, 乘积",
+    "rank": 570,
+    "coca_paraphrase": "n. 产品；结果；乘积；作品",
+    "coca_meanings": [
+      "n. 产品",
+      "n. 结果",
+      "n. 乘积",
+      "n. 作品"
+    ]
+  },
+  {
+    "word": "doctor",
+    "definition": "n. 医生; 博士",
+    "rank": 571,
+    "coca_paraphrase": "n. 医生，大夫；博士；神学家；医疗设备  vt.&vi. 医疗，行医  vt. 修理，装配；假造；搀杂；修改，修饰",
+    "coca_meanings": [
+      "n. 医生，大夫",
+      "n. 博士",
+      "n. 神学家",
+      "n. 医疗设备",
+      "vt.&vi. 医疗，行医",
+      "vt. 修理，装配",
+      "vt. 假造",
+      "vt. 搀杂",
+      "vt. 修改，修饰"
+    ]
+  },
+  {
+    "word": "wall",
+    "definition": "n.墙, 壁",
+    "rank": 572,
+    "coca_paraphrase": "n. 墙；屏障；隔阂；壁垒  vt.&vi. 筑墙围住，用墙隔开；围以墙  adj. 墙壁的",
+    "coca_meanings": [
+      "n. 墙",
+      "n. 屏障",
+      "n. 隔阂",
+      "n. 壁垒",
+      "vt.&vi. 筑墙围住，用墙隔开",
+      "vt.&vi. 围以墙",
+      "adj. 墙壁的"
+    ]
+  },
+  {
+    "word": "patient",
+    "definition": "n. 病人",
+    "rank": 573,
+    "coca_paraphrase": "adj. 有耐性的；能容忍的  n. 患者；病人；病号",
+    "coca_meanings": [
+      "adj. 有耐性的",
+      "adj. 能容忍的",
+      "n. 患者",
+      "n. 病人",
+      "n. 病号"
+    ]
+  },
+  {
+    "word": "patient",
+    "definition": "adj. 忍耐的, 耐心的",
+    "rank": 573,
+    "coca_paraphrase": "adj. 有耐性的；能容忍的  n. 患者；病人；病号",
+    "coca_meanings": [
+      "adj. 有耐性的",
+      "adj. 能容忍的",
+      "n. 患者",
+      "n. 病人",
+      "n. 病号"
+    ]
+  },
+  {
+    "word": "worker",
+    "definition": "n.工人; 工作人员",
+    "rank": 574,
+    "coca_paraphrase": "n. 工人，员工；劳动者",
+    "coca_meanings": [
+      "n. 工人，员工",
+      "n. 劳动者"
+    ]
+  },
+  {
+    "word": "news",
+    "definition": "n. 新闻, 消息",
+    "rank": 575,
+    "coca_paraphrase": "n. 新闻；消息；（可当作新闻内容的）人；物",
+    "coca_meanings": [
+      "n. 新闻",
+      "n. 消息",
+      "n. （可当作新闻内容的）人",
+      "n. 物"
+    ]
+  },
+  {
+    "word": "test",
+    "definition": "v. & n. 测试, 考查, 试验",
+    "rank": 576,
+    "coca_paraphrase": "n. 试验；考验；测验；化验  vt. 测验；考查；考验；勘探  vi. 受试验；受测验；受考验；测得结果",
+    "coca_meanings": [
+      "n. 试验",
+      "n. 考验",
+      "n. 测验",
+      "n. 化验",
+      "vt. 测验",
+      "vt. 考查",
+      "vt. 考验",
+      "vt. 勘探",
+      "vi. 受试验",
+      "vi. 受测验",
+      "vi. 受考验",
+      "vi. 测得结果"
+    ]
+  },
+  {
+    "word": "movie",
+    "definition": "n. 电影",
+    "rank": 577,
+    "coca_paraphrase": "n. 电影；电影院；电影业",
+    "coca_meanings": [
+      "n. 电影",
+      "n. 电影院",
+      "n. 电影业"
+    ]
+  },
+  {
+    "word": "certain",
+    "definition": "adj.某个，某些; 确定的, 无疑的; 一定会",
+    "rank": 578,
+    "coca_paraphrase": "adj. 某一；必然的；已确定的",
+    "coca_meanings": [
+      "adj. 某一",
+      "adj. 必然的",
+      "adj. 已确定的"
+    ]
+  },
+  {
+    "word": "north",
+    "definition": "adj. 北的;  adv. 向北方； n. 北; 北方; 北部",
+    "rank": 579,
+    "coca_paraphrase": "n. 北方；北部；（美国南北战争时与南方作战的）北部各州；北方发达国家（尤指欧洲和北美各国）  adj. 北方的；北部的；朝北的；（风，光线）来自北方的  adv. 在北方；自北地；向北方",
+    "coca_meanings": [
+      "n. 北方",
+      "n. 北部",
+      "n. （美国南北战争时与南方作战的）北部各州",
+      "n. 北方发达国家（尤指欧洲和北美各国）",
+      "adj. 北方的",
+      "adj. 北部的",
+      "adj. 朝北的",
+      "adj. （风，光线）来自北方的",
+      "adv. 在北方",
+      "adv. 自北地",
+      "adv. 向北方"
+    ]
+  },
+  {
+    "word": "personal",
+    "definition": "adj. 个人的, 私人的",
+    "rank": 581,
+    "coca_paraphrase": "adj. 个人的，私人的；身体的；亲自的；人身攻击的  n. （报刊上的）人事栏，分类人事广告版；人称代名词；关于个人的简讯",
+    "coca_meanings": [
+      "adj. 个人的，私人的",
+      "adj. 身体的",
+      "adj. 亲自的",
+      "adj. 人身攻击的",
+      "n. （报刊上的）人事栏，分类人事广告版",
+      "n. 人称代名词",
+      "n. 关于个人的简讯"
+    ]
+  },
+  {
+    "word": "technology",
+    "definition": "n. 技术",
+    "rank": 586,
+    "coca_paraphrase": "n. 科技（总称）；工业技术；工艺学",
+    "coca_meanings": [
+      "n. 科技（总称）",
+      "n. 工业技术",
+      "n. 工艺学"
+    ]
+  },
+  {
+    "word": "catch (caught, caught)",
+    "definition": "v. 接住; 捉住; 赶上; 染上（疾病）",
+    "rank": 587,
+    "coca_paraphrase": "vt. 赶上；接住；引起；看见  vt.&vi. （使）被钩住，（使）被卡住  n. 抓；隐情；捕获量；挂钩  vi. 锁住；着火  adj. 迷惑人的；令人容易上当的；引人注目的；令人感兴趣的",
+    "coca_meanings": [
+      "vt. 赶上",
+      "vt. 接住",
+      "vt. 引起",
+      "vt. 看见",
+      "vt.&vi. （使）被钩住，（使）被卡住",
+      "n. 抓",
+      "n. 隐情",
+      "n. 捕获量",
+      "n. 挂钩",
+      "vi. 锁住",
+      "vi. 着火",
+      "adj. 迷惑人的",
+      "adj. 令人容易上当的",
+      "adj. 引人注目的",
+      "adj. 令人感兴趣的"
+    ]
+  },
+  {
+    "word": "step",
+    "definition": "n. 脚步, 台阶, 梯级 v. 走; 跨步",
+    "rank": 588,
+    "coca_paraphrase": "n. 步，脚步；步骤，手段；步调；级别  vt.&vi. 举步，行走；踩，踏上；跨入；轻快地走  vi. 踏，踩；走  vt. 跳舞；迈步；使成阶梯状",
+    "coca_meanings": [
+      "n. 步，脚步",
+      "n. 步骤，手段",
+      "n. 步调",
+      "n. 级别",
+      "vt.&vi. 举步，行走",
+      "vt.&vi. 踩，踏上",
+      "vt.&vi. 跨入",
+      "vt.&vi. 轻快地走",
+      "vi. 踏，踩",
+      "vi. 走",
+      "vt. 跳舞",
+      "vt. 迈步",
+      "vt. 使成阶梯状"
+    ]
+  },
+  {
+    "word": "baby",
+    "definition": "n. 婴儿",
+    "rank": 589,
+    "coca_paraphrase": "n. 婴儿；婴孩；幼崽；宝贝儿  vt. 把…当作婴孩看待，娇养；纵容  adj. 小孩似的；孩子的；小型的",
+    "coca_meanings": [
+      "n. 婴儿",
+      "n. 婴孩",
+      "n. 幼崽",
+      "n. 宝贝儿",
+      "vt. 把…当作婴孩看待，娇养",
+      "vt. 纵容",
+      "adj. 小孩似的",
+      "adj. 孩子的",
+      "adj. 小型的"
+    ]
+  },
+  {
+    "word": "computer",
+    "definition": "n.计算机",
+    "rank": 590,
+    "coca_paraphrase": "n. （电子）计算机，电脑",
+    "coca_meanings": [
+      "n. （电子）计算机，电脑"
+    ]
+  },
+  {
+    "word": "type",
+    "definition": "v. 打字",
+    "rank": 591,
+    "coca_paraphrase": "n. 类型；铅字；（印刷或打印的）文字；于…类型的  vt.&vi. 打字",
+    "coca_meanings": [
+      "n. 类型",
+      "n. 铅字",
+      "n. （印刷或打印的）文字",
+      "n. 于…类型的",
+      "vt.&vi. 打字"
+    ]
+  },
+  {
+    "word": "attention",
+    "definition": "n. 注意, 关心",
+    "rank": 592,
+    "coca_paraphrase": "n. 注意，注意力；照料，关怀；殷勤",
+    "coca_meanings": [
+      "n. 注意，注意力",
+      "n. 照料，关怀",
+      "n. 殷勤"
+    ]
+  },
+  {
+    "word": "draw (drew, drawn)",
+    "definition": "v. 绘画; 绘制; 拉, 拖; 提取",
+    "rank": 593,
+    "coca_paraphrase": "vt.&vi. 绘画；拖，拉；招致；吸引  vt. 画；拉；吸引  vi. 移动；拔出剑；皱缩；汲取  n. 平局；抽奖",
+    "coca_meanings": [
+      "vt.&vi. 绘画",
+      "vt.&vi. 拖，拉",
+      "vt.&vi. 招致",
+      "vt.&vi. 吸引",
+      "vt. 画",
+      "vt. 拉",
+      "vt. 吸引",
+      "vi. 移动",
+      "vi. 拔出剑",
+      "vi. 皱缩",
+      "vi. 汲取",
+      "n. 平局",
+      "n. 抽奖"
+    ]
+  },
+  {
+    "word": "nearly",
+    "definition": "adv. 将近, 几乎",
+    "rank": 599,
+    "coca_paraphrase": "adv. 几乎，差不多；险乎",
+    "coca_meanings": [
+      "adv. 几乎，差不多",
+      "adv. 险乎"
+    ]
+  },
+  {
+    "word": "organization",
+    "definition": "n. 组织, 机构",
+    "rank": 600,
+    "coca_paraphrase": "n. 组织；机构；团体  adj. 有组织的",
+    "coca_meanings": [
+      "n. 组织",
+      "n. 机构",
+      "n. 团体",
+      "adj. 有组织的"
+    ]
+  },
+  {
+    "word": "choose (chose, chosen)",
+    "definition": "v.  选择",
+    "rank": 601,
+    "coca_paraphrase": "vt. 挑选；认为…比其它更可取；决定或选定  vi. 选择；进行挑选",
+    "coca_meanings": [
+      "vt. 挑选",
+      "vt. 认为…比其它更可取",
+      "vt. 决定或选定",
+      "vi. 选择",
+      "vi. 进行挑选"
+    ]
+  },
+  {
+    "word": "cause",
+    "definition": "n. 原因, 起因 v.  促使, 引起, 使发生",
+    "rank": 602,
+    "coca_paraphrase": "n. 原因；动机；理由；事业  vt. 成为…的原因；导致；引起；使遭受",
+    "coca_meanings": [
+      "n. 原因",
+      "n. 动机",
+      "n. 理由",
+      "n. 事业",
+      "vt. 成为…的原因",
+      "vt. 导致",
+      "vt. 引起",
+      "vt. 使遭受"
+    ]
+  },
+  {
+    "word": "century",
+    "definition": "n. 世纪, 百年",
+    "rank": 606,
+    "coca_paraphrase": "n. 百年，一世纪；百个；（板球）一百分；<美>百元钞票",
+    "coca_meanings": [
+      "n. 百年，一世纪",
+      "n. 百个",
+      "n. （板球）一百分",
+      "n. <美>百元钞票"
+    ]
+  },
+  {
+    "word": "evidence",
+    "definition": "n. 证据, 证物",
+    "rank": 607,
+    "coca_paraphrase": "n. 证词；证据；迹象；明显  vt. 使明显；显示；表明；证实",
+    "coca_meanings": [
+      "n. 证词",
+      "n. 证据",
+      "n. 迹象",
+      "n. 明显",
+      "vt. 使明显",
+      "vt. 显示",
+      "vt. 表明",
+      "vt. 证实"
+    ]
+  },
+  {
+    "word": "difficult",
+    "definition": "adj. 难的; 艰难的; 不易相处的",
+    "rank": 609,
+    "coca_paraphrase": "adj. 困难的；难做的；难解的；不易相处的",
+    "coca_meanings": [
+      "adj. 困难的",
+      "adj. 难做的",
+      "adj. 难解的",
+      "adj. 不易相处的"
+    ]
+  },
+  {
+    "word": "listen",
+    "definition": "v. 听",
+    "rank": 610,
+    "coca_paraphrase": "vi. 倾听；留心听；听信；（让对方注意）听着  n. 听，倾听",
+    "coca_meanings": [
+      "vi. 倾听",
+      "vi. 留心听",
+      "vi. 听信",
+      "vi. （让对方注意）听着",
+      "n. 听，倾听"
+    ]
+  },
+  {
+    "word": "soon",
+    "definition": "adv. 不久, 很快, 一会儿",
+    "rank": 611,
+    "coca_paraphrase": "adv. 立刻，马上；一会儿，不久；快；宁愿",
+    "coca_meanings": [
+      "adv. 立刻，马上",
+      "adv. 一会儿，不久",
+      "adv. 快",
+      "adv. 宁愿"
+    ]
+  },
+  {
+    "word": "culture",
+    "definition": "n. 文化",
+    "rank": 612,
+    "coca_paraphrase": "n. 文化  vt. 培植，培养",
+    "coca_meanings": [
+      "n. 文化",
+      "vt. 培植，培养"
+    ]
+  },
+  {
+    "word": "billion",
+    "definition": "num. 十亿",
+    "rank": 613,
+    "coca_paraphrase": "n. 十亿；数以十亿计；大量；一万亿  adj. （法美）十亿的；（英德）万亿的；无数的",
+    "coca_meanings": [
+      "n. 十亿",
+      "n. 数以十亿计",
+      "n. 大量",
+      "n. 一万亿",
+      "adj. （法美）十亿的",
+      "adj. （英德）万亿的",
+      "adj. 无数的"
+    ]
+  },
+  {
+    "word": "chance",
+    "definition": "n. 机会, 可能性",
+    "rank": 614,
+    "coca_paraphrase": "n. 机会，机遇；概率，可能性；偶然，运气  v. 偶然发生；冒险；碰巧；偶然被发现  adj. 意外的；偶然的；碰巧的",
+    "coca_meanings": [
+      "n. 机会，机遇",
+      "n. 概率，可能性",
+      "n. 偶然，运气",
+      "v. 偶然发生",
+      "v. 冒险",
+      "v. 碰巧",
+      "v. 偶然被发现",
+      "adj. 意外的",
+      "adj. 偶然的",
+      "adj. 碰巧的"
+    ]
+  },
+  {
+    "word": "energy",
+    "definition": "n. 精力, 能量",
+    "rank": 616,
+    "coca_paraphrase": "n.[\"[物]能量\",\"活力\",\"精力\",\"精神\"]",
+    "coca_meanings": [
+      "n.[物]能量"
+    ]
+  },
+  {
+    "word": "period",
+    "definition": "n. 时期, 时代",
+    "rank": 617,
+    "coca_paraphrase": "n. 时期；（一段）时间；学时；句号  adj. 具有某个时代特征的；（关于）过去某一特定历史时期的；（家具、服饰、建筑等）某一时代的",
+    "coca_meanings": [
+      "n. 时期",
+      "n. （一段）时间",
+      "n. 学时",
+      "n. 句号",
+      "adj. 具有某个时代特征的",
+      "adj. （关于）过去某一特定历史时期的",
+      "adj. （家具、服饰、建筑等）某一时代的"
+    ]
+  },
+  {
+    "word": "summer",
+    "definition": "n. 夏天, 夏季",
+    "rank": 619,
+    "coca_paraphrase": "n. 夏，夏天；全盛时期，黄金时代，壮年时期  adj. 夏季的  v. 度过夏季，避暑；使度过夏季，夏季放牧（家畜）",
+    "coca_meanings": [
+      "n. 夏，夏天",
+      "n. 全盛时期，黄金时代，壮年时期",
+      "adj. 夏季的",
+      "v. 度过夏季，避暑",
+      "v. 使度过夏季，夏季放牧（家畜）"
+    ]
+  },
+  {
+    "word": "realise (realize)",
+    "definition": "v. 认识到, 实现",
+    "rank": 621,
+    "coca_paraphrase": "vt. 实现；了解，意识到；（所担心的事）发生；以…价格卖出  vt.&vi. 变卖，赚得",
+    "coca_meanings": [
+      "vt. 实现",
+      "vt. 了解，意识到",
+      "vt. （所担心的事）发生",
+      "vt. 以…价格卖出",
+      "vt.&vi. 变卖，赚得"
+    ]
+  },
+  {
+    "word": "available",
+    "definition": "adj. 可用到的, 有空的, 接受探访的",
+    "rank": 623,
+    "coca_paraphrase": "adj. 可获得的；有空的；可购得的；能找到的",
+    "coca_meanings": [
+      "adj. 可获得的",
+      "adj. 有空的",
+      "adj. 可购得的",
+      "adj. 能找到的"
+    ]
+  },
+  {
+    "word": "likely",
+    "definition": "adj.很可能的",
+    "rank": 625,
+    "coca_paraphrase": "adj. 可能的；适合的；有希望的  adv. 可能；或许；大概；多半",
+    "coca_meanings": [
+      "adj. 可能的",
+      "adj. 适合的",
+      "adj. 有希望的",
+      "adv. 可能",
+      "adv. 或许",
+      "adv. 大概",
+      "adv. 多半"
+    ]
+  },
+  {
+    "word": "term",
+    "definition": "n. 学期; 术语",
+    "rank": 627,
+    "coca_paraphrase": "n. 学期；条款；术语；期限  vt. 把…称为；把…叫做",
+    "coca_meanings": [
+      "n. 学期",
+      "n. 条款",
+      "n. 术语",
+      "n. 期限",
+      "vt. 把…称为",
+      "vt. 把…叫做"
+    ]
+  },
+  {
+    "word": "letter",
+    "definition": "n. 信; 字母",
+    "rank": 629,
+    "coca_paraphrase": "n. 信；证书，许可证；字母，文字；字面意义  vt. 用字母标明；写字母于；加标题  vi. 写印刷体字母",
+    "coca_meanings": [
+      "n. 信",
+      "n. 证书，许可证",
+      "n. 字母，文字",
+      "n. 字面意义",
+      "vt. 用字母标明",
+      "vt. 写字母于",
+      "vt. 加标题",
+      "vi. 写印刷体字母"
+    ]
+  },
+  {
+    "word": "condition",
+    "definition": "n. 条件, 状况",
+    "rank": 630,
+    "coca_paraphrase": "n. 状态；环境；健康状况；条款  vt. 制约；限制；使习惯于；使适应  vt.&vi. 对…具有重要影响；影响（某事发生的方式）；保持（头发或皮肤等的）健康；养护",
+    "coca_meanings": [
+      "n. 状态",
+      "n. 环境",
+      "n. 健康状况",
+      "n. 条款",
+      "vt. 制约",
+      "vt. 限制",
+      "vt. 使习惯于",
+      "vt. 使适应",
+      "vt.&vi. 对…具有重要影响",
+      "vt.&vi. 影响（某事发生的方式）",
+      "vt.&vi. 保持（头发或皮肤等的）健康",
+      "vt.&vi. 养护"
+    ]
+  },
+  {
+    "word": "choice",
+    "definition": "n. 选择; 抉择",
+    "rank": 631,
+    "coca_paraphrase": "n. 选择；选择权；精选品；入选者  adj. 上等的，精选的",
+    "coca_meanings": [
+      "n. 选择",
+      "n. 选择权",
+      "n. 精选品",
+      "n. 入选者",
+      "adj. 上等的，精选的"
+    ]
+  },
+  {
+    "word": "single",
+    "definition": "adj. 单一的, 单个的",
+    "rank": 633,
+    "coca_paraphrase": "adj. 单一的；（打斗、比赛等）一对一的；惟一的；适于一人的  n. 单程票；（旅馆等的）单人房间  vt. 挑选  vi. 作一垒手",
+    "coca_meanings": [
+      "adj. 单一的",
+      "adj. （打斗、比赛等）一对一的",
+      "adj. 惟一的",
+      "adj. 适于一人的",
+      "n. 单程票",
+      "n. （旅馆等的）单人房间",
+      "vt. 挑选",
+      "vi. 作一垒手"
+    ]
+  },
+  {
+    "word": "rule",
+    "definition": "n. 规则, 规定 v. 统治; 支配",
+    "rank": 634,
+    "coca_paraphrase": "n. 规则，规定；统治，支配；章程  vt.&vi. 控制，支配；判定；裁定，裁决；价格稳定  vt. 统治；规定；管理；裁决  vi. 统治；管辖；裁定",
+    "coca_meanings": [
+      "n. 规则，规定",
+      "n. 统治，支配",
+      "n. 章程",
+      "vt.&vi. 控制，支配",
+      "vt.&vi. 判定",
+      "vt.&vi. 裁定，裁决",
+      "vt.&vi. 价格稳定",
+      "vt. 统治",
+      "vt. 规定",
+      "vt. 管理",
+      "vt. 裁决",
+      "vi. 统治",
+      "vi. 管辖",
+      "vi. 裁定"
+    ]
+  },
+  {
+    "word": "daughter",
+    "definition": "n. 女儿",
+    "rank": 635,
+    "coca_paraphrase": "n. 女儿；产物，后代；（某地的）妇女  adj. 女儿般的",
+    "coca_meanings": [
+      "n. 女儿",
+      "n. 产物，后代",
+      "n. （某地的）妇女",
+      "adj. 女儿般的"
+    ]
+  },
+  {
+    "word": "administration",
+    "definition": "n. 管理, 经营, 行政部门",
+    "rank": 636,
+    "coca_paraphrase": "n. 管理；实行；（政府）行政机关；（法律、处罚等的）施行",
+    "coca_meanings": [
+      "n. 管理",
+      "n. 实行",
+      "n. （政府）行政机关",
+      "n. （法律、处罚等的）施行"
+    ]
+  },
+  {
+    "word": "south",
+    "definition": "adj. 南(方)的; 向南的 adv. 在南方; 向南方 n.南方; 南部",
+    "rank": 637,
+    "coca_paraphrase": "n. 南方；南部；美国南方各州；（南半球的）发展中国家  adj. 南的；（风）来自南方的；南风的；南方吹来的  adv. 向南方，在南方",
+    "coca_meanings": [
+      "n. 南方",
+      "n. 南部",
+      "n. 美国南方各州",
+      "n. （南半球的）发展中国家",
+      "adj. 南的",
+      "adj. （风）来自南方的",
+      "adj. 南风的",
+      "adj. 南方吹来的",
+      "adv. 向南方，在南方"
+    ]
+  },
+  {
+    "word": "husband",
+    "definition": "n. 丈夫",
+    "rank": 638,
+    "coca_paraphrase": "n. 丈夫；〈英〉管家；〈古〉节俭的管理人；船舶管理人  vt. 节俭地使用；〈罕〉做…的丈夫",
+    "coca_meanings": [
+      "n. 丈夫",
+      "n. 〈英〉管家",
+      "n. 〈古〉节俭的管理人",
+      "n. 船舶管理人",
+      "vt. 节俭地使用",
+      "vt. 〈罕〉做…的丈夫"
+    ]
+  },
+  {
+    "word": "floor",
+    "definition": "n. 地面, 地板; 层",
+    "rank": 640,
+    "coca_paraphrase": "n. 地面，地板；楼层；底部；议员席  vt. 铺地板；击败，打倒",
+    "coca_meanings": [
+      "n. 地面，地板",
+      "n. 楼层",
+      "n. 底部",
+      "n. 议员席",
+      "vt. 铺地板",
+      "vt. 击败，打倒"
+    ]
+  },
+  {
+    "word": "campaign",
+    "definition": "n. 战役,",
+    "rank": 641,
+    "coca_paraphrase": "n. 运动；竞选运动；战役；季节性竞赛",
+    "coca_meanings": [
+      "n. 运动",
+      "n. 竞选运动",
+      "n. 战役",
+      "n. 季节性竞赛"
+    ]
+  },
+  {
+    "word": "material",
+    "definition": "n. 材料, 原料",
+    "rank": 642,
+    "coca_paraphrase": "n. 材料，原料；素材；布，织物；适当人选  adj. 物质的；肉体的；重要的，决定性的；辩证的，推论的",
+    "coca_meanings": [
+      "n. 材料，原料",
+      "n. 素材",
+      "n. 布，织物",
+      "n. 适当人选",
+      "adj. 物质的",
+      "adj. 肉体的",
+      "adj. 重要的，决定性的",
+      "adj. 辩证的，推论的"
+    ]
+  },
+  {
+    "word": "population",
+    "definition": "n. 人口, 人数",
+    "rank": 643,
+    "coca_paraphrase": "n. 人口；全体居民",
+    "coca_meanings": [
+      "n. 人口",
+      "n. 全体居民"
+    ]
+  },
+  {
+    "word": "medical",
+    "definition": "adj. 医学的, 医疗的",
+    "rank": 647,
+    "coca_paraphrase": "adj. 医学的；医药的；医疗的；内科的  n. 体格检查",
+    "coca_meanings": [
+      "adj. 医学的",
+      "adj. 医药的",
+      "adj. 医疗的",
+      "adj. 内科的",
+      "n. 体格检查"
+    ]
+  },
+  {
+    "word": "hospital",
+    "definition": "n. 医院",
+    "rank": 648,
+    "coca_paraphrase": "n. 医院；收容所；养老院；〈古〉旅客招待所",
+    "coca_meanings": [
+      "n. 医院",
+      "n. 收容所",
+      "n. 养老院",
+      "n. 〈古〉旅客招待所"
+    ]
+  },
+  {
+    "word": "church",
+    "definition": "n. 教堂; 教会",
+    "rank": 649,
+    "coca_paraphrase": "adj. 教会的；礼拜的  vt. 领…到教堂接受宗教仪式",
+    "coca_meanings": [
+      "adj. 教会的",
+      "adj. 礼拜的",
+      "vt. 领…到教堂接受宗教仪式"
+    ]
+  },
+  {
+    "word": "close",
+    "definition": "adj. 亲密的; 近, 靠近 adv. 近, 靠近 v.  关,关闭",
+    "rank": 650,
+    "coca_paraphrase": "adj. 紧密的；亲密的；亲近的  vt. 关；结束；使靠近  vi. 关；结束；关闭  adv. 紧密地  n. 结束",
+    "coca_meanings": [
+      "adj. 紧密的",
+      "adj. 亲密的",
+      "adj. 亲近的",
+      "vt. 关",
+      "vt. 结束",
+      "vt. 使靠近",
+      "vi. 关",
+      "vi. 结束",
+      "vi. 关闭",
+      "adv. 紧密地",
+      "n. 结束"
+    ]
+  },
+  {
+    "word": "fire",
+    "definition": "n. 火; 火炉; 火灾 v. 开火, 开（枪, 炮等）",
+    "rank": 654,
+    "coca_paraphrase": "n. 火，燃烧物；火灾；射击，发射；热情  vt.&vi. 开火，射击；燃烧；引爆炸药；充满热情  vt. <口>解雇；射（箭）；激励；射出（子弹）",
+    "coca_meanings": [
+      "n. 火，燃烧物",
+      "n. 火灾",
+      "n. 射击，发射",
+      "n. 热情",
+      "vt.&vi. 开火，射击",
+      "vt.&vi. 燃烧",
+      "vt.&vi. 引爆炸药",
+      "vt.&vi. 充满热情",
+      "vt. <口>解雇",
+      "vt. 射（箭）",
+      "vt. 激励",
+      "vt. 射出（子弹）"
+    ]
+  },
+  {
+    "word": "future",
+    "definition": "n. 将来",
+    "rank": 655,
+    "coca_paraphrase": "adj. 将来的，未来的  n. 前途",
+    "coca_meanings": [
+      "adj. 将来的，未来的",
+      "n. 前途"
+    ]
+  },
+  {
+    "word": "wrong",
+    "definition": "adj.错误的",
+    "rank": 656,
+    "coca_paraphrase": "adj. 有毛病的，失常的；错误的，不正确的；不好的，不公正的；反对的，相反的，颠倒的，背面的，里面的  adv. 不对，错误，失当；不好，不公正；逆，颠倒，翻转；有毛病，不舒服  n. 过失，错误；不义的行为；不义行为；犯罪  vt. 委屈，无理地对待，诽谤",
+    "coca_meanings": [
+      "adj. 有毛病的，失常的",
+      "adj. 错误的，不正确的",
+      "adj. 不好的，不公正的",
+      "adj. 反对的，相反的，颠倒的，背面的，里面的",
+      "adv. 不对，错误，失当",
+      "adv. 不好，不公正",
+      "adv. 逆，颠倒，翻转",
+      "adv. 有毛病，不舒服",
+      "n. 过失，错误",
+      "n. 不义的行为",
+      "n. 不义行为",
+      "n. 犯罪",
+      "vt. 委屈，无理地对待，诽谤"
+    ]
+  },
+  {
+    "word": "defence (defense)",
+    "definition": "n. 防御; 防务",
+    "rank": 658,
+    "coca_paraphrase": "n. (D-)（美国）国防部，防卫，防卫物  vt. 谋划抵御",
+    "coca_meanings": [
+      "n. (D-)（美国）国防部，防卫，防卫物",
+      "vt. 谋划抵御"
+    ]
+  },
+  {
+    "word": "anyone",
+    "definition": "pron. 任何人, 无论谁",
+    "rank": 659,
+    "coca_paraphrase": "pron. 任何人；任何一个；谁",
+    "coca_meanings": [
+      "pron. 任何人",
+      "pron. 任何一个",
+      "pron. 谁"
+    ]
+  },
+  {
+    "word": "increase",
+    "definition": "v. & n. 增加",
+    "rank": 660,
+    "coca_paraphrase": "vt.&vi. 增加，增大，增多  vt. 增强，增进  vi. 增强；增进；增殖，繁殖",
+    "coca_meanings": [
+      "vt.&vi. 增加，增大，增多",
+      "vt. 增强，增进",
+      "vi. 增强",
+      "vi. 增进",
+      "vi. 增殖，繁殖"
+    ]
+  },
+  {
+    "word": "security",
+    "definition": "n. 安全",
+    "rank": 661,
+    "coca_paraphrase": "n. 安全；保证，担保；保护，防护；有价证券  adj. 安全的，保安的，保密的",
+    "coca_meanings": [
+      "n. 安全",
+      "n. 保证，担保",
+      "n. 保护，防护",
+      "n. 有价证券",
+      "adj. 安全的，保安的，保密的"
+    ]
+  },
+  {
+    "word": "bank",
+    "definition": "n. 岸, 堤; 银行",
+    "rank": 662,
+    "coca_paraphrase": "n. 银行；（条形的）堆；（河的）岸；库存  vt.&vi. 堆积；筑（堤）；将（钱）存入银行  vi. （转弯时）倾斜飞行；（在某银行）开账户，存款  vt. （用煤等）封炉火",
+    "coca_meanings": [
+      "n. 银行",
+      "n. （条形的）堆",
+      "n. （河的）岸",
+      "n. 库存",
+      "vt.&vi. 堆积",
+      "vt.&vi. 筑（堤）",
+      "vt.&vi. 将（钱）存入银行",
+      "vi. （转弯时）倾斜飞行",
+      "vi. （在某银行）开账户，存款",
+      "vt. （用煤等）封炉火"
+    ]
+  },
+  {
+    "word": "myself",
+    "definition": "pron. 我自己",
+    "rank": 663,
+    "coca_paraphrase": "pron. 我自己，亲自",
+    "coca_meanings": [
+      "pron. 我自己，亲自"
+    ]
+  },
+  {
+    "word": "west",
+    "definition": "n.西; 西部 adj.西方的 adv. 向西方",
+    "rank": 665,
+    "coca_paraphrase": "n. 西，西部，西方  adj. 在西方的；西部的；朝西的；（风）来自西面的  adv. 向西，朝西；自西方；向西方",
+    "coca_meanings": [
+      "n. 西，西部，西方",
+      "adj. 在西方的",
+      "adj. 西部的",
+      "adj. 朝西的",
+      "adj. （风）来自西面的",
+      "adv. 向西，朝西",
+      "adv. 自西方",
+      "adv. 向西方"
+    ]
+  },
+  {
+    "word": "board",
+    "definition": "n. 木板; 布告牌;  委员会 v. 上（船、火车、飞机）",
+    "rank": 667,
+    "coca_paraphrase": "n. 板；董事会；甲板；膳食  vt. 上（船、车或飞机）；收费供…膳宿；使搭伙，使寄宿；强行登（船）  vi. （火车、轮船、飞机等）接受乘客；搭伙，寄宿",
+    "coca_meanings": [
+      "n. 板",
+      "n. 董事会",
+      "n. 甲板",
+      "n. 膳食",
+      "vt. 上（船、车或飞机）",
+      "vt. 收费供…膳宿",
+      "vt. 使搭伙，使寄宿",
+      "vt. 强行登（船）",
+      "vi. （火车、轮船、飞机等）接受乘客",
+      "vi. 搭伙，寄宿"
+    ]
+  },
+  {
+    "word": "seek",
+    "definition": "v. 试图; 探寻",
+    "rank": 668,
+    "coca_paraphrase": "vt. 寻找，探寻；追求，谋求；往或朝…而去  vi. 查找，查寻；找一找",
+    "coca_meanings": [
+      "vt. 寻找，探寻",
+      "vt. 追求，谋求",
+      "vt. 往或朝…而去",
+      "vi. 查找，查寻",
+      "vi. 找一找"
+    ]
+  },
+  {
+    "word": "per",
+    "definition": "prep. 每, 每一",
+    "rank": 669,
+    "coca_paraphrase": "prep. 由；（表示根据）依照；（表示比率）（尤指数量，价格，时间）每  adv. 每次；每个；照常；按惯例  adj. 高的，过的，全的",
+    "coca_meanings": [
+      "prep. 由",
+      "prep. （表示根据）依照",
+      "prep. （表示比率）（尤指数量，价格，时间）每",
+      "adv. 每次",
+      "adv. 每个",
+      "adv. 照常",
+      "adv. 按惯例",
+      "adj. 高的，过的，全的"
+    ]
+  },
+  {
+    "word": "subject",
+    "definition": "n. 题目; 主题; 学科; 主语; 主体",
+    "rank": 670,
+    "coca_paraphrase": "n. 主题，话题；学科，科目  adj. 须服从…的；（在君主等）统治下的  v. 提供，提出；使…隶属",
+    "coca_meanings": [
+      "n. 主题，话题",
+      "n. 学科，科目",
+      "adj. 须服从…的",
+      "adj. （在君主等）统治下的",
+      "v. 提供，提出",
+      "v. 使…隶属"
+    ]
+  },
+  {
+    "word": "officer",
+    "definition": "n. 军官; 警察, 警官",
+    "rank": 671,
+    "coca_paraphrase": "n. 军官，警官；高级职员；公务员；船长  v. 指挥；统率；管理；配置军官",
+    "coca_meanings": [
+      "n. 军官，警官",
+      "n. 高级职员",
+      "n. 公务员",
+      "n. 船长",
+      "v. 指挥",
+      "v. 统率",
+      "v. 管理",
+      "v. 配置军官"
+    ]
+  },
+  {
+    "word": "private",
+    "definition": "adj. 私人的",
+    "rank": 672,
+    "coca_paraphrase": "adj. 私有的，私人的；秘密的；内心的；平民的，无官职的，士兵的",
+    "coca_meanings": [
+      "adj. 私有的，私人的",
+      "adj. 秘密的",
+      "adj. 内心的",
+      "adj. 平民的，无官职的，士兵的"
+    ]
+  },
+  {
+    "word": "rest",
+    "definition": "n. 休息; 剩余的部分, 其余的人（物）v. 休息, 歇息",
+    "rank": 673,
+    "coca_paraphrase": "n. 休息；剩余部分；支持物；宁静，安宁  vt.&vi. （使）休息  vi. 休息；静止；停止；安心  vt. 使休息；使轻松；使长眠；使依赖",
+    "coca_meanings": [
+      "n. 休息",
+      "n. 剩余部分",
+      "n. 支持物",
+      "n. 宁静，安宁",
+      "vt.&vi. （使）休息",
+      "vi. 休息",
+      "vi. 静止",
+      "vi. 停止",
+      "vi. 安心",
+      "vt. 使休息",
+      "vt. 使轻松",
+      "vt. 使长眠",
+      "vt. 使依赖"
+    ]
+  },
+  {
+    "word": "deal",
+    "definition": "n. 量, 数额; 交易",
+    "rank": 675,
+    "coca_paraphrase": "n. （一笔）交易；许多；待遇；发牌  vi. 论述；（有效地或成功地）处理；惩处；交易  adj. 冷杉木制的，松木制的",
+    "coca_meanings": [
+      "n. （一笔）交易",
+      "n. 许多",
+      "n. 待遇",
+      "n. 发牌",
+      "vi. 论述",
+      "vi. （有效地或成功地）处理",
+      "vi. 惩处",
+      "vi. 交易",
+      "adj. 冷杉木制的，松木制的"
+    ]
+  },
+  {
+    "word": "performance",
+    "definition": "n. 演出, 表演",
+    "rank": 676,
+    "coca_paraphrase": "n. 表演；演技；表现；执行",
+    "coca_meanings": [
+      "n. 表演",
+      "n. 演技",
+      "n. 表现",
+      "n. 执行"
+    ]
+  },
+  {
+    "word": "fight",
+    "definition": "n. 打仗（架）, 争论",
+    "rank": 677,
+    "coca_paraphrase": "vt.&vi. 战斗；斗争；打架；吵架  n. 打架；吵架；战斗；斗志",
+    "coca_meanings": [
+      "vt.&vi. 战斗",
+      "vt.&vi. 斗争",
+      "vt.&vi. 打架",
+      "vt.&vi. 吵架",
+      "n. 打架",
+      "n. 吵架",
+      "n. 战斗",
+      "n. 斗志"
+    ]
+  },
+  {
+    "word": "fight (fought, fought)",
+    "definition": "v. & n. 打仗, 搏斗, 对抗, 打架",
+    "rank": 677,
+    "coca_paraphrase": "vt.&vi. 战斗；斗争；打架；吵架  n. 打架；吵架；战斗；斗志",
+    "coca_meanings": [
+      "vt.&vi. 战斗",
+      "vt.&vi. 斗争",
+      "vt.&vi. 打架",
+      "vt.&vi. 吵架",
+      "n. 打架",
+      "n. 吵架",
+      "n. 战斗",
+      "n. 斗志"
+    ]
+  },
+  {
+    "word": "throw(threw, thrown)",
+    "definition": "v. 投, 掷, 扔",
+    "rank": 678,
+    "coca_paraphrase": "vi. 投掷；丢；抛  n. 投掷的距离；丢  vt. 掷（色子）；抛；猛动（头、臂、腿）；使处于，使限于",
+    "coca_meanings": [
+      "vi. 投掷",
+      "vi. 丢",
+      "vi. 抛",
+      "n. 投掷的距离",
+      "n. 丢",
+      "vt. 掷（色子）",
+      "vt. 抛",
+      "vt. 猛动（头、臂、腿）",
+      "vt. 使处于，使限于"
+    ]
+  },
+  {
+    "word": "top",
+    "definition": "n. 顶部; 上面",
+    "rank": 679,
+    "coca_paraphrase": "n. 顶，顶部；（箱子）盖，（书页等的）上栏；首席；陀螺  adj. 最高的；顶上的；头等的；最大的  vt. 形成顶部；达到…的顶端；处于…的最前头；领导  vi. 总结；超越；高耸；结束",
+    "coca_meanings": [
+      "n. 顶，顶部",
+      "n. （箱子）盖，（书页等的）上栏",
+      "n. 首席",
+      "n. 陀螺",
+      "adj. 最高的",
+      "adj. 顶上的",
+      "adj. 头等的",
+      "adj. 最大的",
+      "vt. 形成顶部",
+      "vt. 达到…的顶端",
+      "vt. 处于…的最前头",
+      "vt. 领导",
+      "vi. 总结",
+      "vi. 超越",
+      "vi. 高耸",
+      "vi. 结束"
+    ]
+  },
+  {
+    "word": "goal",
+    "definition": "n. 球门, 目标; 得分",
+    "rank": 682,
+    "coca_paraphrase": "n. 目标，目的；球门；终点；得分",
+    "coca_meanings": [
+      "n. 目标，目的",
+      "n. 球门",
+      "n. 终点",
+      "n. 得分"
+    ]
+  },
+  {
+    "word": "bed",
+    "definition": "n. 床",
+    "rank": 684,
+    "coca_paraphrase": "n. 床；苗圃；河床；（地下由黏土、岩石等构成的）地层  vt. 把…固定在；（某人）发生性关系；给人铺床  vi. 上床；分层",
+    "coca_meanings": [
+      "n. 床",
+      "n. 苗圃",
+      "n. 河床",
+      "n. （地下由黏土、岩石等构成的）地层",
+      "vt. 把…固定在",
+      "vt. （某人）发生性关系",
+      "vt. 给人铺床",
+      "vi. 上床",
+      "vi. 分层"
+    ]
+  },
+  {
+    "word": "order",
+    "definition": "n. 顺序; 命令 v. 命令；定购; 点菜",
+    "rank": 685,
+    "coca_paraphrase": "n. 命令；秩序；规则，制度；次序  vt. 命令；订购；整理  vi. 下订单",
+    "coca_meanings": [
+      "n. 命令",
+      "n. 秩序",
+      "n. 规则，制度",
+      "n. 次序",
+      "vt. 命令",
+      "vt. 订购",
+      "vt. 整理",
+      "vi. 下订单"
+    ]
+  },
+  {
+    "word": "author",
+    "definition": "n. 作者, 作家",
+    "rank": 686,
+    "coca_paraphrase": "n. 著作家；作者；创造者；发起人  vt. 创作出版",
+    "coca_meanings": [
+      "n. 著作家",
+      "n. 作者",
+      "n. 创造者",
+      "n. 发起人",
+      "vt. 创作出版"
+    ]
+  },
+  {
+    "word": "fill",
+    "definition": "v. 填空, 装满",
+    "rank": 687,
+    "coca_paraphrase": "vt.&vi. （使）充满，（使）装满  vt. 满足；配药；（按订单）供应；使充满（感情）  n. 填满…的量；充分；装填物；路堤",
+    "coca_meanings": [
+      "vt.&vi. （使）充满，（使）装满",
+      "vt. 满足",
+      "vt. 配药",
+      "vt. （按订单）供应",
+      "vt. 使充满（感情）",
+      "n. 填满…的量",
+      "n. 充分",
+      "n. 装填物",
+      "n. 路堤"
+    ]
+  },
+  {
+    "word": "represent",
+    "definition": "v. 代表",
+    "rank": 688,
+    "coca_paraphrase": "vt. 表现，象征；代表，代理；扮演；作为示范  vi. 代表；提出异议",
+    "coca_meanings": [
+      "vt. 表现，象征",
+      "vt. 代表，代理",
+      "vt. 扮演",
+      "vt. 作为示范",
+      "vi. 代表",
+      "vi. 提出异议"
+    ]
+  },
+  {
+    "word": "focus",
+    "definition": "v. 使集中在焦点上 n.集中, 焦点",
+    "rank": 689,
+    "coca_paraphrase": "vt.&vi. （使）集中，（使）聚集  vt. 调整（眼睛或者镜头的）焦距；集中（光束于）；聚焦，注视；集中注意力  n. 焦点；影象的清晰度；（活动、注意力、兴趣等的）中心",
+    "coca_meanings": [
+      "vt.&vi. （使）集中，（使）聚集",
+      "vt. 调整（眼睛或者镜头的）焦距",
+      "vt. 集中（光束于）",
+      "vt. 聚焦，注视",
+      "vt. 集中注意力",
+      "n. 焦点",
+      "n. 影象的清晰度",
+      "n. （活动、注意力、兴趣等的）中心"
+    ]
+  },
+  {
+    "word": "foreign",
+    "definition": "adj. 外国的",
+    "rank": 690,
+    "coca_paraphrase": "adj. 外国的，外交的；外来的；不相干的",
+    "coca_meanings": [
+      "adj. 外国的，外交的",
+      "adj. 外来的",
+      "adj. 不相干的"
+    ]
+  },
+  {
+    "word": "drop",
+    "definition": "n. 滴 v. 掉下, 落下",
+    "rank": 691,
+    "coca_paraphrase": "vt.&vi. （使）落下；投下；（使）降低；减少  vt. 放弃；停止；（故意）降下；垂下（眼睛）  n. 滴；空投；降落；少量  vi. （水或其他液体）滴；结束；（因受伤或死等）倒下；退出",
+    "coca_meanings": [
+      "vt.&vi. （使）落下",
+      "vt.&vi. 投下",
+      "vt.&vi. （使）降低",
+      "vt.&vi. 减少",
+      "vt. 放弃",
+      "vt. 停止",
+      "vt. （故意）降下",
+      "vt. 垂下（眼睛）",
+      "n. 滴",
+      "n. 空投",
+      "n. 降落",
+      "n. 少量",
+      "vi. （水或其他液体）滴",
+      "vi. 结束",
+      "vi. （因受伤或死等）倒下",
+      "vi. 退出"
+    ]
+  },
+  {
+    "word": "blood",
+    "definition": "n. 血, 血液",
+    "rank": 693,
+    "coca_paraphrase": "n. 血，血液；流血，杀戮，杀人（罪），牺牲；有…类型的血的，血统；血气，气质  vt. 用血染（皮革等），用血弄湿；使出血，抽…的血；让新人初试做某事，使先取得经验",
+    "coca_meanings": [
+      "n. 血，血液",
+      "n. 流血，杀戮，杀人（罪），牺牲",
+      "n. 有…类型的血的，血统",
+      "n. 血气，气质",
+      "vt. 用血染（皮革等），用血弄湿",
+      "vt. 使出血，抽…的血",
+      "vt. 让新人初试做某事，使先取得经验"
+    ]
+  },
+  {
+    "word": "upon",
+    "definition": "prep. 在…上面",
+    "rank": 694,
+    "coca_paraphrase": "prep. 在…上面；当…时候",
+    "coca_meanings": [
+      "prep. 在…上面",
+      "prep. 当…时候"
+    ]
+  },
+  {
+    "word": "agency",
+    "definition": "n. 代理处, 行销处, 代理, 中介",
+    "rank": 695,
+    "coca_paraphrase": "n. 代理；机构；力量",
+    "coca_meanings": [
+      "n. 代理",
+      "n. 机构",
+      "n. 力量"
+    ]
+  },
+  {
+    "word": "push",
+    "definition": "n.推, 推动 v. 推",
+    "rank": 696,
+    "coca_paraphrase": "vt.&vi. 推，推动  vt. 推动，增加；对…施加压力，逼迫；按；说服  n. 推，决心；大规模攻势；矢志的追求  vi. 推进；增加；努力争取",
+    "coca_meanings": [
+      "vt.&vi. 推，推动",
+      "vt. 推动，增加",
+      "vt. 对…施加压力，逼迫",
+      "vt. 按",
+      "vt. 说服",
+      "n. 推，决心",
+      "n. 大规模攻势",
+      "n. 矢志的追求",
+      "vi. 推进",
+      "vi. 增加",
+      "vi. 努力争取"
+    ]
+  },
+  {
+    "word": "nature",
+    "definition": "n. 自然界, 本性",
+    "rank": 697,
+    "coca_paraphrase": "n. 自然；天性；天理；类型",
+    "coca_meanings": [
+      "n. 自然",
+      "n. 天性",
+      "n. 天理",
+      "n. 类型"
+    ]
+  },
+  {
+    "word": "store",
+    "definition": "n. 商店, 存储 v. 储藏, 存储",
+    "rank": 701,
+    "coca_paraphrase": "n. 商店；贮存物；仓库；大量  v. 贮存；（在计算机里）存储",
+    "coca_meanings": [
+      "n. 商店",
+      "n. 贮存物",
+      "n. 仓库",
+      "n. 大量",
+      "v. 贮存",
+      "v. （在计算机里）存储"
+    ]
+  },
+  {
+    "word": "reduce",
+    "definition": "v. 减少, 缩减",
+    "rank": 702,
+    "coca_paraphrase": "vt. 减少；缩小；使还原；使变弱  vi. 减少；节食；蒸发；（液体）浓缩变稠",
+    "coca_meanings": [
+      "vt. 减少",
+      "vt. 缩小",
+      "vt. 使还原",
+      "vt. 使变弱",
+      "vi. 减少",
+      "vi. 节食",
+      "vi. 蒸发",
+      "vi. （液体）浓缩变稠"
+    ]
+  },
+  {
+    "word": "note",
+    "definition": "n. 便条, 笔记, 注释; 钞票; 音符, 音调 v. 记下,",
+    "rank": 704,
+    "coca_paraphrase": "n. 笔记；便笺；音符；钞票  vt. 注意；记录；对…加注释；指出",
+    "coca_meanings": [
+      "n. 笔记",
+      "n. 便笺",
+      "n. 音符",
+      "n. 钞票",
+      "vt. 注意",
+      "vt. 记录",
+      "vt. 对…加注释",
+      "vt. 指出"
+    ]
+  },
+  {
+    "word": "fine",
+    "definition": "adj. 细的; 晴朗的; 美好的; （身体）健康的",
+    "rank": 705,
+    "coca_paraphrase": "adj. 好的，上等的；纤细的，精致的；健康的；晴朗的  n. 罚款  vt. 罚款；澄清  adv. 很好地；巧妙地",
+    "coca_meanings": [
+      "adj. 好的，上等的",
+      "adj. 纤细的，精致的",
+      "adj. 健康的",
+      "adj. 晴朗的",
+      "n. 罚款",
+      "vt. 罚款",
+      "vt. 澄清",
+      "adv. 很好地",
+      "adv. 巧妙地"
+    ]
+  },
+  {
+    "word": "fine",
+    "definition": "n.& v. 罚款",
+    "rank": 705,
+    "coca_paraphrase": "adj. 好的，上等的；纤细的，精致的；健康的；晴朗的  n. 罚款  vt. 罚款；澄清  adv. 很好地；巧妙地",
+    "coca_meanings": [
+      "adj. 好的，上等的",
+      "adj. 纤细的，精致的",
+      "adj. 健康的",
+      "adj. 晴朗的",
+      "n. 罚款",
+      "vt. 罚款",
+      "vt. 澄清",
+      "adv. 很好地",
+      "adv. 巧妙地"
+    ]
+  },
+  {
+    "word": "near",
+    "definition": "adj. 亲近的, , 近的 adv. 不远 prep. 在…附近, nearby adj. 附近的",
+    "rank": 707,
+    "coca_paraphrase": "adv. （空间）在近处；在附近；（时间）临近；（程度）几乎  prep. （表示程度）接近；（表示位置）靠近；（表示时间）将近；接近于（某种状态）  adj. 近的；亲密的；近似；（亲属关系）近亲",
+    "coca_meanings": [
+      "adv. （空间）在近处",
+      "adv. 在附近",
+      "adv. （时间）临近",
+      "adv. （程度）几乎",
+      "prep. （表示程度）接近",
+      "prep. （表示位置）靠近",
+      "prep. （表示时间）将近",
+      "prep. 接近于（某种状态）",
+      "adj. 近的",
+      "adj. 亲密的",
+      "adj. 近似",
+      "adj. （亲属关系）近亲"
+    ]
+  },
+  {
+    "word": "movement",
+    "definition": "n. 运动, 活动",
+    "rank": 708,
+    "coca_paraphrase": "n. 运动；活动；动作，举动；乐章",
+    "coca_meanings": [
+      "n. 运动",
+      "n. 活动",
+      "n. 动作，举动",
+      "n. 乐章"
+    ]
+  },
+  {
+    "word": "page",
+    "definition": "n. 页, 页码",
+    "rank": 709,
+    "coca_paraphrase": "n. 页；（计算机的）页面；年史；<文>重要事件  vt. 标记…的页数；翻页；喊出名字以寻找；（在公共传呼系统上）呼叫  vi. 翻书页；浏览",
+    "coca_meanings": [
+      "n. 页",
+      "n. （计算机的）页面",
+      "n. 年史",
+      "n. <文>重要事件",
+      "vt. 标记…的页数",
+      "vt. 翻页",
+      "vt. 喊出名字以寻找",
+      "vt. （在公共传呼系统上）呼叫",
+      "vi. 翻书页",
+      "vi. 浏览"
+    ]
+  },
+  {
+    "word": "enter",
+    "definition": "v. 进入",
+    "rank": 710,
+    "coca_paraphrase": "vt.&vi. 进入；开始；参加；登记",
+    "coca_meanings": [
+      "vt.&vi. 进入",
+      "vt.&vi. 开始",
+      "vt.&vi. 参加",
+      "vt.&vi. 登记"
+    ]
+  },
+  {
+    "word": "common",
+    "definition": "adj. 普通的, 一般的; 共有的",
+    "rank": 713,
+    "coca_paraphrase": "adj. 普通的；通俗的",
+    "coca_meanings": [
+      "adj. 普通的",
+      "adj. 通俗的"
+    ]
+  },
+  {
+    "word": "poor",
+    "definition": "adj. 贫穷的; 可怜的; 不好的, 差的",
+    "rank": 714,
+    "coca_paraphrase": "adj. 贫穷的，贫乏的；令人怜悯的，可怜的；匮乏的；低劣的  n. the poor 贫困者，穷人",
+    "coca_meanings": [
+      "adj. 贫穷的，贫乏的",
+      "adj. 令人怜悯的，可怜的",
+      "adj. 匮乏的",
+      "adj. 低劣的",
+      "n. the poor 贫困者，穷人"
+    ]
+  },
+  {
+    "word": "natural",
+    "definition": "adj. 自然的",
+    "rank": 716,
+    "coca_paraphrase": "adj. 自然的；物质的；天生的；不做作的  n. 自然的事情；（生来的）白痴",
+    "coca_meanings": [
+      "adj. 自然的",
+      "adj. 物质的",
+      "adj. 天生的",
+      "adj. 不做作的",
+      "n. 自然的事情",
+      "n. （生来的）白痴"
+    ]
+  },
+  {
+    "word": "race",
+    "definition": "n. 种族, 民族；竞赛, 比赛 v. 赛跑, 疾走",
+    "rank": 717,
+    "coca_paraphrase": "n. 赛跑；竞争；人种；民族  v. 参加比赛；使比赛；快速移动；剧烈跳动",
+    "coca_meanings": [
+      "n. 赛跑",
+      "n. 竞争",
+      "n. 人种",
+      "n. 民族",
+      "v. 参加比赛",
+      "v. 使比赛",
+      "v. 快速移动",
+      "v. 剧烈跳动"
+    ]
+  },
+  {
+    "word": "concern",
+    "definition": "v. 涉及, 关系到 n. 关心, 关注, 所关心的事",
+    "rank": 718,
+    "coca_paraphrase": "vt. 涉及，关系到；使关心，使担忧；参与  n. 关心；关系，有关；顾虑；公司或企业",
+    "coca_meanings": [
+      "vt. 涉及，关系到",
+      "vt. 使关心，使担忧",
+      "vt. 参与",
+      "n. 关心",
+      "n. 关系，有关",
+      "n. 顾虑",
+      "n. 公司或企业"
+    ]
+  }
+]

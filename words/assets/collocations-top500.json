@@ -1,0 +1,7749 @@
+{
+  "meta": {
+    "total": 491,
+    "phrases": 1445,
+    "source": "collocations_manual.py"
+  },
+  "collocations": {
+    "able": {
+      "items": [
+        {
+          "en": "be able to",
+          "zh": "能够"
+        },
+        {
+          "en": "able to swim",
+          "zh": "会游泳"
+        },
+        {
+          "en": "physically able",
+          "zh": "身体健全"
+        }
+      ]
+    },
+    "across": {
+      "items": [
+        {
+          "en": "across the street",
+          "zh": "街对面"
+        },
+        {
+          "en": "come across",
+          "zh": "偶然遇到"
+        },
+        {
+          "en": "run across",
+          "zh": "跑过"
+        }
+      ]
+    },
+    "action": {
+      "items": [
+        {
+          "en": "take action",
+          "zh": "采取行动"
+        },
+        {
+          "en": "action movie",
+          "zh": "动作片"
+        },
+        {
+          "en": "in action",
+          "zh": "在行动中"
+        }
+      ]
+    },
+    "activity": {
+      "items": [
+        {
+          "en": "outdoor activity",
+          "zh": "户外活动"
+        },
+        {
+          "en": "class activity",
+          "zh": "课堂活动"
+        },
+        {
+          "en": "physical activity",
+          "zh": "体育活动"
+        }
+      ]
+    },
+    "add": {
+      "items": [
+        {
+          "en": "add up",
+          "zh": "加起来"
+        },
+        {
+          "en": "add to",
+          "zh": "增加"
+        },
+        {
+          "en": "add sugar",
+          "zh": "加糖"
+        }
+      ]
+    },
+    "administration": {
+      "items": [
+        {
+          "en": "school administration",
+          "zh": "学校管理层"
+        },
+        {
+          "en": "public administration",
+          "zh": "公共管理"
+        },
+        {
+          "en": "business administration",
+          "zh": "工商管理"
+        }
+      ]
+    },
+    "after": {
+      "items": [
+        {
+          "en": "after school",
+          "zh": "放学后"
+        },
+        {
+          "en": "after all",
+          "zh": "毕竟"
+        },
+        {
+          "en": "day after day",
+          "zh": "日复一日"
+        }
+      ]
+    },
+    "against": {
+      "items": [
+        {
+          "en": "against the wall",
+          "zh": "靠墙"
+        },
+        {
+          "en": "fight against",
+          "zh": "对抗"
+        },
+        {
+          "en": "go against",
+          "zh": "违背"
+        }
+      ]
+    },
+    "age": {
+      "items": [
+        {
+          "en": "at the age of",
+          "zh": "在…岁"
+        },
+        {
+          "en": "old age",
+          "zh": "老年"
+        },
+        {
+          "en": "age group",
+          "zh": "年龄组"
+        }
+      ]
+    },
+    "agency": {
+      "items": [
+        {
+          "en": "travel agency",
+          "zh": "旅行社"
+        },
+        {
+          "en": "news agency",
+          "zh": "通讯社"
+        },
+        {
+          "en": "government agency",
+          "zh": "政府机构"
+        }
+      ]
+    },
+    "ago": {
+      "items": [
+        {
+          "en": "long ago",
+          "zh": "很久以前"
+        },
+        {
+          "en": "a while ago",
+          "zh": "刚才"
+        },
+        {
+          "en": "years ago",
+          "zh": "几年前"
+        }
+      ]
+    },
+    "agree": {
+      "items": [
+        {
+          "en": "agree with sb",
+          "zh": "同意某人"
+        },
+        {
+          "en": "agree to do",
+          "zh": "答应做"
+        },
+        {
+          "en": "agree on sth",
+          "zh": "就…达成一致"
+        }
+      ]
+    },
+    "air": {
+      "items": [
+        {
+          "en": "fresh air",
+          "zh": "新鲜空气"
+        },
+        {
+          "en": "on the air",
+          "zh": "广播中"
+        },
+        {
+          "en": "by air",
+          "zh": "乘飞机"
+        }
+      ]
+    },
+    "all": {
+      "items": [
+        {
+          "en": "all day",
+          "zh": "整天"
+        },
+        {
+          "en": "all over",
+          "zh": "到处"
+        },
+        {
+          "en": "after all",
+          "zh": "毕竟"
+        }
+      ]
+    },
+    "allow": {
+      "items": [
+        {
+          "en": "allow sb to do",
+          "zh": "允许某人做"
+        },
+        {
+          "en": "not allowed",
+          "zh": "不允许"
+        },
+        {
+          "en": "allow for",
+          "zh": "考虑到"
+        }
+      ]
+    },
+    "almost": {
+      "items": [
+        {
+          "en": "almost every",
+          "zh": "几乎每"
+        },
+        {
+          "en": "almost done",
+          "zh": "快完成了"
+        },
+        {
+          "en": "almost never",
+          "zh": "几乎从不"
+        }
+      ]
+    },
+    "already": {
+      "items": [
+        {
+          "en": "already know",
+          "zh": "已经知道"
+        },
+        {
+          "en": "have already",
+          "zh": "已经"
+        },
+        {
+          "en": "already left",
+          "zh": "已经离开"
+        }
+      ]
+    },
+    "although": {
+      "items": [
+        {
+          "en": "although tired",
+          "zh": "虽然累"
+        },
+        {
+          "en": "although small",
+          "zh": "虽然小"
+        },
+        {
+          "en": "although it rained",
+          "zh": "虽然下雨了"
+        }
+      ]
+    },
+    "always": {
+      "items": [
+        {
+          "en": "always remember",
+          "zh": "永远记得"
+        },
+        {
+          "en": "as always",
+          "zh": "像往常一样"
+        },
+        {
+          "en": "almost always",
+          "zh": "几乎总是"
+        }
+      ]
+    },
+    "american": {
+      "items": [
+        {
+          "en": "American English",
+          "zh": "美式英语"
+        },
+        {
+          "en": "American culture",
+          "zh": "美国文化"
+        },
+        {
+          "en": "American dream",
+          "zh": "美国梦"
+        }
+      ]
+    },
+    "among": {
+      "items": [
+        {
+          "en": "among friends",
+          "zh": "朋友之间"
+        },
+        {
+          "en": "among others",
+          "zh": "其中"
+        },
+        {
+          "en": "among the best",
+          "zh": "最好的之一"
+        }
+      ]
+    },
+    "another": {
+      "items": [
+        {
+          "en": "another day",
+          "zh": "改天"
+        },
+        {
+          "en": "one another",
+          "zh": "彼此"
+        },
+        {
+          "en": "another time",
+          "zh": "另一次"
+        }
+      ]
+    },
+    "any": {
+      "items": [
+        {
+          "en": "any time",
+          "zh": "任何时候"
+        },
+        {
+          "en": "any more",
+          "zh": "再"
+        },
+        {
+          "en": "if any",
+          "zh": "如果有的话"
+        }
+      ]
+    },
+    "anyone": {
+      "items": [
+        {
+          "en": "anyone else",
+          "zh": "其他人"
+        },
+        {
+          "en": "hardly anyone",
+          "zh": "几乎没有人"
+        },
+        {
+          "en": "ask anyone",
+          "zh": "问任何人"
+        }
+      ]
+    },
+    "anything": {
+      "items": [
+        {
+          "en": "anything else",
+          "zh": "别的什么"
+        },
+        {
+          "en": "if anything",
+          "zh": "如果有的话"
+        },
+        {
+          "en": "anything wrong",
+          "zh": "出问题了"
+        }
+      ]
+    },
+    "appear": {
+      "items": [
+        {
+          "en": "appear to be",
+          "zh": "似乎是"
+        },
+        {
+          "en": "suddenly appear",
+          "zh": "突然出现"
+        },
+        {
+          "en": "appear on TV",
+          "zh": "上电视"
+        }
+      ]
+    },
+    "area": {
+      "items": [
+        {
+          "en": "local area",
+          "zh": "本地区"
+        },
+        {
+          "en": "rural area",
+          "zh": "农村地区"
+        },
+        {
+          "en": "in the area",
+          "zh": "在这一带"
+        }
+      ]
+    },
+    "arm": {
+      "items": [
+        {
+          "en": "right arm",
+          "zh": "右臂"
+        },
+        {
+          "en": "arm in arm",
+          "zh": "手挽手"
+        },
+        {
+          "en": "break an arm",
+          "zh": "摔断手臂"
+        }
+      ]
+    },
+    "around": {
+      "items": [
+        {
+          "en": "look around",
+          "zh": "环顾"
+        },
+        {
+          "en": "all around",
+          "zh": "周围"
+        },
+        {
+          "en": "come around",
+          "zh": "过来"
+        }
+      ]
+    },
+    "art": {
+      "items": [
+        {
+          "en": "art class",
+          "zh": "美术课"
+        },
+        {
+          "en": "modern art",
+          "zh": "现代艺术"
+        },
+        {
+          "en": "work of art",
+          "zh": "艺术品"
+        }
+      ]
+    },
+    "as": {
+      "items": [
+        {
+          "en": "as well",
+          "zh": "也"
+        },
+        {
+          "en": "as soon as",
+          "zh": "一…就"
+        },
+        {
+          "en": "such as",
+          "zh": "例如"
+        }
+      ]
+    },
+    "ask": {
+      "items": [
+        {
+          "en": "ask for",
+          "zh": "请求"
+        },
+        {
+          "en": "ask a question",
+          "zh": "提问"
+        },
+        {
+          "en": "ask sb to do",
+          "zh": "请某人做"
+        }
+      ]
+    },
+    "attention": {
+      "items": [
+        {
+          "en": "pay attention",
+          "zh": "注意"
+        },
+        {
+          "en": "draw attention",
+          "zh": "引起注意"
+        },
+        {
+          "en": "attract attention",
+          "zh": "吸引注意"
+        }
+      ]
+    },
+    "author": {
+      "items": [
+        {
+          "en": "famous author",
+          "zh": "著名作家"
+        },
+        {
+          "en": "book author",
+          "zh": "书籍作者"
+        },
+        {
+          "en": "best-selling author",
+          "zh": "畅销作家"
+        }
+      ]
+    },
+    "available": {
+      "items": [
+        {
+          "en": "readily available",
+          "zh": "随时可得"
+        },
+        {
+          "en": "not available",
+          "zh": "暂无"
+        },
+        {
+          "en": "make available",
+          "zh": "提供"
+        }
+      ]
+    },
+    "away": {
+      "items": [
+        {
+          "en": "right away",
+          "zh": "立刻"
+        },
+        {
+          "en": "far away",
+          "zh": "很远"
+        },
+        {
+          "en": "throw away",
+          "zh": "扔掉"
+        }
+      ]
+    },
+    "baby": {
+      "items": [
+        {
+          "en": "baby boy",
+          "zh": "男婴"
+        },
+        {
+          "en": "have a baby",
+          "zh": "生孩子"
+        },
+        {
+          "en": "baby food",
+          "zh": "婴儿食品"
+        }
+      ]
+    },
+    "back": {
+      "items": [
+        {
+          "en": "come back",
+          "zh": "回来"
+        },
+        {
+          "en": "look back",
+          "zh": "回顾"
+        },
+        {
+          "en": "pay back",
+          "zh": "偿还"
+        }
+      ]
+    },
+    "bank": {
+      "items": [
+        {
+          "en": "bank account",
+          "zh": "银行账户"
+        },
+        {
+          "en": "river bank",
+          "zh": "河岸"
+        },
+        {
+          "en": "blood bank",
+          "zh": "血库"
+        }
+      ]
+    },
+    "base": {
+      "items": [
+        {
+          "en": "military base",
+          "zh": "军事基地"
+        },
+        {
+          "en": "base on",
+          "zh": "基于"
+        },
+        {
+          "en": "first base",
+          "zh": "一垒"
+        }
+      ]
+    },
+    "be": {
+      "items": [
+        {
+          "en": "be able to",
+          "zh": "能够"
+        },
+        {
+          "en": "be interested in",
+          "zh": "对…感兴趣"
+        },
+        {
+          "en": "be good at",
+          "zh": "擅长"
+        }
+      ]
+    },
+    "because": {
+      "items": [
+        {
+          "en": "because of",
+          "zh": "因为"
+        },
+        {
+          "en": "just because",
+          "zh": "就因为"
+        }
+      ]
+    },
+    "become": {
+      "items": [
+        {
+          "en": "become a teacher",
+          "zh": "成为老师"
+        },
+        {
+          "en": "become famous",
+          "zh": "成名"
+        },
+        {
+          "en": "become clear",
+          "zh": "变得清楚"
+        }
+      ]
+    },
+    "bed": {
+      "items": [
+        {
+          "en": "go to bed",
+          "zh": "上床睡觉"
+        },
+        {
+          "en": "make the bed",
+          "zh": "铺床"
+        },
+        {
+          "en": "in bed",
+          "zh": "在床上"
+        }
+      ]
+    },
+    "before": {
+      "items": [
+        {
+          "en": "before long",
+          "zh": "不久"
+        },
+        {
+          "en": "long before",
+          "zh": "很久以前"
+        },
+        {
+          "en": "before class",
+          "zh": "课前"
+        }
+      ]
+    },
+    "begin": {
+      "items": [
+        {
+          "en": "begin with",
+          "zh": "以…开始"
+        },
+        {
+          "en": "begin to do",
+          "zh": "开始做"
+        },
+        {
+          "en": "begin again",
+          "zh": "重新开始"
+        }
+      ]
+    },
+    "behind": {
+      "items": [
+        {
+          "en": "behind the door",
+          "zh": "门后"
+        },
+        {
+          "en": "fall behind",
+          "zh": "落后"
+        },
+        {
+          "en": "leave behind",
+          "zh": "留下"
+        }
+      ]
+    },
+    "believe": {
+      "items": [
+        {
+          "en": "believe in",
+          "zh": "相信"
+        },
+        {
+          "en": "believe it or not",
+          "zh": "信不信由你"
+        },
+        {
+          "en": "hard to believe",
+          "zh": "难以置信"
+        }
+      ]
+    },
+    "between": {
+      "items": [
+        {
+          "en": "between you and me",
+          "zh": "你我之间"
+        },
+        {
+          "en": "in between",
+          "zh": "在中间"
+        },
+        {
+          "en": "between classes",
+          "zh": "课间"
+        }
+      ]
+    },
+    "billion": {
+      "items": [
+        {
+          "en": "two billion people",
+          "zh": "二十亿人"
+        },
+        {
+          "en": "billions of stars",
+          "zh": "数十亿颗星星"
+        }
+      ]
+    },
+    "blood": {
+      "items": [
+        {
+          "en": "blood type",
+          "zh": "血型"
+        },
+        {
+          "en": "blood pressure",
+          "zh": "血压"
+        },
+        {
+          "en": "lose blood",
+          "zh": "失血"
+        }
+      ]
+    },
+    "board": {
+      "items": [
+        {
+          "en": "on board",
+          "zh": "在船上/机上"
+        },
+        {
+          "en": "school board",
+          "zh": "校董会"
+        },
+        {
+          "en": "cutting board",
+          "zh": "砧板"
+        }
+      ]
+    },
+    "body": {
+      "items": [
+        {
+          "en": "human body",
+          "zh": "人体"
+        },
+        {
+          "en": "body language",
+          "zh": "肢体语言"
+        },
+        {
+          "en": "whole body",
+          "zh": "全身"
+        }
+      ]
+    },
+    "book": {
+      "items": [
+        {
+          "en": "book a ticket",
+          "zh": "订票"
+        },
+        {
+          "en": "read a book",
+          "zh": "读书"
+        },
+        {
+          "en": "by the book",
+          "zh": "按规矩"
+        }
+      ]
+    },
+    "both": {
+      "items": [
+        {
+          "en": "both ... and",
+          "zh": "既…又"
+        },
+        {
+          "en": "both sides",
+          "zh": "双方"
+        },
+        {
+          "en": "both of us",
+          "zh": "我们俩"
+        }
+      ]
+    },
+    "break": {
+      "items": [
+        {
+          "en": "break down",
+          "zh": "出故障"
+        },
+        {
+          "en": "break up",
+          "zh": "分手"
+        },
+        {
+          "en": "take a break",
+          "zh": "休息一下"
+        }
+      ]
+    },
+    "build": {
+      "items": [
+        {
+          "en": "build up",
+          "zh": "建立"
+        },
+        {
+          "en": "build a house",
+          "zh": "盖房子"
+        },
+        {
+          "en": "build on",
+          "zh": "在…基础上发展"
+        }
+      ]
+    },
+    "building": {
+      "items": [
+        {
+          "en": "office building",
+          "zh": "办公楼"
+        },
+        {
+          "en": "tall building",
+          "zh": "高楼"
+        },
+        {
+          "en": "building materials",
+          "zh": "建材"
+        }
+      ]
+    },
+    "business": {
+      "items": [
+        {
+          "en": "do business",
+          "zh": "做生意"
+        },
+        {
+          "en": "business trip",
+          "zh": "出差"
+        },
+        {
+          "en": "small business",
+          "zh": "小企业"
+        }
+      ]
+    },
+    "buy": {
+      "items": [
+        {
+          "en": "buy a gift",
+          "zh": "买礼物"
+        },
+        {
+          "en": "buy time",
+          "zh": "争取时间"
+        },
+        {
+          "en": "buy into",
+          "zh": "相信"
+        }
+      ]
+    },
+    "call": {
+      "items": [
+        {
+          "en": "call back",
+          "zh": "回电话"
+        },
+        {
+          "en": "phone call",
+          "zh": "电话"
+        },
+        {
+          "en": "call for",
+          "zh": "要求"
+        }
+      ]
+    },
+    "campaign": {
+      "items": [
+        {
+          "en": "election campaign",
+          "zh": "竞选活动"
+        },
+        {
+          "en": "advertising campaign",
+          "zh": "广告活动"
+        },
+        {
+          "en": "campaign for",
+          "zh": "为…而奔走"
+        }
+      ]
+    },
+    "can": {
+      "items": [
+        {
+          "en": "I can swim",
+          "zh": "我会游泳"
+        },
+        {
+          "en": "can you help?",
+          "zh": "你能帮忙吗？"
+        },
+        {
+          "en": "as fast as you can",
+          "zh": "尽你所能快"
+        }
+      ]
+    },
+    "car": {
+      "items": [
+        {
+          "en": "by car",
+          "zh": "开车"
+        },
+        {
+          "en": "car park",
+          "zh": "停车场"
+        },
+        {
+          "en": "police car",
+          "zh": "警车"
+        }
+      ]
+    },
+    "care": {
+      "items": [
+        {
+          "en": "take care",
+          "zh": "小心"
+        },
+        {
+          "en": "take care of",
+          "zh": "照顾"
+        },
+        {
+          "en": "health care",
+          "zh": "医疗保健"
+        }
+      ]
+    },
+    "carry": {
+      "items": [
+        {
+          "en": "carry on",
+          "zh": "继续"
+        },
+        {
+          "en": "carry out",
+          "zh": "执行"
+        },
+        {
+          "en": "carry a bag",
+          "zh": "提包"
+        }
+      ]
+    },
+    "case": {
+      "items": [
+        {
+          "en": "in case",
+          "zh": "以防"
+        },
+        {
+          "en": "in that case",
+          "zh": "那样的话"
+        },
+        {
+          "en": "phone case",
+          "zh": "手机壳"
+        }
+      ]
+    },
+    "catch": {
+      "items": [
+        {
+          "en": "catch a cold",
+          "zh": "感冒"
+        },
+        {
+          "en": "catch up",
+          "zh": "赶上"
+        },
+        {
+          "en": "catch the bus",
+          "zh": "赶公交"
+        }
+      ]
+    },
+    "cause": {
+      "items": [
+        {
+          "en": "cause trouble",
+          "zh": "惹麻烦"
+        },
+        {
+          "en": "cause and effect",
+          "zh": "因果"
+        },
+        {
+          "en": "good cause",
+          "zh": "正当理由"
+        }
+      ]
+    },
+    "centre": {
+      "items": [
+        {
+          "en": "city centre",
+          "zh": "市中心"
+        },
+        {
+          "en": "shopping centre",
+          "zh": "购物中心"
+        },
+        {
+          "en": "at the centre",
+          "zh": "在中心"
+        }
+      ]
+    },
+    "century": {
+      "items": [
+        {
+          "en": "21st century",
+          "zh": "21世纪"
+        },
+        {
+          "en": "turn of the century",
+          "zh": "世纪之交"
+        }
+      ]
+    },
+    "certain": {
+      "items": [
+        {
+          "en": "for certain",
+          "zh": "肯定"
+        },
+        {
+          "en": "a certain",
+          "zh": "某个"
+        },
+        {
+          "en": "make certain",
+          "zh": "确保"
+        }
+      ]
+    },
+    "chance": {
+      "items": [
+        {
+          "en": "by chance",
+          "zh": "偶然"
+        },
+        {
+          "en": "take a chance",
+          "zh": "冒险一试"
+        },
+        {
+          "en": "stand a chance",
+          "zh": "有机会"
+        }
+      ]
+    },
+    "change": {
+      "items": [
+        {
+          "en": "change one's mind",
+          "zh": "改变主意"
+        },
+        {
+          "en": "climate change",
+          "zh": "气候变化"
+        },
+        {
+          "en": "small change",
+          "zh": "零钱"
+        }
+      ]
+    },
+    "choice": {
+      "items": [
+        {
+          "en": "make a choice",
+          "zh": "做出选择"
+        },
+        {
+          "en": "no choice",
+          "zh": "别无选择"
+        },
+        {
+          "en": "good choice",
+          "zh": "好选择"
+        }
+      ]
+    },
+    "choose": {
+      "items": [
+        {
+          "en": "choose from",
+          "zh": "从中选择"
+        },
+        {
+          "en": "choose to do",
+          "zh": "选择做"
+        },
+        {
+          "en": "choose wisely",
+          "zh": "明智选择"
+        }
+      ]
+    },
+    "church": {
+      "items": [
+        {
+          "en": "go to church",
+          "zh": "去教堂"
+        },
+        {
+          "en": "church service",
+          "zh": "礼拜"
+        },
+        {
+          "en": "near the church",
+          "zh": "教堂附近"
+        }
+      ]
+    },
+    "city": {
+      "items": [
+        {
+          "en": "city life",
+          "zh": "城市生活"
+        },
+        {
+          "en": "across the city",
+          "zh": "全城"
+        },
+        {
+          "en": "big city",
+          "zh": "大城市"
+        }
+      ]
+    },
+    "class": {
+      "items": [
+        {
+          "en": "in class",
+          "zh": "在课堂上"
+        },
+        {
+          "en": "first class",
+          "zh": "头等"
+        },
+        {
+          "en": "class meeting",
+          "zh": "班会"
+        }
+      ]
+    },
+    "clear": {
+      "items": [
+        {
+          "en": "make it clear",
+          "zh": "说清楚"
+        },
+        {
+          "en": "clear up",
+          "zh": "放晴/澄清"
+        },
+        {
+          "en": "clear answer",
+          "zh": "明确答复"
+        }
+      ]
+    },
+    "close": {
+      "items": [
+        {
+          "en": "close to",
+          "zh": "靠近"
+        },
+        {
+          "en": "close the door",
+          "zh": "关门"
+        },
+        {
+          "en": "close friend",
+          "zh": "密友"
+        }
+      ]
+    },
+    "college": {
+      "items": [
+        {
+          "en": "go to college",
+          "zh": "上大学"
+        },
+        {
+          "en": "college student",
+          "zh": "大学生"
+        },
+        {
+          "en": "college entrance exam",
+          "zh": "高考"
+        }
+      ]
+    },
+    "common": {
+      "items": [
+        {
+          "en": "in common",
+          "zh": "共同"
+        },
+        {
+          "en": "common sense",
+          "zh": "常识"
+        },
+        {
+          "en": "common problem",
+          "zh": "常见问题"
+        }
+      ]
+    },
+    "company": {
+      "items": [
+        {
+          "en": "keep company",
+          "zh": "陪伴"
+        },
+        {
+          "en": "insurance company",
+          "zh": "保险公司"
+        },
+        {
+          "en": "in company with",
+          "zh": "与…一起"
+        }
+      ]
+    },
+    "computer": {
+      "items": [
+        {
+          "en": "computer science",
+          "zh": "计算机科学"
+        },
+        {
+          "en": "personal computer",
+          "zh": "个人电脑"
+        },
+        {
+          "en": "computer room",
+          "zh": "机房"
+        }
+      ]
+    },
+    "concern": {
+      "items": [
+        {
+          "en": "concern about",
+          "zh": "对…担忧"
+        },
+        {
+          "en": "of concern",
+          "zh": "令人担忧"
+        },
+        {
+          "en": "main concern",
+          "zh": "主要关切"
+        }
+      ]
+    },
+    "condition": {
+      "items": [
+        {
+          "en": "in good condition",
+          "zh": "状况良好"
+        },
+        {
+          "en": "on condition that",
+          "zh": "条件是"
+        },
+        {
+          "en": "weather condition",
+          "zh": "天气状况"
+        }
+      ]
+    },
+    "consider": {
+      "items": [
+        {
+          "en": "consider doing",
+          "zh": "考虑做"
+        },
+        {
+          "en": "all things considered",
+          "zh": "总的来说"
+        }
+      ]
+    },
+    "continue": {
+      "items": [
+        {
+          "en": "continue to do",
+          "zh": "继续做"
+        },
+        {
+          "en": "continue with",
+          "zh": "继续"
+        },
+        {
+          "en": "to be continued",
+          "zh": "未完待续"
+        }
+      ]
+    },
+    "control": {
+      "items": [
+        {
+          "en": "under control",
+          "zh": "在控制下"
+        },
+        {
+          "en": "out of control",
+          "zh": "失控"
+        },
+        {
+          "en": "remote control",
+          "zh": "遥控器"
+        }
+      ]
+    },
+    "cost": {
+      "items": [
+        {
+          "en": "at the cost of",
+          "zh": "以…为代价"
+        },
+        {
+          "en": "cost of living",
+          "zh": "生活成本"
+        },
+        {
+          "en": "low cost",
+          "zh": "低成本"
+        }
+      ]
+    },
+    "could": {
+      "items": [
+        {
+          "en": "could you help?",
+          "zh": "你能帮忙吗？"
+        },
+        {
+          "en": "could be true",
+          "zh": "可能是真的"
+        },
+        {
+          "en": "could not sleep",
+          "zh": "睡不着"
+        }
+      ]
+    },
+    "country": {
+      "items": [
+        {
+          "en": "home country",
+          "zh": "祖国"
+        },
+        {
+          "en": "across the country",
+          "zh": "全国"
+        },
+        {
+          "en": "country music",
+          "zh": "乡村音乐"
+        }
+      ]
+    },
+    "couple": {
+      "items": [
+        {
+          "en": "a couple of",
+          "zh": "几个"
+        },
+        {
+          "en": "married couple",
+          "zh": "夫妻"
+        },
+        {
+          "en": "a couple days",
+          "zh": "几天"
+        }
+      ]
+    },
+    "course": {
+      "items": [
+        {
+          "en": "of course",
+          "zh": "当然"
+        },
+        {
+          "en": "main course",
+          "zh": "主菜"
+        },
+        {
+          "en": "in the course of",
+          "zh": "在…过程中"
+        }
+      ]
+    },
+    "court": {
+      "items": [
+        {
+          "en": "basketball court",
+          "zh": "篮球场"
+        },
+        {
+          "en": "go to court",
+          "zh": "上法庭"
+        },
+        {
+          "en": "tennis court",
+          "zh": "网球场"
+        }
+      ]
+    },
+    "cover": {
+      "items": [
+        {
+          "en": "cover up",
+          "zh": "掩盖"
+        },
+        {
+          "en": "book cover",
+          "zh": "封面"
+        },
+        {
+          "en": "cover the cost",
+          "zh": "承担费用"
+        }
+      ]
+    },
+    "create": {
+      "items": [
+        {
+          "en": "create jobs",
+          "zh": "创造就业"
+        },
+        {
+          "en": "create a chance",
+          "zh": "创造机会"
+        },
+        {
+          "en": "create problems",
+          "zh": "制造麻烦"
+        }
+      ]
+    },
+    "culture": {
+      "items": [
+        {
+          "en": "local culture",
+          "zh": "本地文化"
+        },
+        {
+          "en": "popular culture",
+          "zh": "流行文化"
+        },
+        {
+          "en": "culture shock",
+          "zh": "文化冲击"
+        }
+      ]
+    },
+    "data": {
+      "items": [
+        {
+          "en": "collect data",
+          "zh": "收集数据"
+        },
+        {
+          "en": "personal data",
+          "zh": "个人数据"
+        },
+        {
+          "en": "data analysis",
+          "zh": "数据分析"
+        }
+      ]
+    },
+    "daughter": {
+      "items": [
+        {
+          "en": "elder daughter",
+          "zh": "大女儿"
+        },
+        {
+          "en": "only daughter",
+          "zh": "独生女"
+        },
+        {
+          "en": "young daughter",
+          "zh": "年幼的女儿"
+        }
+      ]
+    },
+    "deal": {
+      "items": [
+        {
+          "en": "deal with",
+          "zh": "处理"
+        },
+        {
+          "en": "a great deal",
+          "zh": "大量"
+        },
+        {
+          "en": "big deal",
+          "zh": "大事"
+        }
+      ]
+    },
+    "death": {
+      "items": [
+        {
+          "en": "cause of death",
+          "zh": "死因"
+        },
+        {
+          "en": "life and death",
+          "zh": "生死"
+        },
+        {
+          "en": "sudden death",
+          "zh": "猝死"
+        }
+      ]
+    },
+    "decide": {
+      "items": [
+        {
+          "en": "decide to do",
+          "zh": "决定做"
+        },
+        {
+          "en": "decide on",
+          "zh": "选定"
+        },
+        {
+          "en": "hard to decide",
+          "zh": "难以决定"
+        }
+      ]
+    },
+    "decision": {
+      "items": [
+        {
+          "en": "make a decision",
+          "zh": "做决定"
+        },
+        {
+          "en": "final decision",
+          "zh": "最终决定"
+        },
+        {
+          "en": "right decision",
+          "zh": "正确决定"
+        }
+      ]
+    },
+    "defence": {
+      "items": [
+        {
+          "en": "in defence of",
+          "zh": "为…辩护"
+        },
+        {
+          "en": "self-defence",
+          "zh": "自卫"
+        },
+        {
+          "en": "national defence",
+          "zh": "国防"
+        }
+      ]
+    },
+    "describe": {
+      "items": [
+        {
+          "en": "describe as",
+          "zh": "描述为"
+        },
+        {
+          "en": "hard to describe",
+          "zh": "难以描述"
+        },
+        {
+          "en": "describe in detail",
+          "zh": "详细描述"
+        }
+      ]
+    },
+    "develop": {
+      "items": [
+        {
+          "en": "develop skills",
+          "zh": "培养技能"
+        },
+        {
+          "en": "develop into",
+          "zh": "发展成"
+        },
+        {
+          "en": "develop a habit",
+          "zh": "养成习惯"
+        }
+      ]
+    },
+    "development": {
+      "items": [
+        {
+          "en": "economic development",
+          "zh": "经济发展"
+        },
+        {
+          "en": "personal development",
+          "zh": "个人发展"
+        },
+        {
+          "en": "sustainable development",
+          "zh": "可持续发展"
+        }
+      ]
+    },
+    "die": {
+      "items": [
+        {
+          "en": "die of",
+          "zh": "死于"
+        },
+        {
+          "en": "die down",
+          "zh": "平息"
+        },
+        {
+          "en": "die for",
+          "zh": "为…而死"
+        }
+      ]
+    },
+    "difference": {
+      "items": [
+        {
+          "en": "make a difference",
+          "zh": "有影响"
+        },
+        {
+          "en": "tell the difference",
+          "zh": "分辨"
+        },
+        {
+          "en": "big difference",
+          "zh": "很大差别"
+        }
+      ]
+    },
+    "difficult": {
+      "items": [
+        {
+          "en": "difficult to do",
+          "zh": "难以做"
+        },
+        {
+          "en": "very difficult",
+          "zh": "非常困难"
+        },
+        {
+          "en": "difficult situation",
+          "zh": "困境"
+        }
+      ]
+    },
+    "director": {
+      "items": [
+        {
+          "en": "film director",
+          "zh": "电影导演"
+        },
+        {
+          "en": "school director",
+          "zh": "校长"
+        },
+        {
+          "en": "art director",
+          "zh": "艺术总监"
+        }
+      ]
+    },
+    "doctor": {
+      "items": [
+        {
+          "en": "see a doctor",
+          "zh": "看医生"
+        },
+        {
+          "en": "family doctor",
+          "zh": "家庭医生"
+        },
+        {
+          "en": "Doctor Wang",
+          "zh": "王医生"
+        }
+      ]
+    },
+    "door": {
+      "items": [
+        {
+          "en": "open the door",
+          "zh": "开门"
+        },
+        {
+          "en": "next door",
+          "zh": "隔壁"
+        },
+        {
+          "en": "front door",
+          "zh": "前门"
+        }
+      ]
+    },
+    "down": {
+      "items": [
+        {
+          "en": "sit down",
+          "zh": "坐下"
+        },
+        {
+          "en": "write down",
+          "zh": "写下"
+        },
+        {
+          "en": "calm down",
+          "zh": "冷静"
+        }
+      ]
+    },
+    "draw": {
+      "items": [
+        {
+          "en": "draw a picture",
+          "zh": "画画"
+        },
+        {
+          "en": "draw attention",
+          "zh": "引起注意"
+        },
+        {
+          "en": "draw a conclusion",
+          "zh": "得出结论"
+        }
+      ]
+    },
+    "drive": {
+      "items": [
+        {
+          "en": "drive a car",
+          "zh": "开车"
+        },
+        {
+          "en": "drive sb crazy",
+          "zh": "把人逼疯"
+        },
+        {
+          "en": "drive away",
+          "zh": "开走"
+        }
+      ]
+    },
+    "drop": {
+      "items": [
+        {
+          "en": "drop by",
+          "zh": "顺便拜访"
+        },
+        {
+          "en": "drop out",
+          "zh": "退学"
+        },
+        {
+          "en": "drop off",
+          "zh": "放下"
+        }
+      ]
+    },
+    "drug": {
+      "items": [
+        {
+          "en": "drug store",
+          "zh": "药店"
+        },
+        {
+          "en": "take drugs",
+          "zh": "吸毒"
+        },
+        {
+          "en": "drug abuse",
+          "zh": "药物滥用"
+        }
+      ]
+    },
+    "during": {
+      "items": [
+        {
+          "en": "during the day",
+          "zh": "白天"
+        },
+        {
+          "en": "during the summer",
+          "zh": "夏天期间"
+        },
+        {
+          "en": "during class",
+          "zh": "上课时"
+        }
+      ]
+    },
+    "each": {
+      "items": [
+        {
+          "en": "each other",
+          "zh": "互相"
+        },
+        {
+          "en": "each day",
+          "zh": "每天"
+        },
+        {
+          "en": "each one",
+          "zh": "每一个"
+        }
+      ]
+    },
+    "early": {
+      "items": [
+        {
+          "en": "early morning",
+          "zh": "清晨"
+        },
+        {
+          "en": "get up early",
+          "zh": "早起"
+        },
+        {
+          "en": "as early as",
+          "zh": "早在"
+        }
+      ]
+    },
+    "easy": {
+      "items": [
+        {
+          "en": "easy to do",
+          "zh": "容易做"
+        },
+        {
+          "en": "take it easy",
+          "zh": "放轻松"
+        },
+        {
+          "en": "easy job",
+          "zh": "轻松的工作"
+        }
+      ]
+    },
+    "education": {
+      "items": [
+        {
+          "en": "higher education",
+          "zh": "高等教育"
+        },
+        {
+          "en": "physical education",
+          "zh": "体育"
+        },
+        {
+          "en": "education system",
+          "zh": "教育体系"
+        }
+      ]
+    },
+    "effect": {
+      "items": [
+        {
+          "en": "in effect",
+          "zh": "实际上"
+        },
+        {
+          "en": "side effect",
+          "zh": "副作用"
+        },
+        {
+          "en": "take effect",
+          "zh": "生效"
+        }
+      ]
+    },
+    "effort": {
+      "items": [
+        {
+          "en": "make an effort",
+          "zh": "努力"
+        },
+        {
+          "en": "joint effort",
+          "zh": "共同努力"
+        },
+        {
+          "en": "spare no effort",
+          "zh": "不遗余力"
+        }
+      ]
+    },
+    "either": {
+      "items": [
+        {
+          "en": "either ... or",
+          "zh": "要么…要么"
+        },
+        {
+          "en": "either way",
+          "zh": "不管怎样"
+        },
+        {
+          "en": "not either",
+          "zh": "也不"
+        }
+      ]
+    },
+    "else": {
+      "items": [
+        {
+          "en": "or else",
+          "zh": "否则"
+        },
+        {
+          "en": "something else",
+          "zh": "别的东西"
+        },
+        {
+          "en": "anyone else",
+          "zh": "其他人"
+        }
+      ]
+    },
+    "end": {
+      "items": [
+        {
+          "en": "in the end",
+          "zh": "最终"
+        },
+        {
+          "en": "at the end of",
+          "zh": "在…末尾"
+        },
+        {
+          "en": "come to an end",
+          "zh": "结束"
+        }
+      ]
+    },
+    "energy": {
+      "items": [
+        {
+          "en": "save energy",
+          "zh": "节约能源"
+        },
+        {
+          "en": "full of energy",
+          "zh": "精力充沛"
+        },
+        {
+          "en": "renewable energy",
+          "zh": "可再生能源"
+        }
+      ]
+    },
+    "enough": {
+      "items": [
+        {
+          "en": "good enough",
+          "zh": "足够好"
+        },
+        {
+          "en": "enough for",
+          "zh": "对…足够"
+        },
+        {
+          "en": "sure enough",
+          "zh": "果然"
+        }
+      ]
+    },
+    "enter": {
+      "items": [
+        {
+          "en": "enter a room",
+          "zh": "进入房间"
+        },
+        {
+          "en": "enter a competition",
+          "zh": "参加比赛"
+        },
+        {
+          "en": "enter college",
+          "zh": "上大学"
+        }
+      ]
+    },
+    "especially": {
+      "items": [
+        {
+          "en": "especially important",
+          "zh": "尤其重要"
+        },
+        {
+          "en": "especially for you",
+          "zh": "特别为你"
+        },
+        {
+          "en": "especially when tired",
+          "zh": "尤其累的时候"
+        }
+      ]
+    },
+    "even": {
+      "items": [
+        {
+          "en": "even if",
+          "zh": "即使"
+        },
+        {
+          "en": "even though",
+          "zh": "虽然"
+        },
+        {
+          "en": "even better",
+          "zh": "更好"
+        }
+      ]
+    },
+    "event": {
+      "items": [
+        {
+          "en": "main event",
+          "zh": "主要活动"
+        },
+        {
+          "en": "sporting event",
+          "zh": "体育赛事"
+        },
+        {
+          "en": "in the event of",
+          "zh": "万一"
+        }
+      ]
+    },
+    "ever": {
+      "items": [
+        {
+          "en": "ever since",
+          "zh": "自从"
+        },
+        {
+          "en": "hardly ever",
+          "zh": "几乎从不"
+        },
+        {
+          "en": "for ever",
+          "zh": "永远"
+        }
+      ]
+    },
+    "every": {
+      "items": [
+        {
+          "en": "every day",
+          "zh": "每天"
+        },
+        {
+          "en": "every time",
+          "zh": "每次"
+        },
+        {
+          "en": "every one",
+          "zh": "每一个"
+        }
+      ]
+    },
+    "everyone": {
+      "items": [
+        {
+          "en": "everyone knows",
+          "zh": "人人都知道"
+        },
+        {
+          "en": "almost everyone",
+          "zh": "几乎每个人"
+        },
+        {
+          "en": "tell everyone",
+          "zh": "告诉每个人"
+        }
+      ]
+    },
+    "everything": {
+      "items": [
+        {
+          "en": "everything is fine",
+          "zh": "一切都好"
+        },
+        {
+          "en": "almost everything",
+          "zh": "几乎一切"
+        },
+        {
+          "en": "everything else",
+          "zh": "其他一切"
+        }
+      ]
+    },
+    "evidence": {
+      "items": [
+        {
+          "en": "clear evidence",
+          "zh": "明确证据"
+        },
+        {
+          "en": "in evidence",
+          "zh": "明显的"
+        },
+        {
+          "en": "gather evidence",
+          "zh": "收集证据"
+        }
+      ]
+    },
+    "expect": {
+      "items": [
+        {
+          "en": "expect to do",
+          "zh": "期望做"
+        },
+        {
+          "en": "as expected",
+          "zh": "如预期"
+        },
+        {
+          "en": "didn't expect that",
+          "zh": "没想到"
+        }
+      ]
+    },
+    "experience": {
+      "items": [
+        {
+          "en": "work experience",
+          "zh": "工作经验"
+        },
+        {
+          "en": "gain experience",
+          "zh": "积累经验"
+        },
+        {
+          "en": "learning experience",
+          "zh": "学习经历"
+        }
+      ]
+    },
+    "explain": {
+      "items": [
+        {
+          "en": "explain to sb",
+          "zh": "向某人解释"
+        },
+        {
+          "en": "explain why",
+          "zh": "解释为什么"
+        },
+        {
+          "en": "hard to explain",
+          "zh": "难以解释"
+        }
+      ]
+    },
+    "fact": {
+      "items": [
+        {
+          "en": "in fact",
+          "zh": "事实上"
+        },
+        {
+          "en": "matter of fact",
+          "zh": "事实"
+        },
+        {
+          "en": "face the fact",
+          "zh": "面对事实"
+        }
+      ]
+    },
+    "fall": {
+      "items": [
+        {
+          "en": "fall asleep",
+          "zh": "睡着"
+        },
+        {
+          "en": "fall in love",
+          "zh": "坠入爱河"
+        },
+        {
+          "en": "fall behind",
+          "zh": "落后"
+        }
+      ]
+    },
+    "far": {
+      "items": [
+        {
+          "en": "so far",
+          "zh": "到目前为止"
+        },
+        {
+          "en": "far from",
+          "zh": "远非"
+        },
+        {
+          "en": "as far as",
+          "zh": "就…而言"
+        }
+      ]
+    },
+    "federal": {
+      "items": [
+        {
+          "en": "federal government",
+          "zh": "联邦政府"
+        },
+        {
+          "en": "federal law",
+          "zh": "联邦法律"
+        },
+        {
+          "en": "federal court",
+          "zh": "联邦法院"
+        }
+      ]
+    },
+    "feel": {
+      "items": [
+        {
+          "en": "feel like",
+          "zh": "想要"
+        },
+        {
+          "en": "feel free",
+          "zh": "请随意"
+        },
+        {
+          "en": "feel sorry",
+          "zh": "感到抱歉"
+        }
+      ]
+    },
+    "few": {
+      "items": [
+        {
+          "en": "a few",
+          "zh": "几个"
+        },
+        {
+          "en": "very few",
+          "zh": "很少"
+        },
+        {
+          "en": "few people",
+          "zh": "少数人"
+        }
+      ]
+    },
+    "field": {
+      "items": [
+        {
+          "en": "in the field",
+          "zh": "在实地"
+        },
+        {
+          "en": "field trip",
+          "zh": "实地考察"
+        },
+        {
+          "en": "football field",
+          "zh": "足球场"
+        }
+      ]
+    },
+    "fight": {
+      "items": [
+        {
+          "en": "fight for",
+          "zh": "为…而战"
+        },
+        {
+          "en": "fight against",
+          "zh": "对抗"
+        },
+        {
+          "en": "fight back",
+          "zh": "反击"
+        }
+      ]
+    },
+    "figure": {
+      "items": [
+        {
+          "en": "figure out",
+          "zh": "弄清楚"
+        },
+        {
+          "en": "public figure",
+          "zh": "公众人物"
+        },
+        {
+          "en": "key figure",
+          "zh": "关键人物"
+        }
+      ]
+    },
+    "fill": {
+      "items": [
+        {
+          "en": "fill in",
+          "zh": "填写"
+        },
+        {
+          "en": "fill up",
+          "zh": "装满"
+        },
+        {
+          "en": "fill with",
+          "zh": "充满"
+        }
+      ]
+    },
+    "fine": {
+      "items": [
+        {
+          "en": "fine art",
+          "zh": "美术"
+        },
+        {
+          "en": "that's fine",
+          "zh": "没关系"
+        },
+        {
+          "en": "fine weather",
+          "zh": "好天气"
+        }
+      ]
+    },
+    "fire": {
+      "items": [
+        {
+          "en": "on fire",
+          "zh": "着火"
+        },
+        {
+          "en": "fire alarm",
+          "zh": "火警"
+        },
+        {
+          "en": "open fire",
+          "zh": "开火"
+        }
+      ]
+    },
+    "floor": {
+      "items": [
+        {
+          "en": "on the floor",
+          "zh": "在地板上"
+        },
+        {
+          "en": "ground floor",
+          "zh": "一楼"
+        },
+        {
+          "en": "dance floor",
+          "zh": "舞池"
+        }
+      ]
+    },
+    "focus": {
+      "items": [
+        {
+          "en": "focus on",
+          "zh": "专注于"
+        },
+        {
+          "en": "in focus",
+          "zh": "对焦"
+        },
+        {
+          "en": "lose focus",
+          "zh": "分心"
+        }
+      ]
+    },
+    "follow": {
+      "items": [
+        {
+          "en": "follow the rules",
+          "zh": "遵守规则"
+        },
+        {
+          "en": "follow sb",
+          "zh": "跟随某人"
+        },
+        {
+          "en": "as follows",
+          "zh": "如下"
+        }
+      ]
+    },
+    "foot": {
+      "items": [
+        {
+          "en": "on foot",
+          "zh": "步行"
+        },
+        {
+          "en": "at the foot of",
+          "zh": "在…脚下"
+        },
+        {
+          "en": "set foot in",
+          "zh": "踏入"
+        }
+      ]
+    },
+    "force": {
+      "items": [
+        {
+          "en": "by force",
+          "zh": "用武力"
+        },
+        {
+          "en": "in force",
+          "zh": "生效"
+        },
+        {
+          "en": "air force",
+          "zh": "空军"
+        }
+      ]
+    },
+    "foreign": {
+      "items": [
+        {
+          "en": "foreign language",
+          "zh": "外语"
+        },
+        {
+          "en": "foreign student",
+          "zh": "留学生"
+        },
+        {
+          "en": "foreign country",
+          "zh": "外国"
+        }
+      ]
+    },
+    "form": {
+      "items": [
+        {
+          "en": "fill in a form",
+          "zh": "填表"
+        },
+        {
+          "en": "in the form of",
+          "zh": "以…形式"
+        },
+        {
+          "en": "take form",
+          "zh": "成形"
+        }
+      ]
+    },
+    "former": {
+      "items": [
+        {
+          "en": "former student",
+          "zh": "以前的学生"
+        },
+        {
+          "en": "former president",
+          "zh": "前总统"
+        },
+        {
+          "en": "former teacher",
+          "zh": "以前的老师"
+        }
+      ]
+    },
+    "friend": {
+      "items": [
+        {
+          "en": "best friend",
+          "zh": "最好的朋友"
+        },
+        {
+          "en": "make friends",
+          "zh": "交朋友"
+        },
+        {
+          "en": "close friend",
+          "zh": "密友"
+        }
+      ]
+    },
+    "full": {
+      "items": [
+        {
+          "en": "full of",
+          "zh": "充满"
+        },
+        {
+          "en": "full time",
+          "zh": "全职"
+        },
+        {
+          "en": "in full",
+          "zh": "全部"
+        }
+      ]
+    },
+    "future": {
+      "items": [
+        {
+          "en": "in the future",
+          "zh": "将来"
+        },
+        {
+          "en": "for the future",
+          "zh": "为了未来"
+        },
+        {
+          "en": "bright future",
+          "zh": "光明未来"
+        }
+      ]
+    },
+    "game": {
+      "items": [
+        {
+          "en": "video game",
+          "zh": "电子游戏"
+        },
+        {
+          "en": "play a game",
+          "zh": "玩游戏"
+        },
+        {
+          "en": "ball game",
+          "zh": "球赛"
+        }
+      ]
+    },
+    "give": {
+      "items": [
+        {
+          "en": "give up",
+          "zh": "放弃"
+        },
+        {
+          "en": "give back",
+          "zh": "归还"
+        },
+        {
+          "en": "give a hand",
+          "zh": "帮忙"
+        }
+      ]
+    },
+    "go": {
+      "items": [
+        {
+          "en": "go on",
+          "zh": "继续"
+        },
+        {
+          "en": "go out",
+          "zh": "出去"
+        },
+        {
+          "en": "let go",
+          "zh": "放手"
+        }
+      ]
+    },
+    "goal": {
+      "items": [
+        {
+          "en": "set a goal",
+          "zh": "设定目标"
+        },
+        {
+          "en": "score a goal",
+          "zh": "进球"
+        },
+        {
+          "en": "long-term goal",
+          "zh": "长期目标"
+        }
+      ]
+    },
+    "good": {
+      "items": [
+        {
+          "en": "good at",
+          "zh": "擅长"
+        },
+        {
+          "en": "good luck",
+          "zh": "好运"
+        },
+        {
+          "en": "for good",
+          "zh": "永久"
+        }
+      ]
+    },
+    "government": {
+      "items": [
+        {
+          "en": "local government",
+          "zh": "地方政府"
+        },
+        {
+          "en": "central government",
+          "zh": "中央政府"
+        }
+      ]
+    },
+    "ground": {
+      "items": [
+        {
+          "en": "on the ground",
+          "zh": "在地上"
+        },
+        {
+          "en": "common ground",
+          "zh": "共同点"
+        },
+        {
+          "en": "ground floor",
+          "zh": "一楼"
+        }
+      ]
+    },
+    "group": {
+      "items": [
+        {
+          "en": "group work",
+          "zh": "小组合作"
+        },
+        {
+          "en": "age group",
+          "zh": "年龄组"
+        },
+        {
+          "en": "in groups",
+          "zh": "分组"
+        }
+      ]
+    },
+    "grow": {
+      "items": [
+        {
+          "en": "grow up",
+          "zh": "长大"
+        },
+        {
+          "en": "grow into",
+          "zh": "长成"
+        },
+        {
+          "en": "grow old",
+          "zh": "变老"
+        }
+      ]
+    },
+    "half": {
+      "items": [
+        {
+          "en": "half an hour",
+          "zh": "半小时"
+        },
+        {
+          "en": "in half",
+          "zh": "分成两半"
+        },
+        {
+          "en": "half past",
+          "zh": "半点"
+        }
+      ]
+    },
+    "hand": {
+      "items": [
+        {
+          "en": "by hand",
+          "zh": "手工"
+        },
+        {
+          "en": "on the other hand",
+          "zh": "另一方面"
+        },
+        {
+          "en": "hand in",
+          "zh": "上交"
+        }
+      ]
+    },
+    "happen": {
+      "items": [
+        {
+          "en": "happen to do",
+          "zh": "碰巧做"
+        },
+        {
+          "en": "what happened",
+          "zh": "怎么了"
+        },
+        {
+          "en": "happen to sb",
+          "zh": "发生在某人身上"
+        }
+      ]
+    },
+    "hard": {
+      "items": [
+        {
+          "en": "work hard",
+          "zh": "努力工作"
+        },
+        {
+          "en": "hard to believe",
+          "zh": "难以置信"
+        },
+        {
+          "en": "try hard",
+          "zh": "努力尝试"
+        }
+      ]
+    },
+    "health": {
+      "items": [
+        {
+          "en": "good health",
+          "zh": "健康"
+        },
+        {
+          "en": "mental health",
+          "zh": "心理健康"
+        },
+        {
+          "en": "health care",
+          "zh": "医疗保健"
+        }
+      ]
+    },
+    "heart": {
+      "items": [
+        {
+          "en": "heart disease",
+          "zh": "心脏病"
+        },
+        {
+          "en": "by heart",
+          "zh": "背诵"
+        },
+        {
+          "en": "break one's heart",
+          "zh": "让人心碎"
+        }
+      ]
+    },
+    "here": {
+      "items": [
+        {
+          "en": "come here",
+          "zh": "过来"
+        },
+        {
+          "en": "here and there",
+          "zh": "各处"
+        },
+        {
+          "en": "here you are",
+          "zh": "给你"
+        }
+      ]
+    },
+    "high": {
+      "items": [
+        {
+          "en": "high school",
+          "zh": "高中"
+        },
+        {
+          "en": "high price",
+          "zh": "高价"
+        },
+        {
+          "en": "fly high",
+          "zh": "飞得高"
+        }
+      ]
+    },
+    "him": {
+      "items": []
+    },
+    "himself": {
+      "items": [
+        {
+          "en": "by himself",
+          "zh": "独自"
+        },
+        {
+          "en": "for himself",
+          "zh": "为他自己"
+        },
+        {
+          "en": "proud of himself",
+          "zh": "为自己骄傲"
+        }
+      ]
+    },
+    "history": {
+      "items": [
+        {
+          "en": "world history",
+          "zh": "世界史"
+        },
+        {
+          "en": "make history",
+          "zh": "创造历史"
+        },
+        {
+          "en": "in history",
+          "zh": "在历史上"
+        }
+      ]
+    },
+    "hit": {
+      "items": [
+        {
+          "en": "hit the road",
+          "zh": "上路"
+        },
+        {
+          "en": "hit sb",
+          "zh": "打某人"
+        },
+        {
+          "en": "hit the target",
+          "zh": "命中目标"
+        }
+      ]
+    },
+    "hold": {
+      "items": [
+        {
+          "en": "hold on",
+          "zh": "等一下"
+        },
+        {
+          "en": "hold back",
+          "zh": "抑制"
+        },
+        {
+          "en": "hold a meeting",
+          "zh": "开会"
+        }
+      ]
+    },
+    "home": {
+      "items": [
+        {
+          "en": "at home",
+          "zh": "在家"
+        },
+        {
+          "en": "go home",
+          "zh": "回家"
+        },
+        {
+          "en": "home town",
+          "zh": "家乡"
+        }
+      ]
+    },
+    "hope": {
+      "items": [
+        {
+          "en": "hope for",
+          "zh": "希望"
+        },
+        {
+          "en": "in the hope of",
+          "zh": "抱着…的希望"
+        },
+        {
+          "en": "hope so",
+          "zh": "希望如此"
+        }
+      ]
+    },
+    "hospital": {
+      "items": [
+        {
+          "en": "in hospital",
+          "zh": "住院"
+        },
+        {
+          "en": "go to hospital",
+          "zh": "去医院"
+        },
+        {
+          "en": "hospital bed",
+          "zh": "病床"
+        }
+      ]
+    },
+    "hour": {
+      "items": [
+        {
+          "en": "an hour ago",
+          "zh": "一小时前"
+        },
+        {
+          "en": "half an hour",
+          "zh": "半小时"
+        },
+        {
+          "en": "rush hour",
+          "zh": "高峰时段"
+        }
+      ]
+    },
+    "house": {
+      "items": [
+        {
+          "en": "clean the house",
+          "zh": "打扫房子"
+        },
+        {
+          "en": "house price",
+          "zh": "房价"
+        },
+        {
+          "en": "full house",
+          "zh": "满座"
+        }
+      ]
+    },
+    "however": {
+      "items": [
+        {
+          "en": "however hard",
+          "zh": "无论多难"
+        },
+        {
+          "en": "however you like",
+          "zh": "随你喜欢"
+        }
+      ]
+    },
+    "human": {
+      "items": [
+        {
+          "en": "human being",
+          "zh": "人类"
+        },
+        {
+          "en": "human rights",
+          "zh": "人权"
+        },
+        {
+          "en": "human nature",
+          "zh": "人性"
+        }
+      ]
+    },
+    "husband": {
+      "items": [
+        {
+          "en": "husband and wife",
+          "zh": "夫妻"
+        },
+        {
+          "en": "my husband",
+          "zh": "我丈夫"
+        },
+        {
+          "en": "future husband",
+          "zh": "未来的丈夫"
+        }
+      ]
+    },
+    "idea": {
+      "items": [
+        {
+          "en": "good idea",
+          "zh": "好主意"
+        },
+        {
+          "en": "have no idea",
+          "zh": "不知道"
+        },
+        {
+          "en": "main idea",
+          "zh": "主旨"
+        }
+      ]
+    },
+    "if": {
+      "items": [
+        {
+          "en": "if possible",
+          "zh": "如果可能"
+        },
+        {
+          "en": "if not",
+          "zh": "如果不"
+        },
+        {
+          "en": "what if",
+          "zh": "要是…怎么办"
+        }
+      ]
+    },
+    "important": {
+      "items": [
+        {
+          "en": "important to",
+          "zh": "对…重要"
+        },
+        {
+          "en": "most important",
+          "zh": "最重要"
+        },
+        {
+          "en": "important role",
+          "zh": "重要作用"
+        }
+      ]
+    },
+    "include": {
+      "items": [
+        {
+          "en": "include in",
+          "zh": "包含在"
+        },
+        {
+          "en": "not include",
+          "zh": "不包括"
+        }
+      ]
+    },
+    "increase": {
+      "items": [
+        {
+          "en": "increase by",
+          "zh": "增加了"
+        },
+        {
+          "en": "on the increase",
+          "zh": "在增加"
+        },
+        {
+          "en": "price increase",
+          "zh": "涨价"
+        }
+      ]
+    },
+    "industry": {
+      "items": [
+        {
+          "en": "heavy industry",
+          "zh": "重工业"
+        },
+        {
+          "en": "film industry",
+          "zh": "电影业"
+        },
+        {
+          "en": "service industry",
+          "zh": "服务业"
+        }
+      ]
+    },
+    "information": {
+      "items": [
+        {
+          "en": "for your information",
+          "zh": "供参考"
+        },
+        {
+          "en": "personal information",
+          "zh": "个人信息"
+        },
+        {
+          "en": "more information",
+          "zh": "更多信息"
+        }
+      ]
+    },
+    "interest": {
+      "items": [
+        {
+          "en": "take an interest in",
+          "zh": "对…感兴趣"
+        },
+        {
+          "en": "places of interest",
+          "zh": "名胜"
+        },
+        {
+          "en": "lose interest",
+          "zh": "失去兴趣"
+        }
+      ]
+    },
+    "international": {
+      "items": [
+        {
+          "en": "international student",
+          "zh": "留学生"
+        },
+        {
+          "en": "international trade",
+          "zh": "国际贸易"
+        },
+        {
+          "en": "international news",
+          "zh": "国际新闻"
+        }
+      ]
+    },
+    "into": {
+      "items": [
+        {
+          "en": "look into",
+          "zh": "调查"
+        },
+        {
+          "en": "run into",
+          "zh": "撞上"
+        },
+        {
+          "en": "translate into",
+          "zh": "翻译成"
+        }
+      ]
+    },
+    "its": {
+      "items": []
+    },
+    "itself": {
+      "items": [
+        {
+          "en": "by itself",
+          "zh": "独自"
+        },
+        {
+          "en": "in itself",
+          "zh": "本身"
+        },
+        {
+          "en": "the city itself",
+          "zh": "城市本身"
+        }
+      ]
+    },
+    "job": {
+      "items": [
+        {
+          "en": "do a good job",
+          "zh": "干得好"
+        },
+        {
+          "en": "job interview",
+          "zh": "面试"
+        },
+        {
+          "en": "look for a job",
+          "zh": "找工作"
+        }
+      ]
+    },
+    "just": {
+      "items": [
+        {
+          "en": "just now",
+          "zh": "刚才"
+        },
+        {
+          "en": "just like",
+          "zh": "就像"
+        },
+        {
+          "en": "just a minute",
+          "zh": "稍等"
+        }
+      ]
+    },
+    "keep": {
+      "items": [
+        {
+          "en": "keep on",
+          "zh": "继续"
+        },
+        {
+          "en": "keep up",
+          "zh": "保持"
+        },
+        {
+          "en": "keep in mind",
+          "zh": "记住"
+        }
+      ]
+    },
+    "kid": {
+      "items": [
+        {
+          "en": "when I was a kid",
+          "zh": "我小时候"
+        },
+        {
+          "en": "school kid",
+          "zh": "学童"
+        },
+        {
+          "en": "just a kid",
+          "zh": "只是个孩子"
+        }
+      ]
+    },
+    "kill": {
+      "items": [
+        {
+          "en": "kill time",
+          "zh": "消磨时间"
+        },
+        {
+          "en": "kill two birds",
+          "zh": "一石二鸟"
+        }
+      ]
+    },
+    "kind": {
+      "items": [
+        {
+          "en": "kind of",
+          "zh": "有点"
+        },
+        {
+          "en": "all kinds of",
+          "zh": "各种"
+        },
+        {
+          "en": "kind to",
+          "zh": "对…友好"
+        }
+      ]
+    },
+    "know": {
+      "items": [
+        {
+          "en": "know about",
+          "zh": "了解"
+        },
+        {
+          "en": "you know",
+          "zh": "你知道"
+        },
+        {
+          "en": "know for sure",
+          "zh": "确定知道"
+        }
+      ]
+    },
+    "land": {
+      "items": [
+        {
+          "en": "land on",
+          "zh": "降落在"
+        },
+        {
+          "en": "by land",
+          "zh": "陆路"
+        },
+        {
+          "en": "land area",
+          "zh": "陆地面积"
+        }
+      ]
+    },
+    "large": {
+      "items": [
+        {
+          "en": "large number",
+          "zh": "大量"
+        },
+        {
+          "en": "at large",
+          "zh": "逍遥法外"
+        },
+        {
+          "en": "large scale",
+          "zh": "大规模"
+        }
+      ]
+    },
+    "last": {
+      "items": [
+        {
+          "en": "at last",
+          "zh": "终于"
+        },
+        {
+          "en": "last night",
+          "zh": "昨晚"
+        },
+        {
+          "en": "last but not least",
+          "zh": "最后但同样重要"
+        }
+      ]
+    },
+    "late": {
+      "items": [
+        {
+          "en": "be late for",
+          "zh": "迟到"
+        },
+        {
+          "en": "too late",
+          "zh": "太晚了"
+        },
+        {
+          "en": "late at night",
+          "zh": "深夜"
+        }
+      ]
+    },
+    "law": {
+      "items": [
+        {
+          "en": "break the law",
+          "zh": "违法"
+        },
+        {
+          "en": "by law",
+          "zh": "依法"
+        },
+        {
+          "en": "law school",
+          "zh": "法学院"
+        }
+      ]
+    },
+    "lead": {
+      "items": [
+        {
+          "en": "lead to",
+          "zh": "导致"
+        },
+        {
+          "en": "lead the way",
+          "zh": "带路"
+        },
+        {
+          "en": "take the lead",
+          "zh": "领先"
+        }
+      ]
+    },
+    "leader": {
+      "items": [
+        {
+          "en": "team leader",
+          "zh": "队长"
+        },
+        {
+          "en": "political leader",
+          "zh": "政治领袖"
+        },
+        {
+          "en": "great leader",
+          "zh": "伟大领袖"
+        }
+      ]
+    },
+    "learn": {
+      "items": [
+        {
+          "en": "learn from",
+          "zh": "向…学习"
+        },
+        {
+          "en": "learn by heart",
+          "zh": "背诵"
+        },
+        {
+          "en": "learn about",
+          "zh": "了解"
+        }
+      ]
+    },
+    "least": {
+      "items": [
+        {
+          "en": "at least",
+          "zh": "至少"
+        },
+        {
+          "en": "not in the least",
+          "zh": "一点也不"
+        },
+        {
+          "en": "least of all",
+          "zh": "最不"
+        }
+      ]
+    },
+    "leave": {
+      "items": [
+        {
+          "en": "leave for",
+          "zh": "动身去"
+        },
+        {
+          "en": "leave behind",
+          "zh": "留下"
+        },
+        {
+          "en": "on leave",
+          "zh": "休假"
+        }
+      ]
+    },
+    "let": {
+      "items": [
+        {
+          "en": "let go",
+          "zh": "放手"
+        },
+        {
+          "en": "let sb do",
+          "zh": "让某人做"
+        },
+        {
+          "en": "let alone",
+          "zh": "更不用说"
+        }
+      ]
+    },
+    "letter": {
+      "items": [
+        {
+          "en": "write a letter",
+          "zh": "写信"
+        },
+        {
+          "en": "capital letter",
+          "zh": "大写字母"
+        },
+        {
+          "en": "letter of thanks",
+          "zh": "感谢信"
+        }
+      ]
+    },
+    "level": {
+      "items": [
+        {
+          "en": "sea level",
+          "zh": "海平面"
+        },
+        {
+          "en": "high level",
+          "zh": "高水平"
+        },
+        {
+          "en": "on the level",
+          "zh": "诚实的"
+        }
+      ]
+    },
+    "life": {
+      "items": [
+        {
+          "en": "daily life",
+          "zh": "日常生活"
+        },
+        {
+          "en": "for life",
+          "zh": "终身"
+        },
+        {
+          "en": "way of life",
+          "zh": "生活方式"
+        }
+      ]
+    },
+    "light": {
+      "items": [
+        {
+          "en": "in the light of",
+          "zh": "鉴于"
+        },
+        {
+          "en": "light up",
+          "zh": "照亮"
+        },
+        {
+          "en": "traffic light",
+          "zh": "红绿灯"
+        }
+      ]
+    },
+    "likely": {
+      "items": [
+        {
+          "en": "most likely",
+          "zh": "很可能"
+        },
+        {
+          "en": "likely to",
+          "zh": "可能"
+        },
+        {
+          "en": "not likely",
+          "zh": "不太可能"
+        }
+      ]
+    },
+    "line": {
+      "items": [
+        {
+          "en": "in line",
+          "zh": "排队"
+        },
+        {
+          "en": "on line",
+          "zh": "在线"
+        },
+        {
+          "en": "line up",
+          "zh": "排队"
+        }
+      ]
+    },
+    "listen": {
+      "items": [
+        {
+          "en": "listen to",
+          "zh": "听"
+        },
+        {
+          "en": "listen carefully",
+          "zh": "仔细听"
+        },
+        {
+          "en": "listen up",
+          "zh": "听好了"
+        }
+      ]
+    },
+    "little": {
+      "items": [
+        {
+          "en": "a little",
+          "zh": "一点"
+        },
+        {
+          "en": "little by little",
+          "zh": "渐渐地"
+        },
+        {
+          "en": "too little",
+          "zh": "太少"
+        }
+      ]
+    },
+    "live": {
+      "items": [
+        {
+          "en": "live on",
+          "zh": "靠…生活"
+        },
+        {
+          "en": "live up to",
+          "zh": "不辜负"
+        },
+        {
+          "en": "live a life",
+          "zh": "过生活"
+        }
+      ]
+    },
+    "local": {
+      "items": [
+        {
+          "en": "local people",
+          "zh": "当地人"
+        },
+        {
+          "en": "local news",
+          "zh": "本地新闻"
+        },
+        {
+          "en": "local government",
+          "zh": "地方政府"
+        }
+      ]
+    },
+    "look": {
+      "items": [
+        {
+          "en": "look for",
+          "zh": "寻找"
+        },
+        {
+          "en": "look after",
+          "zh": "照顾"
+        },
+        {
+          "en": "look forward to",
+          "zh": "期待"
+        }
+      ]
+    },
+    "lose": {
+      "items": [
+        {
+          "en": "lose weight",
+          "zh": "减肥"
+        },
+        {
+          "en": "lose face",
+          "zh": "丢脸"
+        },
+        {
+          "en": "lose one's way",
+          "zh": "迷路"
+        }
+      ]
+    },
+    "lot": {
+      "items": [
+        {
+          "en": "a lot of",
+          "zh": "许多"
+        },
+        {
+          "en": "parking lot",
+          "zh": "停车场"
+        },
+        {
+          "en": "thanks a lot",
+          "zh": "多谢"
+        }
+      ]
+    },
+    "low": {
+      "items": [
+        {
+          "en": "low price",
+          "zh": "低价"
+        },
+        {
+          "en": "low voice",
+          "zh": "低声"
+        },
+        {
+          "en": "in low spirits",
+          "zh": "情绪低落"
+        }
+      ]
+    },
+    "major": {
+      "items": [
+        {
+          "en": "major in",
+          "zh": "主修"
+        },
+        {
+          "en": "major problem",
+          "zh": "主要问题"
+        },
+        {
+          "en": "major role",
+          "zh": "主要作用"
+        }
+      ]
+    },
+    "make": {
+      "items": [
+        {
+          "en": "make sure",
+          "zh": "确保"
+        },
+        {
+          "en": "make up",
+          "zh": "编造/化妆"
+        },
+        {
+          "en": "make a decision",
+          "zh": "做决定"
+        }
+      ]
+    },
+    "man": {
+      "items": [
+        {
+          "en": "young man",
+          "zh": "年轻人"
+        },
+        {
+          "en": "a man of honour",
+          "zh": "一个正直的人"
+        },
+        {
+          "en": "no other man",
+          "zh": "没有别人"
+        }
+      ]
+    },
+    "many": {
+      "items": [
+        {
+          "en": "too many",
+          "zh": "太多"
+        },
+        {
+          "en": "how many",
+          "zh": "多少"
+        },
+        {
+          "en": "many people",
+          "zh": "许多人"
+        }
+      ]
+    },
+    "market": {
+      "items": [
+        {
+          "en": "stock market",
+          "zh": "股市"
+        },
+        {
+          "en": "on the market",
+          "zh": "上市"
+        },
+        {
+          "en": "market price",
+          "zh": "市价"
+        }
+      ]
+    },
+    "material": {
+      "items": [
+        {
+          "en": "raw material",
+          "zh": "原材料"
+        },
+        {
+          "en": "reading material",
+          "zh": "阅读材料"
+        },
+        {
+          "en": "teaching material",
+          "zh": "教材"
+        }
+      ]
+    },
+    "matter": {
+      "items": [
+        {
+          "en": "no matter",
+          "zh": "不管"
+        },
+        {
+          "en": "as a matter of fact",
+          "zh": "事实上"
+        },
+        {
+          "en": "what's the matter",
+          "zh": "怎么了"
+        }
+      ]
+    },
+    "may": {
+      "items": [
+        {
+          "en": "May I come in?",
+          "zh": "我可以进来吗？"
+        },
+        {
+          "en": "may be late",
+          "zh": "可能迟到"
+        },
+        {
+          "en": "may I ask",
+          "zh": "请问"
+        }
+      ]
+    },
+    "maybe": {
+      "items": [
+        {
+          "en": "maybe later",
+          "zh": "也许稍后"
+        },
+        {
+          "en": "maybe so",
+          "zh": "也许吧"
+        },
+        {
+          "en": "maybe not",
+          "zh": "也许不"
+        }
+      ]
+    },
+    "mean": {
+      "items": [
+        {
+          "en": "mean to do",
+          "zh": "打算做"
+        },
+        {
+          "en": "I mean",
+          "zh": "我是说"
+        },
+        {
+          "en": "by all means",
+          "zh": "一定"
+        }
+      ]
+    },
+    "medical": {
+      "items": [
+        {
+          "en": "medical care",
+          "zh": "医疗"
+        },
+        {
+          "en": "medical student",
+          "zh": "医学生"
+        },
+        {
+          "en": "medical history",
+          "zh": "病史"
+        }
+      ]
+    },
+    "member": {
+      "items": [
+        {
+          "en": "family member",
+          "zh": "家庭成员"
+        },
+        {
+          "en": "team member",
+          "zh": "队员"
+        },
+        {
+          "en": "club member",
+          "zh": "俱乐部成员"
+        }
+      ]
+    },
+    "might": {
+      "items": [
+        {
+          "en": "might be true",
+          "zh": "可能是真的"
+        },
+        {
+          "en": "might help you",
+          "zh": "可能帮到你"
+        },
+        {
+          "en": "might as well go",
+          "zh": "不妨走"
+        }
+      ]
+    },
+    "mind": {
+      "items": [
+        {
+          "en": "keep in mind",
+          "zh": "记住"
+        },
+        {
+          "en": "change one's mind",
+          "zh": "改变主意"
+        },
+        {
+          "en": "never mind",
+          "zh": "没关系"
+        }
+      ]
+    },
+    "minute": {
+      "items": [
+        {
+          "en": "wait a minute",
+          "zh": "等一下"
+        },
+        {
+          "en": "last minute",
+          "zh": "最后一刻"
+        },
+        {
+          "en": "in a minute",
+          "zh": "马上"
+        }
+      ]
+    },
+    "model": {
+      "items": [
+        {
+          "en": "role model",
+          "zh": "榜样"
+        },
+        {
+          "en": "model student",
+          "zh": "模范学生"
+        },
+        {
+          "en": "fashion model",
+          "zh": "模特"
+        }
+      ]
+    },
+    "moment": {
+      "items": [
+        {
+          "en": "at the moment",
+          "zh": "此刻"
+        },
+        {
+          "en": "for a moment",
+          "zh": "一会儿"
+        },
+        {
+          "en": "just a moment",
+          "zh": "稍等"
+        }
+      ]
+    },
+    "money": {
+      "items": [
+        {
+          "en": "save money",
+          "zh": "省钱"
+        },
+        {
+          "en": "make money",
+          "zh": "赚钱"
+        },
+        {
+          "en": "pocket money",
+          "zh": "零花钱"
+        }
+      ]
+    },
+    "month": {
+      "items": [
+        {
+          "en": "last month",
+          "zh": "上个月"
+        },
+        {
+          "en": "next month",
+          "zh": "下个月"
+        },
+        {
+          "en": "month by month",
+          "zh": "逐月"
+        }
+      ]
+    },
+    "more": {
+      "items": [
+        {
+          "en": "more and more",
+          "zh": "越来越多"
+        },
+        {
+          "en": "no more",
+          "zh": "不再"
+        },
+        {
+          "en": "more than",
+          "zh": "多于"
+        }
+      ]
+    },
+    "move": {
+      "items": [
+        {
+          "en": "move on",
+          "zh": "继续"
+        },
+        {
+          "en": "move in",
+          "zh": "搬入"
+        },
+        {
+          "en": "move forward",
+          "zh": "前进"
+        }
+      ]
+    },
+    "movement": {
+      "items": [
+        {
+          "en": "slow movement",
+          "zh": "慢动作"
+        },
+        {
+          "en": "independent movement",
+          "zh": "独立运动"
+        }
+      ]
+    },
+    "movie": {
+      "items": [
+        {
+          "en": "action movie",
+          "zh": "动作片"
+        },
+        {
+          "en": "go to the movies",
+          "zh": "去看电影"
+        },
+        {
+          "en": "movie star",
+          "zh": "电影明星"
+        }
+      ]
+    },
+    "mr": {
+      "items": [
+        {
+          "en": "Mr Smith",
+          "zh": "史密斯先生"
+        },
+        {
+          "en": "Dear Mr Li",
+          "zh": "尊敬的李先生"
+        }
+      ]
+    },
+    "must": {
+      "items": [
+        {
+          "en": "must finish today",
+          "zh": "今天必须完成"
+        },
+        {
+          "en": "must be careful",
+          "zh": "必须小心"
+        },
+        {
+          "en": "must not smoke",
+          "zh": "禁止吸烟"
+        }
+      ]
+    },
+    "myself": {
+      "items": [
+        {
+          "en": "by myself",
+          "zh": "独自"
+        },
+        {
+          "en": "myself included",
+          "zh": "包括我自己"
+        },
+        {
+          "en": "talk to myself",
+          "zh": "自言自语"
+        }
+      ]
+    },
+    "nation": {
+      "items": [
+        {
+          "en": "whole nation",
+          "zh": "全国"
+        },
+        {
+          "en": "across the nation",
+          "zh": "全国"
+        },
+        {
+          "en": "developing nation",
+          "zh": "发展中国家"
+        }
+      ]
+    },
+    "national": {
+      "items": [
+        {
+          "en": "national team",
+          "zh": "国家队"
+        },
+        {
+          "en": "national day",
+          "zh": "国庆节"
+        },
+        {
+          "en": "national park",
+          "zh": "国家公园"
+        }
+      ]
+    },
+    "natural": {
+      "items": [
+        {
+          "en": "natural resources",
+          "zh": "自然资源"
+        },
+        {
+          "en": "natural beauty",
+          "zh": "自然美"
+        },
+        {
+          "en": "it's natural",
+          "zh": "这很自然"
+        }
+      ]
+    },
+    "nature": {
+      "items": [
+        {
+          "en": "human nature",
+          "zh": "人性"
+        },
+        {
+          "en": "by nature",
+          "zh": "天生"
+        },
+        {
+          "en": "in nature",
+          "zh": "在自然界"
+        }
+      ]
+    },
+    "near": {
+      "items": [
+        {
+          "en": "near here",
+          "zh": "这附近"
+        },
+        {
+          "en": "near the school",
+          "zh": "学校附近"
+        },
+        {
+          "en": "come near",
+          "zh": "靠近"
+        }
+      ]
+    },
+    "nearly": {
+      "items": [
+        {
+          "en": "nearly every",
+          "zh": "几乎每"
+        },
+        {
+          "en": "nearly done",
+          "zh": "快完成了"
+        },
+        {
+          "en": "nearly all",
+          "zh": "几乎全部"
+        }
+      ]
+    },
+    "need": {
+      "items": [
+        {
+          "en": "in need of",
+          "zh": "需要"
+        },
+        {
+          "en": "if need be",
+          "zh": "如果需要"
+        },
+        {
+          "en": "meet the need",
+          "zh": "满足需求"
+        }
+      ]
+    },
+    "never": {
+      "items": [
+        {
+          "en": "never mind",
+          "zh": "没关系"
+        },
+        {
+          "en": "never forget",
+          "zh": "永不忘记"
+        },
+        {
+          "en": "never again",
+          "zh": "再也不"
+        }
+      ]
+    },
+    "news": {
+      "items": [
+        {
+          "en": "good news",
+          "zh": "好消息"
+        },
+        {
+          "en": "bad news",
+          "zh": "坏消息"
+        },
+        {
+          "en": "news report",
+          "zh": "新闻报道"
+        }
+      ]
+    },
+    "next": {
+      "items": [
+        {
+          "en": "next to",
+          "zh": "紧挨着"
+        },
+        {
+          "en": "next week",
+          "zh": "下周"
+        },
+        {
+          "en": "next time",
+          "zh": "下次"
+        }
+      ]
+    },
+    "north": {
+      "items": [
+        {
+          "en": "in the north",
+          "zh": "在北方"
+        },
+        {
+          "en": "north of",
+          "zh": "在…以北"
+        },
+        {
+          "en": "North America",
+          "zh": "北美"
+        }
+      ]
+    },
+    "not": {
+      "items": [
+        {
+          "en": "not at all",
+          "zh": "一点也不"
+        },
+        {
+          "en": "not yet",
+          "zh": "还没有"
+        },
+        {
+          "en": "not only",
+          "zh": "不仅"
+        }
+      ]
+    },
+    "note": {
+      "items": [
+        {
+          "en": "take note",
+          "zh": "记下"
+        },
+        {
+          "en": "make a note",
+          "zh": "做笔记"
+        },
+        {
+          "en": "note down",
+          "zh": "记下"
+        }
+      ]
+    },
+    "nothing": {
+      "items": [
+        {
+          "en": "nothing but",
+          "zh": "只不过"
+        },
+        {
+          "en": "nothing much",
+          "zh": "没什么"
+        },
+        {
+          "en": "have nothing to do",
+          "zh": "无事可做"
+        }
+      ]
+    },
+    "number": {
+      "items": [
+        {
+          "en": "a number of",
+          "zh": "许多"
+        },
+        {
+          "en": "phone number",
+          "zh": "电话号码"
+        },
+        {
+          "en": "large number",
+          "zh": "大量"
+        }
+      ]
+    },
+    "off": {
+      "items": [
+        {
+          "en": "take off",
+          "zh": "起飞/脱下"
+        },
+        {
+          "en": "turn off",
+          "zh": "关掉"
+        },
+        {
+          "en": "pay off",
+          "zh": "得到回报"
+        }
+      ]
+    },
+    "offer": {
+      "items": [
+        {
+          "en": "offer help",
+          "zh": "提供帮助"
+        },
+        {
+          "en": "special offer",
+          "zh": "特价"
+        },
+        {
+          "en": "on offer",
+          "zh": "出售中"
+        }
+      ]
+    },
+    "officer": {
+      "items": [
+        {
+          "en": "police officer",
+          "zh": "警察"
+        },
+        {
+          "en": "army officer",
+          "zh": "军官"
+        },
+        {
+          "en": "security officer",
+          "zh": "保安"
+        }
+      ]
+    },
+    "official": {
+      "items": [
+        {
+          "en": "government official",
+          "zh": "政府官员"
+        },
+        {
+          "en": "official language",
+          "zh": "官方语言"
+        },
+        {
+          "en": "official visit",
+          "zh": "正式访问"
+        }
+      ]
+    },
+    "often": {
+      "items": [
+        {
+          "en": "quite often",
+          "zh": "相当经常"
+        },
+        {
+          "en": "more often",
+          "zh": "更经常"
+        },
+        {
+          "en": "often enough",
+          "zh": "够经常"
+        }
+      ]
+    },
+    "oh": {
+      "items": [
+        {
+          "en": "oh no",
+          "zh": "哦不"
+        },
+        {
+          "en": "oh well",
+          "zh": "哦好吧"
+        },
+        {
+          "en": "oh dear",
+          "zh": "天哪"
+        }
+      ]
+    },
+    "oil": {
+      "items": [
+        {
+          "en": "cooking oil",
+          "zh": "食用油"
+        },
+        {
+          "en": "oil painting",
+          "zh": "油画"
+        },
+        {
+          "en": "olive oil",
+          "zh": "橄榄油"
+        }
+      ]
+    },
+    "old": {
+      "items": [
+        {
+          "en": "years old",
+          "zh": "…岁"
+        },
+        {
+          "en": "grow old",
+          "zh": "变老"
+        },
+        {
+          "en": "old friend",
+          "zh": "老朋友"
+        }
+      ]
+    },
+    "only": {
+      "items": [
+        {
+          "en": "only child",
+          "zh": "独生子女"
+        },
+        {
+          "en": "not only",
+          "zh": "不仅"
+        },
+        {
+          "en": "only if",
+          "zh": "只有当"
+        }
+      ]
+    },
+    "open": {
+      "items": [
+        {
+          "en": "open the door",
+          "zh": "开门"
+        },
+        {
+          "en": "open up",
+          "zh": "打开"
+        },
+        {
+          "en": "wide open",
+          "zh": "大开着"
+        }
+      ]
+    },
+    "or": {
+      "items": [
+        {
+          "en": "tea or coffee",
+          "zh": "茶还是咖啡"
+        },
+        {
+          "en": "now or never",
+          "zh": "机不可失"
+        },
+        {
+          "en": "right or wrong",
+          "zh": "对错"
+        }
+      ]
+    },
+    "order": {
+      "items": [
+        {
+          "en": "in order",
+          "zh": "整齐"
+        },
+        {
+          "en": "in order to",
+          "zh": "为了"
+        },
+        {
+          "en": "out of order",
+          "zh": "出故障"
+        }
+      ]
+    },
+    "organization": {
+      "items": [
+        {
+          "en": "international organization",
+          "zh": "国际组织"
+        },
+        {
+          "en": "non-profit organization",
+          "zh": "非营利组织"
+        },
+        {
+          "en": "student organization",
+          "zh": "学生组织"
+        }
+      ]
+    },
+    "other": {
+      "items": [
+        {
+          "en": "each other",
+          "zh": "互相"
+        },
+        {
+          "en": "the other",
+          "zh": "另一个"
+        },
+        {
+          "en": "other than",
+          "zh": "除了"
+        }
+      ]
+    },
+    "over": {
+      "items": [
+        {
+          "en": "over there",
+          "zh": "在那边"
+        },
+        {
+          "en": "all over",
+          "zh": "到处"
+        },
+        {
+          "en": "over and over",
+          "zh": "一遍又一遍"
+        }
+      ]
+    },
+    "own": {
+      "items": [
+        {
+          "en": "on one's own",
+          "zh": "独自"
+        },
+        {
+          "en": "of one's own",
+          "zh": "自己的"
+        },
+        {
+          "en": "own up",
+          "zh": "承认"
+        }
+      ]
+    },
+    "page": {
+      "items": [
+        {
+          "en": "turn the page",
+          "zh": "翻页"
+        },
+        {
+          "en": "front page",
+          "zh": "头版"
+        },
+        {
+          "en": "next page",
+          "zh": "下一页"
+        }
+      ]
+    },
+    "paper": {
+      "items": [
+        {
+          "en": "term paper",
+          "zh": "学期论文"
+        },
+        {
+          "en": "on paper",
+          "zh": "纸上"
+        },
+        {
+          "en": "paper work",
+          "zh": "文书工作"
+        }
+      ]
+    },
+    "parent": {
+      "items": [
+        {
+          "en": "single parent",
+          "zh": "单亲家长"
+        },
+        {
+          "en": "parent meeting",
+          "zh": "家长会"
+        },
+        {
+          "en": "proud parent",
+          "zh": "骄傲的家长"
+        }
+      ]
+    },
+    "part": {
+      "items": [
+        {
+          "en": "take part in",
+          "zh": "参加"
+        },
+        {
+          "en": "part of",
+          "zh": "…的一部分"
+        },
+        {
+          "en": "play a part",
+          "zh": "起作用"
+        }
+      ]
+    },
+    "party": {
+      "items": [
+        {
+          "en": "birthday party",
+          "zh": "生日派对"
+        },
+        {
+          "en": "dinner party",
+          "zh": "晚宴"
+        },
+        {
+          "en": "political party",
+          "zh": "政党"
+        }
+      ]
+    },
+    "pass": {
+      "items": [
+        {
+          "en": "pass by",
+          "zh": "经过"
+        },
+        {
+          "en": "pass the exam",
+          "zh": "通过考试"
+        },
+        {
+          "en": "pass on",
+          "zh": "传递"
+        }
+      ]
+    },
+    "patient": {
+      "items": [
+        {
+          "en": "be patient with",
+          "zh": "对…有耐心"
+        },
+        {
+          "en": "patient care",
+          "zh": "病人护理"
+        },
+        {
+          "en": "stay patient",
+          "zh": "保持耐心"
+        }
+      ]
+    },
+    "pay": {
+      "items": [
+        {
+          "en": "pay for",
+          "zh": "付款"
+        },
+        {
+          "en": "pay attention",
+          "zh": "注意"
+        },
+        {
+          "en": "pay back",
+          "zh": "偿还"
+        }
+      ]
+    },
+    "people": {
+      "items": [
+        {
+          "en": "young people",
+          "zh": "年轻人"
+        },
+        {
+          "en": "many people",
+          "zh": "许多人"
+        },
+        {
+          "en": "people around",
+          "zh": "周围的人"
+        }
+      ]
+    },
+    "per": {
+      "items": [
+        {
+          "en": "per day",
+          "zh": "每天"
+        },
+        {
+          "en": "per person",
+          "zh": "每人"
+        },
+        {
+          "en": "as per",
+          "zh": "按照"
+        }
+      ]
+    },
+    "performance": {
+      "items": [
+        {
+          "en": "good performance",
+          "zh": "表现好"
+        },
+        {
+          "en": "live performance",
+          "zh": "现场演出"
+        },
+        {
+          "en": "school performance",
+          "zh": "学业表现"
+        }
+      ]
+    },
+    "perhaps": {
+      "items": [
+        {
+          "en": "perhaps tomorrow",
+          "zh": "也许明天"
+        },
+        {
+          "en": "perhaps not",
+          "zh": "也许不"
+        },
+        {
+          "en": "perhaps so",
+          "zh": "也许吧"
+        }
+      ]
+    },
+    "period": {
+      "items": [
+        {
+          "en": "long period",
+          "zh": "长时期"
+        },
+        {
+          "en": "during the period",
+          "zh": "在此期间"
+        },
+        {
+          "en": "free period",
+          "zh": "空闲时段"
+        }
+      ]
+    },
+    "person": {
+      "items": [
+        {
+          "en": "in person",
+          "zh": "亲自"
+        },
+        {
+          "en": "each person",
+          "zh": "每个人"
+        },
+        {
+          "en": "nice person",
+          "zh": "好人"
+        }
+      ]
+    },
+    "personal": {
+      "items": [
+        {
+          "en": "personal life",
+          "zh": "私人生活"
+        },
+        {
+          "en": "personal opinion",
+          "zh": "个人意见"
+        },
+        {
+          "en": "personal computer",
+          "zh": "个人电脑"
+        }
+      ]
+    },
+    "phone": {
+      "items": [
+        {
+          "en": "phone call",
+          "zh": "电话"
+        },
+        {
+          "en": "on the phone",
+          "zh": "在通话"
+        },
+        {
+          "en": "phone number",
+          "zh": "电话号码"
+        }
+      ]
+    },
+    "pick": {
+      "items": [
+        {
+          "en": "pick up",
+          "zh": "捡起/接人"
+        },
+        {
+          "en": "pick out",
+          "zh": "挑选"
+        },
+        {
+          "en": "pick a fight",
+          "zh": "找茬"
+        }
+      ]
+    },
+    "piece": {
+      "items": [
+        {
+          "en": "a piece of",
+          "zh": "一块/一片"
+        },
+        {
+          "en": "piece by piece",
+          "zh": "一点一点"
+        },
+        {
+          "en": "piece together",
+          "zh": "拼合"
+        }
+      ]
+    },
+    "place": {
+      "items": [
+        {
+          "en": "take place",
+          "zh": "发生"
+        },
+        {
+          "en": "in the first place",
+          "zh": "首先"
+        },
+        {
+          "en": "place an order",
+          "zh": "下单"
+        }
+      ]
+    },
+    "plan": {
+      "items": [
+        {
+          "en": "make a plan",
+          "zh": "制定计划"
+        },
+        {
+          "en": "plan to do",
+          "zh": "计划做"
+        },
+        {
+          "en": "plan ahead",
+          "zh": "提前规划"
+        }
+      ]
+    },
+    "play": {
+      "items": [
+        {
+          "en": "play a role",
+          "zh": "起作用"
+        },
+        {
+          "en": "play sports",
+          "zh": "做运动"
+        },
+        {
+          "en": "play with",
+          "zh": "和…玩"
+        }
+      ]
+    },
+    "point": {
+      "items": [
+        {
+          "en": "point at",
+          "zh": "指向"
+        },
+        {
+          "en": "point out",
+          "zh": "指出"
+        },
+        {
+          "en": "at this point",
+          "zh": "此时"
+        }
+      ]
+    },
+    "police": {
+      "items": [
+        {
+          "en": "police station",
+          "zh": "警察局"
+        },
+        {
+          "en": "police officer",
+          "zh": "警察"
+        },
+        {
+          "en": "call the police",
+          "zh": "报警"
+        }
+      ]
+    },
+    "policy": {
+      "items": [
+        {
+          "en": "foreign policy",
+          "zh": "外交政策"
+        },
+        {
+          "en": "make policy",
+          "zh": "制定政策"
+        },
+        {
+          "en": "school policy",
+          "zh": "校规"
+        }
+      ]
+    },
+    "political": {
+      "items": [
+        {
+          "en": "political party",
+          "zh": "政党"
+        },
+        {
+          "en": "political leader",
+          "zh": "政治领袖"
+        },
+        {
+          "en": "political view",
+          "zh": "政治观点"
+        }
+      ]
+    },
+    "poor": {
+      "items": [
+        {
+          "en": "poor health",
+          "zh": "健康不佳"
+        },
+        {
+          "en": "poor quality",
+          "zh": "质量差"
+        },
+        {
+          "en": "feel poor",
+          "zh": "感觉不舒服"
+        }
+      ]
+    },
+    "population": {
+      "items": [
+        {
+          "en": "population growth",
+          "zh": "人口增长"
+        },
+        {
+          "en": "local population",
+          "zh": "当地居民"
+        },
+        {
+          "en": "world population",
+          "zh": "世界人口"
+        }
+      ]
+    },
+    "position": {
+      "items": [
+        {
+          "en": "in position",
+          "zh": "就位"
+        },
+        {
+          "en": "take a position",
+          "zh": "表态"
+        },
+        {
+          "en": "job position",
+          "zh": "职位"
+        }
+      ]
+    },
+    "possible": {
+      "items": [
+        {
+          "en": "as ... as possible",
+          "zh": "尽可能"
+        },
+        {
+          "en": "if possible",
+          "zh": "如果可能"
+        },
+        {
+          "en": "make it possible",
+          "zh": "使之可能"
+        }
+      ]
+    },
+    "power": {
+      "items": [
+        {
+          "en": "in power",
+          "zh": "掌权"
+        },
+        {
+          "en": "power supply",
+          "zh": "电源"
+        },
+        {
+          "en": "super power",
+          "zh": "超级大国"
+        }
+      ]
+    },
+    "practice": {
+      "items": [
+        {
+          "en": "in practice",
+          "zh": "实际上"
+        },
+        {
+          "en": "put into practice",
+          "zh": "付诸实践"
+        },
+        {
+          "en": "target practice",
+          "zh": "打靶"
+        }
+      ]
+    },
+    "practise": {
+      "items": [
+        {
+          "en": "practise English",
+          "zh": "练英语"
+        },
+        {
+          "en": "practise every day",
+          "zh": "每天练习"
+        },
+        {
+          "en": "practise the piano",
+          "zh": "练钢琴"
+        }
+      ]
+    },
+    "president": {
+      "items": [
+        {
+          "en": "vice president",
+          "zh": "副总统"
+        },
+        {
+          "en": "class president",
+          "zh": "班长"
+        },
+        {
+          "en": "former president",
+          "zh": "前总统"
+        }
+      ]
+    },
+    "price": {
+      "items": [
+        {
+          "en": "high price",
+          "zh": "高价"
+        },
+        {
+          "en": "at a price",
+          "zh": "以…价格"
+        },
+        {
+          "en": "price tag",
+          "zh": "价签"
+        }
+      ]
+    },
+    "private": {
+      "items": [
+        {
+          "en": "in private",
+          "zh": "私下"
+        },
+        {
+          "en": "private life",
+          "zh": "私人生活"
+        },
+        {
+          "en": "private school",
+          "zh": "私立学校"
+        }
+      ]
+    },
+    "probably": {
+      "items": [
+        {
+          "en": "probably true",
+          "zh": "可能是真的"
+        },
+        {
+          "en": "most probably",
+          "zh": "很可能"
+        },
+        {
+          "en": "will probably",
+          "zh": "可能会"
+        }
+      ]
+    },
+    "process": {
+      "items": [
+        {
+          "en": "in the process of",
+          "zh": "在…过程中"
+        },
+        {
+          "en": "learning process",
+          "zh": "学习过程"
+        },
+        {
+          "en": "slow process",
+          "zh": "缓慢的过程"
+        }
+      ]
+    },
+    "produce": {
+      "items": [
+        {
+          "en": "produce goods",
+          "zh": "生产商品"
+        },
+        {
+          "en": "locally produced",
+          "zh": "本地生产"
+        },
+        {
+          "en": "produce results",
+          "zh": "产生结果"
+        }
+      ]
+    },
+    "product": {
+      "items": [
+        {
+          "en": "product quality",
+          "zh": "产品质量"
+        },
+        {
+          "en": "dairy product",
+          "zh": "乳制品"
+        },
+        {
+          "en": "new product",
+          "zh": "新产品"
+        }
+      ]
+    },
+    "programme": {
+      "items": [
+        {
+          "en": "TV programme",
+          "zh": "电视节目"
+        },
+        {
+          "en": "training programme",
+          "zh": "培训项目"
+        },
+        {
+          "en": "study programme",
+          "zh": "学习计划"
+        }
+      ]
+    },
+    "project": {
+      "items": [
+        {
+          "en": "school project",
+          "zh": "学校项目"
+        },
+        {
+          "en": "work on a project",
+          "zh": "做项目"
+        },
+        {
+          "en": "project manager",
+          "zh": "项目经理"
+        }
+      ]
+    },
+    "provide": {
+      "items": [
+        {
+          "en": "provide for",
+          "zh": "供养"
+        },
+        {
+          "en": "provide with",
+          "zh": "提供"
+        },
+        {
+          "en": "provide help",
+          "zh": "提供帮助"
+        }
+      ]
+    },
+    "public": {
+      "items": [
+        {
+          "en": "in public",
+          "zh": "公开"
+        },
+        {
+          "en": "public transport",
+          "zh": "公共交通"
+        },
+        {
+          "en": "general public",
+          "zh": "公众"
+        }
+      ]
+    },
+    "pull": {
+      "items": [
+        {
+          "en": "pull out",
+          "zh": "拔出"
+        },
+        {
+          "en": "pull together",
+          "zh": "齐心协力"
+        },
+        {
+          "en": "pull up",
+          "zh": "停车"
+        }
+      ]
+    },
+    "push": {
+      "items": [
+        {
+          "en": "push forward",
+          "zh": "推进"
+        },
+        {
+          "en": "push the button",
+          "zh": "按按钮"
+        },
+        {
+          "en": "push sb too far",
+          "zh": "逼人太甚"
+        }
+      ]
+    },
+    "put": {
+      "items": [
+        {
+          "en": "put on",
+          "zh": "穿上"
+        },
+        {
+          "en": "put off",
+          "zh": "推迟"
+        },
+        {
+          "en": "put away",
+          "zh": "收好"
+        }
+      ]
+    },
+    "question": {
+      "items": [
+        {
+          "en": "ask a question",
+          "zh": "提问"
+        },
+        {
+          "en": "out of the question",
+          "zh": "不可能"
+        },
+        {
+          "en": "without question",
+          "zh": "毫无疑问"
+        }
+      ]
+    },
+    "quite": {
+      "items": [
+        {
+          "en": "quite good",
+          "zh": "相当好"
+        },
+        {
+          "en": "quite sure",
+          "zh": "很确定"
+        },
+        {
+          "en": "quite a lot",
+          "zh": "很多"
+        }
+      ]
+    },
+    "race": {
+      "items": [
+        {
+          "en": "race against time",
+          "zh": "与时间赛跑"
+        },
+        {
+          "en": "human race",
+          "zh": "人类"
+        },
+        {
+          "en": "foot race",
+          "zh": "赛跑"
+        }
+      ]
+    },
+    "raise": {
+      "items": [
+        {
+          "en": "raise money",
+          "zh": "筹款"
+        },
+        {
+          "en": "raise one's hand",
+          "zh": "举手"
+        },
+        {
+          "en": "raise a question",
+          "zh": "提出问题"
+        }
+      ]
+    },
+    "rate": {
+      "items": [
+        {
+          "en": "at any rate",
+          "zh": "无论如何"
+        },
+        {
+          "en": "interest rate",
+          "zh": "利率"
+        },
+        {
+          "en": "at the rate of",
+          "zh": "以…速度"
+        }
+      ]
+    },
+    "reach": {
+      "items": [
+        {
+          "en": "reach for",
+          "zh": "伸手去拿"
+        },
+        {
+          "en": "reach an agreement",
+          "zh": "达成协议"
+        },
+        {
+          "en": "out of reach",
+          "zh": "够不着"
+        }
+      ]
+    },
+    "real": {
+      "items": [
+        {
+          "en": "for real",
+          "zh": "认真的"
+        },
+        {
+          "en": "real life",
+          "zh": "现实生活"
+        },
+        {
+          "en": "real name",
+          "zh": "真名"
+        }
+      ]
+    },
+    "realise": {
+      "items": [
+        {
+          "en": "realise one's dream",
+          "zh": "实现梦想"
+        },
+        {
+          "en": "suddenly realise",
+          "zh": "突然意识到"
+        },
+        {
+          "en": "realise the truth",
+          "zh": "意识到真相"
+        }
+      ]
+    },
+    "really": {
+      "items": [
+        {
+          "en": "really want",
+          "zh": "真的想要"
+        },
+        {
+          "en": "really good",
+          "zh": "真的很好"
+        },
+        {
+          "en": "not really",
+          "zh": "不真的"
+        }
+      ]
+    },
+    "reason": {
+      "items": [
+        {
+          "en": "for this reason",
+          "zh": "因此"
+        },
+        {
+          "en": "good reason",
+          "zh": "好理由"
+        },
+        {
+          "en": "the reason why",
+          "zh": "…的原因"
+        }
+      ]
+    },
+    "receive": {
+      "items": [
+        {
+          "en": "receive a letter",
+          "zh": "收到信"
+        },
+        {
+          "en": "receive help",
+          "zh": "得到帮助"
+        },
+        {
+          "en": "receive training",
+          "zh": "接受培训"
+        }
+      ]
+    },
+    "recent": {
+      "items": [
+        {
+          "en": "in recent years",
+          "zh": "近年来"
+        },
+        {
+          "en": "recent news",
+          "zh": "最近消息"
+        },
+        {
+          "en": "recent study",
+          "zh": "近期研究"
+        }
+      ]
+    },
+    "record": {
+      "items": [
+        {
+          "en": "break a record",
+          "zh": "打破纪录"
+        },
+        {
+          "en": "on record",
+          "zh": "记录在案"
+        },
+        {
+          "en": "medical record",
+          "zh": "病历"
+        }
+      ]
+    },
+    "reduce": {
+      "items": [
+        {
+          "en": "reduce costs",
+          "zh": "降低成本"
+        },
+        {
+          "en": "reduce stress",
+          "zh": "减轻压力"
+        },
+        {
+          "en": "reduce pollution",
+          "zh": "减少污染"
+        }
+      ]
+    },
+    "relationship": {
+      "items": [
+        {
+          "en": "good relationship",
+          "zh": "良好关系"
+        },
+        {
+          "en": "family relationship",
+          "zh": "家庭关系"
+        },
+        {
+          "en": "build a relationship",
+          "zh": "建立关系"
+        }
+      ]
+    },
+    "remain": {
+      "items": [
+        {
+          "en": "remain calm",
+          "zh": "保持冷静"
+        },
+        {
+          "en": "remain silent",
+          "zh": "保持沉默"
+        },
+        {
+          "en": "remain the same",
+          "zh": "保持不变"
+        }
+      ]
+    },
+    "remember": {
+      "items": [
+        {
+          "en": "remember to do",
+          "zh": "记得做"
+        },
+        {
+          "en": "remember doing",
+          "zh": "记得做过"
+        },
+        {
+          "en": "as I remember",
+          "zh": "据我记得"
+        }
+      ]
+    },
+    "report": {
+      "items": [
+        {
+          "en": "news report",
+          "zh": "新闻报道"
+        },
+        {
+          "en": "report to",
+          "zh": "向…汇报"
+        },
+        {
+          "en": "annual report",
+          "zh": "年度报告"
+        }
+      ]
+    },
+    "represent": {
+      "items": [
+        {
+          "en": "represent the class",
+          "zh": "代表班级"
+        },
+        {
+          "en": "represent a company",
+          "zh": "代表公司"
+        },
+        {
+          "en": "represent our school",
+          "zh": "代表我校"
+        }
+      ]
+    },
+    "require": {
+      "items": [
+        {
+          "en": "require patience",
+          "zh": "需要耐心"
+        },
+        {
+          "en": "as required",
+          "zh": "按要求"
+        },
+        {
+          "en": "require sb to do",
+          "zh": "要求某人做"
+        }
+      ]
+    },
+    "research": {
+      "items": [
+        {
+          "en": "do research",
+          "zh": "做研究"
+        },
+        {
+          "en": "research paper",
+          "zh": "研究论文"
+        },
+        {
+          "en": "scientific research",
+          "zh": "科学研究"
+        }
+      ]
+    },
+    "rest": {
+      "items": [
+        {
+          "en": "the rest of",
+          "zh": "其余的"
+        },
+        {
+          "en": "take a rest",
+          "zh": "休息"
+        },
+        {
+          "en": "for the rest",
+          "zh": "其余时间"
+        }
+      ]
+    },
+    "result": {
+      "items": [
+        {
+          "en": "as a result",
+          "zh": "因此"
+        },
+        {
+          "en": "result in",
+          "zh": "导致"
+        },
+        {
+          "en": "exam result",
+          "zh": "考试成绩"
+        }
+      ]
+    },
+    "return": {
+      "items": [
+        {
+          "en": "return to",
+          "zh": "返回"
+        },
+        {
+          "en": "in return",
+          "zh": "作为回报"
+        },
+        {
+          "en": "return home",
+          "zh": "回家"
+        }
+      ]
+    },
+    "right": {
+      "items": [
+        {
+          "en": "all right",
+          "zh": "好的"
+        },
+        {
+          "en": "right away",
+          "zh": "立刻"
+        },
+        {
+          "en": "human rights",
+          "zh": "人权"
+        }
+      ]
+    },
+    "road": {
+      "items": [
+        {
+          "en": "on the road",
+          "zh": "在路上"
+        },
+        {
+          "en": "road trip",
+          "zh": "公路旅行"
+        },
+        {
+          "en": "main road",
+          "zh": "主干道"
+        }
+      ]
+    },
+    "role": {
+      "items": [
+        {
+          "en": "play a role",
+          "zh": "起作用"
+        },
+        {
+          "en": "role model",
+          "zh": "榜样"
+        },
+        {
+          "en": "leading role",
+          "zh": "主角"
+        }
+      ]
+    },
+    "rule": {
+      "items": [
+        {
+          "en": "as a rule",
+          "zh": "通常"
+        },
+        {
+          "en": "break the rules",
+          "zh": "违反规则"
+        },
+        {
+          "en": "rule out",
+          "zh": "排除"
+        }
+      ]
+    },
+    "same": {
+      "items": [
+        {
+          "en": "the same",
+          "zh": "相同的"
+        },
+        {
+          "en": "at the same time",
+          "zh": "同时"
+        },
+        {
+          "en": "same as",
+          "zh": "和…一样"
+        }
+      ]
+    },
+    "say": {
+      "items": [
+        {
+          "en": "say hello",
+          "zh": "打招呼"
+        },
+        {
+          "en": "say sorry",
+          "zh": "道歉"
+        },
+        {
+          "en": "that is to say",
+          "zh": "也就是说"
+        }
+      ]
+    },
+    "season": {
+      "items": [
+        {
+          "en": "rainy season",
+          "zh": "雨季"
+        },
+        {
+          "en": "in season",
+          "zh": "当季"
+        },
+        {
+          "en": "football season",
+          "zh": "足球赛季"
+        }
+      ]
+    },
+    "second": {
+      "items": [
+        {
+          "en": "second thought",
+          "zh": "再想想"
+        },
+        {
+          "en": "second place",
+          "zh": "第二名"
+        },
+        {
+          "en": "every second",
+          "zh": "每秒"
+        }
+      ]
+    },
+    "security": {
+      "items": [
+        {
+          "en": "national security",
+          "zh": "国家安全"
+        },
+        {
+          "en": "security check",
+          "zh": "安检"
+        },
+        {
+          "en": "job security",
+          "zh": "工作保障"
+        }
+      ]
+    },
+    "seek": {
+      "items": [
+        {
+          "en": "seek help",
+          "zh": "寻求帮助"
+        },
+        {
+          "en": "seek for",
+          "zh": "寻找"
+        },
+        {
+          "en": "seek advice",
+          "zh": "征求意见"
+        }
+      ]
+    },
+    "seem": {
+      "items": [
+        {
+          "en": "seem to be",
+          "zh": "似乎是"
+        },
+        {
+          "en": "seem like",
+          "zh": "好像"
+        },
+        {
+          "en": "seem happy",
+          "zh": "看起来高兴"
+        }
+      ]
+    },
+    "sell": {
+      "items": [
+        {
+          "en": "sell out",
+          "zh": "售罄"
+        },
+        {
+          "en": "sell well",
+          "zh": "卖得好"
+        },
+        {
+          "en": "hard to sell",
+          "zh": "难卖"
+        }
+      ]
+    },
+    "send": {
+      "items": [
+        {
+          "en": "send a message",
+          "zh": "发消息"
+        },
+        {
+          "en": "send for",
+          "zh": "派人去请"
+        },
+        {
+          "en": "send back",
+          "zh": "退回"
+        }
+      ]
+    },
+    "sense": {
+      "items": [
+        {
+          "en": "make sense",
+          "zh": "有意义"
+        },
+        {
+          "en": "common sense",
+          "zh": "常识"
+        },
+        {
+          "en": "sense of humour",
+          "zh": "幽默感"
+        }
+      ]
+    },
+    "serve": {
+      "items": [
+        {
+          "en": "serve as",
+          "zh": "充当"
+        },
+        {
+          "en": "serve the people",
+          "zh": "为人民服务"
+        },
+        {
+          "en": "serve food",
+          "zh": "上菜"
+        }
+      ]
+    },
+    "service": {
+      "items": [
+        {
+          "en": "customer service",
+          "zh": "客服"
+        },
+        {
+          "en": "in service",
+          "zh": "在职"
+        },
+        {
+          "en": "public service",
+          "zh": "公共服务"
+        }
+      ]
+    },
+    "set": {
+      "items": [
+        {
+          "en": "set up",
+          "zh": "建立"
+        },
+        {
+          "en": "set off",
+          "zh": "出发"
+        },
+        {
+          "en": "set an example",
+          "zh": "树立榜样"
+        }
+      ]
+    },
+    "several": {
+      "items": [
+        {
+          "en": "several times",
+          "zh": "几次"
+        },
+        {
+          "en": "several days",
+          "zh": "好几天"
+        },
+        {
+          "en": "several people",
+          "zh": "几个人"
+        }
+      ]
+    },
+    "shall": {
+      "items": [
+        {
+          "en": "shall we go?",
+          "zh": "我们走吧？"
+        },
+        {
+          "en": "shall I help?",
+          "zh": "我来帮忙好吗？"
+        },
+        {
+          "en": "Shall we dance?",
+          "zh": "跳支舞好吗？"
+        }
+      ]
+    },
+    "should": {
+      "items": [
+        {
+          "en": "should study hard",
+          "zh": "应该努力学习"
+        },
+        {
+          "en": "should be fine",
+          "zh": "应该没问题"
+        },
+        {
+          "en": "should not worry",
+          "zh": "不必担心"
+        }
+      ]
+    },
+    "side": {
+      "items": [
+        {
+          "en": "on the side",
+          "zh": "在旁边"
+        },
+        {
+          "en": "side by side",
+          "zh": "并肩"
+        },
+        {
+          "en": "side effect",
+          "zh": "副作用"
+        }
+      ]
+    },
+    "since": {
+      "items": [
+        {
+          "en": "ever since",
+          "zh": "自从"
+        },
+        {
+          "en": "since then",
+          "zh": "从那以后"
+        },
+        {
+          "en": "long since",
+          "zh": "很久以前"
+        }
+      ]
+    },
+    "single": {
+      "items": [
+        {
+          "en": "single room",
+          "zh": "单人间"
+        },
+        {
+          "en": "every single",
+          "zh": "每一个"
+        },
+        {
+          "en": "single parent",
+          "zh": "单亲"
+        }
+      ]
+    },
+    "situation": {
+      "items": [
+        {
+          "en": "current situation",
+          "zh": "当前形势"
+        },
+        {
+          "en": "difficult situation",
+          "zh": "困境"
+        },
+        {
+          "en": "in this situation",
+          "zh": "在这种情况下"
+        }
+      ]
+    },
+    "so": {
+      "items": [
+        {
+          "en": "so far",
+          "zh": "到目前为止"
+        },
+        {
+          "en": "so that",
+          "zh": "以便"
+        },
+        {
+          "en": "so much",
+          "zh": "如此多"
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "en": "social media",
+          "zh": "社交媒体"
+        },
+        {
+          "en": "social life",
+          "zh": "社交生活"
+        },
+        {
+          "en": "social problem",
+          "zh": "社会问题"
+        }
+      ]
+    },
+    "society": {
+      "items": [
+        {
+          "en": "modern society",
+          "zh": "现代社会"
+        },
+        {
+          "en": "in society",
+          "zh": "在社会上"
+        },
+        {
+          "en": "human society",
+          "zh": "人类社会"
+        }
+      ]
+    },
+    "someone": {
+      "items": [
+        {
+          "en": "someone else",
+          "zh": "别人"
+        },
+        {
+          "en": "someone special",
+          "zh": "特别的人"
+        },
+        {
+          "en": "someone called",
+          "zh": "有人叫"
+        }
+      ]
+    },
+    "something": {
+      "items": [
+        {
+          "en": "something wrong",
+          "zh": "出问题了"
+        },
+        {
+          "en": "something else",
+          "zh": "别的什么"
+        },
+        {
+          "en": "something like",
+          "zh": "有点像"
+        }
+      ]
+    },
+    "sometimes": {
+      "items": [
+        {
+          "en": "sometimes feel",
+          "zh": "有时感到"
+        },
+        {
+          "en": "sometimes hard",
+          "zh": "有时很难"
+        }
+      ]
+    },
+    "son": {
+      "items": [
+        {
+          "en": "elder son",
+          "zh": "长子"
+        },
+        {
+          "en": "son and daughter",
+          "zh": "儿女"
+        },
+        {
+          "en": "young son",
+          "zh": "年幼的儿子"
+        }
+      ]
+    },
+    "soon": {
+      "items": [
+        {
+          "en": "as soon as",
+          "zh": "一…就"
+        },
+        {
+          "en": "see you soon",
+          "zh": "回头见"
+        },
+        {
+          "en": "come back soon",
+          "zh": "快点回来"
+        }
+      ]
+    },
+    "south": {
+      "items": [
+        {
+          "en": "in the south",
+          "zh": "在南方"
+        },
+        {
+          "en": "south of",
+          "zh": "在…以南"
+        },
+        {
+          "en": "South China",
+          "zh": "华南"
+        }
+      ]
+    },
+    "space": {
+      "items": [
+        {
+          "en": "outer space",
+          "zh": "外太空"
+        },
+        {
+          "en": "free space",
+          "zh": "空闲空间"
+        },
+        {
+          "en": "living space",
+          "zh": "生活空间"
+        }
+      ]
+    },
+    "speak": {
+      "items": [
+        {
+          "en": "speak English",
+          "zh": "说英语"
+        },
+        {
+          "en": "speak up",
+          "zh": "大声说"
+        },
+        {
+          "en": "generally speaking",
+          "zh": "一般来说"
+        }
+      ]
+    },
+    "special": {
+      "items": [
+        {
+          "en": "special offer",
+          "zh": "特价"
+        },
+        {
+          "en": "nothing special",
+          "zh": "没什么特别"
+        },
+        {
+          "en": "special thanks",
+          "zh": "特别感谢"
+        }
+      ]
+    },
+    "spend": {
+      "items": [
+        {
+          "en": "spend time on",
+          "zh": "花时间于"
+        },
+        {
+          "en": "spend money on",
+          "zh": "花钱于"
+        },
+        {
+          "en": "spend the night",
+          "zh": "过夜"
+        }
+      ]
+    },
+    "stand": {
+      "items": [
+        {
+          "en": "stand up",
+          "zh": "站起来"
+        },
+        {
+          "en": "stand for",
+          "zh": "代表"
+        },
+        {
+          "en": "stand out",
+          "zh": "突出"
+        }
+      ]
+    },
+    "star": {
+      "items": [
+        {
+          "en": "movie star",
+          "zh": "电影明星"
+        },
+        {
+          "en": "rising star",
+          "zh": "新星"
+        },
+        {
+          "en": "star sign",
+          "zh": "星座"
+        }
+      ]
+    },
+    "start": {
+      "items": [
+        {
+          "en": "start with",
+          "zh": "从…开始"
+        },
+        {
+          "en": "start doing",
+          "zh": "开始做"
+        },
+        {
+          "en": "start from scratch",
+          "zh": "从零开始"
+        }
+      ]
+    },
+    "state": {
+      "items": [
+        {
+          "en": "state clearly",
+          "zh": "明确说明"
+        },
+        {
+          "en": "in a state",
+          "zh": "处于…状态"
+        },
+        {
+          "en": "state school",
+          "zh": "公立学校"
+        }
+      ]
+    },
+    "stay": {
+      "items": [
+        {
+          "en": "stay up",
+          "zh": "熬夜"
+        },
+        {
+          "en": "stay away",
+          "zh": "远离"
+        },
+        {
+          "en": "stay in touch",
+          "zh": "保持联系"
+        }
+      ]
+    },
+    "step": {
+      "items": [
+        {
+          "en": "step by step",
+          "zh": "逐步"
+        },
+        {
+          "en": "take steps",
+          "zh": "采取措施"
+        },
+        {
+          "en": "step forward",
+          "zh": "向前迈"
+        }
+      ]
+    },
+    "still": {
+      "items": [
+        {
+          "en": "still alive",
+          "zh": "还活着"
+        },
+        {
+          "en": "stand still",
+          "zh": "站着不动"
+        },
+        {
+          "en": "still waiting",
+          "zh": "还在等"
+        }
+      ]
+    },
+    "stop": {
+      "items": [
+        {
+          "en": "stop doing",
+          "zh": "停止做"
+        },
+        {
+          "en": "bus stop",
+          "zh": "公交站"
+        },
+        {
+          "en": "stop by",
+          "zh": "顺便拜访"
+        }
+      ]
+    },
+    "store": {
+      "items": [
+        {
+          "en": "department store",
+          "zh": "百货商店"
+        },
+        {
+          "en": "in store",
+          "zh": "储备着"
+        },
+        {
+          "en": "convenience store",
+          "zh": "便利店"
+        }
+      ]
+    },
+    "story": {
+      "items": [
+        {
+          "en": "tell a story",
+          "zh": "讲故事"
+        },
+        {
+          "en": "short story",
+          "zh": "短篇"
+        },
+        {
+          "en": "success story",
+          "zh": "成功故事"
+        }
+      ]
+    },
+    "street": {
+      "items": [
+        {
+          "en": "on the street",
+          "zh": "在街上"
+        },
+        {
+          "en": "main street",
+          "zh": "主街"
+        },
+        {
+          "en": "cross the street",
+          "zh": "过马路"
+        }
+      ]
+    },
+    "strong": {
+      "items": [
+        {
+          "en": "strong enough",
+          "zh": "足够强"
+        },
+        {
+          "en": "strong wind",
+          "zh": "强风"
+        },
+        {
+          "en": "strong coffee",
+          "zh": "浓咖啡"
+        }
+      ]
+    },
+    "subject": {
+      "items": [
+        {
+          "en": "on the subject of",
+          "zh": "关于"
+        },
+        {
+          "en": "change the subject",
+          "zh": "换话题"
+        },
+        {
+          "en": "school subject",
+          "zh": "学科"
+        }
+      ]
+    },
+    "such": {
+      "items": [
+        {
+          "en": "such as",
+          "zh": "例如"
+        },
+        {
+          "en": "such a",
+          "zh": "这样一个"
+        },
+        {
+          "en": "as such",
+          "zh": "就其本身"
+        }
+      ]
+    },
+    "suggest": {
+      "items": [
+        {
+          "en": "suggest doing sth",
+          "zh": "建议做某事"
+        },
+        {
+          "en": "strongly suggest",
+          "zh": "强烈建议"
+        },
+        {
+          "en": "suggest a plan",
+          "zh": "提出建议"
+        }
+      ]
+    },
+    "summer": {
+      "items": [
+        {
+          "en": "summer vacation",
+          "zh": "暑假"
+        },
+        {
+          "en": "last summer",
+          "zh": "去年夏天"
+        },
+        {
+          "en": "hot summer",
+          "zh": "炎热的夏天"
+        }
+      ]
+    },
+    "support": {
+      "items": [
+        {
+          "en": "support sb",
+          "zh": "支持某人"
+        },
+        {
+          "en": "financial support",
+          "zh": "经济支持"
+        },
+        {
+          "en": "in support of",
+          "zh": "支持"
+        }
+      ]
+    },
+    "sure": {
+      "items": [
+        {
+          "en": "make sure",
+          "zh": "确保"
+        },
+        {
+          "en": "for sure",
+          "zh": "肯定"
+        },
+        {
+          "en": "not sure",
+          "zh": "不确定"
+        }
+      ]
+    },
+    "system": {
+      "items": [
+        {
+          "en": "education system",
+          "zh": "教育体系"
+        },
+        {
+          "en": "operating system",
+          "zh": "操作系统"
+        },
+        {
+          "en": "immune system",
+          "zh": "免疫系统"
+        }
+      ]
+    },
+    "table": {
+      "items": [
+        {
+          "en": "on the table",
+          "zh": "在桌上"
+        },
+        {
+          "en": "table tennis",
+          "zh": "乒乓球"
+        },
+        {
+          "en": "dinner table",
+          "zh": "餐桌"
+        }
+      ]
+    },
+    "take": {
+      "items": [
+        {
+          "en": "take care",
+          "zh": "小心"
+        },
+        {
+          "en": "take part in",
+          "zh": "参加"
+        },
+        {
+          "en": "take place",
+          "zh": "发生"
+        }
+      ]
+    },
+    "tax": {
+      "items": [
+        {
+          "en": "income tax",
+          "zh": "所得税"
+        },
+        {
+          "en": "tax rate",
+          "zh": "税率"
+        },
+        {
+          "en": "pay tax",
+          "zh": "纳税"
+        }
+      ]
+    },
+    "teach": {
+      "items": [
+        {
+          "en": "teach English",
+          "zh": "教英语"
+        },
+        {
+          "en": "teach sb a lesson",
+          "zh": "给某人教训"
+        },
+        {
+          "en": "teach by example",
+          "zh": "以身作则"
+        }
+      ]
+    },
+    "teacher": {
+      "items": [
+        {
+          "en": "English teacher",
+          "zh": "英语老师"
+        },
+        {
+          "en": "head teacher",
+          "zh": "班主任"
+        },
+        {
+          "en": "music teacher",
+          "zh": "音乐老师"
+        }
+      ]
+    },
+    "team": {
+      "items": [
+        {
+          "en": "team work",
+          "zh": "团队合作"
+        },
+        {
+          "en": "team member",
+          "zh": "队员"
+        },
+        {
+          "en": "football team",
+          "zh": "足球队"
+        }
+      ]
+    },
+    "technology": {
+      "items": [
+        {
+          "en": "modern technology",
+          "zh": "现代技术"
+        },
+        {
+          "en": "information technology",
+          "zh": "信息技术"
+        },
+        {
+          "en": "science and technology",
+          "zh": "科学技术"
+        }
+      ]
+    },
+    "tell": {
+      "items": [
+        {
+          "en": "tell the truth",
+          "zh": "说实话"
+        },
+        {
+          "en": "tell a story",
+          "zh": "讲故事"
+        },
+        {
+          "en": "tell sb to do",
+          "zh": "叫某人做"
+        }
+      ]
+    },
+    "term": {
+      "items": [
+        {
+          "en": "long term",
+          "zh": "长期"
+        },
+        {
+          "en": "in terms of",
+          "zh": "就…而言"
+        },
+        {
+          "en": "school term",
+          "zh": "学期"
+        }
+      ]
+    },
+    "test": {
+      "items": [
+        {
+          "en": "take a test",
+          "zh": "参加考试"
+        },
+        {
+          "en": "blood test",
+          "zh": "验血"
+        },
+        {
+          "en": "test paper",
+          "zh": "试卷"
+        }
+      ]
+    },
+    "than": {
+      "items": [
+        {
+          "en": "more than",
+          "zh": "多于"
+        },
+        {
+          "en": "less than",
+          "zh": "少于"
+        },
+        {
+          "en": "rather than",
+          "zh": "而不是"
+        }
+      ]
+    },
+    "thank": {
+      "items": [
+        {
+          "en": "thank you",
+          "zh": "谢谢"
+        },
+        {
+          "en": "thank sb for",
+          "zh": "因…感谢某人"
+        },
+        {
+          "en": "thanks a lot",
+          "zh": "多谢"
+        }
+      ]
+    },
+    "their": {
+      "items": []
+    },
+    "them": {
+      "items": []
+    },
+    "themselves": {
+      "items": [
+        {
+          "en": "by themselves",
+          "zh": "独自"
+        },
+        {
+          "en": "enjoy themselves",
+          "zh": "玩得开心"
+        },
+        {
+          "en": "help themselves",
+          "zh": "自行取用"
+        }
+      ]
+    },
+    "then": {
+      "items": [
+        {
+          "en": "and then",
+          "zh": "然后"
+        },
+        {
+          "en": "since then",
+          "zh": "从那以后"
+        },
+        {
+          "en": "by then",
+          "zh": "到那时"
+        }
+      ]
+    },
+    "these": {
+      "items": [
+        {
+          "en": "these days",
+          "zh": "这些天"
+        },
+        {
+          "en": "one of these days",
+          "zh": "总有一天"
+        }
+      ]
+    },
+    "thing": {
+      "items": [
+        {
+          "en": "the same thing",
+          "zh": "同样的事"
+        },
+        {
+          "en": "first thing",
+          "zh": "第一件事"
+        },
+        {
+          "en": "among other things",
+          "zh": "除了别的"
+        }
+      ]
+    },
+    "think": {
+      "items": [
+        {
+          "en": "think about",
+          "zh": "考虑"
+        },
+        {
+          "en": "think of",
+          "zh": "想到"
+        },
+        {
+          "en": "think over",
+          "zh": "仔细考虑"
+        }
+      ]
+    },
+    "those": {
+      "items": [
+        {
+          "en": "those days",
+          "zh": "那些日子"
+        },
+        {
+          "en": "one of those",
+          "zh": "其中之一"
+        }
+      ]
+    },
+    "though": {
+      "items": [
+        {
+          "en": "even though",
+          "zh": "即使"
+        },
+        {
+          "en": "as though",
+          "zh": "好像"
+        }
+      ]
+    },
+    "through": {
+      "items": [
+        {
+          "en": "go through",
+          "zh": "经历"
+        },
+        {
+          "en": "through the door",
+          "zh": "穿过门"
+        },
+        {
+          "en": "all through",
+          "zh": "整个期间"
+        }
+      ]
+    },
+    "throw": {
+      "items": [
+        {
+          "en": "throw away",
+          "zh": "扔掉"
+        },
+        {
+          "en": "throw up",
+          "zh": "呕吐"
+        },
+        {
+          "en": "throw a party",
+          "zh": "办派对"
+        }
+      ]
+    },
+    "top": {
+      "items": [
+        {
+          "en": "on top of",
+          "zh": "在…上面"
+        },
+        {
+          "en": "top student",
+          "zh": "尖子生"
+        },
+        {
+          "en": "from top to bottom",
+          "zh": "从上到下"
+        }
+      ]
+    },
+    "toward": {
+      "items": [
+        {
+          "en": "move toward",
+          "zh": "朝…移动"
+        },
+        {
+          "en": "attitude toward",
+          "zh": "对…的态度"
+        },
+        {
+          "en": "step toward",
+          "zh": "朝…迈步"
+        }
+      ]
+    },
+    "town": {
+      "items": [
+        {
+          "en": "home town",
+          "zh": "家乡"
+        },
+        {
+          "en": "small town",
+          "zh": "小镇"
+        },
+        {
+          "en": "across town",
+          "zh": "全城"
+        }
+      ]
+    },
+    "true": {
+      "items": [
+        {
+          "en": "come true",
+          "zh": "实现"
+        },
+        {
+          "en": "true story",
+          "zh": "真实故事"
+        },
+        {
+          "en": "true friend",
+          "zh": "真朋友"
+        }
+      ]
+    },
+    "try": {
+      "items": [
+        {
+          "en": "try to do",
+          "zh": "尽力做"
+        },
+        {
+          "en": "try one's best",
+          "zh": "尽力"
+        },
+        {
+          "en": "have a try",
+          "zh": "试一试"
+        }
+      ]
+    },
+    "turn": {
+      "items": [
+        {
+          "en": "turn on",
+          "zh": "打开"
+        },
+        {
+          "en": "turn off",
+          "zh": "关掉"
+        },
+        {
+          "en": "turn into",
+          "zh": "变成"
+        }
+      ]
+    },
+    "type": {
+      "items": [
+        {
+          "en": "type of",
+          "zh": "…的类型"
+        },
+        {
+          "en": "blood type",
+          "zh": "血型"
+        },
+        {
+          "en": "type in",
+          "zh": "输入"
+        }
+      ]
+    },
+    "under": {
+      "items": [
+        {
+          "en": "under control",
+          "zh": "在控制下"
+        },
+        {
+          "en": "under pressure",
+          "zh": "在压力下"
+        },
+        {
+          "en": "under the table",
+          "zh": "在桌子下"
+        }
+      ]
+    },
+    "understand": {
+      "items": [
+        {
+          "en": "understand each other",
+          "zh": "互相理解"
+        },
+        {
+          "en": "hard to understand",
+          "zh": "难懂"
+        },
+        {
+          "en": "help me understand",
+          "zh": "帮我理解"
+        }
+      ]
+    },
+    "until": {
+      "items": [
+        {
+          "en": "wait until",
+          "zh": "等到"
+        },
+        {
+          "en": "not until",
+          "zh": "直到…才"
+        },
+        {
+          "en": "until now",
+          "zh": "直到现在"
+        }
+      ]
+    },
+    "upon": {
+      "items": [
+        {
+          "en": "once upon a time",
+          "zh": "从前"
+        },
+        {
+          "en": "depend upon",
+          "zh": "取决于"
+        },
+        {
+          "en": "upon arrival",
+          "zh": "到达时"
+        }
+      ]
+    },
+    "use": {
+      "items": [
+        {
+          "en": "make use of",
+          "zh": "利用"
+        },
+        {
+          "en": "in use",
+          "zh": "在使用中"
+        },
+        {
+          "en": "use up",
+          "zh": "用完"
+        }
+      ]
+    },
+    "value": {
+      "items": [
+        {
+          "en": "of great value",
+          "zh": "很有价值"
+        },
+        {
+          "en": "value for money",
+          "zh": "物有所值"
+        },
+        {
+          "en": "core values",
+          "zh": "核心价值观"
+        }
+      ]
+    },
+    "view": {
+      "items": [
+        {
+          "en": "in view of",
+          "zh": "鉴于"
+        },
+        {
+          "en": "point of view",
+          "zh": "观点"
+        },
+        {
+          "en": "with a view to",
+          "zh": "为了"
+        }
+      ]
+    },
+    "voice": {
+      "items": [
+        {
+          "en": "in a low voice",
+          "zh": "低声"
+        },
+        {
+          "en": "raise one's voice",
+          "zh": "提高嗓门"
+        },
+        {
+          "en": "with one voice",
+          "zh": "异口同声"
+        }
+      ]
+    },
+    "wait": {
+      "items": [
+        {
+          "en": "wait for",
+          "zh": "等待"
+        },
+        {
+          "en": "wait a minute",
+          "zh": "等一下"
+        },
+        {
+          "en": "can't wait",
+          "zh": "等不及"
+        }
+      ]
+    },
+    "wall": {
+      "items": [
+        {
+          "en": "on the wall",
+          "zh": "在墙上"
+        },
+        {
+          "en": "wall clock",
+          "zh": "挂钟"
+        },
+        {
+          "en": "Great Wall",
+          "zh": "长城"
+        }
+      ]
+    },
+    "want": {
+      "items": [
+        {
+          "en": "want to go",
+          "zh": "想去"
+        },
+        {
+          "en": "want sb to help",
+          "zh": "想让人帮忙"
+        },
+        {
+          "en": "want more time",
+          "zh": "想要更多时间"
+        }
+      ]
+    },
+    "war": {
+      "items": [
+        {
+          "en": "civil war",
+          "zh": "内战"
+        },
+        {
+          "en": "at war",
+          "zh": "在战争中"
+        },
+        {
+          "en": "world war",
+          "zh": "世界大战"
+        }
+      ]
+    },
+    "watch": {
+      "items": [
+        {
+          "en": "watch TV",
+          "zh": "看电视"
+        },
+        {
+          "en": "watch out",
+          "zh": "小心"
+        },
+        {
+          "en": "keep watch",
+          "zh": "守望"
+        }
+      ]
+    },
+    "water": {
+      "items": [
+        {
+          "en": "drink water",
+          "zh": "喝水"
+        },
+        {
+          "en": "water supply",
+          "zh": "供水"
+        },
+        {
+          "en": "under water",
+          "zh": "在水下"
+        }
+      ]
+    },
+    "way": {
+      "items": [
+        {
+          "en": "by the way",
+          "zh": "顺便说"
+        },
+        {
+          "en": "on the way",
+          "zh": "在路上"
+        },
+        {
+          "en": "in a way",
+          "zh": "在某种程度上"
+        }
+      ]
+    },
+    "week": {
+      "items": [
+        {
+          "en": "last week",
+          "zh": "上周"
+        },
+        {
+          "en": "next week",
+          "zh": "下周"
+        },
+        {
+          "en": "week by week",
+          "zh": "逐周"
+        }
+      ]
+    },
+    "west": {
+      "items": [
+        {
+          "en": "in the west",
+          "zh": "在西方"
+        },
+        {
+          "en": "west of the city",
+          "zh": "城西"
+        },
+        {
+          "en": "the Wild West",
+          "zh": "西部荒野"
+        }
+      ]
+    },
+    "when": {
+      "items": [
+        {
+          "en": "when to start",
+          "zh": "何时开始"
+        },
+        {
+          "en": "even when tired",
+          "zh": "即使累了"
+        },
+        {
+          "en": "when possible",
+          "zh": "可能时"
+        }
+      ]
+    },
+    "whether": {
+      "items": [
+        {
+          "en": "whether or not",
+          "zh": "是否"
+        },
+        {
+          "en": "whether to",
+          "zh": "是否"
+        }
+      ]
+    },
+    "which": {
+      "items": [
+        {
+          "en": "in which",
+          "zh": "在其中"
+        },
+        {
+          "en": "which one",
+          "zh": "哪一个"
+        },
+        {
+          "en": "which way",
+          "zh": "哪条路"
+        }
+      ]
+    },
+    "while": {
+      "items": [
+        {
+          "en": "for a while",
+          "zh": "一会儿"
+        },
+        {
+          "en": "a while ago",
+          "zh": "刚才"
+        },
+        {
+          "en": "all the while",
+          "zh": "一直"
+        }
+      ]
+    },
+    "whole": {
+      "items": [
+        {
+          "en": "the whole day",
+          "zh": "整天"
+        },
+        {
+          "en": "on the whole",
+          "zh": "总的来说"
+        },
+        {
+          "en": "as a whole",
+          "zh": "整体上"
+        }
+      ]
+    },
+    "why": {
+      "items": [
+        {
+          "en": "why not",
+          "zh": "为什么不"
+        },
+        {
+          "en": "that's why",
+          "zh": "这就是为什么"
+        },
+        {
+          "en": "no reason why",
+          "zh": "没理由"
+        }
+      ]
+    },
+    "wife": {
+      "items": [
+        {
+          "en": "husband and wife",
+          "zh": "夫妻"
+        },
+        {
+          "en": "my wife",
+          "zh": "我妻子"
+        },
+        {
+          "en": "future wife",
+          "zh": "未来的妻子"
+        }
+      ]
+    },
+    "will": {
+      "items": [
+        {
+          "en": "will come soon",
+          "zh": "很快会来"
+        },
+        {
+          "en": "will be fine",
+          "zh": "会好的"
+        },
+        {
+          "en": "will not give up",
+          "zh": "不会放弃"
+        }
+      ]
+    },
+    "win": {
+      "items": [
+        {
+          "en": "win a prize",
+          "zh": "获奖"
+        },
+        {
+          "en": "win the game",
+          "zh": "赢得比赛"
+        },
+        {
+          "en": "win back",
+          "zh": "赢回"
+        }
+      ]
+    },
+    "within": {
+      "items": [
+        {
+          "en": "within reach",
+          "zh": "够得着"
+        },
+        {
+          "en": "within a week",
+          "zh": "一周内"
+        },
+        {
+          "en": "within limits",
+          "zh": "在限度内"
+        }
+      ]
+    },
+    "without": {
+      "items": [
+        {
+          "en": "without doubt",
+          "zh": "毫无疑问"
+        },
+        {
+          "en": "do without",
+          "zh": "没有也行"
+        },
+        {
+          "en": "without a word",
+          "zh": "一声不吭"
+        }
+      ]
+    },
+    "woman": {
+      "items": [
+        {
+          "en": "young woman",
+          "zh": "年轻女子"
+        },
+        {
+          "en": "old woman",
+          "zh": "老妇人"
+        },
+        {
+          "en": "working woman",
+          "zh": "职业女性"
+        }
+      ]
+    },
+    "word": {
+      "items": [
+        {
+          "en": "in a word",
+          "zh": "总之"
+        },
+        {
+          "en": "keep one's word",
+          "zh": "守信用"
+        },
+        {
+          "en": "word for word",
+          "zh": "逐字"
+        }
+      ]
+    },
+    "work": {
+      "items": [
+        {
+          "en": "work hard",
+          "zh": "努力工作"
+        },
+        {
+          "en": "at work",
+          "zh": "在工作"
+        },
+        {
+          "en": "work out",
+          "zh": "锻炼/解决"
+        }
+      ]
+    },
+    "worker": {
+      "items": [
+        {
+          "en": "factory worker",
+          "zh": "工厂工人"
+        },
+        {
+          "en": "office worker",
+          "zh": "上班族"
+        },
+        {
+          "en": "social worker",
+          "zh": "社工"
+        }
+      ]
+    },
+    "would": {
+      "items": [
+        {
+          "en": "would like to",
+          "zh": "想要"
+        },
+        {
+          "en": "would rather stay",
+          "zh": "宁愿留下"
+        },
+        {
+          "en": "would be great",
+          "zh": "那就太好了"
+        }
+      ]
+    },
+    "wrong": {
+      "items": [
+        {
+          "en": "go wrong",
+          "zh": "出错"
+        },
+        {
+          "en": "wrong answer",
+          "zh": "错误答案"
+        },
+        {
+          "en": "something wrong",
+          "zh": "出问题了"
+        }
+      ]
+    },
+    "year": {
+      "items": [
+        {
+          "en": "last year",
+          "zh": "去年"
+        },
+        {
+          "en": "New Year",
+          "zh": "新年"
+        },
+        {
+          "en": "year by year",
+          "zh": "逐年"
+        }
+      ]
+    },
+    "yet": {
+      "items": [
+        {
+          "en": "not yet",
+          "zh": "还没有"
+        },
+        {
+          "en": "as yet",
+          "zh": "迄今"
+        }
+      ]
+    },
+    "young": {
+      "items": [
+        {
+          "en": "young people",
+          "zh": "年轻人"
+        },
+        {
+          "en": "young age",
+          "zh": "年轻时"
+        },
+        {
+          "en": "stay young",
+          "zh": "保持年轻"
+        }
+      ]
+    }
+  }
+}

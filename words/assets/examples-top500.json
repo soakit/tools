@@ -1,0 +1,3450 @@
+{
+  "meta": {
+    "total": 491,
+    "source": "top500-curated",
+    "stats": {
+      "manual": 144,
+      "tatoeba": 303,
+      "fallback": 53
+    }
+  },
+  "examples": {
+    "be": {
+      "en": "I'm gonna be late.",
+      "zh": "我要迟到了。",
+      "rank": 2,
+      "word": "be",
+      "source": "manual"
+    },
+    "say": {
+      "en": "What did you say?",
+      "zh": "你说什么？",
+      "rank": 19,
+      "word": "say (said, said)",
+      "source": "manual"
+    },
+    "not": {
+      "en": "No, I'm not.",
+      "zh": "不，我不是。",
+      "rank": 28,
+      "word": "not",
+      "source": "manual"
+    },
+    "or": {
+      "en": "Tea or coffee?",
+      "zh": "茶还是咖啡？",
+      "rank": 32,
+      "word": "or",
+      "source": "manual"
+    },
+    "as": {
+      "en": "Do as I say.",
+      "zh": "按我说的做。",
+      "rank": 33,
+      "word": "as",
+      "source": "manual"
+    },
+    "go": {
+      "en": "I've gotta go now.",
+      "zh": "我得走了。",
+      "rank": 35,
+      "word": "go (went, gone)",
+      "source": "manual"
+    },
+    "their": {
+      "en": "That's their book.",
+      "zh": "那是他们的书。",
+      "rank": 36,
+      "word": "their",
+      "source": "tatoeba"
+    },
+    "canmodal": {
+      "en": "I like this canmodal.",
+      "zh": "我喜欢这个.能。",
+      "rank": 37,
+      "word": "can (could) modal",
+      "source": "fallback"
+    },
+    "if": {
+      "en": "Let me know if you need help.",
+      "zh": "需要帮助告诉我。",
+      "rank": 40,
+      "word": "if",
+      "source": "manual"
+    },
+    "will": {
+      "en": "I'll call you later.",
+      "zh": "待会儿给你打电话。",
+      "rank": 41,
+      "word": "will (would)",
+      "source": "manual"
+    },
+    "would": {
+      "en": "Would you like some tea?",
+      "zh": "要来杯茶吗？",
+      "rank": 41,
+      "word": "would",
+      "source": "manual"
+    },
+    "all": {
+      "en": "That's all for now.",
+      "zh": "就这些。",
+      "rank": 43,
+      "word": "all",
+      "source": "manual"
+    },
+    "make": {
+      "en": "Can you make me a sandwich?",
+      "zh": "能给我做个三明治吗？",
+      "rank": 45,
+      "word": "make(made, made)",
+      "source": "manual"
+    },
+    "know": {
+      "en": "I don't know.",
+      "zh": "我不知道。",
+      "rank": 47,
+      "word": "know(knew, known)",
+      "source": "manual"
+    },
+    "year": {
+      "en": "What year is it?",
+      "zh": "今年是哪一年？",
+      "rank": 54,
+      "word": "year",
+      "source": "tatoeba"
+    },
+    "so": {
+      "en": "I'm tired, so I'm going to bed.",
+      "zh": "我累了，要睡了。",
+      "rank": 55,
+      "word": "so",
+      "source": "manual"
+    },
+    "think": {
+      "en": "I think so.",
+      "zh": "我觉得是。",
+      "rank": 56,
+      "word": "think (thought, thought)",
+      "source": "manual"
+    },
+    "when": {
+      "en": "When did you get here?",
+      "zh": "你什么时候到的？",
+      "rank": 57,
+      "word": "when",
+      "source": "manual"
+    },
+    "which": {
+      "en": "Which one do you want?",
+      "zh": "你要哪个？",
+      "rank": 58,
+      "word": "which",
+      "source": "manual"
+    },
+    "them": {
+      "en": "I ate them.",
+      "zh": "我吃了。",
+      "rank": 59,
+      "word": "them",
+      "source": "tatoeba"
+    },
+    "people": {
+      "en": "Are cats people?",
+      "zh": "貓是人嗎？",
+      "rank": 62,
+      "word": "people",
+      "source": "tatoeba"
+    },
+    "take": {
+      "en": "Take your time.",
+      "zh": "慢慢来。",
+      "rank": 63,
+      "word": "take (took, taken)",
+      "source": "manual"
+    },
+    "into": {
+      "en": "I bumped into her.",
+      "zh": "我偶然碰到了她。",
+      "rank": 65,
+      "word": "into",
+      "source": "tatoeba"
+    },
+    "just": {
+      "en": "Just a minute.",
+      "zh": "等一下。",
+      "rank": 66,
+      "word": "just",
+      "source": "manual"
+    },
+    "him": {
+      "en": "I like this him.",
+      "zh": "我喜欢这个.(的宾格)他。",
+      "rank": 68,
+      "word": "him",
+      "source": "fallback"
+    },
+    "could": {
+      "en": "Could you wait a minute?",
+      "zh": "能等一下吗？",
+      "rank": 71,
+      "word": "could",
+      "source": "manual"
+    },
+    "than": {
+      "en": "She's taller than me.",
+      "zh": "她比我高。",
+      "rank": 73,
+      "word": "than",
+      "source": "manual"
+    },
+    "other": {
+      "en": "What about the other one?",
+      "zh": "另一个呢？",
+      "rank": 75,
+      "word": "other",
+      "source": "manual"
+    },
+    "then": {
+      "en": "See you then.",
+      "zh": "到时候见。",
+      "rank": 77,
+      "word": "then",
+      "source": "manual"
+    },
+    "its": {
+      "en": "What gives life its meaning?",
+      "zh": "什么赋予了人生意义？",
+      "rank": 78,
+      "word": "its",
+      "source": "tatoeba"
+    },
+    "many": {
+      "en": "How many do you need?",
+      "zh": "你需要多少？",
+      "rank": 81,
+      "word": "many (more, most)",
+      "source": "manual"
+    },
+    "more": {
+      "en": "I need more time.",
+      "zh": "我需要更多时间。",
+      "rank": 81,
+      "word": "more",
+      "source": "manual"
+    },
+    "these": {
+      "en": "These are my keys.",
+      "zh": "这是我的钥匙。",
+      "rank": 82,
+      "word": "these",
+      "source": "manual"
+    },
+    "want": {
+      "en": "I want to go home.",
+      "zh": "我想回家。",
+      "rank": 83,
+      "word": "want",
+      "source": "manual"
+    },
+    "way": {
+      "en": "Outta my way!",
+      "zh": "让开。",
+      "rank": 84,
+      "word": "way",
+      "source": "tatoeba"
+    },
+    "look": {
+      "en": "Look at this.",
+      "zh": "看这个。",
+      "rank": 85,
+      "word": "look",
+      "source": "manual"
+    },
+    "because": {
+      "en": "Because we're worth it.",
+      "zh": "因為我們值得。",
+      "rank": 89,
+      "word": "because",
+      "source": "tatoeba"
+    },
+    "use": {
+      "en": "Can I use your phone?",
+      "zh": "能用一下你的手机吗？",
+      "rank": 92,
+      "word": "use",
+      "source": "manual"
+    },
+    "man": {
+      "en": "I love this man!",
+      "zh": "我爱这个男人。",
+      "rank": 94,
+      "word": "man (men)",
+      "source": "tatoeba"
+    },
+    "here": {
+      "en": "Come here.",
+      "zh": "过来。",
+      "rank": 96,
+      "word": "here",
+      "source": "manual"
+    },
+    "thing": {
+      "en": "Hide that thing.",
+      "zh": "把那個東西藏起來。",
+      "rank": 97,
+      "word": "thing",
+      "source": "tatoeba"
+    },
+    "give": {
+      "en": "Give me a hand.",
+      "zh": "帮把手。",
+      "rank": 98,
+      "word": "give (gave, given)",
+      "source": "manual"
+    },
+    "only": {
+      "en": "Only one left.",
+      "zh": "只剩一个了。",
+      "rank": 101,
+      "word": "only",
+      "source": "manual"
+    },
+    "those": {
+      "en": "Those look nice.",
+      "zh": "那些看起来不错。",
+      "rank": 102,
+      "word": "those",
+      "source": "manual"
+    },
+    "tell": {
+      "en": "Tell me the truth.",
+      "zh": "跟我说实话。",
+      "rank": 103,
+      "word": "tell (told, told)",
+      "source": "manual"
+    },
+    "even": {
+      "en": "Even I know that.",
+      "zh": "连我都知道。",
+      "rank": 107,
+      "word": "even",
+      "source": "manual"
+    },
+    "back": {
+      "en": "I like this back.",
+      "zh": "我喜欢这个.背，背部。",
+      "rank": 108,
+      "word": "back",
+      "source": "fallback"
+    },
+    "any": {
+      "en": "Any questions?",
+      "zh": "有问题吗？",
+      "rank": 109,
+      "word": "any",
+      "source": "manual"
+    },
+    "good": {
+      "en": "I like this good.",
+      "zh": "我喜欢这个.好的。",
+      "rank": 110,
+      "word": "good (better, best)",
+      "source": "fallback"
+    },
+    "woman": {
+      "en": "Who's that woman?",
+      "zh": "那个女人是谁？",
+      "rank": 111,
+      "word": "woman",
+      "source": "tatoeba"
+    },
+    "through": {
+      "en": "Am I coming through okay?",
+      "zh": "你听得见吗？",
+      "rank": 112,
+      "word": "through",
+      "source": "tatoeba"
+    },
+    "life": {
+      "en": "How is life?",
+      "zh": "生活怎么样？",
+      "rank": 114,
+      "word": "life (lives)",
+      "source": "tatoeba"
+    },
+    "work": {
+      "en": "Does this work?",
+      "zh": "这行吗？",
+      "rank": 117,
+      "word": "work",
+      "source": "manual"
+    },
+    "down": {
+      "en": "I like this down.",
+      "zh": "我喜欢这个.（坐、倒、躺）下。",
+      "rank": 118,
+      "word": "down",
+      "source": "fallback"
+    },
+    "may": {
+      "en": "May I come in?",
+      "zh": "我可以进来吗？",
+      "rank": 119,
+      "word": "may",
+      "source": "manual"
+    },
+    "after": {
+      "en": "What happens after death?",
+      "zh": "人死了之后会怎么样？",
+      "rank": 120,
+      "word": "after",
+      "source": "tatoeba"
+    },
+    "shallmodal": {
+      "en": "Let's shallmodal.",
+      "zh": "咱们将要吧。",
+      "rank": 121,
+      "word": "shall (should) modal",
+      "source": "fallback"
+    },
+    "should": {
+      "en": "You should go home.",
+      "zh": "你该回家了。",
+      "rank": 121,
+      "word": "should",
+      "source": "manual"
+    },
+    "call": {
+      "en": "Call me tonight.",
+      "zh": "今晚给我打电话。",
+      "rank": 122,
+      "word": "call",
+      "source": "manual"
+    },
+    "over": {
+      "en": "March is over.",
+      "zh": "三月已過。",
+      "rank": 124,
+      "word": "over",
+      "source": "tatoeba"
+    },
+    "still": {
+      "en": "I'm still waiting.",
+      "zh": "我还在等。",
+      "rank": 126,
+      "word": "still",
+      "source": "manual"
+    },
+    "try": {
+      "en": "Just try it.",
+      "zh": "试试看。",
+      "rank": 127,
+      "word": "try",
+      "source": "manual"
+    },
+    "last": {
+      "en": "Betty came last.",
+      "zh": "貝蒂是最後一個來的。",
+      "rank": 130,
+      "word": "last",
+      "source": "tatoeba"
+    },
+    "ask": {
+      "en": "Don't be afraid to ask.",
+      "zh": "别害怕问。",
+      "rank": 131,
+      "word": "ask",
+      "source": "manual"
+    },
+    "need": {
+      "en": "I need your help.",
+      "zh": "我需要你帮忙。",
+      "rank": 132,
+      "word": "need",
+      "source": "manual"
+    },
+    "feel": {
+      "en": "I feel great.",
+      "zh": "我感觉很好。",
+      "rank": 134,
+      "word": "feel (felt, felt)",
+      "source": "manual"
+    },
+    "state": {
+      "en": "Russia is a terrorist state.",
+      "zh": "俄羅斯是一個恐怖主義國家。",
+      "rank": 137,
+      "word": "state",
+      "source": "tatoeba"
+    },
+    "never": {
+      "en": "I never said that.",
+      "zh": "我从没说过。",
+      "rank": 138,
+      "word": "never",
+      "source": "manual"
+    },
+    "become": {
+      "en": "It's getting dark.",
+      "zh": "天黑了。",
+      "rank": 139,
+      "word": "become (became, become)",
+      "source": "manual"
+    },
+    "between": {
+      "en": "What happened between you and Tom?",
+      "zh": "你和汤姆之间发生了什么？",
+      "rank": 140,
+      "word": "between",
+      "source": "tatoeba"
+    },
+    "high": {
+      "en": "It's very high.",
+      "zh": "他非常高大。",
+      "rank": 141,
+      "word": "high",
+      "source": "tatoeba"
+    },
+    "really": {
+      "en": "Who really knows?",
+      "zh": "那有誰會知道呢？",
+      "rank": 142,
+      "word": "really",
+      "source": "tatoeba"
+    },
+    "something": {
+      "en": "I like this something.",
+      "zh": "我喜欢这个.某物，某事。",
+      "rank": 143,
+      "word": "something",
+      "source": "fallback"
+    },
+    "another": {
+      "en": "Can I have another?",
+      "zh": "能再来一个吗？",
+      "rank": 145,
+      "word": "another",
+      "source": "manual"
+    },
+    "own": {
+      "en": "On my own.",
+      "zh": "我自己来。",
+      "rank": 148,
+      "word": "own",
+      "source": "manual"
+    },
+    "leave": {
+      "en": "I've gotta leave.",
+      "zh": "我得走了。",
+      "rank": 150,
+      "word": "leave (left, left)",
+      "source": "manual"
+    },
+    "put": {
+      "en": "Put it here.",
+      "zh": "放这儿。",
+      "rank": 151,
+      "word": "put (put, put)",
+      "source": "manual"
+    },
+    "old": {
+      "en": "How old is Mom?",
+      "zh": "媽媽多大了？",
+      "rank": 152,
+      "word": "old",
+      "source": "tatoeba"
+    },
+    "while": {
+      "en": "It has been a while.",
+      "zh": "好久不见了。",
+      "rank": 153,
+      "word": "while",
+      "source": "tatoeba"
+    },
+    "mean": {
+      "en": "What do you mean?",
+      "zh": "什么意思？",
+      "rank": 154,
+      "word": "mean(meant,meant)",
+      "source": "manual"
+    },
+    "keep": {
+      "en": "Keep it.",
+      "zh": "留着吧。",
+      "rank": 156,
+      "word": "keep (kept, kept)",
+      "source": "manual"
+    },
+    "why": {
+      "en": "Why not?",
+      "zh": "为什么不呢？",
+      "rank": 158,
+      "word": "why",
+      "source": "manual"
+    },
+    "let": {
+      "en": "Let me think.",
+      "zh": "让我想想。",
+      "rank": 159,
+      "word": "let (let, let)",
+      "source": "manual"
+    },
+    "same": {
+      "en": "Same here.",
+      "zh": "我也是。",
+      "rank": 161,
+      "word": "same",
+      "source": "manual"
+    },
+    "group": {
+      "en": "Um... can we join your group?",
+      "zh": "嗯。。。我可以加入你的小组嘛",
+      "rank": 163,
+      "word": "group",
+      "source": "tatoeba"
+    },
+    "begin": {
+      "en": "May I begin?",
+      "zh": "我可以开始了吗？",
+      "rank": 164,
+      "word": "begin(began, begun)",
+      "source": "tatoeba"
+    },
+    "seem": {
+      "en": "You seem tired.",
+      "zh": "你看起来累了。",
+      "rank": 165,
+      "word": "seem",
+      "source": "manual"
+    },
+    "country": {
+      "en": "Taiwan is my favorite country.",
+      "zh": "台灣是我最愛的國家。",
+      "rank": 166,
+      "word": "country",
+      "source": "tatoeba"
+    },
+    "turn": {
+      "en": "Turn right, please.",
+      "zh": "请向右转。",
+      "rank": 170,
+      "word": "turn",
+      "source": "tatoeba"
+    },
+    "every": {
+      "en": "Every minute counts.",
+      "zh": "分秒必争。",
+      "rank": 172,
+      "word": "every",
+      "source": "tatoeba"
+    },
+    "start": {
+      "en": "I like this start.",
+      "zh": "我喜欢这个.开始。",
+      "rank": 173,
+      "word": "start",
+      "source": "fallback"
+    },
+    "hand": {
+      "en": "Shake my hand.",
+      "zh": "和我握手。",
+      "rank": 174,
+      "word": "hand",
+      "source": "tatoeba"
+    },
+    "might": {
+      "en": "It might rain later.",
+      "zh": "待会儿可能会下雨。",
+      "rank": 175,
+      "word": "might",
+      "source": "manual"
+    },
+    "american": {
+      "en": "Are you American?",
+      "zh": "你是美国人吗？",
+      "rank": 176,
+      "word": "American",
+      "source": "tatoeba"
+    },
+    "part": {
+      "en": "We're taking part.",
+      "zh": "我们正参与。",
+      "rank": 178,
+      "word": "part",
+      "source": "tatoeba"
+    },
+    "against": {
+      "en": "What are they protesting against?",
+      "zh": "她們在抗議啥呀？",
+      "rank": 180,
+      "word": "against",
+      "source": "tatoeba"
+    },
+    "place": {
+      "en": "Is this your place?",
+      "zh": "这是你的地方？",
+      "rank": 181,
+      "word": "place",
+      "source": "tatoeba"
+    },
+    "such": {
+      "en": "I've never seen such a thing.",
+      "zh": "我从没见过这种事。",
+      "rank": 183,
+      "word": "such",
+      "source": "manual"
+    },
+    "few": {
+      "en": "I have a few apples.",
+      "zh": "我有幾顆蘋果。",
+      "rank": 185,
+      "word": "few",
+      "source": "tatoeba"
+    },
+    "case": {
+      "en": "Which judge heard the case?",
+      "zh": "哪一位法官審理此案？",
+      "rank": 186,
+      "word": "case",
+      "source": "tatoeba"
+    },
+    "week": {
+      "en": "How was your week?",
+      "zh": "你一週過得怎麼樣？",
+      "rank": 188,
+      "word": "week",
+      "source": "tatoeba"
+    },
+    "company": {
+      "en": "Are they not company employees?",
+      "zh": "他们不是公司员工吗？",
+      "rank": 189,
+      "word": "company",
+      "source": "tatoeba"
+    },
+    "system": {
+      "en": "What is your favourite operating system?",
+      "zh": "你最喜欢的操作系统是哪个？",
+      "rank": 191,
+      "word": "system",
+      "source": "tatoeba"
+    },
+    "each": {
+      "en": "Each one is different.",
+      "zh": "每个都不一样。",
+      "rank": 192,
+      "word": "each",
+      "source": "manual"
+    },
+    "right": {
+      "en": "Is it right?",
+      "zh": "对了吗？",
+      "rank": 193,
+      "word": "right",
+      "source": "tatoeba"
+    },
+    "programme": {
+      "en": "The programme is being broadcast.",
+      "zh": "那個節目現在正在播出。",
+      "rank": 194,
+      "word": "programme (program)",
+      "source": "tatoeba"
+    },
+    "question": {
+      "en": "Answer the question!",
+      "zh": "回答問題。",
+      "rank": 197,
+      "word": "question",
+      "source": "tatoeba"
+    },
+    "during": {
+      "en": "You can't chatter during class.",
+      "zh": "上課時不能閒聊。",
+      "rank": 198,
+      "word": "during",
+      "source": "tatoeba"
+    },
+    "play": {
+      "en": "Wanna play?",
+      "zh": "想玩吗？",
+      "rank": 200,
+      "word": "play",
+      "source": "manual"
+    },
+    "government": {
+      "en": "We studied the government's economic policy.",
+      "zh": "我们研究了政府的经济政策。",
+      "rank": 201,
+      "word": "government",
+      "source": "tatoeba"
+    },
+    "number": {
+      "en": "What's your number?",
+      "zh": "你的电话是多少？",
+      "rank": 204,
+      "word": "number",
+      "source": "tatoeba"
+    },
+    "off": {
+      "en": "I like this off.",
+      "zh": "我喜欢这个.从…落下。",
+      "rank": 205,
+      "word": "off",
+      "source": "fallback"
+    },
+    "always": {
+      "en": "She always smiles.",
+      "zh": "她总是笑。",
+      "rank": 206,
+      "word": "always",
+      "source": "manual"
+    },
+    "move": {
+      "en": "Don't move.",
+      "zh": "别动。",
+      "rank": 207,
+      "word": "move",
+      "source": "manual"
+    },
+    "live": {
+      "en": "Where do you live?",
+      "zh": "你住哪？",
+      "rank": 210,
+      "word": "live",
+      "source": "manual"
+    },
+    "mr.": {
+      "en": "I like this mr..",
+      "zh": "我喜欢这个.先生。",
+      "rank": 211,
+      "word": "Mr. (mister)",
+      "source": "fallback"
+    },
+    "point": {
+      "en": "Point at it.",
+      "zh": "指着它。",
+      "rank": 212,
+      "word": "point",
+      "source": "manual"
+    },
+    "believe": {
+      "en": "I can't believe it.",
+      "zh": "我不敢相信。",
+      "rank": 213,
+      "word": "believe",
+      "source": "manual"
+    },
+    "hold": {
+      "en": "Please hold on.",
+      "zh": "請稍等。",
+      "rank": 214,
+      "word": "hold (held, held)",
+      "source": "tatoeba"
+    },
+    "happen": {
+      "en": "What happened?",
+      "zh": "怎么了？",
+      "rank": 217,
+      "word": "happen",
+      "source": "manual"
+    },
+    "next": {
+      "en": "Am I next?",
+      "zh": "下一個是我嗎？",
+      "rank": 218,
+      "word": "next",
+      "source": "tatoeba"
+    },
+    "without": {
+      "en": "Without a doubt!",
+      "zh": "无庸置疑！",
+      "rank": 219,
+      "word": "without",
+      "source": "tatoeba"
+    },
+    "before": {
+      "en": "Think before you act!",
+      "zh": "三思而後行！",
+      "rank": 220,
+      "word": "before",
+      "source": "tatoeba"
+    },
+    "large": {
+      "en": "Large, isn't it?",
+      "zh": "很大, 不是嗎?",
+      "rank": 221,
+      "word": "large",
+      "source": "tatoeba"
+    },
+    "must": {
+      "en": "You must be tired.",
+      "zh": "你一定累了。",
+      "rank": 224,
+      "word": "must",
+      "source": "manual"
+    },
+    "home": {
+      "en": "I like this home.",
+      "zh": "我喜欢这个.家。",
+      "rank": 225,
+      "word": "home",
+      "source": "fallback"
+    },
+    "under": {
+      "en": "Everything's under control.",
+      "zh": "一切都在控制之中。",
+      "rank": 226,
+      "word": "under",
+      "source": "tatoeba"
+    },
+    "water": {
+      "en": "Give me water!",
+      "zh": "給我水！",
+      "rank": 227,
+      "word": "water",
+      "source": "tatoeba"
+    },
+    "area": {
+      "en": "This area has been quarantined.",
+      "zh": "這片區域已隔離。",
+      "rank": 231,
+      "word": "area",
+      "source": "tatoeba"
+    },
+    "national": {
+      "en": "Taiwan has nine national parks.",
+      "zh": "台灣有九個國家公園。",
+      "rank": 232,
+      "word": "national",
+      "source": "tatoeba"
+    },
+    "money": {
+      "en": "How much money?",
+      "zh": "多少錢？",
+      "rank": 233,
+      "word": "money",
+      "source": "tatoeba"
+    },
+    "story": {
+      "en": "Who wrote this story?",
+      "zh": "谁写了这个故事？",
+      "rank": 234,
+      "word": "story",
+      "source": "tatoeba"
+    },
+    "young": {
+      "en": "Is the teacher young?",
+      "zh": "那个老师年轻吗？",
+      "rank": 235,
+      "word": "young",
+      "source": "tatoeba"
+    },
+    "fact": {
+      "en": "Nobody can refute that fact.",
+      "zh": "誰也不能否定其事實。",
+      "rank": 236,
+      "word": "fact",
+      "source": "tatoeba"
+    },
+    "month": {
+      "en": "Was last month November?",
+      "zh": "上个月是十一月吗？",
+      "rank": 237,
+      "word": "month",
+      "source": "tatoeba"
+    },
+    "lot": {
+      "en": "Thanks a lot!",
+      "zh": "非常感谢！",
+      "rank": 239,
+      "word": "lot",
+      "source": "tatoeba"
+    },
+    "book": {
+      "en": "That's their book.",
+      "zh": "那是他们的书。",
+      "rank": 242,
+      "word": "book",
+      "source": "tatoeba"
+    },
+    "job": {
+      "en": "I'm job hunting.",
+      "zh": "我在找工作。",
+      "rank": 244,
+      "word": "job",
+      "source": "tatoeba"
+    },
+    "word": {
+      "en": "Translate this word.",
+      "zh": "翻譯這個詞。",
+      "rank": 245,
+      "word": "word",
+      "source": "tatoeba"
+    },
+    "though": {
+      "en": "Though he's rich, he's not happy.",
+      "zh": "虽然他很有钱，但他不幸福。",
+      "rank": 246,
+      "word": "though",
+      "source": "tatoeba"
+    },
+    "business": {
+      "en": "I like this business.",
+      "zh": "我喜欢这个.商业，交易。",
+      "rank": 247,
+      "word": "business",
+      "source": "fallback"
+    },
+    "side": {
+      "en": "Stay by my side, Tom.",
+      "zh": "留在我身边，汤姆！",
+      "rank": 249,
+      "word": "side",
+      "source": "tatoeba"
+    },
+    "kind": {
+      "en": "Tom's very kind.",
+      "zh": "汤姆人很好。",
+      "rank": 250,
+      "word": "kind",
+      "source": "tatoeba"
+    },
+    "far": {
+      "en": "How far, roughly?",
+      "zh": "大概有多远？",
+      "rank": 253,
+      "word": "far (farther/ further; farthest/ furthest)",
+      "source": "tatoeba"
+    },
+    "both": {
+      "en": "I like both.",
+      "zh": "两个我都喜欢。",
+      "rank": 256,
+      "word": "both",
+      "source": "manual"
+    },
+    "little": {
+      "en": "Walk over a little!",
+      "zh": "走过去一点！",
+      "rank": 257,
+      "word": "little (less, least)",
+      "source": "tatoeba"
+    },
+    "house": {
+      "en": "Where's the house?",
+      "zh": "他的家在哪儿?",
+      "rank": 258,
+      "word": "house",
+      "source": "tatoeba"
+    },
+    "since": {
+      "en": "Have you been here since?",
+      "zh": "你後來還來過這兒嗎？",
+      "rank": 261,
+      "word": "since",
+      "source": "tatoeba"
+    },
+    "provide": {
+      "en": "Can you provide more info?",
+      "zh": "能提供更多信息吗？",
+      "rank": 263,
+      "word": "provide",
+      "source": "manual"
+    },
+    "service": {
+      "en": "I work in customer service.",
+      "zh": "我從事客服業。",
+      "rank": 264,
+      "word": "service",
+      "source": "tatoeba"
+    },
+    "around": {
+      "en": "Is Tom around?",
+      "zh": "汤姆在吗？",
+      "rank": 265,
+      "word": "around",
+      "source": "tatoeba"
+    },
+    "friend": {
+      "en": "Farewell, my friend!",
+      "zh": "我的朋友，再見了！",
+      "rank": 266,
+      "word": "friend",
+      "source": "tatoeba"
+    },
+    "important": {
+      "en": "Is that important?",
+      "zh": "那算数吗？",
+      "rank": 267,
+      "word": "important",
+      "source": "tatoeba"
+    },
+    "away": {
+      "en": "Away with you!",
+      "zh": "走開！",
+      "rank": 270,
+      "word": "away",
+      "source": "tatoeba"
+    },
+    "until": {
+      "en": "I'm busy until four.",
+      "zh": "四點前我都忙碌。",
+      "rank": 271,
+      "word": "until",
+      "source": "tatoeba"
+    },
+    "power": {
+      "en": "I am devoid of power.",
+      "zh": "我没有权力。",
+      "rank": 272,
+      "word": "power",
+      "source": "tatoeba"
+    },
+    "hour": {
+      "en": "I like this hour.",
+      "zh": "我喜欢这个.小时，钟头。",
+      "rank": 273,
+      "word": "hour",
+      "source": "fallback"
+    },
+    "game": {
+      "en": "Suspend the game?",
+      "zh": "禁止遊戲嗎？",
+      "rank": 274,
+      "word": "game",
+      "source": "tatoeba"
+    },
+    "often": {
+      "en": "I often hiccup.",
+      "zh": "我经常打嗝。",
+      "rank": 275,
+      "word": "often",
+      "source": "tatoeba"
+    },
+    "yet": {
+      "en": "Are you there yet?",
+      "zh": "到了吗？",
+      "rank": 276,
+      "word": "yet",
+      "source": "tatoeba"
+    },
+    "line": {
+      "en": "That's my line!",
+      "zh": "那是我該說的話!",
+      "rank": 277,
+      "word": "line",
+      "source": "tatoeba"
+    },
+    "political": {
+      "en": "I support political reform.",
+      "zh": "我支持政治改革。",
+      "rank": 278,
+      "word": "political",
+      "source": "tatoeba"
+    },
+    "end": {
+      "en": "This is the end!",
+      "zh": "這是結束。",
+      "rank": 279,
+      "word": "end",
+      "source": "tatoeba"
+    },
+    "among": {
+      "en": "He's popular among his colleagues.",
+      "zh": "他在他的同事之中受到歡迎。",
+      "rank": 280,
+      "word": "among",
+      "source": "tatoeba"
+    },
+    "ever": {
+      "en": "Have you ever been there?",
+      "zh": "你去过那儿吗？",
+      "rank": 281,
+      "word": "ever",
+      "source": "manual"
+    },
+    "stand": {
+      "en": "Stand up, please.",
+      "zh": "请站起来。",
+      "rank": 282,
+      "word": "stand (stood, stood)",
+      "source": "manual"
+    },
+    "lose": {
+      "en": "I lost my wallet.",
+      "zh": "我钱包丢了。",
+      "rank": 284,
+      "word": "lose (lost, lost)",
+      "source": "manual"
+    },
+    "however": {
+      "en": "She said it however.",
+      "zh": "她.不管到什么程度地说了。",
+      "rank": 285,
+      "word": "however",
+      "source": "fallback"
+    },
+    "member": {
+      "en": "Are you a party member?",
+      "zh": "你是黨員嗎？",
+      "rank": 286,
+      "word": "member",
+      "source": "tatoeba"
+    },
+    "pay": {
+      "en": "I'll pay.",
+      "zh": "我来付。",
+      "rank": 287,
+      "word": "pay (paid, paid)",
+      "source": "manual"
+    },
+    "law": {
+      "en": "He's a law student.",
+      "zh": "他是法学院学生。",
+      "rank": 288,
+      "word": "law",
+      "source": "tatoeba"
+    },
+    "car": {
+      "en": "Drive the car!",
+      "zh": "你，開車！",
+      "rank": 290,
+      "word": "car",
+      "source": "tatoeba"
+    },
+    "city": {
+      "en": "What's your favourite city?",
+      "zh": "你最喜欢的城市是什么？",
+      "rank": 291,
+      "word": "city",
+      "source": "tatoeba"
+    },
+    "almost": {
+      "en": "He almost drowned.",
+      "zh": "他几乎淹死。",
+      "rank": 292,
+      "word": "almost",
+      "source": "tatoeba"
+    },
+    "include": {
+      "en": "Does it include tax?",
+      "zh": "含税吗？",
+      "rank": 293,
+      "word": "include",
+      "source": "manual"
+    },
+    "continue": {
+      "en": "Please continue.",
+      "zh": "请继续。",
+      "rank": 294,
+      "word": "continue",
+      "source": "manual"
+    },
+    "set": {
+      "en": "Set the table.",
+      "zh": "摆好桌子。",
+      "rank": 295,
+      "word": "set (set, set)",
+      "source": "manual"
+    },
+    "least": {
+      "en": "What's your least favorite color?",
+      "zh": "你最不喜歡的顏色是？",
+      "rank": 303,
+      "word": "least",
+      "source": "tatoeba"
+    },
+    "president": {
+      "en": "I abhor the new president.",
+      "zh": "我厭惡這位新總統。",
+      "rank": 304,
+      "word": "president",
+      "source": "tatoeba"
+    },
+    "learn": {
+      "en": "I'm still learning.",
+      "zh": "我还在学。",
+      "rank": 305,
+      "word": "learn (learnt, learnt; -ed -ed)",
+      "source": "manual"
+    },
+    "real": {
+      "en": "Are the flowers real?",
+      "zh": "真花？",
+      "rank": 306,
+      "word": "real",
+      "source": "tatoeba"
+    },
+    "change": {
+      "en": "Things change.",
+      "zh": "事情会变。",
+      "rank": 307,
+      "word": "change",
+      "source": "manual"
+    },
+    "team": {
+      "en": "Which team will win?",
+      "zh": "哪个队会赢？",
+      "rank": 308,
+      "word": "team",
+      "source": "tatoeba"
+    },
+    "minute": {
+      "en": "Please wait a minute!",
+      "zh": "请稍等一下。",
+      "rank": 309,
+      "word": "minute",
+      "source": "tatoeba"
+    },
+    "several": {
+      "en": "I bought several books yesterday.",
+      "zh": "我昨天买了好几本书。",
+      "rank": 311,
+      "word": "several",
+      "source": "tatoeba"
+    },
+    "idea": {
+      "en": "I have no idea!",
+      "zh": "我不知道。",
+      "rank": 312,
+      "word": "idea",
+      "source": "tatoeba"
+    },
+    "kid": {
+      "en": "I like this kid.",
+      "zh": "我喜欢这个.<口>小孩。",
+      "rank": 313,
+      "word": "kid",
+      "source": "fallback"
+    },
+    "body": {
+      "en": "My whole body was sore.",
+      "zh": "她浑身酸痛。",
+      "rank": 314,
+      "word": "body",
+      "source": "tatoeba"
+    },
+    "information": {
+      "en": "This is my contact information.",
+      "zh": "这些是我的联系方式。",
+      "rank": 315,
+      "word": "information",
+      "source": "tatoeba"
+    },
+    "nothing": {
+      "en": "I see nothing.",
+      "zh": "我什么都看不见。",
+      "rank": 316,
+      "word": "nothing",
+      "source": "tatoeba"
+    },
+    "ago": {
+      "en": "It was a while ago.",
+      "zh": "好久不见了。",
+      "rank": 317,
+      "word": "ago",
+      "source": "tatoeba"
+    },
+    "lead": {
+      "en": "You lead the way.",
+      "zh": "你带路。",
+      "rank": 319,
+      "word": "lead (led, led)",
+      "source": "manual"
+    },
+    "social": {
+      "en": "I am a social worker.",
+      "zh": "我是個社會工作人員。",
+      "rank": 320,
+      "word": "social",
+      "source": "tatoeba"
+    },
+    "understand": {
+      "en": "I don't understand.",
+      "zh": "我不明白。",
+      "rank": 321,
+      "word": "understand (understood, understood)",
+      "source": "manual"
+    },
+    "whether": {
+      "en": "I wonder whether it'll rain tomorrow.",
+      "zh": "我想知道明天是否会下雨。",
+      "rank": 322,
+      "word": "whether",
+      "source": "tatoeba"
+    },
+    "watch": {
+      "en": "Watch out!",
+      "zh": "小心！",
+      "rank": 324,
+      "word": "watch",
+      "source": "manual"
+    },
+    "follow": {
+      "en": "Follow me.",
+      "zh": "跟我来。",
+      "rank": 326,
+      "word": "follow",
+      "source": "manual"
+    },
+    "parent": {
+      "en": "I like this parent.",
+      "zh": "我喜欢这个.父亲（或母亲）。",
+      "rank": 328,
+      "word": "parent",
+      "source": "fallback"
+    },
+    "stop": {
+      "en": "Stop it.",
+      "zh": "别闹了。",
+      "rank": 330,
+      "word": "stop",
+      "source": "manual"
+    },
+    "anything": {
+      "en": "Is anything wrong?",
+      "zh": "有什么不对吗？",
+      "rank": 332,
+      "word": "anything",
+      "source": "tatoeba"
+    },
+    "create": {
+      "en": "Let's create something new.",
+      "zh": "咱们弄点新东西吧。",
+      "rank": 333,
+      "word": "create",
+      "source": "manual"
+    },
+    "public": {
+      "en": "What public equipment is there?",
+      "zh": "有点什么公共设施？",
+      "rank": 334,
+      "word": "public",
+      "source": "tatoeba"
+    },
+    "already": {
+      "en": "I'm already here.",
+      "zh": "我已经到了。",
+      "rank": 335,
+      "word": "already",
+      "source": "manual"
+    },
+    "speak": {
+      "en": "Do you speak English?",
+      "zh": "你会说英语吗？",
+      "rank": 336,
+      "word": "speak (spoke, spoken)",
+      "source": "manual"
+    },
+    "level": {
+      "en": "The river's water level has risen.",
+      "zh": "河的水位上升了。",
+      "rank": 339,
+      "word": "level",
+      "source": "tatoeba"
+    },
+    "allow": {
+      "en": "Smoking is not allowed.",
+      "zh": "禁止吸烟。",
+      "rank": 340,
+      "word": "allow",
+      "source": "manual"
+    },
+    "add": {
+      "en": "Add some sugar.",
+      "zh": "加点糖。",
+      "rank": 341,
+      "word": "add",
+      "source": "manual"
+    },
+    "spend": {
+      "en": "Don't spend too much.",
+      "zh": "别花太多。",
+      "rank": 343,
+      "word": "spend (spent, spent)",
+      "source": "manual"
+    },
+    "door": {
+      "en": "Close that door!",
+      "zh": "把門關起來!",
+      "rank": 344,
+      "word": "door",
+      "source": "tatoeba"
+    },
+    "health": {
+      "en": "What surpasses health?",
+      "zh": "什麼比健康還重要？",
+      "rank": 345,
+      "word": "health",
+      "source": "tatoeba"
+    },
+    "person": {
+      "en": "Who's that person?",
+      "zh": "那个人是谁？",
+      "rank": 346,
+      "word": "person",
+      "source": "tatoeba"
+    },
+    "art": {
+      "en": "Can art change the world?",
+      "zh": "藝術能改變世界嗎 ?",
+      "rank": 347,
+      "word": "art",
+      "source": "tatoeba"
+    },
+    "sure": {
+      "en": "Sure, why not?",
+      "zh": "当然，为什么不？",
+      "rank": 348,
+      "word": "sure",
+      "source": "tatoeba"
+    },
+    "war": {
+      "en": "Who likes war?",
+      "zh": "誰喜歡戰爭?",
+      "rank": 350,
+      "word": "war",
+      "source": "tatoeba"
+    },
+    "history": {
+      "en": "History is dark.",
+      "zh": "歷史是黑暗的。",
+      "rank": 351,
+      "word": "history",
+      "source": "tatoeba"
+    },
+    "party": {
+      "en": "Who organised the party?",
+      "zh": "谁组织的派对？",
+      "rank": 352,
+      "word": "party",
+      "source": "tatoeba"
+    },
+    "within": {
+      "en": "It's within about two weeks.",
+      "zh": "大约两周内。",
+      "rank": 353,
+      "word": "within",
+      "source": "tatoeba"
+    },
+    "grow": {
+      "en": "Kids grow so fast.",
+      "zh": "孩子长得真快。",
+      "rank": 354,
+      "word": "grow (grew, grown)",
+      "source": "manual"
+    },
+    "result": {
+      "en": "I didn't expect this result.",
+      "zh": "我没有期望得到这样的结果。",
+      "rank": 355,
+      "word": "result",
+      "source": "tatoeba"
+    },
+    "open": {
+      "en": "Open the window.",
+      "zh": "把窗户打开。",
+      "rank": 356,
+      "word": "open",
+      "source": "manual"
+    },
+    "reason": {
+      "en": "What's the reason?",
+      "zh": "是什么原因呢？",
+      "rank": 360,
+      "word": "reason",
+      "source": "tatoeba"
+    },
+    "low": {
+      "en": "Can you speak Low German?",
+      "zh": "你会讲低地德语吗？",
+      "rank": 361,
+      "word": "low",
+      "source": "tatoeba"
+    },
+    "win": {
+      "en": "We won!",
+      "zh": "我们赢了！",
+      "rank": 362,
+      "word": "win (won, won)",
+      "source": "manual"
+    },
+    "research": {
+      "en": "What does a Sovietologist research?",
+      "zh": "苏联学家研究什么呢？",
+      "rank": 363,
+      "word": "research",
+      "source": "tatoeba"
+    },
+    "early": {
+      "en": "It's so early.",
+      "zh": "太早了。",
+      "rank": 366,
+      "word": "early",
+      "source": "tatoeba"
+    },
+    "moment": {
+      "en": "Just a moment, please!",
+      "zh": "请稍等一下。",
+      "rank": 369,
+      "word": "moment",
+      "source": "tatoeba"
+    },
+    "himself": {
+      "en": "Tom cut himself.",
+      "zh": "汤姆割伤了自己。",
+      "rank": 370,
+      "word": "himself",
+      "source": "tatoeba"
+    },
+    "air": {
+      "en": "Please air the futon.",
+      "zh": "請晾乾蒲團。",
+      "rank": 371,
+      "word": "air",
+      "source": "tatoeba"
+    },
+    "teacher": {
+      "en": "Is the teacher young?",
+      "zh": "那个老师年轻吗？",
+      "rank": 372,
+      "word": "teacher",
+      "source": "tatoeba"
+    },
+    "force": {
+      "en": "Don't try to force me!",
+      "zh": "别逼我！",
+      "rank": 373,
+      "word": "force",
+      "source": "tatoeba"
+    },
+    "offer": {
+      "en": "Can I offer you a drink?",
+      "zh": "请你喝一杯？",
+      "rank": 374,
+      "word": "offer",
+      "source": "manual"
+    },
+    "enough": {
+      "en": "Is that enough?",
+      "zh": "这样就够了?",
+      "rank": 375,
+      "word": "enough",
+      "source": "tatoeba"
+    },
+    "education": {
+      "en": "I think exams ruin education.",
+      "zh": "我认为考试破坏教育。",
+      "rank": 377,
+      "word": "education",
+      "source": "tatoeba"
+    },
+    "across": {
+      "en": "Don't walk across the tracks!",
+      "zh": "不要翻越铁轨！",
+      "rank": 378,
+      "word": "across",
+      "source": "tatoeba"
+    },
+    "although": {
+      "en": "Although I haven't slept on the train.",
+      "zh": "虽然我没在火车上睡觉。",
+      "rank": 379,
+      "word": "although",
+      "source": "tatoeba"
+    },
+    "remember": {
+      "en": "Remember to call me.",
+      "zh": "记得给我打电话。",
+      "rank": 380,
+      "word": "remember",
+      "source": "manual"
+    },
+    "foot": {
+      "en": "I'm six foot three.",
+      "zh": "我有一米九高。",
+      "rank": 381,
+      "word": "foot (feet)",
+      "source": "tatoeba"
+    },
+    "second": {
+      "en": "I second that.",
+      "zh": "我同意。",
+      "rank": 382,
+      "word": "second",
+      "source": "tatoeba"
+    },
+    "maybe": {
+      "en": "Maybe you're right!",
+      "zh": "你可能是对的。",
+      "rank": 384,
+      "word": "maybe",
+      "source": "tatoeba"
+    },
+    "toward": {
+      "en": "We raced toward the fire.",
+      "zh": "我們急忙跑向火。",
+      "rank": 385,
+      "word": "toward(s)",
+      "source": "tatoeba"
+    },
+    "able": {
+      "en": "Are you able to swim?",
+      "zh": "你會游泳嗎?",
+      "rank": 386,
+      "word": "able",
+      "source": "tatoeba"
+    },
+    "age": {
+      "en": "What's your age?",
+      "zh": "你有多大年龄?",
+      "rank": 387,
+      "word": "age",
+      "source": "tatoeba"
+    },
+    "policy": {
+      "en": "Honesty isn't always the best policy.",
+      "zh": "誠實不總是最好的策略。",
+      "rank": 389,
+      "word": "policy",
+      "source": "tatoeba"
+    },
+    "everything": {
+      "en": "Thanks for everything!",
+      "zh": "感謝你的付出。",
+      "rank": 390,
+      "word": "everything",
+      "source": "tatoeba"
+    },
+    "process": {
+      "en": "Learning is a gradual process.",
+      "zh": "学习是一个循序渐进的过程。",
+      "rank": 392,
+      "word": "process",
+      "source": "tatoeba"
+    },
+    "consider": {
+      "en": "I'll consider it.",
+      "zh": "我考虑一下。",
+      "rank": 395,
+      "word": "consider",
+      "source": "manual"
+    },
+    "appear": {
+      "en": "He didn't appear.",
+      "zh": "他没出现。",
+      "rank": 396,
+      "word": "appear",
+      "source": "manual"
+    },
+    "buy": {
+      "en": "I wanna buy this.",
+      "zh": "我想买这个。",
+      "rank": 398,
+      "word": "buy (bought, bought)",
+      "source": "manual"
+    },
+    "probably": {
+      "en": "They're probably tired.",
+      "zh": "她們應該累了吧。",
+      "rank": 399,
+      "word": "probably",
+      "source": "tatoeba"
+    },
+    "human": {
+      "en": "They are human.",
+      "zh": "他們是人類。",
+      "rank": 400,
+      "word": "human",
+      "source": "tatoeba"
+    },
+    "wait": {
+      "en": "Wait for me!",
+      "zh": "等等我！",
+      "rank": 401,
+      "word": "wait",
+      "source": "manual"
+    },
+    "serve": {
+      "en": "How can I serve you?",
+      "zh": "有什么能帮您？",
+      "rank": 402,
+      "word": "serve",
+      "source": "manual"
+    },
+    "market": {
+      "en": "I go into the market.",
+      "zh": "進入市場。",
+      "rank": 403,
+      "word": "market",
+      "source": "tatoeba"
+    },
+    "die": {
+      "en": "Plants die without water.",
+      "zh": "植物没水会死。",
+      "rank": 404,
+      "word": "die",
+      "source": "manual"
+    },
+    "send": {
+      "en": "Send me a message.",
+      "zh": "给我发条消息。",
+      "rank": 405,
+      "word": "send (sent, sent)",
+      "source": "manual"
+    },
+    "expect": {
+      "en": "I didn't expect that.",
+      "zh": "我没想到。",
+      "rank": 406,
+      "word": "expect",
+      "source": "manual"
+    },
+    "sense": {
+      "en": "In what sense?",
+      "zh": "什么意思？",
+      "rank": 408,
+      "word": "sense",
+      "source": "tatoeba"
+    },
+    "build": {
+      "en": "They're building a new mall.",
+      "zh": "他们在建新商场。",
+      "rank": 409,
+      "word": "build (built, built)",
+      "source": "manual"
+    },
+    "stay": {
+      "en": "Stay here.",
+      "zh": "待在这儿。",
+      "rank": 410,
+      "word": "stay",
+      "source": "manual"
+    },
+    "fall": {
+      "en": "Be careful — don't fall!",
+      "zh": "小心，别摔了！",
+      "rank": 411,
+      "word": "fall = autumn",
+      "source": "manual"
+    },
+    "oh": {
+      "en": "Let's oh.",
+      "zh": "咱们.（表示恐惧、惊讶、疑虑等）噢吧。",
+      "rank": 412,
+      "word": "oh",
+      "source": "fallback"
+    },
+    "nation": {
+      "en": "Taiwan is an island nation.",
+      "zh": "台灣是一個島國。",
+      "rank": 413,
+      "word": "nation",
+      "source": "tatoeba"
+    },
+    "plan": {
+      "en": "What's the plan?",
+      "zh": "什么计划？",
+      "rank": 414,
+      "word": "plan",
+      "source": "manual"
+    },
+    "college": {
+      "en": "Should I go to college?",
+      "zh": "我該上大學嗎？",
+      "rank": 416,
+      "word": "college",
+      "source": "tatoeba"
+    },
+    "interest": {
+      "en": "I like this interest.",
+      "zh": "我喜欢这个.兴趣，爱好。",
+      "rank": 417,
+      "word": "interest",
+      "source": "fallback"
+    },
+    "death": {
+      "en": "What happens after death?",
+      "zh": "人死了之后会怎么样？",
+      "rank": 418,
+      "word": "death",
+      "source": "tatoeba"
+    },
+    "course": {
+      "en": "Of course I love you.",
+      "zh": "我当然爱你。",
+      "rank": 419,
+      "word": "course",
+      "source": "tatoeba"
+    },
+    "someone": {
+      "en": "Is someone there?",
+      "zh": "那边有人吗？",
+      "rank": 420,
+      "word": "someone",
+      "source": "tatoeba"
+    },
+    "experience": {
+      "en": "Do you have work experience?",
+      "zh": "你有工作经验吗?",
+      "rank": 421,
+      "word": "experience",
+      "source": "tatoeba"
+    },
+    "behind": {
+      "en": "Who's behind it?",
+      "zh": "幕后操纵者是谁？",
+      "rank": 422,
+      "word": "behind",
+      "source": "tatoeba"
+    },
+    "reach": {
+      "en": "We finally reached home.",
+      "zh": "我们终于到家了。",
+      "rank": 423,
+      "word": "reach",
+      "source": "manual"
+    },
+    "local": {
+      "en": "Sami frequented local sex shops.",
+      "zh": "薩米經常光顧當地的性用品店。",
+      "rank": 424,
+      "word": "local",
+      "source": "tatoeba"
+    },
+    "kill": {
+      "en": "Smoking kills.",
+      "zh": "吸烟有害健康。",
+      "rank": 425,
+      "word": "kill",
+      "source": "manual"
+    },
+    "remain": {
+      "en": "Please remain seated.",
+      "zh": "请坐好。",
+      "rank": 427,
+      "word": "remain",
+      "source": "manual"
+    },
+    "effect": {
+      "en": "Everything has a cause and effect.",
+      "zh": "事事都是有因果的。",
+      "rank": 428,
+      "word": "effect",
+      "source": "tatoeba"
+    },
+    "suggest": {
+      "en": "I suggest we leave early.",
+      "zh": "我建议早点走。",
+      "rank": 431,
+      "word": "suggest",
+      "source": "manual"
+    },
+    "class": {
+      "en": "Let's cut class!",
+      "zh": "我们逃课吧！",
+      "rank": 432,
+      "word": "class",
+      "source": "tatoeba"
+    },
+    "control": {
+      "en": "They control everything.",
+      "zh": "他們控制一切。",
+      "rank": 433,
+      "word": "control",
+      "source": "tatoeba"
+    },
+    "raise": {
+      "en": "Raise your hand.",
+      "zh": "举手。",
+      "rank": 434,
+      "word": "raise",
+      "source": "manual"
+    },
+    "care": {
+      "en": "I like this care.",
+      "zh": "我喜欢这个.关心。",
+      "rank": 435,
+      "word": "care",
+      "source": "fallback"
+    },
+    "perhaps": {
+      "en": "Perhaps it's true.",
+      "zh": "那或許是真的。",
+      "rank": 436,
+      "word": "perhaps",
+      "source": "tatoeba"
+    },
+    "late": {
+      "en": "Nobody was late.",
+      "zh": "没有人迟到。",
+      "rank": 438,
+      "word": "late",
+      "source": "tatoeba"
+    },
+    "hard": {
+      "en": "You work hard!",
+      "zh": "你工作努力。",
+      "rank": 439,
+      "word": "hard",
+      "source": "tatoeba"
+    },
+    "field": {
+      "en": "Do you enjoy your vocational field?",
+      "zh": "你喜欢你的职业吗？",
+      "rank": 440,
+      "word": "field",
+      "source": "tatoeba"
+    },
+    "else": {
+      "en": "I'm somewhere else.",
+      "zh": "我在另一个地方。",
+      "rank": 441,
+      "word": "else",
+      "source": "tatoeba"
+    },
+    "pass": {
+      "en": "Pass me the salt.",
+      "zh": "把盐递给我。",
+      "rank": 442,
+      "word": "pass",
+      "source": "manual"
+    },
+    "former": {
+      "en": "Kyoto is Japan's former capital.",
+      "zh": "京都市曾經是日本的首都。",
+      "rank": 443,
+      "word": "former",
+      "source": "tatoeba"
+    },
+    "sell": {
+      "en": "They're selling it cheap.",
+      "zh": "卖得很便宜。",
+      "rank": 444,
+      "word": "sell (sold, sold)",
+      "source": "manual"
+    },
+    "major": {
+      "en": "What's your major?",
+      "zh": "你的专业是什么？",
+      "rank": 445,
+      "word": "major",
+      "source": "tatoeba"
+    },
+    "sometimes": {
+      "en": "He sometimes oversleeps.",
+      "zh": "他有时候会睡过头。",
+      "rank": 446,
+      "word": "sometimes",
+      "source": "tatoeba"
+    },
+    "require": {
+      "en": "What do you require?",
+      "zh": "您需要什么？",
+      "rank": 447,
+      "word": "require",
+      "source": "manual"
+    },
+    "development": {
+      "en": "I like this development.",
+      "zh": "我喜欢这个.发展，进化。",
+      "rank": 449,
+      "word": "development",
+      "source": "fallback"
+    },
+    "themselves": {
+      "en": "Why do people kill themselves?",
+      "zh": "為什麼有的人要自殺？",
+      "rank": 450,
+      "word": "themselves",
+      "source": "tatoeba"
+    },
+    "report": {
+      "en": "I gotta report to work.",
+      "zh": "我得去上班了。",
+      "rank": 451,
+      "word": "report",
+      "source": "manual"
+    },
+    "role": {
+      "en": "Must the woman always play the secondary role?",
+      "zh": "女性永遠只能扮演次要角色嗎？",
+      "rank": 452,
+      "word": "role",
+      "source": "tatoeba"
+    },
+    "effort": {
+      "en": "You can't achieve anything without effort.",
+      "zh": "没有什么是不劳而获的。",
+      "rank": 455,
+      "word": "effort",
+      "source": "tatoeba"
+    },
+    "decide": {
+      "en": "You decide.",
+      "zh": "你决定吧。",
+      "rank": 457,
+      "word": "decide",
+      "source": "manual"
+    },
+    "rate": {
+      "en": "What's the exchange rate today?",
+      "zh": "今天的匯率是多少？",
+      "rank": 458,
+      "word": "rate",
+      "source": "tatoeba"
+    },
+    "strong": {
+      "en": "He is strong.",
+      "zh": "他很強壯。",
+      "rank": 459,
+      "word": "strong",
+      "source": "tatoeba"
+    },
+    "possible": {
+      "en": "That's not possible!",
+      "zh": "这不可能！",
+      "rank": 460,
+      "word": "possible",
+      "source": "tatoeba"
+    },
+    "heart": {
+      "en": "My heart aches.",
+      "zh": "我心痛。",
+      "rank": 461,
+      "word": "heart",
+      "source": "tatoeba"
+    },
+    "drug": {
+      "en": "Do you have a drug problem?",
+      "zh": "你是不是吸毒吸傻了？",
+      "rank": 462,
+      "word": "drug",
+      "source": "tatoeba"
+    },
+    "leader": {
+      "en": "I'm the leader of this team.",
+      "zh": "我是该队的领导者。",
+      "rank": 464,
+      "word": "leader",
+      "source": "tatoeba"
+    },
+    "light": {
+      "en": "There's no light.",
+      "zh": "這裏沒有光。",
+      "rank": 465,
+      "word": "light",
+      "source": "tatoeba"
+    },
+    "voice": {
+      "en": "Keep your voice down!",
+      "zh": "你说话小点声。",
+      "rank": 466,
+      "word": "voice",
+      "source": "tatoeba"
+    },
+    "wife": {
+      "en": "How's the wife?",
+      "zh": "你太太怎么样？",
+      "rank": 467,
+      "word": "wife",
+      "source": "tatoeba"
+    },
+    "whole": {
+      "en": "My whole body was sore.",
+      "zh": "她浑身酸痛。",
+      "rank": 468,
+      "word": "whole",
+      "source": "tatoeba"
+    },
+    "police": {
+      "en": "Where was the police?",
+      "zh": "警察当时在哪儿?",
+      "rank": 469,
+      "word": "police",
+      "source": "tatoeba"
+    },
+    "mind": {
+      "en": "Mind your step.",
+      "zh": "小心脚下。",
+      "rank": 470,
+      "word": "mind",
+      "source": "tatoeba"
+    },
+    "pull": {
+      "en": "Pull the door.",
+      "zh": "拉门。",
+      "rank": 472,
+      "word": "pull",
+      "source": "manual"
+    },
+    "return": {
+      "en": "When will you return?",
+      "zh": "你什么时候回来？",
+      "rank": 473,
+      "word": "return",
+      "source": "manual"
+    },
+    "price": {
+      "en": "Price reflects demand.",
+      "zh": "價格反映著需求。",
+      "rank": 476,
+      "word": "price",
+      "source": "tatoeba"
+    },
+    "decision": {
+      "en": "Have you made your decision?",
+      "zh": "你决定好了吗？",
+      "rank": 480,
+      "word": "decision",
+      "source": "tatoeba"
+    },
+    "explain": {
+      "en": "Can you explain that?",
+      "zh": "能解释一下吗？",
+      "rank": 481,
+      "word": "explain",
+      "source": "manual"
+    },
+    "son": {
+      "en": "He's my son.",
+      "zh": "他是我兒子。",
+      "rank": 482,
+      "word": "son",
+      "source": "tatoeba"
+    },
+    "hope": {
+      "en": "I hope so.",
+      "zh": "希望如此。",
+      "rank": 483,
+      "word": "hope",
+      "source": "manual"
+    },
+    "develop": {
+      "en": "Things are developing fast.",
+      "zh": "事情发展很快。",
+      "rank": 485,
+      "word": "develop",
+      "source": "manual"
+    },
+    "view": {
+      "en": "How do Muslims view Jews?",
+      "zh": "穆斯林人对犹太人有什么看法？",
+      "rank": 486,
+      "word": "view",
+      "source": "tatoeba"
+    },
+    "relationship": {
+      "en": "Is there a causal relationship?",
+      "zh": "有因果關係嗎？",
+      "rank": 487,
+      "word": "relationship",
+      "source": "tatoeba"
+    },
+    "carry": {
+      "en": "Can you carry this?",
+      "zh": "能帮我拿一下吗？",
+      "rank": 488,
+      "word": "carry",
+      "source": "manual"
+    },
+    "town": {
+      "en": "What's your favourite town?",
+      "zh": "你最喜欢的城市是什么？",
+      "rank": 489,
+      "word": "town",
+      "source": "tatoeba"
+    },
+    "road": {
+      "en": "Where is this road?",
+      "zh": "這條路在哪裡？",
+      "rank": 490,
+      "word": "road",
+      "source": "tatoeba"
+    },
+    "drive": {
+      "en": "Drive the car!",
+      "zh": "你，開車！",
+      "rank": 491,
+      "word": "drive(drove, driven)",
+      "source": "tatoeba"
+    },
+    "arm": {
+      "en": "How's your arm?",
+      "zh": "你的手臂怎麼了？",
+      "rank": 492,
+      "word": "arm",
+      "source": "tatoeba"
+    },
+    "true": {
+      "en": "Is this true?",
+      "zh": "这是真的吗？",
+      "rank": 493,
+      "word": "true",
+      "source": "tatoeba"
+    },
+    "federal": {
+      "en": "Federal, state, and community officials immediately pledged to rebuild it.",
+      "zh": "聯邦、州及地方官員立即承諾將其重建。",
+      "rank": 494,
+      "word": "federal",
+      "source": "tatoeba"
+    },
+    "break": {
+      "en": "Don't break it.",
+      "zh": "别弄坏了。",
+      "rank": 495,
+      "word": "break (broke, broken)",
+      "source": "manual"
+    },
+    "difference": {
+      "en": "The difference is striking.",
+      "zh": "差異驚人。",
+      "rank": 497,
+      "word": "difference",
+      "source": "tatoeba"
+    },
+    "thank": {
+      "en": "I like this thank.",
+      "zh": "我喜欢这个.谢谢，感谢。",
+      "rank": 498,
+      "word": "thank",
+      "source": "fallback"
+    },
+    "receive": {
+      "en": "Did you receive my text?",
+      "zh": "收到我短信了吗？",
+      "rank": 499,
+      "word": "receive",
+      "source": "manual"
+    },
+    "value": {
+      "en": "That would be even better value.",
+      "zh": "那就实惠多了。",
+      "rank": 500,
+      "word": "value",
+      "source": "tatoeba"
+    },
+    "international": {
+      "en": "Happy International Women's Day!",
+      "zh": "國際婦女節快樂！",
+      "rank": 501,
+      "word": "international",
+      "source": "tatoeba"
+    },
+    "building": {
+      "en": "What's that building?",
+      "zh": "那栋建筑是什么呢？",
+      "rank": 502,
+      "word": "building",
+      "source": "tatoeba"
+    },
+    "action": {
+      "en": "His action throughout was correct.",
+      "zh": "他的行為由始至終都是對的。",
+      "rank": 503,
+      "word": "action",
+      "source": "tatoeba"
+    },
+    "full": {
+      "en": "Are you full?",
+      "zh": "你吃飽了嗎？",
+      "rank": 504,
+      "word": "full",
+      "source": "tatoeba"
+    },
+    "model": {
+      "en": "I've made a model aeroplane.",
+      "zh": "我造了一架模型飛機。",
+      "rank": 505,
+      "word": "model",
+      "source": "tatoeba"
+    },
+    "season": {
+      "en": "Are oysters in season now?",
+      "zh": "现在牡蛎当季吗？",
+      "rank": 507,
+      "word": "season",
+      "source": "tatoeba"
+    },
+    "society": {
+      "en": "We live in a society.",
+      "zh": "我们住在一个社会。",
+      "rank": 508,
+      "word": "society",
+      "source": "tatoeba"
+    },
+    "tax": {
+      "en": "Tom is a tax inspector.",
+      "zh": "湯姆是稅務督察。",
+      "rank": 510,
+      "word": "tax",
+      "source": "tatoeba"
+    },
+    "director": {
+      "en": "Who's your favorite movie director?",
+      "zh": "谁是您最喜欢的导演？",
+      "rank": 511,
+      "word": "director",
+      "source": "tatoeba"
+    },
+    "position": {
+      "en": "Has that secretarial position been filled?",
+      "zh": "秘书的职位已经有人了吗？",
+      "rank": 513,
+      "word": "position",
+      "source": "tatoeba"
+    },
+    "agree": {
+      "en": "I agree with you.",
+      "zh": "我同意你的看法。",
+      "rank": 515,
+      "word": "agree",
+      "source": "manual"
+    },
+    "especially": {
+      "en": "I love music, especially rock.",
+      "zh": "我很喜欢音乐，特别是摇滚。",
+      "rank": 516,
+      "word": "especially",
+      "source": "tatoeba"
+    },
+    "record": {
+      "en": "She broke the world record.",
+      "zh": "她打破了世界紀錄。",
+      "rank": 517,
+      "word": "record",
+      "source": "tatoeba"
+    },
+    "pick": {
+      "en": "Pick one.",
+      "zh": "选一个。",
+      "rank": 518,
+      "word": "pick",
+      "source": "manual"
+    },
+    "paper": {
+      "en": "Is that paper?",
+      "zh": "那是紙嗎？",
+      "rank": 520,
+      "word": "paper",
+      "source": "tatoeba"
+    },
+    "special": {
+      "en": "That's nothing special.",
+      "zh": "没事儿。",
+      "rank": 521,
+      "word": "special",
+      "source": "tatoeba"
+    },
+    "space": {
+      "en": "I need time and space.",
+      "zh": "我需要時間和空間。",
+      "rank": 522,
+      "word": "space",
+      "source": "tatoeba"
+    },
+    "ground": {
+      "en": "He fell on the ground.",
+      "zh": "他摔倒在地。",
+      "rank": 523,
+      "word": "ground",
+      "source": "tatoeba"
+    },
+    "form": {
+      "en": "Fill in this form, please.",
+      "zh": "请填写这份表格。",
+      "rank": 524,
+      "word": "form",
+      "source": "tatoeba"
+    },
+    "support": {
+      "en": "I'll support you.",
+      "zh": "我会支持你的。",
+      "rank": 525,
+      "word": "support",
+      "source": "manual"
+    },
+    "event": {
+      "en": "Who organised this event?",
+      "zh": "誰組織的這場活動？",
+      "rank": 526,
+      "word": "event",
+      "source": "tatoeba"
+    },
+    "official": {
+      "en": "Tom isn't an elected official.",
+      "zh": "湯姆不是選出來的官員。",
+      "rank": 527,
+      "word": "official",
+      "source": "tatoeba"
+    },
+    "matter": {
+      "en": "It doesn't matter!",
+      "zh": "没关系！",
+      "rank": 529,
+      "word": "matter",
+      "source": "tatoeba"
+    },
+    "everyone": {
+      "en": "I like this everyone.",
+      "zh": "我喜欢这个.每人，人人。",
+      "rank": 530,
+      "word": "everyone",
+      "source": "fallback"
+    },
+    "centre": {
+      "en": "Where's the nearest shopping centre?",
+      "zh": "最近的大卖场在哪里？",
+      "rank": 531,
+      "word": "centre (center )",
+      "source": "tatoeba"
+    },
+    "couple": {
+      "en": "We're a couple.",
+      "zh": "我們是夫婦。",
+      "rank": 532,
+      "word": "couple",
+      "source": "tatoeba"
+    },
+    "project": {
+      "en": "How is your project progressing?",
+      "zh": "專案的進展情況如何？",
+      "rank": 535,
+      "word": "project",
+      "source": "tatoeba"
+    },
+    "hit": {
+      "en": "Don't hit me.",
+      "zh": "别打我。",
+      "rank": 536,
+      "word": "hit (hit, hit)",
+      "source": "manual"
+    },
+    "base": {
+      "en": "What do you base your theory on?",
+      "zh": "你的理論是以什麼為基礎?",
+      "rank": 537,
+      "word": "base",
+      "source": "tatoeba"
+    },
+    "activity": {
+      "en": "The town was full of activity.",
+      "zh": "小镇充满了活力。",
+      "rank": 538,
+      "word": "activity",
+      "source": "tatoeba"
+    },
+    "star": {
+      "en": "Who's your favourite TV star?",
+      "zh": "谁是你最喜爱的电视明星？",
+      "rank": 539,
+      "word": "star",
+      "source": "tatoeba"
+    },
+    "table": {
+      "en": "Where's the dressing table?",
+      "zh": "梳妝臺在哪裡？",
+      "rank": 540,
+      "word": "table",
+      "source": "tatoeba"
+    },
+    "court": {
+      "en": "Have you met the new court jester?",
+      "zh": "你见过新来的那货了吗？",
+      "rank": 542,
+      "word": "court",
+      "source": "tatoeba"
+    },
+    "produce": {
+      "en": "This factory produces cars.",
+      "zh": "这家工厂生产汽车。",
+      "rank": 543,
+      "word": "produce",
+      "source": "manual"
+    },
+    "teach": {
+      "en": "Teach me why.",
+      "zh": "老师教我的。",
+      "rank": 546,
+      "word": "teach(taught, taught)",
+      "source": "tatoeba"
+    },
+    "oil": {
+      "en": "I like this oil.",
+      "zh": "我喜欢这个.油。",
+      "rank": 547,
+      "word": "oil",
+      "source": "fallback"
+    },
+    "half": {
+      "en": "I like this half.",
+      "zh": "我喜欢这个.一半的，半个的。",
+      "rank": 548,
+      "word": "half",
+      "source": "fallback"
+    },
+    "situation": {
+      "en": "I like this situation.",
+      "zh": "我喜欢这个.（人的）情况。",
+      "rank": 549,
+      "word": "situation",
+      "source": "fallback"
+    },
+    "easy": {
+      "en": "That's pretty easy.",
+      "zh": "那挺.容易的的。",
+      "rank": 550,
+      "word": "easy",
+      "source": "fallback"
+    },
+    "cost": {
+      "en": "I like this cost.",
+      "zh": "我喜欢这个.价钱，代价。",
+      "rank": 551,
+      "word": "cost (cost, cost)",
+      "source": "fallback"
+    },
+    "industry": {
+      "en": "I like this industry.",
+      "zh": "我喜欢这个.工业。",
+      "rank": 552,
+      "word": "industry",
+      "source": "fallback"
+    },
+    "figure": {
+      "en": "I like this figure.",
+      "zh": "我喜欢这个.数字。",
+      "rank": 553,
+      "word": "figure",
+      "source": "fallback"
+    },
+    "street": {
+      "en": "I like this street.",
+      "zh": "我喜欢这个.大街，街道。",
+      "rank": 555,
+      "word": "street",
+      "source": "fallback"
+    },
+    "itself": {
+      "en": "I like this itself.",
+      "zh": "我喜欢这个.(的反身形式)。",
+      "rank": 557,
+      "word": "itself",
+      "source": "fallback"
+    },
+    "phone": {
+      "en": "I like this phone.",
+      "zh": "我喜欢这个.电话。",
+      "rank": 558,
+      "word": "phone = telephone",
+      "source": "fallback"
+    },
+    "either": {
+      "en": "I like this either.",
+      "zh": "我喜欢这个.（两者之中）任何一个。",
+      "rank": 559,
+      "word": "either",
+      "source": "fallback"
+    },
+    "data": {
+      "en": "I like this data.",
+      "zh": "我喜欢这个.资料，材料。",
+      "rank": 560,
+      "word": "data",
+      "source": "fallback"
+    },
+    "cover": {
+      "en": "Cover your mouth.",
+      "zh": "捂住嘴。",
+      "rank": 561,
+      "word": "cover",
+      "source": "manual"
+    },
+    "quite": {
+      "en": "She said it quite.",
+      "zh": "她.相当，很地说了。",
+      "rank": 562,
+      "word": "quite",
+      "source": "fallback"
+    },
+    "clear": {
+      "en": "I like this clear.",
+      "zh": "我喜欢这个.清楚的，明白的。",
+      "rank": 564,
+      "word": "clear",
+      "source": "fallback"
+    },
+    "practice": {
+      "en": "I like this practice.",
+      "zh": "我喜欢这个.练习。",
+      "rank": 565,
+      "word": "practice",
+      "source": "fallback"
+    },
+    "practise": {
+      "en": "I like this practise.",
+      "zh": "我喜欢这个.练习。",
+      "rank": 565,
+      "word": "practise (practice)",
+      "source": "fallback"
+    },
+    "piece": {
+      "en": "I like this piece.",
+      "zh": "我喜欢这个.块，片，段。",
+      "rank": 566,
+      "word": "piece",
+      "source": "fallback"
+    },
+    "land": {
+      "en": "I like this land.",
+      "zh": "我喜欢这个.陆地。",
+      "rank": 567,
+      "word": "land",
+      "source": "fallback"
+    },
+    "recent": {
+      "en": "That's pretty recent.",
+      "zh": "那挺.最近的的。",
+      "rank": 568,
+      "word": "recent",
+      "source": "fallback"
+    },
+    "describe": {
+      "en": "Let's describe.",
+      "zh": "咱们.描写，形容吧。",
+      "rank": 569,
+      "word": "describe",
+      "source": "fallback"
+    },
+    "product": {
+      "en": "I like this product.",
+      "zh": "我喜欢这个.产品。",
+      "rank": 570,
+      "word": "product",
+      "source": "fallback"
+    },
+    "doctor": {
+      "en": "I like this doctor.",
+      "zh": "我喜欢这个.医生，大夫。",
+      "rank": 571,
+      "word": "doctor",
+      "source": "fallback"
+    },
+    "wall": {
+      "en": "I like this wall.",
+      "zh": "我喜欢这个.墙。",
+      "rank": 572,
+      "word": "wall",
+      "source": "fallback"
+    },
+    "patient": {
+      "en": "I like this patient.",
+      "zh": "我喜欢这个.有耐性的。",
+      "rank": 573,
+      "word": "patient",
+      "source": "fallback"
+    },
+    "worker": {
+      "en": "I like this worker.",
+      "zh": "我喜欢这个.工人，员工。",
+      "rank": 574,
+      "word": "worker",
+      "source": "fallback"
+    },
+    "news": {
+      "en": "What's the news?",
+      "zh": "有什么新鲜事吗？",
+      "rank": 575,
+      "word": "news",
+      "source": "tatoeba"
+    },
+    "test": {
+      "en": "How did the test go?",
+      "zh": "你的测验怎么样？",
+      "rank": 576,
+      "word": "test",
+      "source": "tatoeba"
+    },
+    "movie": {
+      "en": "When's the movie?",
+      "zh": "電影什麼時候開始？",
+      "rank": 577,
+      "word": "movie",
+      "source": "tatoeba"
+    },
+    "certain": {
+      "en": "Are you certain?",
+      "zh": "你肯定吗？",
+      "rank": 578,
+      "word": "certain",
+      "source": "tatoeba"
+    },
+    "north": {
+      "en": "Where's the North?",
+      "zh": "哪个方向是北？",
+      "rank": 579,
+      "word": "north",
+      "source": "tatoeba"
+    },
+    "personal": {
+      "en": "It's something personal.",
+      "zh": "这是私人的。",
+      "rank": 581,
+      "word": "personal",
+      "source": "tatoeba"
+    },
+    "technology": {
+      "en": "What is the advantage of that technology?",
+      "zh": "这种科技的优势是什么？",
+      "rank": 586,
+      "word": "technology",
+      "source": "tatoeba"
+    },
+    "catch": {
+      "en": "Catch the ball!",
+      "zh": "接住球！",
+      "rank": 587,
+      "word": "catch (caught, caught)",
+      "source": "manual"
+    },
+    "step": {
+      "en": "Please step forward.",
+      "zh": "请向前一步。",
+      "rank": 588,
+      "word": "step",
+      "source": "tatoeba"
+    },
+    "baby": {
+      "en": "This baby is really cute!",
+      "zh": "这娃儿真可爱！",
+      "rank": 589,
+      "word": "baby",
+      "source": "tatoeba"
+    },
+    "computer": {
+      "en": "My computer fell.",
+      "zh": "电脑崩溃了。",
+      "rank": 590,
+      "word": "computer",
+      "source": "tatoeba"
+    },
+    "type": {
+      "en": "What's your blood type?",
+      "zh": "你的血型是什么？",
+      "rank": 591,
+      "word": "type",
+      "source": "tatoeba"
+    },
+    "attention": {
+      "en": "Please pay attention.",
+      "zh": "請注意。",
+      "rank": 592,
+      "word": "attention",
+      "source": "tatoeba"
+    },
+    "draw": {
+      "en": "Draw a picture.",
+      "zh": "画幅画。",
+      "rank": 593,
+      "word": "draw (drew, drawn)",
+      "source": "manual"
+    },
+    "nearly": {
+      "en": "We're nearly home.",
+      "zh": "快到家了。",
+      "rank": 599,
+      "word": "nearly",
+      "source": "tatoeba"
+    },
+    "organization": {
+      "en": "The organization helps the poor.",
+      "zh": "組織幫助窮人。",
+      "rank": 600,
+      "word": "organization",
+      "source": "tatoeba"
+    },
+    "choose": {
+      "en": "You choose.",
+      "zh": "你来选。",
+      "rank": 601,
+      "word": "choose (chose, chosen)",
+      "source": "manual"
+    },
+    "cause": {
+      "en": "What caused the problem?",
+      "zh": "什么问题引起的？",
+      "rank": 602,
+      "word": "cause",
+      "source": "manual"
+    },
+    "century": {
+      "en": "A century is one hundred years.",
+      "zh": "一个世纪就是一百年。",
+      "rank": 606,
+      "word": "century",
+      "source": "tatoeba"
+    },
+    "evidence": {
+      "en": "There's no evidence.",
+      "zh": "没有任何证据表明。",
+      "rank": 607,
+      "word": "evidence",
+      "source": "tatoeba"
+    },
+    "difficult": {
+      "en": "Greek is difficult.",
+      "zh": "希腊语很难。",
+      "rank": 609,
+      "word": "difficult",
+      "source": "tatoeba"
+    },
+    "listen": {
+      "en": "Listen to me.",
+      "zh": "听我说。",
+      "rank": 610,
+      "word": "listen",
+      "source": "manual"
+    },
+    "soon": {
+      "en": "Come back soon!",
+      "zh": "早點回來吧。",
+      "rank": 611,
+      "word": "soon",
+      "source": "tatoeba"
+    },
+    "culture": {
+      "en": "Is PC culture good or bad?",
+      "zh": "電腦文化是好是壞？",
+      "rank": 612,
+      "word": "culture",
+      "source": "tatoeba"
+    },
+    "billion": {
+      "en": "More than a billion people live in China.",
+      "zh": "中國有超過十億人口。",
+      "rank": 613,
+      "word": "billion",
+      "source": "tatoeba"
+    },
+    "chance": {
+      "en": "Everybody deserves a second chance.",
+      "zh": "每個人都值得被給予第二次機會。",
+      "rank": 614,
+      "word": "chance",
+      "source": "tatoeba"
+    },
+    "energy": {
+      "en": "Can Algeria rely on renewable energy?",
+      "zh": "阿尔及利亚能依赖可再生能源吗？",
+      "rank": 616,
+      "word": "energy",
+      "source": "tatoeba"
+    },
+    "period": {
+      "en": "I'm late with my period.",
+      "zh": "我的月經延遲了。",
+      "rank": 617,
+      "word": "period",
+      "source": "tatoeba"
+    },
+    "summer": {
+      "en": "I like summer.",
+      "zh": "我愛夏天。",
+      "rank": 619,
+      "word": "summer",
+      "source": "tatoeba"
+    },
+    "realise": {
+      "en": "One day you'll realise how important saving is.",
+      "zh": "有朝一日你會懂得存錢的重要性的。",
+      "rank": 621,
+      "word": "realise (realize)",
+      "source": "tatoeba"
+    },
+    "available": {
+      "en": "Are any seats still available?",
+      "zh": "還剩座位嗎？",
+      "rank": 623,
+      "word": "available",
+      "source": "tatoeba"
+    },
+    "likely": {
+      "en": "That's pretty likely.",
+      "zh": "那挺.可能的的。",
+      "rank": 625,
+      "word": "likely",
+      "source": "fallback"
+    },
+    "term": {
+      "en": "Did he get here last term?",
+      "zh": "他是上个学期来的吗？",
+      "rank": 627,
+      "word": "term",
+      "source": "tatoeba"
+    },
+    "letter": {
+      "en": "By registered letter?",
+      "zh": "寄掛號嗎？",
+      "rank": 629,
+      "word": "letter",
+      "source": "tatoeba"
+    },
+    "condition": {
+      "en": "Rima has an intersex condition.",
+      "zh": "里瑪患有陰陽人症。",
+      "rank": 630,
+      "word": "condition",
+      "source": "tatoeba"
+    },
+    "choice": {
+      "en": "There's no choice.",
+      "zh": "别无选择。",
+      "rank": 631,
+      "word": "choice",
+      "source": "tatoeba"
+    },
+    "single": {
+      "en": "You're single, right?",
+      "zh": "是單身吧？",
+      "rank": 633,
+      "word": "single",
+      "source": "tatoeba"
+    },
+    "rule": {
+      "en": "Every rule has exceptions.",
+      "zh": "一切规则都有例外。",
+      "rank": 634,
+      "word": "rule",
+      "source": "tatoeba"
+    },
+    "daughter": {
+      "en": "How's your daughter?",
+      "zh": "你女儿怎么了？",
+      "rank": 635,
+      "word": "daughter",
+      "source": "tatoeba"
+    },
+    "administration": {
+      "en": "I like this administration.",
+      "zh": "我喜欢这个.管理。",
+      "rank": 636,
+      "word": "administration",
+      "source": "fallback"
+    },
+    "south": {
+      "en": "I'm South Korean.",
+      "zh": "我是韓國人。",
+      "rank": 637,
+      "word": "south",
+      "source": "tatoeba"
+    },
+    "husband": {
+      "en": "Where's my husband?",
+      "zh": "我的丈夫在哪裡？",
+      "rank": 638,
+      "word": "husband",
+      "source": "tatoeba"
+    },
+    "floor": {
+      "en": "Get down on the floor!",
+      "zh": "趴在地上!",
+      "rank": 640,
+      "word": "floor",
+      "source": "tatoeba"
+    },
+    "campaign": {
+      "en": "The poster campaign didn't reach its target audience.",
+      "zh": "海报宣传活动偏离了其目标群体。",
+      "rank": 641,
+      "word": "campaign",
+      "source": "tatoeba"
+    },
+    "material": {
+      "en": "Is it a good material?",
+      "zh": "材料是很好吗？",
+      "rank": 642,
+      "word": "material",
+      "source": "tatoeba"
+    },
+    "population": {
+      "en": "What is the population of Japan?",
+      "zh": "日本的人口是多少？",
+      "rank": 643,
+      "word": "population",
+      "source": "tatoeba"
+    },
+    "medical": {
+      "en": "Do you have medical insurance?",
+      "zh": "你有醫療保險嗎？",
+      "rank": 647,
+      "word": "medical",
+      "source": "tatoeba"
+    },
+    "hospital": {
+      "en": "It's a hospital.",
+      "zh": "那是一家医院。",
+      "rank": 648,
+      "word": "hospital",
+      "source": "tatoeba"
+    },
+    "church": {
+      "en": "Do you go to church?",
+      "zh": "你去教堂嗎？",
+      "rank": 649,
+      "word": "church",
+      "source": "tatoeba"
+    },
+    "close": {
+      "en": "Close your eyes.",
+      "zh": "闭上眼睛。",
+      "rank": 650,
+      "word": "close",
+      "source": "manual"
+    },
+    "fire": {
+      "en": "We need fire.",
+      "zh": "我们需要火。",
+      "rank": 654,
+      "word": "fire",
+      "source": "tatoeba"
+    },
+    "future": {
+      "en": "Be more careful in future.",
+      "zh": "以後得小心點啊。",
+      "rank": 655,
+      "word": "future",
+      "source": "tatoeba"
+    },
+    "wrong": {
+      "en": "Is it wrong?",
+      "zh": "不對？",
+      "rank": 656,
+      "word": "wrong",
+      "source": "tatoeba"
+    },
+    "defence": {
+      "en": "I like this defence.",
+      "zh": "我喜欢这个.(-)（美国）国防部，防卫，防卫物。",
+      "rank": 658,
+      "word": "defence (defense)",
+      "source": "fallback"
+    },
+    "anyone": {
+      "en": "Is anyone in?",
+      "zh": "家里有人吗？",
+      "rank": 659,
+      "word": "anyone",
+      "source": "tatoeba"
+    },
+    "increase": {
+      "en": "I like this increase.",
+      "zh": "我喜欢这个.&.增加，增大，增多。",
+      "rank": 660,
+      "word": "increase",
+      "source": "fallback"
+    },
+    "security": {
+      "en": "Is there a security problem?",
+      "zh": "有安全問題嗎？",
+      "rank": 661,
+      "word": "security",
+      "source": "tatoeba"
+    },
+    "bank": {
+      "en": "When does the bank open?",
+      "zh": "银行什么时候开门？",
+      "rank": 662,
+      "word": "bank",
+      "source": "tatoeba"
+    },
+    "myself": {
+      "en": "I've cut myself.",
+      "zh": "我切到自己了。",
+      "rank": 663,
+      "word": "myself",
+      "source": "tatoeba"
+    },
+    "west": {
+      "en": "There's nothing new in the West.",
+      "zh": "西線無戰事",
+      "rank": 665,
+      "word": "west",
+      "source": "tatoeba"
+    },
+    "board": {
+      "en": "Can I bring this on board?",
+      "zh": "我能把这个东西带到飞机上吗？",
+      "rank": 667,
+      "word": "board",
+      "source": "tatoeba"
+    },
+    "seek": {
+      "en": "Let's play hide and seek.",
+      "zh": "來玩捉迷藏吧！",
+      "rank": 668,
+      "word": "seek",
+      "source": "tatoeba"
+    },
+    "per": {
+      "en": "What's the productivity per person?",
+      "zh": "​人均生產力是多少？",
+      "rank": 669,
+      "word": "per",
+      "source": "tatoeba"
+    },
+    "subject": {
+      "en": "What subject do you study?",
+      "zh": "你在學什麼科目？",
+      "rank": 670,
+      "word": "subject",
+      "source": "tatoeba"
+    },
+    "officer": {
+      "en": "He became a police officer.",
+      "zh": "他成为了一个警察。",
+      "rank": 671,
+      "word": "officer",
+      "source": "tatoeba"
+    },
+    "private": {
+      "en": "Can we talk in private?",
+      "zh": "我们能私下谈谈吗？",
+      "rank": 672,
+      "word": "private",
+      "source": "tatoeba"
+    },
+    "rest": {
+      "en": "Have a good rest!",
+      "zh": "好好休息吧！",
+      "rank": 673,
+      "word": "rest",
+      "source": "tatoeba"
+    },
+    "deal": {
+      "en": "What's the deal?",
+      "zh": "怎么了？",
+      "rank": 675,
+      "word": "deal",
+      "source": "tatoeba"
+    },
+    "performance": {
+      "en": "Good luck with tonight's performance!",
+      "zh": "祝今晚首演顺利，成功！",
+      "rank": 676,
+      "word": "performance",
+      "source": "tatoeba"
+    },
+    "fight": {
+      "en": "You always fight!",
+      "zh": "你們總是打架。",
+      "rank": 677,
+      "word": "fight (fought, fought)",
+      "source": "tatoeba"
+    },
+    "throw": {
+      "en": "I'm going to throw up.",
+      "zh": "我要吐了。",
+      "rank": 678,
+      "word": "throw(threw, thrown)",
+      "source": "tatoeba"
+    },
+    "top": {
+      "en": "He is driving at top speed.",
+      "zh": "他全速驾驶着。",
+      "rank": 679,
+      "word": "top",
+      "source": "tatoeba"
+    },
+    "goal": {
+      "en": "That's my goal.",
+      "zh": "这是我的目的。",
+      "rank": 682,
+      "word": "goal",
+      "source": "tatoeba"
+    },
+    "bed": {
+      "en": "I'm in bed.",
+      "zh": "我在床上。",
+      "rank": 684,
+      "word": "bed",
+      "source": "tatoeba"
+    },
+    "order": {
+      "en": "Why not order pizza?",
+      "zh": "為何不訂披薩？",
+      "rank": 685,
+      "word": "order",
+      "source": "tatoeba"
+    },
+    "author": {
+      "en": "Who is your favourite author?",
+      "zh": "你最喜欢的作家是谁？",
+      "rank": 686,
+      "word": "author",
+      "source": "tatoeba"
+    },
+    "fill": {
+      "en": "Fill in this form, please.",
+      "zh": "请填写这份表格。",
+      "rank": 687,
+      "word": "fill",
+      "source": "tatoeba"
+    },
+    "represent": {
+      "en": "The blue lines on the map represent rivers.",
+      "zh": "地图上的蓝线代表河流。",
+      "rank": 688,
+      "word": "represent",
+      "source": "tatoeba"
+    },
+    "focus": {
+      "en": "The focus of the discussion was unemployment.",
+      "zh": "討論的重點是失業問題。",
+      "rank": 689,
+      "word": "focus",
+      "source": "tatoeba"
+    },
+    "foreign": {
+      "en": "Do you have foreign stamps?",
+      "zh": "你有外國郵票嗎？",
+      "rank": 690,
+      "word": "foreign",
+      "source": "tatoeba"
+    },
+    "drop": {
+      "en": "Drop it.",
+      "zh": "放下。",
+      "rank": 691,
+      "word": "drop",
+      "source": "manual"
+    },
+    "blood": {
+      "en": "Is that blood?",
+      "zh": "那是血嗎？",
+      "rank": 693,
+      "word": "blood",
+      "source": "tatoeba"
+    },
+    "upon": {
+      "en": "There's no chair to sit upon.",
+      "zh": "沒有椅子坐。",
+      "rank": 694,
+      "word": "upon",
+      "source": "tatoeba"
+    },
+    "agency": {
+      "en": "Where's the nearest travel agency?",
+      "zh": "最近的旅行社在哪裡？",
+      "rank": 695,
+      "word": "agency",
+      "source": "tatoeba"
+    },
+    "push": {
+      "en": "Push the button.",
+      "zh": "按按钮。",
+      "rank": 696,
+      "word": "push",
+      "source": "manual"
+    },
+    "nature": {
+      "en": "It's human nature.",
+      "zh": "它是人的天性。",
+      "rank": 697,
+      "word": "nature",
+      "source": "tatoeba"
+    },
+    "store": {
+      "en": "When does the store open?",
+      "zh": "商店幾點開門啊？",
+      "rank": 701,
+      "word": "store",
+      "source": "tatoeba"
+    },
+    "reduce": {
+      "en": "We need to reduce costs.",
+      "zh": "得降低成本。",
+      "rank": 702,
+      "word": "reduce",
+      "source": "manual"
+    },
+    "note": {
+      "en": "I like this note.",
+      "zh": "我喜欢这个.笔记。",
+      "rank": 704,
+      "word": "note",
+      "source": "fallback"
+    },
+    "fine": {
+      "en": "I slept fine.",
+      "zh": "我睡得很好。",
+      "rank": 705,
+      "word": "fine",
+      "source": "tatoeba"
+    },
+    "near": {
+      "en": "Christmas drew near.",
+      "zh": "圣诞节近了。",
+      "rank": 707,
+      "word": "near",
+      "source": "tatoeba"
+    },
+    "movement": {
+      "en": "Squirrels are quick of movement.",
+      "zh": "松鼠动作很快。",
+      "rank": 708,
+      "word": "movement",
+      "source": "tatoeba"
+    },
+    "page": {
+      "en": "Please refer to page ten.",
+      "zh": "請參看第十頁。",
+      "rank": 709,
+      "word": "page",
+      "source": "tatoeba"
+    },
+    "enter": {
+      "en": "May I enter?",
+      "zh": "我能进来吗？",
+      "rank": 710,
+      "word": "enter",
+      "source": "tatoeba"
+    },
+    "common": {
+      "en": "Is that a common name?",
+      "zh": "那个名字很普通吗？",
+      "rank": 713,
+      "word": "common",
+      "source": "tatoeba"
+    },
+    "poor": {
+      "en": "I am poor.",
+      "zh": "我很穷。",
+      "rank": 714,
+      "word": "poor",
+      "source": "tatoeba"
+    },
+    "natural": {
+      "en": "This is not natural.",
+      "zh": "它沒有那麼簡單。",
+      "rank": 716,
+      "word": "natural",
+      "source": "tatoeba"
+    },
+    "race": {
+      "en": "Did you win the race?",
+      "zh": "你贏了比賽了嗎？",
+      "rank": 717,
+      "word": "race",
+      "source": "tatoeba"
+    },
+    "concern": {
+      "en": "Don't worry about it.",
+      "zh": "别担心。",
+      "rank": 718,
+      "word": "concern",
+      "source": "manual"
+    }
+  }
+}

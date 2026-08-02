@@ -1,0 +1,1831 @@
+{
+  "上": [
+    {
+      "unit": "Unit 1",
+      "words": [
+        {
+          "word": "happy",
+          "meaning": "开心的",
+          "level2": true
+        },
+        {
+          "word": "sad",
+          "meaning": "伤心的",
+          "level2": true
+        },
+        {
+          "word": "angry",
+          "meaning": "生气的",
+          "level2": true
+        },
+        {
+          "word": "tired",
+          "meaning": "疲倦的",
+          "level2": true
+        },
+        {
+          "word": "boy",
+          "meaning": "男孩",
+          "level2": true
+        },
+        {
+          "word": "girl",
+          "meaning": "女孩",
+          "level2": true
+        },
+        {
+          "word": "I",
+          "meaning": "我",
+          "level2": true
+        },
+        {
+          "word": "am",
+          "meaning": "是",
+          "level2": true
+        },
+        {
+          "word": "cold",
+          "meaning": "冷的",
+          "level2": true
+        },
+        {
+          "word": "OK",
+          "meaning": "对；好；行",
+          "level2": true
+        },
+        {
+          "word": "find",
+          "meaning": "找到",
+          "level2": true
+        },
+        {
+          "word": "pencil",
+          "meaning": "铅笔",
+          "level2": true
+        },
+        {
+          "word": "too",
+          "meaning": "也；太",
+          "level2": true
+        },
+        {
+          "word": "well",
+          "meaning": "好；就这样；好啦",
+          "level2": true
+        },
+        {
+          "word": "now",
+          "meaning": "现在",
+          "level2": true
+        },
+        {
+          "word": "look at the blackboard",
+          "meaning": "看黑板",
+          "level2": false
+        },
+        {
+          "word": "Good morning.",
+          "meaning": "上午好。",
+          "level2": false
+        },
+        {
+          "word": "How are you?",
+          "meaning": "你好吗？",
+          "level2": false
+        },
+        {
+          "word": "Not so good.",
+          "meaning": "不太好。",
+          "level2": false
+        },
+        {
+          "word": "Let’s close the window.",
+          "meaning": "我们把窗户关上吧。",
+          "level2": false
+        },
+        {
+          "word": "Fine, thank you.",
+          "meaning": "很好，谢谢。",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "words": [
+        {
+          "word": "grandfather (grandpa)",
+          "meaning": "（外）祖父；爷爷；外公",
+          "level2": true
+        },
+        {
+          "word": "grandmother (grandma)",
+          "meaning": "（外）祖母；奶奶；外婆",
+          "level2": true
+        },
+        {
+          "word": "father",
+          "meaning": "爸爸",
+          "level2": true
+        },
+        {
+          "word": "mother",
+          "meaning": "妈妈",
+          "level2": true
+        },
+        {
+          "word": "sister",
+          "meaning": "姐姐；妹妹",
+          "level2": true
+        },
+        {
+          "word": "brother",
+          "meaning": "哥哥；弟弟",
+          "level2": true
+        },
+        {
+          "word": "me",
+          "meaning": "我",
+          "level2": true
+        },
+        {
+          "word": "family",
+          "meaning": "家庭",
+          "level2": true
+        },
+        {
+          "word": "my",
+          "meaning": "我的",
+          "level2": true
+        },
+        {
+          "word": "name",
+          "meaning": "名字",
+          "level2": true
+        },
+        {
+          "word": "is",
+          "meaning": "是",
+          "level2": true
+        },
+        {
+          "word": "this",
+          "meaning": "这；这个",
+          "level2": true
+        },
+        {
+          "word": "and",
+          "meaning": "和",
+          "level2": true
+        },
+        {
+          "word": "she",
+          "meaning": "她",
+          "level2": true
+        },
+        {
+          "word": "he",
+          "meaning": "他",
+          "level2": true
+        },
+        {
+          "word": "who",
+          "meaning": "谁",
+          "level2": true
+        },
+        {
+          "word": "twin",
+          "meaning": "双胞胎之一",
+          "level2": false
+        },
+        {
+          "word": "big",
+          "meaning": "大的",
+          "level2": true
+        },
+        {
+          "word": "family tree",
+          "meaning": "家庭树",
+          "level2": false
+        },
+        {
+          "word": "Hi.",
+          "meaning": "嗨，你好。",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "words": [
+        {
+          "word": "head",
+          "meaning": "头",
+          "level2": true
+        },
+        {
+          "word": "eye",
+          "meaning": "眼睛",
+          "level2": true
+        },
+        {
+          "word": "ear",
+          "meaning": "耳朵",
+          "level2": true
+        },
+        {
+          "word": "mouth",
+          "meaning": "嘴巴",
+          "level2": true
+        },
+        {
+          "word": "hair",
+          "meaning": "头发",
+          "level2": true
+        },
+        {
+          "word": "nose",
+          "meaning": "鼻子",
+          "level2": true
+        },
+        {
+          "word": "face",
+          "meaning": "脸",
+          "level2": true
+        },
+        {
+          "word": "a (an)",
+          "meaning": "一；一个",
+          "level2": true
+        },
+        {
+          "word": "haircut",
+          "meaning": "理发；发型",
+          "level2": false
+        },
+        {
+          "word": "your",
+          "meaning": "你的；你们的",
+          "level2": true
+        },
+        {
+          "word": "long",
+          "meaning": "长的",
+          "level2": true
+        },
+        {
+          "word": "but",
+          "meaning": "但是",
+          "level2": true
+        },
+        {
+          "word": "like",
+          "meaning": "喜欢",
+          "level2": true
+        },
+        {
+          "word": "see",
+          "meaning": "看见",
+          "level2": true
+        },
+        {
+          "word": "sit",
+          "meaning": "坐",
+          "level2": true
+        },
+        {
+          "word": "on",
+          "meaning": "在......上",
+          "level2": true
+        },
+        {
+          "word": "chair",
+          "meaning": "椅子",
+          "level2": true
+        },
+        {
+          "word": "please",
+          "meaning": "请",
+          "level2": true
+        },
+        {
+          "word": "you",
+          "meaning": "你；你们",
+          "level2": true
+        },
+        {
+          "word": "have",
+          "meaning": "有",
+          "level2": true
+        },
+        {
+          "word": "short",
+          "meaning": "短的；个子矮的",
+          "level2": true
+        },
+        {
+          "word": "mum",
+          "meaning": "妈妈",
+          "level2": true
+        },
+        {
+          "word": "You look great!",
+          "meaning": "你看起来很棒！",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "words": [
+        {
+          "word": "skip",
+          "meaning": "跳绳",
+          "level2": false
+        },
+        {
+          "word": "run",
+          "meaning": "跑",
+          "level2": true
+        },
+        {
+          "word": "fly a kite",
+          "meaning": "放风筝",
+          "level2": false
+        },
+        {
+          "word": "skateboard",
+          "meaning": "滑滑板",
+          "level2": false
+        },
+        {
+          "word": "ride a bike",
+          "meaning": "骑自行车",
+          "level2": false
+        },
+        {
+          "word": "child (children)",
+          "meaning": "孩子",
+          "level2": true
+        },
+        {
+          "word": "in",
+          "meaning": "在......里面",
+          "level2": true
+        },
+        {
+          "word": "the",
+          "meaning": "（表示特指）",
+          "level2": true
+        },
+        {
+          "word": "park",
+          "meaning": "公园",
+          "level2": true
+        },
+        {
+          "word": "are",
+          "meaning": "是",
+          "level2": true
+        },
+        {
+          "word": "can",
+          "meaning": "能够",
+          "level2": true
+        },
+        {
+          "word": "fun",
+          "meaning": "有趣的；乐趣",
+          "level2": false
+        },
+        {
+          "word": "fast",
+          "meaning": "快的；快；快速",
+          "level2": true
+        },
+        {
+          "word": "help",
+          "meaning": "帮助",
+          "level2": true
+        },
+        {
+          "word": "together",
+          "meaning": "一起",
+          "level2": false
+        },
+        {
+          "word": "get",
+          "meaning": "去取；得到；获得",
+          "level2": true
+        },
+        {
+          "word": "bring",
+          "meaning": "带来",
+          "level2": true
+        },
+        {
+          "word": "jump",
+          "meaning": "跳",
+          "level2": true
+        },
+        {
+          "word": "Hello.",
+          "meaning": "喂，你好。",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "words": [
+        {
+          "word": "milk",
+          "meaning": "牛奶",
+          "level2": true
+        },
+        {
+          "word": "juice",
+          "meaning": "果汁",
+          "level2": true
+        },
+        {
+          "word": "tomato",
+          "meaning": "西红柿",
+          "level2": true
+        },
+        {
+          "word": "carrot",
+          "meaning": "胡萝卜",
+          "level2": false
+        },
+        {
+          "word": "apple",
+          "meaning": "苹果",
+          "level2": true
+        },
+        {
+          "word": "banana",
+          "meaning": "香蕉",
+          "level2": true
+        },
+        {
+          "word": "grape",
+          "meaning": "葡萄",
+          "level2": true
+        },
+        {
+          "word": "meat",
+          "meaning": "肉",
+          "level2": true
+        },
+        {
+          "word": "fish",
+          "meaning": "鱼；鱼肉",
+          "level2": true
+        },
+        {
+          "word": "funny",
+          "meaning": "有趣的",
+          "level2": false
+        },
+        {
+          "word": "food",
+          "meaning": "食物",
+          "level2": true
+        },
+        {
+          "word": "what",
+          "meaning": "什么",
+          "level2": true
+        },
+        {
+          "word": "some",
+          "meaning": "一些",
+          "level2": true
+        },
+        {
+          "word": "fruit",
+          "meaning": "水果",
+          "level2": true
+        },
+        {
+          "word": "vegetable",
+          "meaning": "蔬菜",
+          "level2": true
+        },
+        {
+          "word": "cut",
+          "meaning": "切",
+          "level2": true
+        },
+        {
+          "word": "we",
+          "meaning": "我们",
+          "level2": true
+        },
+        {
+          "word": "no",
+          "meaning": "不；不是",
+          "level2": true
+        },
+        {
+          "word": "for",
+          "meaning": "（表示对象、用途等）给；对",
+          "level2": true
+        },
+        {
+          "word": "yes",
+          "meaning": "是的",
+          "level2": true
+        },
+        {
+          "word": "chicken",
+          "meaning": "鸡肉",
+          "level2": true
+        },
+        {
+          "word": "soup",
+          "meaning": "汤",
+          "level2": true
+        }
+      ]
+    },
+    {
+      "unit": "Unit 6",
+      "words": [
+        {
+          "word": "squirrel",
+          "meaning": "松鼠",
+          "level2": false
+        },
+        {
+          "word": "rabbit",
+          "meaning": "兔子",
+          "level2": true
+        },
+        {
+          "word": "cat",
+          "meaning": "猫",
+          "level2": true
+        },
+        {
+          "word": "mouse (mice)",
+          "meaning": "老鼠",
+          "level2": true
+        },
+        {
+          "word": "dog",
+          "meaning": "狗",
+          "level2": true
+        },
+        {
+          "word": "frog",
+          "meaning": "青蛙",
+          "level2": false
+        },
+        {
+          "word": "day",
+          "meaning": "白天；一天",
+          "level2": true
+        },
+        {
+          "word": "it",
+          "meaning": "它",
+          "level2": true
+        },
+        {
+          "word": "nice",
+          "meaning": "美好的",
+          "level2": true
+        },
+        {
+          "word": "has",
+          "meaning": "有（have 的第三人称单数）",
+          "level2": true
+        },
+        {
+          "word": "small",
+          "meaning": "小的",
+          "level2": true
+        },
+        {
+          "word": "cute",
+          "meaning": "可爱的",
+          "level2": true
+        },
+        {
+          "word": "that",
+          "meaning": "那；那个",
+          "level2": true
+        },
+        {
+          "word": "they",
+          "meaning": "他们；她们；它们",
+          "level2": true
+        },
+        {
+          "word": "China",
+          "meaning": "中国",
+          "level2": false
+        },
+        {
+          "word": "Thailand",
+          "meaning": "泰国",
+          "level2": false
+        },
+        {
+          "word": "UK",
+          "meaning": "英国",
+          "level2": false
+        },
+        {
+          "word": "tail",
+          "meaning": "尾巴",
+          "level2": true
+        },
+        {
+          "word": "two",
+          "meaning": "二；二个（人或物）",
+          "level2": true
+        },
+        {
+          "word": "animal",
+          "meaning": "动物",
+          "level2": true
+        },
+        {
+          "word": "eat",
+          "meaning": "吃",
+          "level2": true
+        },
+        {
+          "word": "bad",
+          "meaning": "坏的",
+          "level2": true
+        },
+        {
+          "word": "bug",
+          "meaning": "虫子",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 7",
+      "words": [
+        {
+          "word": "sunny",
+          "meaning": "晴朗的",
+          "level2": true
+        },
+        {
+          "word": "sun",
+          "meaning": "太阳",
+          "level2": true
+        },
+        {
+          "word": "windy",
+          "meaning": "刮风的",
+          "level2": true
+        },
+        {
+          "word": "wind",
+          "meaning": "风",
+          "level2": false
+        },
+        {
+          "word": "rainy",
+          "meaning": "下雨的",
+          "level2": false
+        },
+        {
+          "word": "rain",
+          "meaning": "雨；下雨",
+          "level2": true
+        },
+        {
+          "word": "cloudy",
+          "meaning": "多云的",
+          "level2": true
+        },
+        {
+          "word": "cloud",
+          "meaning": "云",
+          "level2": false
+        },
+        {
+          "word": "different",
+          "meaning": "不同的",
+          "level2": false
+        },
+        {
+          "word": "weather",
+          "meaning": "天气",
+          "level2": true
+        },
+        {
+          "word": "how",
+          "meaning": "怎样；如何",
+          "level2": true
+        },
+        {
+          "word": "today",
+          "meaning": "今天",
+          "level2": true
+        },
+        {
+          "word": "hat",
+          "meaning": "帽子",
+          "level2": false
+        },
+        {
+          "word": "plant",
+          "meaning": "植物",
+          "level2": true
+        },
+        {
+          "word": "hot",
+          "meaning": "热的",
+          "level2": true
+        },
+        {
+          "word": "very",
+          "meaning": "非常",
+          "level2": true
+        },
+        {
+          "word": "go to the park",
+          "meaning": "去公园",
+          "level2": false
+        },
+        {
+          "word": "Hooray!",
+          "meaning": "好极了！",
+          "level2": false
+        },
+        {
+          "word": "Oh, dear!",
+          "meaning": "哦，天哪！",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 8",
+      "words": [
+        {
+          "word": "cake",
+          "meaning": "蛋糕",
+          "level2": true
+        },
+        {
+          "word": "candle",
+          "meaning": "蜡烛",
+          "level2": true
+        },
+        {
+          "word": "gift",
+          "meaning": "礼物",
+          "level2": true
+        },
+        {
+          "word": "toy plane",
+          "meaning": "玩具飞机",
+          "level2": true
+        },
+        {
+          "word": "doll",
+          "meaning": "玩具娃娃",
+          "level2": true
+        },
+        {
+          "word": "card",
+          "meaning": "卡片",
+          "level2": true
+        },
+        {
+          "word": "noodles",
+          "meaning": "面条",
+          "level2": true
+        },
+        {
+          "word": "come",
+          "meaning": "来",
+          "level2": true
+        },
+        {
+          "word": "love",
+          "meaning": "爱",
+          "level2": true
+        },
+        {
+          "word": "dad",
+          "meaning": "爸爸",
+          "level2": true
+        },
+        {
+          "word": "afternoon",
+          "meaning": "下午",
+          "level2": true
+        },
+        {
+          "word": "share",
+          "meaning": "分享",
+          "level2": true
+        },
+        {
+          "word": "his",
+          "meaning": "他的",
+          "level2": true
+        },
+        {
+          "word": "evening",
+          "meaning": "傍晚；晚上",
+          "level2": true
+        },
+        {
+          "word": "ten years old",
+          "meaning": "十岁",
+          "level2": false
+        },
+        {
+          "word": "go out",
+          "meaning": "出去",
+          "level2": false
+        },
+        {
+          "word": "Happy birthday!",
+          "meaning": "生日快乐！",
+          "level2": false
+        },
+        {
+          "word": "What a lovely picture!",
+          "meaning": "多么可爱的一幅；画啊！",
+          "level2": false
+        }
+      ]
+    }
+  ],
+  "下": [
+    {
+      "unit": "Unit 1",
+      "words": [
+        {
+          "word": "our",
+          "meaning": "我们的",
+          "level2": true
+        },
+        {
+          "word": "read",
+          "meaning": "阅读",
+          "level2": true
+        },
+        {
+          "word": "sing",
+          "meaning": "唱歌",
+          "level2": true
+        },
+        {
+          "word": "paint",
+          "meaning": "用颜料画",
+          "level2": false
+        },
+        {
+          "word": "dance",
+          "meaning": "跳舞",
+          "level2": true
+        },
+        {
+          "word": "swim",
+          "meaning": "游泳",
+          "level2": true
+        },
+        {
+          "word": "play basketball",
+          "meaning": "打篮球",
+          "level2": true
+        },
+        {
+          "word": "play ping-pong",
+          "meaning": "打乒乓球",
+          "level2": true
+        },
+        {
+          "word": "play football",
+          "meaning": "踢足球",
+          "level2": true
+        },
+        {
+          "word": "Ms",
+          "meaning": "女士",
+          "level2": true
+        },
+        {
+          "word": "talk",
+          "meaning": "讨论；谈论",
+          "level2": true
+        },
+        {
+          "word": "hobby",
+          "meaning": "业余爱好",
+          "level2": false
+        },
+        {
+          "word": "do",
+          "meaning": "做，干，办（某事）",
+          "level2": true
+        },
+        {
+          "word": "free",
+          "meaning": "空闲的",
+          "level2": true
+        },
+        {
+          "word": "music",
+          "meaning": "音乐",
+          "level2": true
+        },
+        {
+          "word": "favourite",
+          "meaning": "最喜欢的",
+          "level2": true
+        },
+        {
+          "word": "sport",
+          "meaning": "体育运动",
+          "level2": true
+        },
+        {
+          "word": "play beach volleyball",
+          "meaning": "玩沙滩排球",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "words": [
+        {
+          "word": "play a game",
+          "meaning": "做游戏",
+          "level2": true
+        },
+        {
+          "word": "take a photo",
+          "meaning": "拍照",
+          "level2": true
+        },
+        {
+          "word": "row a boat",
+          "meaning": "划船",
+          "level2": false
+        },
+        {
+          "word": "tell a story",
+          "meaning": "讲故事",
+          "level2": true
+        },
+        {
+          "word": "boat",
+          "meaning": "小船",
+          "level2": true
+        },
+        {
+          "word": "sandcastle",
+          "meaning": "沙堡",
+          "level2": false
+        },
+        {
+          "word": "great",
+          "meaning": "很好的；很棒的",
+          "level2": true
+        },
+        {
+          "word": "sand",
+          "meaning": "沙子",
+          "level2": false
+        },
+        {
+          "word": "join",
+          "meaning": "参与；加入到……之中",
+          "level2": false
+        },
+        {
+          "word": "meet",
+          "meaning": "（与……）见面",
+          "level2": true
+        },
+        {
+          "word": "her",
+          "meaning": "她的",
+          "level2": true
+        },
+        {
+          "word": "us",
+          "meaning": "我们",
+          "level2": true
+        },
+        {
+          "word": "we",
+          "meaning": "我们",
+          "level2": true
+        },
+        {
+          "word": "play in the sand",
+          "meaning": "玩沙子",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "words": [
+        {
+          "word": "sweater",
+          "meaning": "毛衣",
+          "level2": true
+        },
+        {
+          "word": "T-shirt",
+          "meaning": "T恤衫；短袖汗衫",
+          "level2": false
+        },
+        {
+          "word": "skirt",
+          "meaning": "短裙；半身裙",
+          "level2": true
+        },
+        {
+          "word": "dress",
+          "meaning": "连衣裙",
+          "level2": true
+        },
+        {
+          "word": "shirt",
+          "meaning": "衬衫",
+          "level2": true
+        },
+        {
+          "word": "trousers",
+          "meaning": "裤子",
+          "level2": true
+        },
+        {
+          "word": "shorts",
+          "meaning": "短裤",
+          "level2": true
+        },
+        {
+          "word": "coat",
+          "meaning": "外套；外衣；大衣",
+          "level2": true
+        },
+        {
+          "word": "cap",
+          "meaning": "帽子",
+          "level2": true
+        },
+        {
+          "word": "shoes",
+          "meaning": "鞋子",
+          "level2": true
+        },
+        {
+          "word": "student",
+          "meaning": "学生",
+          "level2": true
+        },
+        {
+          "word": "wear",
+          "meaning": "穿；戴；佩戴",
+          "level2": true
+        },
+        {
+          "word": "school",
+          "meaning": "学校",
+          "level2": true
+        },
+        {
+          "word": "different",
+          "meaning": "不同的",
+          "level2": false
+        },
+        {
+          "word": "clothes",
+          "meaning": "衣服；服装",
+          "level2": true
+        },
+        {
+          "word": "uniform",
+          "meaning": "制服；校服",
+          "level2": false
+        },
+        {
+          "word": "whose",
+          "meaning": "谁的",
+          "level2": true
+        },
+        {
+          "word": "world",
+          "meaning": "世界",
+          "level2": true
+        },
+        {
+          "word": "around the world",
+          "meaning": "在世界各地",
+          "level2": false
+        },
+        {
+          "word": "take a look",
+          "meaning": "看一看",
+          "level2": true
+        },
+        {
+          "word": "a pair of",
+          "meaning": "一条；一双；一对",
+          "level2": true
+        }
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "words": [
+        {
+          "word": "grass",
+          "meaning": "草",
+          "level2": true
+        },
+        {
+          "word": "river",
+          "meaning": "河；江",
+          "level2": true
+        },
+        {
+          "word": "hear",
+          "meaning": "听见；听到",
+          "level2": true
+        },
+        {
+          "word": "bird",
+          "meaning": "鸟",
+          "level2": true
+        },
+        {
+          "word": "duck",
+          "meaning": "鸭子",
+          "level2": true
+        },
+        {
+          "word": "bee",
+          "meaning": "蜜蜂",
+          "level2": true
+        },
+        {
+          "word": "lake",
+          "meaning": "湖；湖泊",
+          "level2": true
+        },
+        {
+          "word": "chirp",
+          "meaning": "（鸟叫声）",
+          "level2": false
+        },
+        {
+          "word": "buzz",
+          "meaning": "（蜜蜂声）",
+          "level2": false
+        },
+        {
+          "word": "by",
+          "meaning": "在……旁边",
+          "level2": true
+        },
+        {
+          "word": "swish",
+          "meaning": "（风声）",
+          "level2": false
+        },
+        {
+          "word": "blow",
+          "meaning": "刮；吹",
+          "level2": false
+        },
+        {
+          "word": "quack",
+          "meaning": "（鸭子叫声）",
+          "level2": false
+        },
+        {
+          "word": "past",
+          "meaning": "经过",
+          "level2": false
+        },
+        {
+          "word": "walk",
+          "meaning": "走；行走",
+          "level2": true
+        },
+        {
+          "word": "along",
+          "meaning": "沿着；顺着",
+          "level2": false
+        },
+        {
+          "word": "path",
+          "meaning": "小路；小径",
+          "level2": false
+        },
+        {
+          "word": "pitter-patter",
+          "meaning": "（雨声）",
+          "level2": false
+        },
+        {
+          "word": "time",
+          "meaning": "时间",
+          "level2": true
+        },
+        {
+          "word": "again",
+          "meaning": "再一次；又一次",
+          "level2": true
+        },
+        {
+          "word": "sound",
+          "meaning": "声音",
+          "level2": false
+        },
+        {
+          "word": "go outside",
+          "meaning": "去外面",
+          "level2": false
+        },
+        {
+          "word": "go home",
+          "meaning": "回家",
+          "level2": true
+        }
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "words": [
+        {
+          "word": "where",
+          "meaning": "哪里",
+          "level2": true
+        },
+        {
+          "word": "colour",
+          "meaning": "颜色",
+          "level2": true
+        },
+        {
+          "word": "pink",
+          "meaning": "粉红色；粉红色的",
+          "level2": true
+        },
+        {
+          "word": "blue",
+          "meaning": "蓝色；蓝色的",
+          "level2": true
+        },
+        {
+          "word": "red",
+          "meaning": "红色；红色的",
+          "level2": true
+        },
+        {
+          "word": "brown",
+          "meaning": "棕色；棕色的",
+          "level2": true
+        },
+        {
+          "word": "black",
+          "meaning": "黑色；黑色的",
+          "level2": true
+        },
+        {
+          "word": "white",
+          "meaning": "白色；白色的",
+          "level2": true
+        },
+        {
+          "word": "purple",
+          "meaning": "紫色；紫色的",
+          "level2": false
+        },
+        {
+          "word": "green",
+          "meaning": "绿色；绿色的",
+          "level2": true
+        },
+        {
+          "word": "orange",
+          "meaning": "橘黄色；橘黄色的",
+          "level2": true
+        },
+        {
+          "word": "yellow",
+          "meaning": "黄色；黄色的",
+          "level2": true
+        },
+        {
+          "word": "snow",
+          "meaning": "雪",
+          "level2": true
+        },
+        {
+          "word": "tree",
+          "meaning": "树；树木",
+          "level2": true
+        },
+        {
+          "word": "out",
+          "meaning": "在室外",
+          "level2": true
+        },
+        {
+          "word": "garden",
+          "meaning": "花园",
+          "level2": true
+        },
+        {
+          "word": "up",
+          "meaning": "向上；在上面",
+          "level2": true
+        },
+        {
+          "word": "there (is, are)",
+          "meaning": "（表示存在或发生）",
+          "level2": true
+        },
+        {
+          "word": "butterfly",
+          "meaning": "蝴蝶",
+          "level2": false
+        },
+        {
+          "word": "lizard",
+          "meaning": "蜥蜴",
+          "level2": false
+        },
+        {
+          "word": "now",
+          "meaning": "现在",
+          "level2": true
+        },
+        {
+          "word": "problem",
+          "meaning": "难题；困难",
+          "level2": false
+        },
+        {
+          "word": "sky",
+          "meaning": "天；天空",
+          "level2": false
+        },
+        {
+          "word": "dark",
+          "meaning": "黑暗的；昏暗的",
+          "level2": false
+        },
+        {
+          "word": "night",
+          "meaning": "夜晚",
+          "level2": true
+        },
+        {
+          "word": "colourful",
+          "meaning": "五彩缤纷的",
+          "level2": false
+        },
+        {
+          "word": "firework",
+          "meaning": "烟花",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 6",
+      "words": [
+        {
+          "word": "kitchen",
+          "meaning": "厨房",
+          "level2": true
+        },
+        {
+          "word": "bathroom",
+          "meaning": "浴室；盥洗室",
+          "level2": false
+        },
+        {
+          "word": "bedroom",
+          "meaning": "卧室",
+          "level2": false
+        },
+        {
+          "word": "dining room",
+          "meaning": "餐厅",
+          "level2": false
+        },
+        {
+          "word": "living room",
+          "meaning": "客厅；起居室",
+          "level2": false
+        },
+        {
+          "word": "study",
+          "meaning": "书房",
+          "level2": true
+        },
+        {
+          "word": "desk",
+          "meaning": "书桌",
+          "level2": true
+        },
+        {
+          "word": "chair",
+          "meaning": "椅子",
+          "level2": true
+        },
+        {
+          "word": "sofa",
+          "meaning": "长沙发",
+          "level2": false
+        },
+        {
+          "word": "room",
+          "meaning": "房间",
+          "level2": true
+        },
+        {
+          "word": "from",
+          "meaning": "从；来自",
+          "level2": true
+        },
+        {
+          "word": "new",
+          "meaning": "新的",
+          "level2": true
+        },
+        {
+          "word": "dear",
+          "meaning": "亲爱的",
+          "level2": true
+        },
+        {
+          "word": "show",
+          "meaning": "给……看；展示",
+          "level2": true
+        },
+        {
+          "word": "write",
+          "meaning": "写字；写作",
+          "level2": true
+        },
+        {
+          "word": "window",
+          "meaning": "窗；窗户",
+          "level2": true
+        },
+        {
+          "word": "wish",
+          "meaning": "祝愿",
+          "level2": true
+        },
+        {
+          "word": "in front of",
+          "meaning": "在……前面",
+          "level2": true
+        },
+        {
+          "word": "look out of",
+          "meaning": "向……外看",
+          "level2": true
+        },
+        {
+          "word": "teddy bear",
+          "meaning": "泰迪熊",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 7",
+      "words": [
+        {
+          "word": "welcome",
+          "meaning": "欢迎",
+          "level2": true
+        },
+        {
+          "word": "classroom",
+          "meaning": "教室",
+          "level2": true
+        },
+        {
+          "word": "computer room",
+          "meaning": "电脑室",
+          "level2": true
+        },
+        {
+          "word": "toilet",
+          "meaning": "厕所；卫生间；盥洗室",
+          "level2": true
+        },
+        {
+          "word": "sports ground",
+          "meaning": "操场",
+          "level2": false
+        },
+        {
+          "word": "library",
+          "meaning": "图书馆",
+          "level2": true
+        },
+        {
+          "word": "office",
+          "meaning": "办公室",
+          "level2": false
+        },
+        {
+          "word": "picture",
+          "meaning": "图画",
+          "level2": true
+        },
+        {
+          "word": "tomorrow",
+          "meaning": "明天",
+          "level2": true
+        },
+        {
+          "word": "also",
+          "meaning": "也",
+          "level2": true
+        },
+        {
+          "word": "schoolbag",
+          "meaning": "书包",
+          "level2": true
+        },
+        {
+          "word": "ruler",
+          "meaning": "直尺",
+          "level2": true
+        },
+        {
+          "word": "pencil",
+          "meaning": "铅笔",
+          "level2": true
+        },
+        {
+          "word": "pen",
+          "meaning": "钢笔",
+          "level2": true
+        },
+        {
+          "word": "art room",
+          "meaning": "美术教室",
+          "level2": true
+        },
+        {
+          "word": "swimming pool",
+          "meaning": "游泳池",
+          "level2": false
+        },
+        {
+          "word": "lots of",
+          "meaning": "大量的；很多的",
+          "level2": true
+        },
+        {
+          "word": "Come and see!",
+          "meaning": "来看一看！",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Unit 8",
+      "words": [
+        {
+          "word": "Children's Day",
+          "meaning": "儿童节",
+          "level2": false
+        },
+        {
+          "word": "go to the beach",
+          "meaning": "去海滩",
+          "level2": true
+        },
+        {
+          "word": "go to the cinema",
+          "meaning": "（去电影院）看电影",
+          "level2": true
+        },
+        {
+          "word": "go to the park",
+          "meaning": "去公园",
+          "level2": true
+        },
+        {
+          "word": "go to the zoo",
+          "meaning": "去动物园",
+          "level2": true
+        },
+        {
+          "word": "go to the museum",
+          "meaning": "去博物馆",
+          "level2": false
+        },
+        {
+          "word": "elephant",
+          "meaning": "象",
+          "level2": true
+        },
+        {
+          "word": "film",
+          "meaning": "电影",
+          "level2": true
+        },
+        {
+          "word": "pizza",
+          "meaning": "比萨饼；意大利饼",
+          "level2": false
+        },
+        {
+          "word": "shop",
+          "meaning": "商店",
+          "level2": true
+        },
+        {
+          "word": "eat",
+          "meaning": "吃",
+          "level2": true
+        },
+        {
+          "word": "classmate",
+          "meaning": "同班同学",
+          "level2": false
+        },
+        {
+          "word": "do a survey",
+          "meaning": "做调查",
+          "level2": false
+        },
+        {
+          "word": "science museum",
+          "meaning": "科技馆",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Days of the week",
+      "words": [
+        {
+          "word": "Monday",
+          "meaning": "星期一",
+          "level2": false
+        },
+        {
+          "word": "Tuesday",
+          "meaning": "星期二",
+          "level2": false
+        },
+        {
+          "word": "Wednesday",
+          "meaning": "星期三",
+          "level2": false
+        },
+        {
+          "word": "Thursday",
+          "meaning": "星期四",
+          "level2": false
+        },
+        {
+          "word": "Friday",
+          "meaning": "星期五",
+          "level2": false
+        },
+        {
+          "word": "Saturday",
+          "meaning": "星期六",
+          "level2": false
+        },
+        {
+          "word": "Sunday",
+          "meaning": "星期日",
+          "level2": false
+        }
+      ]
+    },
+    {
+      "unit": "Numbers",
+      "words": [
+        {
+          "word": "one",
+          "meaning": "一",
+          "level2": false
+        },
+        {
+          "word": "two",
+          "meaning": "二",
+          "level2": false
+        },
+        {
+          "word": "three",
+          "meaning": "三",
+          "level2": false
+        },
+        {
+          "word": "four",
+          "meaning": "四",
+          "level2": false
+        },
+        {
+          "word": "five",
+          "meaning": "五",
+          "level2": false
+        },
+        {
+          "word": "six",
+          "meaning": "六",
+          "level2": false
+        },
+        {
+          "word": "seven",
+          "meaning": "七",
+          "level2": false
+        },
+        {
+          "word": "eight",
+          "meaning": "八",
+          "level2": false
+        },
+        {
+          "word": "nine",
+          "meaning": "九",
+          "level2": false
+        },
+        {
+          "word": "ten",
+          "meaning": "十",
+          "level2": false
+        },
+        {
+          "word": "eleven",
+          "meaning": "十一",
+          "level2": false
+        },
+        {
+          "word": "twelve",
+          "meaning": "十二",
+          "level2": false
+        },
+        {
+          "word": "thirteen",
+          "meaning": "十三",
+          "level2": false
+        },
+        {
+          "word": "fourteen",
+          "meaning": "十四",
+          "level2": false
+        },
+        {
+          "word": "fifteen",
+          "meaning": "十五",
+          "level2": false
+        },
+        {
+          "word": "sixteen",
+          "meaning": "十六",
+          "level2": false
+        },
+        {
+          "word": "seventeen",
+          "meaning": "十七",
+          "level2": false
+        },
+        {
+          "word": "eighteen",
+          "meaning": "十八",
+          "level2": false
+        },
+        {
+          "word": "nineteen",
+          "meaning": "十九",
+          "level2": false
+        },
+        {
+          "word": "twenty",
+          "meaning": "二十",
+          "level2": false
+        }
+      ]
+    }
+  ]
+}
