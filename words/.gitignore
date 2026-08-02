@@ -1,3 +1,6 @@
 *.pdf
 .DS_Store
 *.log
+
+# local backups
+*.orig.*
