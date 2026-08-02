@@ -40,6 +40,8 @@ def lookup_example(word: str, path: Path = DEFAULT_PATH) -> tuple[str, str] | No
     entry = bank.get(key)
     if not entry:
         return None
+    if entry.get("source") == "fallback":
+        return None
     en = entry.get("en", "").strip()
     zh = entry.get("zh", "").strip()
     if en and zh:

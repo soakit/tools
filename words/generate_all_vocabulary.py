@@ -14,7 +14,6 @@ from coca_loader import load_index
 from generate_examples import (
     MANUAL,
     base_word,
-    fallback_example,
     fetch_tatoeba,
     score_sentence,
 )
@@ -118,8 +117,7 @@ def pick_example(base: str, item: dict, candidates: list[tuple[str, str]]) -> tu
     for en, zh in candidates:
         if score_sentence(en, base) > 0:
             return en, zh, "tatoeba"
-    en, zh = fallback_example(base, item["definition"], item.get("coca_meanings", []))
-    return en, zh, "fallback"
+    return "", "", "skipped"
 
 
 def extract_collocations(
@@ -187,7 +185,7 @@ def main() -> None:
         collocations.update(load_json(COLLOCATIONS_PATH).get("collocations", {}))
 
     cache = load_cache()
-    ex_stats = {"manual": 0, "tatoeba": 0, "fallback": 0, "skipped": 0}
+    ex_stats = {"manual": 0, "tatoeba": 0, "skipped": 0}
     col_stats = {"curated": 0, "tatoeba": 0, "empty": 0, "skipped": 0}
 
     todo = [
@@ -223,10 +221,14 @@ def main() -> None:
 
         if need_ex:
             en, zh, src = pick_example(base, item, candidates)
-            examples[base] = {
-                "en": en, "zh": zh, "rank": item["rank"], "word": item["word"], "source": src,
-            }
-            ex_stats[src] += 1
+            if src != "skipped":
+                examples[base] = {
+                    "en": en, "zh": zh, "rank": item["rank"], "word": item["word"], "source": src,
+                }
+                ex_stats[src] += 1
+            else:
+                ex_stats["skipped"] += 1
+                en = ""
         else:
             en = examples[base]["en"]
 
@@ -246,7 +248,8 @@ def main() -> None:
             print(f"[{i}/{len(todo)}] saved checkpoint ({base})")
 
         if i % 5 == 0 or i == len(todo):
-            print(f"[{i}/{len(todo)}] {base:22s} ex={examples[base]['source']:8s} col={len(collocations.get(base, {}).get('items', []))}")
+            ex_src = examples.get(base, {}).get("source", "skipped")
+            print(f"[{i}/{len(todo)}] {base:22s} ex={ex_src:8s} col={len(collocations.get(base, {}).get('items', []))}")
 
     save_cache(cache)
     save_examples(examples, ex_stats)

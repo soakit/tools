@@ -435,8 +435,7 @@ def pick_example(item: dict, tatoeba_cache: dict[str, list[tuple[str, str]]] | N
     if candidates:
         return candidates[0][0], candidates[0][1], "tatoeba"
 
-    en, zh = fallback_example(base, item["definition"], item.get("coca_meanings", []))
-    return en, zh, "fallback"
+    return "", "", "skipped"
 
 
 def fetch_tatoeba_batch(bases: list[str], workers: int = 8) -> dict[str, list[tuple[str, str]]]:
@@ -476,11 +475,15 @@ def main() -> None:
     tatoeba_cache = fetch_tatoeba_batch(tatoeba_bases, workers=args.workers)
 
     examples: dict[str, dict] = {}
-    stats = {"manual": 0, "tatoeba": 0, "fallback": 0}
+    stats = {"manual": 0, "tatoeba": 0, "skipped": 0}
 
     for i, item in enumerate(words, 1):
         base = base_word(item["word"])
         en, zh, source = pick_example(item, tatoeba_cache)
+        if source == "skipped":
+            stats["skipped"] += 1
+            print(f"[{i}/{len(words)}] {base:20s} ({source:8s})")
+            continue
         examples[base] = {
             "en": en,
             "zh": zh,
@@ -501,7 +504,7 @@ def main() -> None:
     }
     args.output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\nSaved {args.output}")
-    print(f"  manual: {stats['manual']}, tatoeba: {stats['tatoeba']}, fallback: {stats['fallback']}")
+    print(f"  manual: {stats['manual']}, tatoeba: {stats['tatoeba']}, skipped: {stats['skipped']}")
 
 
 if __name__ == "__main__":

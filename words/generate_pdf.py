@@ -28,6 +28,7 @@ from reportlab.platypus import (
 from coca_loader import CocaEntry, CocaIndex, load_index
 from collocations_loader import lookup_collocations
 from examples_loader import lookup_example
+from phonetic_loader import lookup_phonetic
 
 ASSETS = Path(__file__).resolve().parent / "assets"
 FONT_CN_PATH = "/System/Library/Fonts/Supplemental/Songti.ttc"
@@ -49,14 +50,15 @@ PAGE_TOP_SPACER = 2 * mm
 PACK_SAFETY = 5 * mm
 MAX_COL_H = FRAME_H - PAGE_TOP_SPACER - PACK_SAFETY
 
-COLOR_INDEX = colors.HexColor("#8FAFC7")
-COLOR_WORD = colors.HexColor("#C0702B")
-COLOR_PHONETIC = colors.HexColor("#999999")
-COLOR_LABEL = colors.HexColor("#4A7BA7")
-COLOR_TEXT = colors.HexColor("#222222")
-COLOR_BLANK = colors.HexColor("#BBBBBB")
-COLOR_MUTED = colors.HexColor("#888888")
-COLOR_DIVIDER = colors.HexColor("#CCCCCC")
+COLOR_BLACK = colors.HexColor("#000000")
+COLOR_INDEX = COLOR_BLACK
+COLOR_WORD = COLOR_BLACK
+COLOR_PHONETIC = COLOR_BLACK
+COLOR_LABEL = COLOR_BLACK
+COLOR_TEXT = COLOR_BLACK
+COLOR_BLANK = COLOR_BLACK
+COLOR_MUTED = COLOR_BLACK
+COLOR_DIVIDER = COLOR_BLACK
 
 
 @dataclass
@@ -73,6 +75,7 @@ class WordEntry:
     example_en: str = ""
     example_zh: str = ""
     dictation_zh: list[str] = field(default_factory=list)
+    display_num: int = 0
 
     def finalize(self) -> None:
         self.base_word, self.inflection = split_word_forms(self.word)
@@ -130,15 +133,7 @@ def build_example(base: str, definition: str, coca_meanings: list[str]) -> tuple
     curated = lookup_example(base)
     if curated:
         return curated
-
-    zh = chinese_only(coca_meanings[0] if coca_meanings else split_meanings(definition)[0] if split_meanings(definition) else "……")
-    if "n." in definition or any("n." in m for m in coca_meanings):
-        return f"I like this {base}.", f"我喜欢这个{zh}。"
-    if "adj." in definition or any("adj." in m for m in coca_meanings):
-        return f"That's pretty {base}.", f"那挺{zh}的。"
-    if "adv." in definition:
-        return f"She said it {base}.", f"她{zh}地说了。"
-    return f"Let's {base}.", f"咱们{zh}吧。"
+    return "", ""
 
 
 def build_dictation_zh(
@@ -162,12 +157,13 @@ def build_dictation_zh(
 
 
 def enrich_with_coca(entry: WordEntry, coca: CocaEntry | None) -> None:
-    if not coca:
-        return
-    entry.coca_rank = coca.rank
-    entry.phonetic = coca.phonetic_uk or coca.phonetic_us
-    entry.coca_paraphrase = coca.paraphrase
-    entry.coca_meanings = coca.meanings
+    if coca:
+        entry.coca_rank = coca.rank
+        entry.phonetic = coca.phonetic_uk or coca.phonetic_us
+        entry.coca_paraphrase = coca.paraphrase
+        entry.coca_meanings = coca.meanings
+    if not entry.phonetic:
+        entry.phonetic = lookup_phonetic(entry.word)
 
 
 def translation_text(entry: WordEntry) -> str:
@@ -194,7 +190,9 @@ def load_words(
             entry.finalize()
             if word_filter:
                 if word_filter.lower() in entry.base_word.lower() or word_filter.lower() in entry.word.lower():
-                    return [entry]
+                    entries = [entry]
+                    assign_display_numbers(entries)
+                    return entries
                 continue
             entries.append(entry)
         if word_filter and entries:
@@ -205,7 +203,20 @@ def load_words(
         entries = [e for e in entries if e.coca_rank >= start_rank]
     if limit:
         entries = entries[:limit]
+    assign_display_numbers(entries)
     return entries
+
+
+def assign_display_numbers(entries: list[WordEntry]) -> None:
+    """Use COCA rank when available; otherwise continue from the last number."""
+    last = 0
+    for entry in entries:
+        if entry.coca_rank < 999999:
+            last = entry.coca_rank
+            entry.display_num = last
+        else:
+            last += 1
+            entry.display_num = last
 
 
 def make_styles() -> dict[str, ParagraphStyle]:
@@ -247,16 +258,16 @@ def esc(text: str) -> str:
 
 
 def word_header_html(entry: WordEntry) -> str:
-    rank = entry.coca_rank if entry.coca_rank < 999999 else "—"
-    phonetic = esc(entry.phonetic or "—")
     word = esc(entry.base_word)
-    return (
-        f'<font name="{FONT_CN}" color="{COLOR_INDEX.hexval()}">{rank}</font>'
-        f'&nbsp;&nbsp;'
-        f'<font name="{FONT_EN}" color="{COLOR_WORD.hexval()}"><b>{word}</b></font>'
-        f'&nbsp;&nbsp;'
-        f'<font name="{FONT_IPA}" color="{COLOR_PHONETIC.hexval()}">[{phonetic}]</font>'
-    )
+    parts = [
+        f'<font name="{FONT_CN}" color="{COLOR_INDEX.hexval()}">{entry.display_num}</font>',
+        f'&nbsp;&nbsp;<font name="{FONT_EN}" color="{COLOR_WORD.hexval()}"><b>{word}</b></font>',
+    ]
+    if entry.phonetic:
+        parts.append(
+            f'&nbsp;&nbsp;<font name="{FONT_IPA}" color="{COLOR_PHONETIC.hexval()}">[{esc(entry.phonetic)}]</font>'
+        )
+    return "".join(parts)
 
 
 def labeled_block(
@@ -341,9 +352,12 @@ def build_word_intro_block(entry: WordEntry, styles: dict[str, ParagraphStyle]) 
         flow.append(labeled_block("配", col_html, styles, COL_W, en=True))
         flow.append(Spacer(1, 2 * mm))
 
-    example = f"{esc(entry.example_en)}<br/>{esc(entry.example_zh)}"
-    flow.append(labeled_block("例", example, styles, COL_W, en=True))
-    flow.append(Spacer(1, 3 * mm))
+    if entry.example_en and entry.example_zh:
+        example = f"{esc(entry.example_en)}<br/>{esc(entry.example_zh)}"
+        flow.append(labeled_block("例", example, styles, COL_W, en=True))
+        flow.append(Spacer(1, 2 * mm))
+
+    flow.append(Spacer(1, 1 * mm))
     return flow
 
 
@@ -354,9 +368,8 @@ def dictation_blank_line() -> str:
 
 def build_word_dictation_block(entry: WordEntry, styles: dict[str, ParagraphStyle]) -> list:
     flow: list = []
-    rank = entry.coca_rank if entry.coca_rank < 999999 else "—"
     flow.append(Paragraph(
-        f'<font name="{FONT_CN}" color="{COLOR_INDEX.hexval()}">#{rank}</font>',
+        f'<font name="{FONT_CN}" color="{COLOR_INDEX.hexval()}">#{entry.display_num}</font>',
         styles["dictation_title"],
     ))
     flow.append(Spacer(1, 1.5 * mm))
@@ -546,10 +559,10 @@ def main() -> None:
     if args.start_rank > 1:
         print(f"  起始词频: #{args.start_rank}")
     e = entries[0]
-    print(f"  首词: #{e.coca_rank} {e.base_word} [{e.phonetic}]")
+    print(f"  首词: #{e.display_num} {e.base_word} [{e.phonetic}]")
     if len(entries) > 1:
         e = entries[-1]
-        print(f"  末词: #{e.coca_rank} {e.base_word} [{e.phonetic}]")
+        print(f"  末词: #{e.display_num} {e.base_word} [{e.phonetic}]")
 
 
 if __name__ == "__main__":
