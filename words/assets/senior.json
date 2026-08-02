@@ -2,16 +2,20 @@
   "source": "3500.docx",
   "excluded_from": "三年级.json",
   "stats": {
-    "source_words": 3422,
-    "removed": 246,
-    "remaining": 3176,
+    "source_words": 3423,
+    "removed": 213,
+    "remaining": 3210,
     "letters": 26,
-    "unknown_lines": 0
+    "unknown_lines": 1
   },
   "words_by_letter": [
     {
       "letter": "A",
       "words": [
+        {
+          "word": "a (an)",
+          "definition": "art. 一（个、件…）"
+        },
         {
           "word": "abandon",
           "definition": "v. 放弃, 遗弃"
@@ -39,6 +43,10 @@
         {
           "word": "abortion",
           "definition": "n. 失败, 夭折, 中止, 早产"
+        },
+        {
+          "word": "about",
+          "definition": "adv. 大约; 到处; 四处 prep. 关于; 在各处; 四处"
         },
         {
           "word": "above",
@@ -569,6 +577,10 @@
           "definition": "adv. 总是; 一直; 永远"
         },
         {
+          "word": "a. m. /am；A.M./AM",
+          "definition": "n. 午前, 上午"
+        },
+        {
           "word": "amateur",
           "definition": "adj. 业余的"
         },
@@ -625,7 +637,7 @@
           "definition": "n. 娱乐"
         },
         {
-          "word": "analyse/ze",
+          "word": "analyse",
           "definition": "v. 分析, 分解"
         },
         {
@@ -637,8 +649,8 @@
           "definition": "n. 祖宗; 祖先"
         },
         {
-          "word": "anchor v&",
-          "definition": "n. 抛锚, 锚"
+          "word": "anchor",
+          "definition": "v& n. 抛锚, 锚"
         },
         {
           "word": "ancient",
@@ -825,8 +837,8 @@
           "definition": "adv. 近似地, 大约"
         },
         {
-          "word": "apro",
-          "definition": "n.围裙,"
+          "word": "apron",
+          "definition": "围裙,"
         },
         {
           "word": "arbitrary",
@@ -1013,6 +1025,10 @@
           "definition": "n. 天文学"
         },
         {
+          "word": "at",
+          "definition": "prep. 在, 于, 向, 对准, 在...方面"
+        },
+        {
           "word": "athlete",
           "definition": "n. 运动员"
         },
@@ -1180,6 +1196,10 @@
         {
           "word": "bacterium (pl. bacteria)",
           "definition": "n. 细菌"
+        },
+        {
+          "word": "bad (worse, worst)",
+          "definition": "adj. 坏的; 有害的, 不利的; 严重的"
         },
         {
           "word": "badminton",
@@ -1350,7 +1370,7 @@
           "definition": "n. 豆, 豆科植物"
         },
         {
-          "word": "beancurd",
+          "word": "bean curd",
           "definition": "n. 豆腐"
         },
         {
@@ -1394,7 +1414,7 @@
           "definition": "n. 床"
         },
         {
-          "word": "beddings",
+          "word": "bedding",
           "definition": "n. 被褥, (家畜)草垫, (建筑)基床"
         },
         {
@@ -1519,7 +1539,7 @@
         },
         {
           "word": "bike = bicycle",
-          "definition": "n.自行车"
+          "definition": "n. 自行车"
         },
         {
           "word": "bill",
@@ -1616,6 +1636,10 @@
         {
           "word": "blouse",
           "definition": "n. 宽罩衫;（妇女、儿童穿的）短上衣"
+        },
+        {
+          "word": "blow (blew, blown)",
+          "definition": "v. 吹; 刮风; 吹气"
         },
         {
           "word": "board",
@@ -1836,6 +1860,10 @@
         {
           "word": "brilliant",
           "definition": "adj. 灿烂的, 闪耀的, 有才气的"
+        },
+        {
+          "word": "bring (brought, brought)",
+          "definition": "v. 拿来, 带来, 取来"
         },
         {
           "word": "broad",
@@ -2116,7 +2144,7 @@
         },
         {
           "word": "case",
-          "definition": "n.情况; 病例; 案件；箱; 盒"
+          "definition": "n. 情况; 病例; 案件；箱; 盒"
         },
         {
           "word": "cash",
@@ -2383,6 +2411,10 @@
           "definition": "adj. 主要的; 首要的 n. 领导, 头"
         },
         {
+          "word": "child (pl. children)",
+          "definition": "n. 孩子, 儿童"
+        },
+        {
           "word": "childhood",
           "definition": "n. 幼年时代, 童年"
         },
@@ -2471,7 +2503,7 @@
           "definition": "n. 平民, 公务员, 文官"
         },
         {
-          "word": "civilization/sation",
+          "word": "civilization",
           "definition": "n. 文明, 文化, 文明社会"
         },
         {
@@ -2543,8 +2575,8 @@
           "definition": "n. 钟"
         },
         {
-          "word": "clone vi &",
-          "definition": "n.克隆"
+          "word": "clone",
+          "definition": "vi & n.克隆"
         },
         {
           "word": "close",
@@ -2623,12 +2655,20 @@
           "definition": "n. 碰撞, 冲突"
         },
         {
+          "word": "colour (color)",
+          "definition": "n. 颜色 v.  给…着色, 涂色"
+        },
+        {
           "word": "comb",
           "definition": "n. 梳子 v. 梳"
         },
         {
           "word": "combine",
           "definition": "v. 使联合; 使结合"
+        },
+        {
+          "word": "come (came, come)",
+          "definition": "v. 来, 来到"
         },
         {
           "word": "comedy",
@@ -3000,7 +3040,7 @@
         },
         {
           "word": "copy",
-          "definition": "n. 抄本, 副本; 一本（份, 册…）v. 抄写; 拷备"
+          "definition": "n. 抄本, 副本; 一本（份, 册…） v. 抄写; 拷备"
         },
         {
           "word": "corn",
@@ -3052,7 +3092,7 @@
         },
         {
           "word": "could",
-          "definition": "modal v.（can的过去式）可以, 可能；行"
+          "definition": "v.（can的过去式）可以, 可能；行"
         },
         {
           "word": "count",
@@ -3235,6 +3275,10 @@
           "definition": "n. 海关, 关税"
         },
         {
+          "word": "cut (cut, cut)",
+          "definition": "v. 切, 剪, 削, 割 n. 伤口"
+        },
+        {
           "word": "cycle",
           "definition": "v.  骑自行车；循环, 轮转"
         },
@@ -3247,6 +3291,10 @@
     {
       "letter": "D",
       "words": [
+        {
+          "word": "dad = daddy",
+          "definition": "n.爸爸, 爹爹"
+        },
         {
           "word": "daily",
           "definition": "adj. 每日的; 日常的 adv. 每天 n. 日报"
@@ -3392,8 +3440,8 @@
           "definition": "n. 程度; 度数; 学位"
         },
         {
-          "word": "delay v&",
-          "definition": "n. 拖延, 延期; 耽搁"
+          "word": "delay",
+          "definition": "v& n. 拖延, 延期; 耽搁"
         },
         {
           "word": "delete",
@@ -3780,6 +3828,10 @@
           "definition": "adj. 头眩目晕的"
         },
         {
+          "word": "do (did, done)",
+          "definition": "v. 做, 干"
+        },
+        {
           "word": "doctor",
           "definition": "n. 医生; 博士"
         },
@@ -3995,6 +4047,10 @@
         {
           "word": "easy",
           "definition": "adj. 容易的, 不费力的"
+        },
+        {
+          "word": "eat (ate, eaten)",
+          "definition": "v. 吃"
         },
         {
           "word": "ecology",
@@ -4566,6 +4622,10 @@
           "definition": "n. 恩惠; 好意; 帮助"
         },
         {
+          "word": "favourite (favorite)",
+          "definition": "adj. 喜爱的 n. 特别喜爱的人（或物）"
+        },
+        {
           "word": "fax",
           "definition": "n. 传真"
         },
@@ -4676,6 +4736,10 @@
         {
           "word": "finance",
           "definition": "n. 财政, 金融, 财政学"
+        },
+        {
+          "word": "find (found, found)",
+          "definition": "v. 找到, 发现, 感到"
         },
         {
           "word": "fine",
@@ -5151,6 +5215,10 @@
           "definition": "n. 姿势, 手势"
         },
         {
+          "word": "get (got , got)",
+          "definition": "v. 成为; 得到; 具有; 到达"
+        },
+        {
           "word": "gifted",
           "definition": "adj. 有天赋的; 有才华的"
         },
@@ -5283,6 +5351,14 @@
           "definition": "n.（外）孙女"
         },
         {
+          "word": "grandma = grandmother",
+          "definition": "n. 奶奶; 外婆"
+        },
+        {
+          "word": "grandpa = grandfather",
+          "definition": "n. 爷爷; 外公"
+        },
+        {
           "word": "grandparents",
           "definition": "n. 祖父母, 外祖父母"
         },
@@ -5327,7 +5403,7 @@
           "definition": "n. 祝贺，问候"
         },
         {
-          "word": "grey (gray)",
+          "word": "gray",
           "definition": "adj. 灰色的; 灰白的"
         },
         {
@@ -5520,6 +5596,10 @@
           "definition": "v. & n. 恨, 讨厌"
         },
         {
+          "word": "have (has had, had)",
+          "definition": "v.  有; 吃; 喝; 进行; 经受"
+        },
+        {
           "word": "headache",
           "definition": "n. 头疼"
         },
@@ -5538,6 +5618,10 @@
         {
           "word": "healthy",
           "definition": "adj. 健康的, 健壮的"
+        },
+        {
+          "word": "hear (heard, heard)",
+          "definition": "v. 听见; 听说, 得知"
         },
         {
           "word": "hearing",
@@ -5724,7 +5808,7 @@
           "definition": "n. 女主人"
         },
         {
-          "word": "hotdog",
+          "word": "hot dog",
           "definition": "n. 热狗"
         },
         {
@@ -6202,7 +6286,7 @@
           "definition": "n. 裁判; 审判员; 法官 v. 判断, 断定"
         },
         {
-          "word": "judg(e)ment",
+          "word": "judgement",
           "definition": "n.判决, 判断"
         },
         {
@@ -6436,7 +6520,7 @@
           "definition": "v. 漏; 渗 n. 漏洞, 泄漏"
         },
         {
-          "word": "learn (learnt, learnt; -ed -ed)",
+          "word": "learn",
           "definition": "v. 学, 学习, 学会"
         },
         {
@@ -6774,7 +6858,7 @@
         },
         {
           "word": "many (more, most)",
-          "definition": "pron. 许多人（或物）adj. 许多的"
+          "definition": "pron. 许多人（或物） adj. 许多的"
         },
         {
           "word": "map",
@@ -6854,7 +6938,7 @@
         },
         {
           "word": "may",
-          "definition": "modal v. 可以; 也许, 可能"
+          "definition": "v. 可以; 也许, 可能"
         },
         {
           "word": "maybe",
@@ -6903,6 +6987,10 @@
         {
           "word": "medium",
           "definition": "n.媒体, 方法, 媒介"
+        },
+        {
+          "word": "meet (met, met)",
+          "definition": "v. 遇见, 见到 n. 会; 集会"
         },
         {
           "word": "meeting",
@@ -7002,7 +7090,7 @@
         },
         {
           "word": "might",
-          "definition": "modal v. (may的过去式)可能, 也许, 或许"
+          "definition": "v. (may的过去式)可能, 也许, 或许"
         },
         {
           "word": "mild",
@@ -7174,7 +7262,7 @@
         },
         {
           "word": "mosquito",
-          "definition": "n.蚊子"
+          "definition": "蚊子"
         },
         {
           "word": "motherland",
@@ -7209,6 +7297,10 @@
           "definition": "v. 哀痛; 哀悼"
         },
         {
+          "word": "mouse (pl. mice)",
+          "definition": "n. 鼠, 耗子; 鼠标"
+        },
+        {
           "word": "moustache",
           "definition": "n. 小胡子"
         },
@@ -7231,6 +7323,10 @@
         {
           "word": "Mrs. (mistress)",
           "definition": "n. 夫人, 太太"
+        },
+        {
+          "word": "Ms.",
+          "definition": "n. 女士"
         },
         {
           "word": "mud",
@@ -7266,7 +7362,7 @@
         },
         {
           "word": "must",
-          "definition": "modal v. 必须, 应当; 必定是"
+          "definition": "v. 必须, 应当; 必定是"
         },
         {
           "word": "mustard",
@@ -7412,6 +7508,10 @@
         {
           "word": "niece",
           "definition": "n. 侄女, 甥女"
+        },
+        {
+          "word": "No. = number",
+          "definition": "n. 数字; 号码"
         },
         {
           "word": "noble",
@@ -7583,6 +7683,10 @@
           "definition": "n. 点钟"
         },
         {
+          "word": "of",
+          "definition": "prep. ...的, 由...制成的, 关于, 对于"
+        },
+        {
           "word": "off",
           "definition": "prep. 离开,  adv. 离开;（电、自来水）停了, 中断"
         },
@@ -7711,7 +7815,7 @@
           "definition": "adj. 普通的, 平常的 "
         },
         {
-          "word": "organise(organize)",
+          "word": "organize",
           "definition": "v. 组织"
         },
         {
@@ -7731,7 +7835,7 @@
           "definition": "adv. 要不然, 否则; 另样"
         },
         {
-          "word": "ought  modal",
+          "word": "ought",
           "definition": "v. 应该, 应当"
         },
         {
@@ -7942,14 +8046,6 @@
         {
           "word": "parent",
           "definition": "n. 父母或者母亲, 双亲"
-        },
-        {
-          "word": "park",
-          "definition": "n. 公园"
-        },
-        {
-          "word": "park",
-          "definition": "v. 停放（汽车）"
         },
         {
           "word": "parking",
@@ -9082,6 +9178,10 @@
           "definition": "v. 起反应, 起作用, 反抗, 起反作用"
         },
         {
+          "word": "read (read, read)",
+          "definition": "v. 读; 朗读"
+        },
+        {
           "word": "reading",
           "definition": "n. 阅读; 朗读"
         },
@@ -9098,7 +9198,7 @@
           "definition": "n. 现实"
         },
         {
-          "word": "realise (realize)",
+          "word": "realize",
           "definition": "v. 认识到, 实现"
         },
         {
@@ -9150,7 +9250,7 @@
           "definition": "v. 背诵"
         },
         {
-          "word": "recognise (recognize)",
+          "word": "recognize",
           "definition": "v. 认出"
         },
         {
@@ -9274,7 +9374,7 @@
           "definition": "n. 接力, 中转 v. 接替, 转播"
         },
         {
-          "word": "relevent",
+          "word": "relevant",
           "definition": "adj. 有关的, 相应的"
         },
         {
@@ -9415,7 +9515,7 @@
         },
         {
           "word": "rest",
-          "definition": "n. 休息; 剩余的部分, 其余的人（物）v. 休息, 歇息"
+          "definition": "n. 休息; 剩余的部分, 其余的人（物） v. 休息, 歇息"
         },
         {
           "word": "restaurant",
@@ -9474,7 +9574,7 @@
           "definition": "adj. 富裕的, 有钱的"
         },
         {
-          "word": "rid (rid, rid or ridded, ridded)",
+          "word": "rid",
           "definition": "v. 使摆脱"
         },
         {
@@ -9616,6 +9716,10 @@
         {
           "word": "rule",
           "definition": "n. 规则, 规定 v. 统治; 支配"
+        },
+        {
+          "word": "run (ran, run)",
+          "definition": "v. 跑, 奔跑;（颜色）褪色"
         },
         {
           "word": "rush",
@@ -9767,6 +9871,10 @@
           "definition": "n. 奖学金"
         },
         {
+          "word": "schoolboy/girl",
+          "definition": "n. 男(女)学生"
+        },
+        {
           "word": "schoolmate",
           "definition": "n. 同校同学"
         },
@@ -9869,6 +9977,10 @@
         {
           "word": "security",
           "definition": "n. 安全"
+        },
+        {
+          "word": "see (saw, seen)",
+          "definition": "v. 看见, 看到; 领会; 拜会"
         },
         {
           "word": "seed",
@@ -10015,7 +10127,7 @@
           "definition": "v.（使）动摇, 震动; 握手"
         },
         {
-          "word": "shall (should) modal",
+          "word": "shall (should)",
           "definition": "v. 将要, 会"
         },
         {
@@ -10131,6 +10243,10 @@
           "definition": "n. 呼喊, 呼叫声 v. 呼喊, 呼叫"
         },
         {
+          "word": "show (showed, shown / showed)",
+          "definition": "v.出示, 指示, 说明, 显示, 展出, 放映 n.展览; 演出"
+        },
+        {
           "word": "shower",
           "definition": "n. 阵雨; 淋浴"
         },
@@ -10163,7 +10279,7 @@
           "definition": "n. 边, 旁边, 面, 侧面"
         },
         {
-          "word": "sideroad/sidewalk",
+          "word": "sidewalk",
           "definition": "n. 人行道"
         },
         {
@@ -10239,6 +10355,10 @@
           "definition": "adv. 真诚地"
         },
         {
+          "word": "sing (sang, sung)",
+          "definition": "v. 唱, 唱歌"
+        },
+        {
           "word": "single",
           "definition": "adj. 单一的, 单个的"
         },
@@ -10249,6 +10369,10 @@
         {
           "word": "sir",
           "definition": "n. 先生; 阁下"
+        },
+        {
+          "word": "sit (sat, sat)",
+          "definition": "v. 坐"
         },
         {
           "word": "situation",
@@ -10611,8 +10735,8 @@
           "definition": "adj. 口语的"
         },
         {
-          "word": "spokesman/woman",
-          "definition": "(pl. spokesmen/women) 发言人"
+          "word": "spokesman/woman (pl. spokesmen/women)",
+          "definition": "发言人"
         },
         {
           "word": "sponsor",
@@ -10727,8 +10851,8 @@
           "definition": "n. 声明, 陈述, 综述"
         },
         {
-          "word": "statesman/woman",
-          "definition": "(pl. statesmen /women) 政治家, 国务活动家"
+          "word": "statesman/woman (pl. statesmen /women)",
+          "definition": "政治家, 国务活动家"
         },
         {
           "word": "statistics",
@@ -11117,6 +11241,10 @@
         {
           "word": "swift",
           "definition": "adj. 快的, 迅速的"
+        },
+        {
+          "word": "swim (swam, swum)",
+          "definition": "v. 游泳, 游"
         },
         {
           "word": "swing",
@@ -11580,6 +11708,10 @@
           "definition": "n. 标题, 题目"
         },
         {
+          "word": "to",
+          "definition": "prep. 向, 往, 给...,于...,直到...为止, 在...之前, 比, 对, 到, 达"
+        },
+        {
           "word": "toast",
           "definition": "v. 烤, 烘, 敬酒 n. .烤面包(片), 吐司面包,干杯"
         },
@@ -11896,7 +12028,7 @@
           "definition": "n. 打字员"
         },
         {
-          "word": "tyre (tire)",
+          "word": "tire",
           "definition": "n. 轮胎"
         }
       ]
@@ -12262,6 +12394,10 @@
           "definition": "adj. 生动的, 鲜明的"
         },
         {
+          "word": "vocabulary",
+          "definition": "n. 词汇, 词汇表"
+        },
+        {
           "word": "voice",
           "definition": "n. 说话声; 语态"
         },
@@ -12278,8 +12414,8 @@
           "definition": "adj. 自动的, 自愿的, 主动的"
         },
         {
-          "word": "volunteer n 志愿者, 志愿兵",
-          "definition": "v.自愿"
+          "word": "volunteer",
+          "definition": "n 志愿者, 志愿兵 v.自愿"
         },
         {
           "word": "vote",
@@ -12427,6 +12563,10 @@
           "definition": "adj.富的, 富裕的"
         },
         {
+          "word": "wear (wore, worn)",
+          "definition": "v. 穿着, 戴; 留蓄; 带着，表现出; 磨损;"
+        },
+        {
           "word": "wedding",
           "definition": "n.婚礼"
         },
@@ -12465,6 +12605,10 @@
         {
           "word": "welfare",
           "definition": "n.幸福, 福利"
+        },
+        {
+          "word": "well (better, best)",
+          "definition": "adv.好; 完全地 adj. 健康的，顺利的 int. 好吧；那么；嗯!"
         },
         {
           "word": "west",
@@ -12572,7 +12716,7 @@
         },
         {
           "word": "will (would)",
-          "definition": "modal v.将要, 会; 愿"
+          "definition": "v.将要, 会; 愿"
         },
         {
           "word": "willing",
@@ -12581,6 +12725,10 @@
         {
           "word": "win (won, won)",
           "definition": "v. 获胜, 赢 v. 赢得"
+        },
+        {
+          "word": "wind (wound, wound)",
+          "definition": "v. 绕, 缠绕 v.卷曲"
         },
         {
           "word": "wine",
@@ -12613,6 +12761,10 @@
         {
           "word": "wise",
           "definition": "adj.有智慧的, 聪明的"
+        },
+        {
+          "word": "with",
+          "definition": "prep. prep.有, 以, 用, 同...,由于, 和...一致"
         },
         {
           "word": "withdraw",
@@ -12700,7 +12852,7 @@
         },
         {
           "word": "would",
-          "definition": "modal v.将; 愿; 总是"
+          "definition": "v.将; 愿; 总是"
         },
         {
           "word": "wound",
@@ -12717,6 +12869,10 @@
         {
           "word": "wrist",
           "definition": "n.腕, 腕关节"
+        },
+        {
+          "word": "write (wrote, written)",
+          "definition": "v. 书写; 写"
         },
         {
           "word": "wrong",
@@ -12761,7 +12917,7 @@
           "definition": "adv. 尚, 还, 仍然; 然而, 但是"
         },
         {
-          "word": "yoghurt",
+          "word": "yogurt",
           "definition": "n. 酸奶酪"
         },
         {

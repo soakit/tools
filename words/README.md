@@ -7,13 +7,14 @@
 ```
 words/
 ├── README.md              # 本说明
+├── build_senior.py        # 从 3500.docx 生成 senior.json
 ├── generate_pdf.py        # PDF 生成脚本
 ├── coca_loader.py         # COCA 词频 / 音标 / 释义加载
 ├── assets/                # 词表与输出文件
 │   ├── 3500.docx          # 原始高中 3500 词表
 │   ├── 三年级.json         # 三年级上下册合并词表
 │   ├── 三年级上.json / 三年级下.json
-│   ├── senior.json        # 3500 剔除三年级后的词汇（3176 词）
+│   ├── senior.json        # 3500 剔除三年级后的词汇（约 3210 词）
 │   ├── coca-index.json    # COCA 索引缓存
 │   └── *.pdf              # 生成的 PDF
 └── vendor/
@@ -25,7 +26,7 @@ words/
 | 文件 | 说明 |
 |------|------|
 | `三年级.json` | 上册 165 词 + 下册 182 词，共 347 词 |
-| `senior.json` | 从 `3500.docx` 提取，剔除已在三年级出现的词，剩 3176 词 |
+| `senior.json` | 从 `3500.docx` 提取，剔除已在三年级出现的词，剩约 3210 词 |
 | `coca-index.json` | COCA 全量索引：`by_rank` 20200 条（按词频排名）+ `by_word` 17634 条（去重便于查词） |
 
 ### coca-index.json 结构
@@ -84,12 +85,21 @@ cd words
 git clone --depth 1 https://github.com/llt22/coca-vocabulary-20000.git vendor/coca-vocabulary-20000
 ```
 
+## 更新词表
+
+`3500.docx` 更新后，重新生成 `senior.json`：
+
+```bash
+cd words
+python3 build_senior.py
+```
+
 ## 生成 PDF
 
 ```bash
 cd words
 
-# 生成全部词汇（约 3176 词，按 COCA 词频排序）
+# 生成全部词汇（约 3210 词，按 COCA 词频排序）
 python3 generate_pdf.py --output assets/senior-full.pdf
 
 # 从指定词频开始
